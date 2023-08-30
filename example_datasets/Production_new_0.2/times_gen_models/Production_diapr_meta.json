@@ -1,0 +1,153 @@
+{
+    "ac_index": {
+        "Change Version": 22,
+        "End": 25,
+        "Final Inspection": 19,
+        "Final Inspection Q.C.": 4,
+        "Fix": 13,
+        "Flat Grinding": 11,
+        "Grinding Rework": 3,
+        "Lapping": 2,
+        "Laser Marking": 7,
+        "Milling": 16,
+        "Milling Q.C.": 17,
+        "Nitration Q.C.": 15,
+        "Packing": 8,
+        "Rework Milling": 24,
+        "Round  Q.C.": 20,
+        "Round Grinding": 1,
+        "SETUP     Turning & Milling": 18,
+        "Setup": 14,
+        "Start": 0,
+        "Stress Relief": 21,
+        "Turn & Mill. & Screw Assem": 12,
+        "Turning": 10,
+        "Turning & Milling": 9,
+        "Turning & Milling Q.C.": 6,
+        "Turning Q.C.": 5,
+        "Turning Rework": 23
+    },
+    "dense_act": "linear",
+    "generated_at": "17/08/2023 01:14:42",
+    "inter_mean_states": {
+        "tasks": {
+            "End": 0.0,
+            "Final Inspection Q.C.": 0.11904761904761904,
+            "Flat Grinding": 0.023809523809523808,
+            "Laser Marking": 0.047619047619047616,
+            "Packing": 0.11904761904761904,
+            "Round Grinding": 0.047619047619047616,
+            "Start": 0.0,
+            "Turning": 0.023809523809523808,
+            "Turning Q.C.": 0.023809523809523808
+        },
+        "wip": 1.0952380952380953
+    },
+    "l_size": 50,
+    "log_size": 6,
+    "loss": 0.06578480452299118,
+    "lstm_act": "tanh",
+    "n_size": 10,
+    "optim": "Nadam",
+    "roles": {
+        "Role 1": [
+            "ID4493",
+            "ID4287"
+        ],
+        "Role 2": [
+            "ID4618"
+        ],
+        "Role 3": [
+            "ID4528"
+        ],
+        "Role 4": [
+            "ID4820"
+        ],
+        "Role 5": [
+            "ID0997"
+        ],
+        "Role 6": [
+            "ID0998"
+        ]
+    },
+    "roles_table": [
+        {
+            "role": "Role 2",
+            "task": "Flat Grinding"
+        },
+        {
+            "role": "Role 6",
+            "task": "Laser Marking"
+        },
+        {
+            "role": "Role 3",
+            "task": "Round Grinding"
+        },
+        {
+            "role": "Role 5",
+            "task": "Turning"
+        },
+        {
+            "role": "Role 2",
+            "task": "Turning Q.C."
+        },
+        {
+            "role": "Role 1",
+            "task": "Final Inspection Q.C."
+        },
+        {
+            "role": "Role 4",
+            "task": "Packing"
+        }
+    ],
+    "usr_index": {
+        "End": 47,
+        "ID0420": 8,
+        "ID0937": 10,
+        "ID0997": 19,
+        "ID0998": 2,
+        "ID3641": 45,
+        "ID3716": 46,
+        "ID3718": 31,
+        "ID3846": 23,
+        "ID3854": 38,
+        "ID3998": 39,
+        "ID4109": 40,
+        "ID4132": 28,
+        "ID4140": 37,
+        "ID4142": 33,
+        "ID4160": 35,
+        "ID4162": 36,
+        "ID4163": 5,
+        "ID4167": 26,
+        "ID4219": 14,
+        "ID4287": 7,
+        "ID4291": 13,
+        "ID4326": 44,
+        "ID4355": 4,
+        "ID4385": 9,
+        "ID4429": 30,
+        "ID4442": 32,
+        "ID4445": 1,
+        "ID4491": 11,
+        "ID4493": 18,
+        "ID4528": 15,
+        "ID4529": 29,
+        "ID4618": 6,
+        "ID4622": 16,
+        "ID4641": 20,
+        "ID4718": 27,
+        "ID4783": 43,
+        "ID4794": 25,
+        "ID4799": 21,
+        "ID4820": 12,
+        "ID4851": 42,
+        "ID4872": 3,
+        "ID4873": 34,
+        "ID4882": 22,
+        "ID4890": 41,
+        "ID4932": 24,
+        "ID4955": 17,
+        "Start": 0
+    }
+}

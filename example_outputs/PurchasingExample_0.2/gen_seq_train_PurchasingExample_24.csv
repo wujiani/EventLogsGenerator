@@ -1,0 +1,2068 @@
+,caseid,act,index,last,next,if_para,start_timestamp,end_timestamp,resource
+1,1,Start,1,None,2,0,,,Start
+2,1,Create Purchase Requisition,2,1,3,0,,,Create Purchase Requisition
+3,1,Analyze Purchase Requisition,3,2,4,0,,,Analyze Purchase Requisition
+4,1,Create Request for Quotation,4,3,5,0,,,Create Request for Quotation
+5,1,Analyze Request for Quotation,5,4,6,0,,,Analyze Request for Quotation
+6,1,Amend Request for Quotation,6,5,7,0,,,Amend Request for Quotation
+7,1,Analyze Request for Quotation,7,6,8,0,,,Analyze Request for Quotation
+8,1,Send Request for Quotation to Supplier,8,7,9,0,,,Send Request for Quotation to Supplier
+9,1,Create Quotation comparison Map,9,8,10,0,,,Create Quotation comparison Map
+10,1,Analyze Quotation Comparison Map,10,9,11,0,,,Analyze Quotation Comparison Map
+11,1,Choose best option,11,10,12,0,,,Choose best option
+12,1,Settle Conditions With Supplier,12,11,13,0,,,Settle Conditions With Supplier
+13,1,Create Purchase Order,13,12,14,0,,,Create Purchase Order
+14,1,Confirm Purchase Order,14,13,15,0,,,Confirm Purchase Order
+15,1,Deliver Goods Services,15,14,16,0,,,Deliver Goods Services
+16,1,Release Purchase Order,16,15,17,0,,,Release Purchase Order
+17,1,Approve Purchase Order for payment,17,16,18,0,,,Approve Purchase Order for payment
+18,1,Send Invoice,18,17,19,0,,,Send Invoice
+19,1,Release Supplier's Invoice,19,18,20,0,,,Release Supplier's Invoice
+20,1,Authorize Supplier's Invoice payment,20,19,21,0,,,Authorize Supplier's Invoice payment
+21,1,Pay Invoice,21,20,22,0,,,Pay Invoice
+22,1,End,22,21,None,0,,,End
+25,2,Start,25,None,26,0,,,Start
+26,2,Create Purchase Requisition,26,25,27,0,,,Create Purchase Requisition
+27,2,Analyze Purchase Requisition,27,26,28,0,,,Analyze Purchase Requisition
+28,2,Create Request for Quotation,28,27,29,0,,,Create Request for Quotation
+29,2,Analyze Request for Quotation,29,28,30,0,,,Analyze Request for Quotation
+30,2,Amend Request for Quotation,30,29,31,0,,,Amend Request for Quotation
+31,2,Analyze Request for Quotation,31,30,32,0,,,Analyze Request for Quotation
+32,2,End,32,31,None,0,,,End
+35,3,Start,35,None,36,0,,,Start
+36,3,Create Purchase Requisition,36,35,37,0,,,Create Purchase Requisition
+37,3,Analyze Purchase Requisition,37,36,38,0,,,Analyze Purchase Requisition
+38,3,End,38,37,None,0,,,End
+41,4,Start,41,None,42,0,,,Start
+42,4,Create Purchase Requisition,42,41,43,0,,,Create Purchase Requisition
+43,4,Analyze Purchase Requisition,43,42,44,0,,,Analyze Purchase Requisition
+44,4,End,44,43,None,0,,,End
+47,5,Start,47,None,48,0,,,Start
+48,5,Create Purchase Requisition,48,47,49,0,,,Create Purchase Requisition
+49,5,Analyze Purchase Requisition,49,48,50,0,,,Analyze Purchase Requisition
+50,5,Create Request for Quotation,50,49,51,0,,,Create Request for Quotation
+51,5,Analyze Request for Quotation,51,50,52,0,,,Analyze Request for Quotation
+52,5,Amend Request for Quotation,52,51,53,0,,,Amend Request for Quotation
+53,5,Analyze Request for Quotation,53,52,54,0,,,Analyze Request for Quotation
+54,5,Amend Request for Quotation,54,53,55,0,,,Amend Request for Quotation
+55,5,Analyze Request for Quotation,55,54,56,0,,,Analyze Request for Quotation
+56,5,Amend Request for Quotation,56,55,57,0,,,Amend Request for Quotation
+57,5,Analyze Request for Quotation,57,56,58,0,,,Analyze Request for Quotation
+58,5,Amend Request for Quotation,58,57,59,0,,,Amend Request for Quotation
+59,5,Analyze Request for Quotation,59,58,60,0,,,Analyze Request for Quotation
+60,5,Amend Request for Quotation,60,59,61,0,,,Amend Request for Quotation
+61,5,Analyze Request for Quotation,61,60,62,0,,,Analyze Request for Quotation
+62,5,Send Request for Quotation to Supplier,62,61,63,0,,,Send Request for Quotation to Supplier
+63,5,Create Quotation comparison Map,63,62,64,0,,,Create Quotation comparison Map
+64,5,Analyze Quotation Comparison Map,64,63,65,0,,,Analyze Quotation Comparison Map
+65,5,Choose best option,65,64,66,0,,,Choose best option
+66,5,Settle Conditions With Supplier,66,65,67,0,,,Settle Conditions With Supplier
+67,5,Create Purchase Order,67,66,68,0,,,Create Purchase Order
+68,5,Confirm Purchase Order,68,67,69,0,,,Confirm Purchase Order
+69,5,Deliver Goods Services,69,68,70,0,,,Deliver Goods Services
+70,5,Release Purchase Order,70,69,71,0,,,Release Purchase Order
+71,5,Approve Purchase Order for payment,71,70,72,0,,,Approve Purchase Order for payment
+72,5,Send Invoice,72,71,73,0,,,Send Invoice
+73,5,Release Supplier's Invoice,73,72,74,0,,,Release Supplier's Invoice
+74,5,Settle Dispute With Supplier,74,73,75,0,,,Settle Dispute With Supplier
+75,5,Authorize Supplier's Invoice payment,75,74,76,0,,,Authorize Supplier's Invoice payment
+76,5,Pay Invoice,76,75,77,0,,,Pay Invoice
+77,5,End,77,76,None,0,,,End
+80,6,Start,80,None,81,0,,,Start
+81,6,Create Purchase Requisition,81,80,82,0,,,Create Purchase Requisition
+82,6,Analyze Purchase Requisition,82,81,83,0,,,Analyze Purchase Requisition
+83,6,Create Request for Quotation,83,82,84,0,,,Create Request for Quotation
+84,6,Analyze Request for Quotation,84,83,85,0,,,Analyze Request for Quotation
+85,6,Amend Request for Quotation,85,84,86,0,,,Amend Request for Quotation
+86,6,Analyze Request for Quotation,86,85,87,0,,,Analyze Request for Quotation
+87,6,Send Request for Quotation to Supplier,87,86,88,0,,,Send Request for Quotation to Supplier
+88,6,Create Quotation comparison Map,88,87,89,0,,,Create Quotation comparison Map
+89,6,Analyze Quotation Comparison Map,89,88,90,0,,,Analyze Quotation Comparison Map
+90,6,Choose best option,90,89,91,0,,,Choose best option
+91,6,Settle Conditions With Supplier,91,90,92,0,,,Settle Conditions With Supplier
+92,6,Create Purchase Order,92,91,93,0,,,Create Purchase Order
+93,6,Confirm Purchase Order,93,92,94,0,,,Confirm Purchase Order
+94,6,Deliver Goods Services,94,93,95,0,,,Deliver Goods Services
+95,6,Release Purchase Order,95,94,96,0,,,Release Purchase Order
+96,6,Approve Purchase Order for payment,96,95,97,0,,,Approve Purchase Order for payment
+97,6,Send Invoice,97,96,98,0,,,Send Invoice
+98,6,Release Supplier's Invoice,98,97,99,0,,,Release Supplier's Invoice
+99,6,Authorize Supplier's Invoice payment,99,98,100,0,,,Authorize Supplier's Invoice payment
+100,6,Pay Invoice,100,99,101,0,,,Pay Invoice
+101,6,End,101,100,None,0,,,End
+104,7,Start,104,None,105,0,,,Start
+105,7,Create Purchase Requisition,105,104,106,0,,,Create Purchase Requisition
+106,7,Analyze Purchase Requisition,106,105,107,0,,,Analyze Purchase Requisition
+107,7,End,107,106,None,0,,,End
+110,8,Start,110,None,111,0,,,Start
+111,8,Create Purchase Requisition,111,110,112,0,,,Create Purchase Requisition
+112,8,Create Request for Quotation,112,111,113,0,,,Create Request for Quotation
+113,8,Analyze Request for Quotation,113,112,114,0,,,Analyze Request for Quotation
+114,8,Amend Request for Quotation,114,113,115,0,,,Amend Request for Quotation
+115,8,Analyze Request for Quotation,115,114,116,0,,,Analyze Request for Quotation
+116,8,Amend Request for Quotation,116,115,117,0,,,Amend Request for Quotation
+117,8,Analyze Request for Quotation,117,116,118,0,,,Analyze Request for Quotation
+118,8,Send Request for Quotation to Supplier,118,117,119,0,,,Send Request for Quotation to Supplier
+119,8,Create Quotation comparison Map,119,118,120,0,,,Create Quotation comparison Map
+120,8,Analyze Quotation Comparison Map,120,119,121,0,,,Analyze Quotation Comparison Map
+121,8,Choose best option,121,120,122,0,,,Choose best option
+122,8,Settle Conditions With Supplier,122,121,123,0,,,Settle Conditions With Supplier
+123,8,Create Purchase Order,123,122,124,0,,,Create Purchase Order
+124,8,Confirm Purchase Order,124,123,125,0,,,Confirm Purchase Order
+125,8,Deliver Goods Services,125,124,126,0,,,Deliver Goods Services
+126,8,Release Purchase Order,126,125,127,0,,,Release Purchase Order
+127,8,Approve Purchase Order for payment,127,126,128,0,,,Approve Purchase Order for payment
+128,8,Send Invoice,128,127,129,0,,,Send Invoice
+129,8,Release Supplier's Invoice,129,128,130,0,,,Release Supplier's Invoice
+130,8,Authorize Supplier's Invoice payment,130,129,131,0,,,Authorize Supplier's Invoice payment
+131,8,Pay Invoice,131,130,132,0,,,Pay Invoice
+132,8,End,132,131,None,0,,,End
+135,9,Start,135,None,136,0,,,Start
+136,9,Create Purchase Requisition,136,135,137,0,,,Create Purchase Requisition
+137,9,Create Request for Quotation,137,136,138,0,,,Create Request for Quotation
+138,9,Analyze Request for Quotation,138,137,139,0,,,Analyze Request for Quotation
+139,9,Amend Request for Quotation,139,138,140,0,,,Amend Request for Quotation
+140,9,Analyze Request for Quotation,140,139,141,0,,,Analyze Request for Quotation
+141,9,Amend Request for Quotation,141,140,142,0,,,Amend Request for Quotation
+142,9,Analyze Request for Quotation,142,141,143,0,,,Analyze Request for Quotation
+143,9,Amend Request for Quotation,143,142,144,0,,,Amend Request for Quotation
+144,9,Analyze Request for Quotation,144,143,145,0,,,Analyze Request for Quotation
+145,9,Amend Request for Quotation,145,144,146,0,,,Amend Request for Quotation
+146,9,Analyze Request for Quotation,146,145,147,0,,,Analyze Request for Quotation
+147,9,Amend Request for Quotation,147,146,148,0,,,Amend Request for Quotation
+148,9,Analyze Request for Quotation,148,147,149,0,,,Analyze Request for Quotation
+149,9,Send Request for Quotation to Supplier,149,148,150,0,,,Send Request for Quotation to Supplier
+150,9,Create Quotation comparison Map,150,149,151,0,,,Create Quotation comparison Map
+151,9,Analyze Quotation Comparison Map,151,150,152,0,,,Analyze Quotation Comparison Map
+152,9,Choose best option,152,151,153,0,,,Choose best option
+153,9,Settle Conditions With Supplier,153,152,154,0,,,Settle Conditions With Supplier
+154,9,Create Purchase Order,154,153,155,0,,,Create Purchase Order
+155,9,Confirm Purchase Order,155,154,156,0,,,Confirm Purchase Order
+156,9,Deliver Goods Services,156,155,157,0,,,Deliver Goods Services
+157,9,Release Purchase Order,157,156,158,0,,,Release Purchase Order
+158,9,Approve Purchase Order for payment,158,157,159,0,,,Approve Purchase Order for payment
+159,9,Send Invoice,159,158,160,0,,,Send Invoice
+160,9,Release Supplier's Invoice,160,159,161,0,,,Release Supplier's Invoice
+161,9,Authorize Supplier's Invoice payment,161,160,162,0,,,Authorize Supplier's Invoice payment
+162,9,Pay Invoice,162,161,163,0,,,Pay Invoice
+163,9,End,163,162,None,0,,,End
+166,10,Start,166,None,167,0,,,Start
+167,10,Create Purchase Requisition,167,166,168,0,,,Create Purchase Requisition
+168,10,Analyze Purchase Requisition,168,167,169,0,,,Analyze Purchase Requisition
+169,10,Create Request for Quotation,169,168,170,0,,,Create Request for Quotation
+170,10,Analyze Request for Quotation,170,169,171,0,,,Analyze Request for Quotation
+171,10,Send Request for Quotation to Supplier,171,170,172,0,,,Send Request for Quotation to Supplier
+172,10,Create Quotation comparison Map,172,171,173,0,,,Create Quotation comparison Map
+173,10,Analyze Quotation Comparison Map,173,172,174,0,,,Analyze Quotation Comparison Map
+174,10,Choose best option,174,173,175,0,,,Choose best option
+175,10,Settle Conditions With Supplier,175,174,176,0,,,Settle Conditions With Supplier
+176,10,Create Purchase Order,176,175,177,0,,,Create Purchase Order
+177,10,Confirm Purchase Order,177,176,178,0,,,Confirm Purchase Order
+178,10,Deliver Goods Services,178,177,179,0,,,Deliver Goods Services
+179,10,Release Purchase Order,179,178,180,0,,,Release Purchase Order
+180,10,Approve Purchase Order for payment,180,179,181,0,,,Approve Purchase Order for payment
+181,10,Send Invoice,181,180,182,0,,,Send Invoice
+182,10,Release Supplier's Invoice,182,181,183,0,,,Release Supplier's Invoice
+183,10,Authorize Supplier's Invoice payment,183,182,184,0,,,Authorize Supplier's Invoice payment
+184,10,Pay Invoice,184,183,185,0,,,Pay Invoice
+185,10,End,185,184,None,0,,,End
+188,11,Start,188,None,189,0,,,Start
+189,11,Create Purchase Requisition,189,188,190,0,,,Create Purchase Requisition
+190,11,Create Request for Quotation,190,189,191,0,,,Create Request for Quotation
+191,11,Analyze Request for Quotation,191,190,192,0,,,Analyze Request for Quotation
+192,11,Amend Request for Quotation,192,191,193,0,,,Amend Request for Quotation
+193,11,Analyze Request for Quotation,193,192,194,0,,,Analyze Request for Quotation
+194,11,Amend Request for Quotation,194,193,195,0,,,Amend Request for Quotation
+195,11,Analyze Request for Quotation,195,194,196,0,,,Analyze Request for Quotation
+196,11,Amend Request for Quotation,196,195,197,0,,,Amend Request for Quotation
+197,11,Analyze Request for Quotation,197,196,198,0,,,Analyze Request for Quotation
+198,11,Send Request for Quotation to Supplier,198,197,199,0,,,Send Request for Quotation to Supplier
+199,11,Create Quotation comparison Map,199,198,200,0,,,Create Quotation comparison Map
+200,11,Analyze Quotation Comparison Map,200,199,201,0,,,Analyze Quotation Comparison Map
+201,11,Choose best option,201,200,202,0,,,Choose best option
+202,11,Settle Conditions With Supplier,202,201,203,0,,,Settle Conditions With Supplier
+203,11,Create Purchase Order,203,202,204,0,,,Create Purchase Order
+204,11,Confirm Purchase Order,204,203,205,0,,,Confirm Purchase Order
+205,11,Deliver Goods Services,205,204,206,0,,,Deliver Goods Services
+206,11,Release Purchase Order,206,205,207,0,,,Release Purchase Order
+207,11,Approve Purchase Order for payment,207,206,208,0,,,Approve Purchase Order for payment
+208,11,Send Invoice,208,207,209,0,,,Send Invoice
+209,11,Release Supplier's Invoice,209,208,210,0,,,Release Supplier's Invoice
+210,11,Settle Dispute With Supplier,210,209,211,0,,,Settle Dispute With Supplier
+211,11,Authorize Supplier's Invoice payment,211,210,212,0,,,Authorize Supplier's Invoice payment
+212,11,Pay Invoice,212,211,213,0,,,Pay Invoice
+213,11,End,213,212,None,0,,,End
+216,12,Start,216,None,217,0,,,Start
+217,12,Create Purchase Requisition,217,216,218,0,,,Create Purchase Requisition
+218,12,Analyze Purchase Requisition,218,217,219,0,,,Analyze Purchase Requisition
+219,12,Create Request for Quotation,219,218,220,0,,,Create Request for Quotation
+220,12,Analyze Request for Quotation,220,219,221,0,,,Analyze Request for Quotation
+221,12,End,221,220,None,0,,,End
+224,13,Start,224,None,225,0,,,Start
+225,13,Create Purchase Requisition,225,224,226,0,,,Create Purchase Requisition
+226,13,Analyze Purchase Requisition,226,225,227,0,,,Analyze Purchase Requisition
+227,13,Create Request for Quotation,227,226,228,0,,,Create Request for Quotation
+228,13,Analyze Request for Quotation,228,227,229,0,,,Analyze Request for Quotation
+229,13,End,229,228,None,0,,,End
+232,14,Start,232,None,233,0,,,Start
+233,14,Create Purchase Requisition,233,232,234,0,,,Create Purchase Requisition
+234,14,Analyze Purchase Requisition,234,233,235,0,,,Analyze Purchase Requisition
+235,14,End,235,234,None,0,,,End
+238,15,Start,238,None,239,0,,,Start
+239,15,Create Purchase Requisition,239,238,240,0,,,Create Purchase Requisition
+240,15,Create Request for Quotation,240,239,241,0,,,Create Request for Quotation
+241,15,Analyze Request for Quotation,241,240,242,0,,,Analyze Request for Quotation
+242,15,Amend Request for Quotation,242,241,243,0,,,Amend Request for Quotation
+243,15,Analyze Request for Quotation,243,242,244,0,,,Analyze Request for Quotation
+244,15,Send Request for Quotation to Supplier,244,243,245,0,,,Send Request for Quotation to Supplier
+245,15,Create Quotation comparison Map,245,244,246,0,,,Create Quotation comparison Map
+246,15,Analyze Quotation Comparison Map,246,245,247,0,,,Analyze Quotation Comparison Map
+247,15,Choose best option,247,246,248,0,,,Choose best option
+248,15,Settle Conditions With Supplier,248,247,249,0,,,Settle Conditions With Supplier
+249,15,Create Purchase Order,249,248,250,0,,,Create Purchase Order
+250,15,Confirm Purchase Order,250,249,251,0,,,Confirm Purchase Order
+251,15,Deliver Goods Services,251,250,252,0,,,Deliver Goods Services
+252,15,Release Purchase Order,252,251,253,0,,,Release Purchase Order
+253,15,Approve Purchase Order for payment,253,252,254,0,,,Approve Purchase Order for payment
+254,15,Send Invoice,254,253,255,0,,,Send Invoice
+255,15,Release Supplier's Invoice,255,254,256,0,,,Release Supplier's Invoice
+256,15,Settle Dispute With Supplier,256,255,257,0,,,Settle Dispute With Supplier
+257,15,Authorize Supplier's Invoice payment,257,256,258,0,,,Authorize Supplier's Invoice payment
+258,15,Pay Invoice,258,257,259,0,,,Pay Invoice
+259,15,End,259,258,None,0,,,End
+262,16,Start,262,None,263,0,,,Start
+263,16,Create Purchase Requisition,263,262,264,0,,,Create Purchase Requisition
+264,16,Analyze Purchase Requisition,264,263,265,0,,,Analyze Purchase Requisition
+265,16,Amend Purchase Requisition,265,264,266,0,,,Amend Purchase Requisition
+266,16,Analyze Purchase Requisition,266,265,267,0,,,Analyze Purchase Requisition
+267,16,End,267,266,None,0,,,End
+270,17,Start,270,None,271,0,,,Start
+271,17,Create Purchase Requisition,271,270,272,0,,,Create Purchase Requisition
+272,17,Analyze Purchase Requisition,272,271,273,0,,,Analyze Purchase Requisition
+273,17,Create Request for Quotation,273,272,274,0,,,Create Request for Quotation
+274,17,Analyze Request for Quotation,274,273,275,0,,,Analyze Request for Quotation
+275,17,Send Request for Quotation to Supplier,275,274,276,0,,,Send Request for Quotation to Supplier
+276,17,Create Quotation comparison Map,276,275,277,0,,,Create Quotation comparison Map
+277,17,Analyze Quotation Comparison Map,277,276,278,0,,,Analyze Quotation Comparison Map
+278,17,Choose best option,278,277,279,0,,,Choose best option
+279,17,Settle Conditions With Supplier,279,278,280,0,,,Settle Conditions With Supplier
+280,17,Create Purchase Order,280,279,281,0,,,Create Purchase Order
+281,17,Confirm Purchase Order,281,280,282,0,,,Confirm Purchase Order
+282,17,Deliver Goods Services,282,281,283,0,,,Deliver Goods Services
+283,17,Release Purchase Order,283,282,284,0,,,Release Purchase Order
+284,17,Approve Purchase Order for payment,284,283,285,0,,,Approve Purchase Order for payment
+285,17,Send Invoice,285,284,286,0,,,Send Invoice
+286,17,Release Supplier's Invoice,286,285,287,0,,,Release Supplier's Invoice
+287,17,Authorize Supplier's Invoice payment,287,286,288,0,,,Authorize Supplier's Invoice payment
+288,17,Pay Invoice,288,287,289,0,,,Pay Invoice
+289,17,End,289,288,None,0,,,End
+292,18,Start,292,None,293,0,,,Start
+293,18,Create Purchase Requisition,293,292,294,0,,,Create Purchase Requisition
+294,18,Analyze Purchase Requisition,294,293,295,0,,,Analyze Purchase Requisition
+295,18,Create Request for Quotation,295,294,296,0,,,Create Request for Quotation
+296,18,Analyze Request for Quotation,296,295,297,0,,,Analyze Request for Quotation
+297,18,Amend Request for Quotation,297,296,298,0,,,Amend Request for Quotation
+298,18,Analyze Request for Quotation,298,297,299,0,,,Analyze Request for Quotation
+299,18,Amend Request for Quotation,299,298,300,0,,,Amend Request for Quotation
+300,18,Analyze Request for Quotation,300,299,301,0,,,Analyze Request for Quotation
+301,18,Amend Request for Quotation,301,300,302,0,,,Amend Request for Quotation
+302,18,Analyze Request for Quotation,302,301,303,0,,,Analyze Request for Quotation
+303,18,Amend Request for Quotation,303,302,304,0,,,Amend Request for Quotation
+304,18,Analyze Request for Quotation,304,303,305,0,,,Analyze Request for Quotation
+305,18,Send Request for Quotation to Supplier,305,304,306,0,,,Send Request for Quotation to Supplier
+306,18,Create Quotation comparison Map,306,305,307,0,,,Create Quotation comparison Map
+307,18,Analyze Quotation Comparison Map,307,306,308,0,,,Analyze Quotation Comparison Map
+308,18,Choose best option,308,307,309,0,,,Choose best option
+309,18,Settle Conditions With Supplier,309,308,310,0,,,Settle Conditions With Supplier
+310,18,Create Purchase Order,310,309,311,0,,,Create Purchase Order
+311,18,Confirm Purchase Order,311,310,312,0,,,Confirm Purchase Order
+312,18,Deliver Goods Services,312,311,313,0,,,Deliver Goods Services
+313,18,Release Purchase Order,313,312,314,0,,,Release Purchase Order
+314,18,Approve Purchase Order for payment,314,313,315,0,,,Approve Purchase Order for payment
+315,18,Send Invoice,315,314,316,0,,,Send Invoice
+316,18,Release Supplier's Invoice,316,315,317,0,,,Release Supplier's Invoice
+317,18,Authorize Supplier's Invoice payment,317,316,318,0,,,Authorize Supplier's Invoice payment
+318,18,Pay Invoice,318,317,319,0,,,Pay Invoice
+319,18,End,319,318,None,0,,,End
+322,19,Start,322,None,323,0,,,Start
+323,19,Create Purchase Requisition,323,322,324,0,,,Create Purchase Requisition
+324,19,Create Request for Quotation,324,323,325,0,,,Create Request for Quotation
+325,19,Analyze Request for Quotation,325,324,326,0,,,Analyze Request for Quotation
+326,19,Send Request for Quotation to Supplier,326,325,327,0,,,Send Request for Quotation to Supplier
+327,19,Create Quotation comparison Map,327,326,328,0,,,Create Quotation comparison Map
+328,19,Analyze Quotation Comparison Map,328,327,329,0,,,Analyze Quotation Comparison Map
+329,19,Choose best option,329,328,330,0,,,Choose best option
+330,19,Settle Conditions With Supplier,330,329,331,0,,,Settle Conditions With Supplier
+331,19,Create Purchase Order,331,330,332,0,,,Create Purchase Order
+332,19,Confirm Purchase Order,332,331,333,0,,,Confirm Purchase Order
+333,19,Deliver Goods Services,333,332,334,0,,,Deliver Goods Services
+334,19,Release Purchase Order,334,333,335,0,,,Release Purchase Order
+335,19,Approve Purchase Order for payment,335,334,336,0,,,Approve Purchase Order for payment
+336,19,Send Invoice,336,335,337,0,,,Send Invoice
+337,19,Release Supplier's Invoice,337,336,338,0,,,Release Supplier's Invoice
+338,19,Authorize Supplier's Invoice payment,338,337,339,0,,,Authorize Supplier's Invoice payment
+339,19,Pay Invoice,339,338,340,0,,,Pay Invoice
+340,19,End,340,339,None,0,,,End
+343,20,Start,343,None,344,0,,,Start
+344,20,Create Purchase Requisition,344,343,345,0,,,Create Purchase Requisition
+345,20,Create Request for Quotation,345,344,346,0,,,Create Request for Quotation
+346,20,Analyze Request for Quotation,346,345,347,0,,,Analyze Request for Quotation
+347,20,Amend Request for Quotation,347,346,348,0,,,Amend Request for Quotation
+348,20,Analyze Request for Quotation,348,347,349,0,,,Analyze Request for Quotation
+349,20,Amend Request for Quotation,349,348,350,0,,,Amend Request for Quotation
+350,20,Analyze Request for Quotation,350,349,351,0,,,Analyze Request for Quotation
+351,20,Amend Request for Quotation,351,350,352,0,,,Amend Request for Quotation
+352,20,Analyze Request for Quotation,352,351,353,0,,,Analyze Request for Quotation
+353,20,Send Request for Quotation to Supplier,353,352,354,0,,,Send Request for Quotation to Supplier
+354,20,Create Quotation comparison Map,354,353,355,0,,,Create Quotation comparison Map
+355,20,Analyze Quotation Comparison Map,355,354,356,0,,,Analyze Quotation Comparison Map
+356,20,Choose best option,356,355,357,0,,,Choose best option
+357,20,Settle Conditions With Supplier,357,356,358,0,,,Settle Conditions With Supplier
+358,20,Create Purchase Order,358,357,359,0,,,Create Purchase Order
+359,20,Confirm Purchase Order,359,358,360,0,,,Confirm Purchase Order
+360,20,Deliver Goods Services,360,359,361,0,,,Deliver Goods Services
+361,20,Release Purchase Order,361,360,362,0,,,Release Purchase Order
+362,20,Approve Purchase Order for payment,362,361,363,0,,,Approve Purchase Order for payment
+363,20,Send Invoice,363,362,364,0,,,Send Invoice
+364,20,Release Supplier's Invoice,364,363,365,0,,,Release Supplier's Invoice
+365,20,Settle Dispute With Supplier,365,364,366,0,,,Settle Dispute With Supplier
+366,20,Authorize Supplier's Invoice payment,366,365,367,0,,,Authorize Supplier's Invoice payment
+367,20,Pay Invoice,367,366,368,0,,,Pay Invoice
+368,20,End,368,367,None,0,,,End
+371,21,Start,371,None,372,0,,,Start
+372,21,Create Purchase Requisition,372,371,373,0,,,Create Purchase Requisition
+373,21,Analyze Purchase Requisition,373,372,374,0,,,Analyze Purchase Requisition
+374,21,Create Request for Quotation,374,373,375,0,,,Create Request for Quotation
+375,21,Analyze Request for Quotation,375,374,376,0,,,Analyze Request for Quotation
+376,21,Amend Request for Quotation,376,375,377,0,,,Amend Request for Quotation
+377,21,Analyze Request for Quotation,377,376,378,0,,,Analyze Request for Quotation
+378,21,Amend Request for Quotation,378,377,379,0,,,Amend Request for Quotation
+379,21,Analyze Request for Quotation,379,378,380,0,,,Analyze Request for Quotation
+380,21,Amend Request for Quotation,380,379,381,0,,,Amend Request for Quotation
+381,21,Analyze Request for Quotation,381,380,382,0,,,Analyze Request for Quotation
+382,21,Amend Request for Quotation,382,381,383,0,,,Amend Request for Quotation
+383,21,Analyze Request for Quotation,383,382,384,0,,,Analyze Request for Quotation
+384,21,Send Request for Quotation to Supplier,384,383,385,0,,,Send Request for Quotation to Supplier
+385,21,Create Quotation comparison Map,385,384,386,0,,,Create Quotation comparison Map
+386,21,Analyze Quotation Comparison Map,386,385,387,0,,,Analyze Quotation Comparison Map
+387,21,Choose best option,387,386,388,0,,,Choose best option
+388,21,Settle Conditions With Supplier,388,387,389,0,,,Settle Conditions With Supplier
+389,21,Create Purchase Order,389,388,390,0,,,Create Purchase Order
+390,21,Confirm Purchase Order,390,389,391,0,,,Confirm Purchase Order
+391,21,Deliver Goods Services,391,390,392,0,,,Deliver Goods Services
+392,21,Release Purchase Order,392,391,393,0,,,Release Purchase Order
+393,21,Approve Purchase Order for payment,393,392,394,0,,,Approve Purchase Order for payment
+394,21,Send Invoice,394,393,395,0,,,Send Invoice
+395,21,Release Supplier's Invoice,395,394,396,0,,,Release Supplier's Invoice
+396,21,Authorize Supplier's Invoice payment,396,395,397,0,,,Authorize Supplier's Invoice payment
+397,21,Pay Invoice,397,396,398,0,,,Pay Invoice
+398,21,End,398,397,None,0,,,End
+401,22,Start,401,None,402,0,,,Start
+402,22,Create Purchase Requisition,402,401,403,0,,,Create Purchase Requisition
+403,22,Create Request for Quotation,403,402,404,0,,,Create Request for Quotation
+404,22,Analyze Request for Quotation,404,403,405,0,,,Analyze Request for Quotation
+405,22,Amend Request for Quotation,405,404,406,0,,,Amend Request for Quotation
+406,22,Analyze Request for Quotation,406,405,407,0,,,Analyze Request for Quotation
+407,22,Send Request for Quotation to Supplier,407,406,408,0,,,Send Request for Quotation to Supplier
+408,22,Create Quotation comparison Map,408,407,409,0,,,Create Quotation comparison Map
+409,22,Analyze Quotation Comparison Map,409,408,410,0,,,Analyze Quotation Comparison Map
+410,22,Choose best option,410,409,411,0,,,Choose best option
+411,22,Settle Conditions With Supplier,411,410,412,0,,,Settle Conditions With Supplier
+412,22,Create Purchase Order,412,411,413,0,,,Create Purchase Order
+413,22,Confirm Purchase Order,413,412,414,0,,,Confirm Purchase Order
+414,22,Deliver Goods Services,414,413,415,0,,,Deliver Goods Services
+415,22,Release Purchase Order,415,414,416,0,,,Release Purchase Order
+416,22,Approve Purchase Order for payment,416,415,417,0,,,Approve Purchase Order for payment
+417,22,Send Invoice,417,416,418,0,,,Send Invoice
+418,22,Release Supplier's Invoice,418,417,419,0,,,Release Supplier's Invoice
+419,22,Authorize Supplier's Invoice payment,419,418,420,0,,,Authorize Supplier's Invoice payment
+420,22,Pay Invoice,420,419,421,0,,,Pay Invoice
+421,22,End,421,420,None,0,,,End
+424,23,Start,424,None,425,0,,,Start
+425,23,Create Purchase Requisition,425,424,426,0,,,Create Purchase Requisition
+426,23,Create Request for Quotation,426,425,427,0,,,Create Request for Quotation
+427,23,Analyze Request for Quotation,427,426,428,0,,,Analyze Request for Quotation
+428,23,Send Request for Quotation to Supplier,428,427,429,0,,,Send Request for Quotation to Supplier
+429,23,Create Quotation comparison Map,429,428,430,0,,,Create Quotation comparison Map
+430,23,Analyze Quotation Comparison Map,430,429,431,0,,,Analyze Quotation Comparison Map
+431,23,Choose best option,431,430,432,0,,,Choose best option
+432,23,Settle Conditions With Supplier,432,431,433,0,,,Settle Conditions With Supplier
+433,23,Create Purchase Order,433,432,434,0,,,Create Purchase Order
+434,23,Confirm Purchase Order,434,433,435,0,,,Confirm Purchase Order
+435,23,Deliver Goods Services,435,434,436,0,,,Deliver Goods Services
+436,23,Release Purchase Order,436,435,437,0,,,Release Purchase Order
+437,23,Approve Purchase Order for payment,437,436,438,0,,,Approve Purchase Order for payment
+438,23,Send Invoice,438,437,439,0,,,Send Invoice
+439,23,Release Supplier's Invoice,439,438,440,0,,,Release Supplier's Invoice
+440,23,Authorize Supplier's Invoice payment,440,439,441,0,,,Authorize Supplier's Invoice payment
+441,23,Pay Invoice,441,440,442,0,,,Pay Invoice
+442,23,End,442,441,None,0,,,End
+445,24,Start,445,None,446,0,,,Start
+446,24,Create Purchase Requisition,446,445,447,0,,,Create Purchase Requisition
+447,24,Analyze Purchase Requisition,447,446,448,0,,,Analyze Purchase Requisition
+448,24,End,448,447,None,0,,,End
+451,25,Start,451,None,452,0,,,Start
+452,25,Create Purchase Requisition,452,451,453,0,,,Create Purchase Requisition
+453,25,Analyze Purchase Requisition,453,452,454,0,,,Analyze Purchase Requisition
+454,25,Create Request for Quotation,454,453,455,0,,,Create Request for Quotation
+455,25,Analyze Request for Quotation,455,454,456,0,,,Analyze Request for Quotation
+456,25,Send Request for Quotation to Supplier,456,455,457,0,,,Send Request for Quotation to Supplier
+457,25,Create Quotation comparison Map,457,456,458,0,,,Create Quotation comparison Map
+458,25,Analyze Quotation Comparison Map,458,457,459,0,,,Analyze Quotation Comparison Map
+459,25,Choose best option,459,458,460,0,,,Choose best option
+460,25,Settle Conditions With Supplier,460,459,461,0,,,Settle Conditions With Supplier
+461,25,Create Purchase Order,461,460,462,0,,,Create Purchase Order
+462,25,Confirm Purchase Order,462,461,463,0,,,Confirm Purchase Order
+463,25,Deliver Goods Services,463,462,464,0,,,Deliver Goods Services
+464,25,Release Purchase Order,464,463,465,0,,,Release Purchase Order
+465,25,Approve Purchase Order for payment,465,464,466,0,,,Approve Purchase Order for payment
+466,25,Send Invoice,466,465,467,0,,,Send Invoice
+467,25,Release Supplier's Invoice,467,466,468,0,,,Release Supplier's Invoice
+468,25,Settle Dispute With Supplier,468,467,469,0,,,Settle Dispute With Supplier
+469,25,Authorize Supplier's Invoice payment,469,468,470,0,,,Authorize Supplier's Invoice payment
+470,25,Pay Invoice,470,469,471,0,,,Pay Invoice
+471,25,End,471,470,None,0,,,End
+474,26,Start,474,None,475,0,,,Start
+475,26,Create Purchase Requisition,475,474,476,0,,,Create Purchase Requisition
+476,26,Analyze Purchase Requisition,476,475,477,0,,,Analyze Purchase Requisition
+477,26,Create Request for Quotation,477,476,478,0,,,Create Request for Quotation
+478,26,Analyze Request for Quotation,478,477,479,0,,,Analyze Request for Quotation
+479,26,Amend Request for Quotation,479,478,480,0,,,Amend Request for Quotation
+480,26,Analyze Request for Quotation,480,479,481,0,,,Analyze Request for Quotation
+481,26,Send Request for Quotation to Supplier,481,480,482,0,,,Send Request for Quotation to Supplier
+482,26,Create Quotation comparison Map,482,481,483,0,,,Create Quotation comparison Map
+483,26,Analyze Quotation Comparison Map,483,482,484,0,,,Analyze Quotation Comparison Map
+484,26,Choose best option,484,483,485,0,,,Choose best option
+485,26,Settle Conditions With Supplier,485,484,486,0,,,Settle Conditions With Supplier
+486,26,Create Purchase Order,486,485,487,0,,,Create Purchase Order
+487,26,Confirm Purchase Order,487,486,488,0,,,Confirm Purchase Order
+488,26,Deliver Goods Services,488,487,489,0,,,Deliver Goods Services
+489,26,Release Purchase Order,489,488,490,0,,,Release Purchase Order
+490,26,Approve Purchase Order for payment,490,489,491,0,,,Approve Purchase Order for payment
+491,26,Send Invoice,491,490,492,0,,,Send Invoice
+492,26,Release Supplier's Invoice,492,491,493,0,,,Release Supplier's Invoice
+493,26,Authorize Supplier's Invoice payment,493,492,494,0,,,Authorize Supplier's Invoice payment
+494,26,Pay Invoice,494,493,495,0,,,Pay Invoice
+495,26,End,495,494,None,0,,,End
+498,27,Start,498,None,499,0,,,Start
+499,27,Create Purchase Requisition,499,498,500,0,,,Create Purchase Requisition
+500,27,Create Request for Quotation,500,499,501,0,,,Create Request for Quotation
+501,27,Analyze Request for Quotation,501,500,502,0,,,Analyze Request for Quotation
+502,27,Amend Request for Quotation,502,501,503,0,,,Amend Request for Quotation
+503,27,Analyze Request for Quotation,503,502,504,0,,,Analyze Request for Quotation
+504,27,Send Request for Quotation to Supplier,504,503,505,0,,,Send Request for Quotation to Supplier
+505,27,Create Quotation comparison Map,505,504,506,0,,,Create Quotation comparison Map
+506,27,Analyze Quotation Comparison Map,506,505,507,0,,,Analyze Quotation Comparison Map
+507,27,Choose best option,507,506,508,0,,,Choose best option
+508,27,Settle Conditions With Supplier,508,507,509,0,,,Settle Conditions With Supplier
+509,27,Create Purchase Order,509,508,510,0,,,Create Purchase Order
+510,27,Confirm Purchase Order,510,509,511,0,,,Confirm Purchase Order
+511,27,Deliver Goods Services,511,510,512,0,,,Deliver Goods Services
+512,27,Release Purchase Order,512,511,513,0,,,Release Purchase Order
+513,27,Settle Dispute With Supplier,513,512,514,0,,,Settle Dispute With Supplier
+514,27,Release Purchase Order,514,513,515,0,,,Release Purchase Order
+515,27,Approve Purchase Order for payment,515,514,516,0,,,Approve Purchase Order for payment
+516,27,Send Invoice,516,515,517,0,,,Send Invoice
+517,27,Release Supplier's Invoice,517,516,518,0,,,Release Supplier's Invoice
+518,27,Authorize Supplier's Invoice payment,518,517,519,0,,,Authorize Supplier's Invoice payment
+519,27,Pay Invoice,519,518,520,0,,,Pay Invoice
+520,27,End,520,519,None,0,,,End
+523,28,Start,523,None,524,0,,,Start
+524,28,Create Purchase Requisition,524,523,525,0,,,Create Purchase Requisition
+525,28,Analyze Purchase Requisition,525,524,526,0,,,Analyze Purchase Requisition
+526,28,End,526,525,None,0,,,End
+529,29,Start,529,None,530,0,,,Start
+530,29,Create Purchase Requisition,530,529,531,0,,,Create Purchase Requisition
+531,29,Create Request for Quotation,531,530,532,0,,,Create Request for Quotation
+532,29,Analyze Request for Quotation,532,531,533,0,,,Analyze Request for Quotation
+533,29,Amend Request for Quotation,533,532,534,0,,,Amend Request for Quotation
+534,29,Analyze Request for Quotation,534,533,535,0,,,Analyze Request for Quotation
+535,29,Amend Request for Quotation,535,534,536,0,,,Amend Request for Quotation
+536,29,Analyze Request for Quotation,536,535,537,0,,,Analyze Request for Quotation
+537,29,Send Request for Quotation to Supplier,537,536,538,0,,,Send Request for Quotation to Supplier
+538,29,Create Quotation comparison Map,538,537,539,0,,,Create Quotation comparison Map
+539,29,Analyze Quotation Comparison Map,539,538,540,0,,,Analyze Quotation Comparison Map
+540,29,Choose best option,540,539,541,0,,,Choose best option
+541,29,Settle Conditions With Supplier,541,540,542,0,,,Settle Conditions With Supplier
+542,29,Create Purchase Order,542,541,543,0,,,Create Purchase Order
+543,29,Confirm Purchase Order,543,542,544,0,,,Confirm Purchase Order
+544,29,Deliver Goods Services,544,543,545,0,,,Deliver Goods Services
+545,29,Release Purchase Order,545,544,546,0,,,Release Purchase Order
+546,29,Approve Purchase Order for payment,546,545,547,0,,,Approve Purchase Order for payment
+547,29,Send Invoice,547,546,548,0,,,Send Invoice
+548,29,Release Supplier's Invoice,548,547,549,0,,,Release Supplier's Invoice
+549,29,Settle Dispute With Supplier,549,548,550,0,,,Settle Dispute With Supplier
+550,29,Authorize Supplier's Invoice payment,550,549,551,0,,,Authorize Supplier's Invoice payment
+551,29,Pay Invoice,551,550,552,0,,,Pay Invoice
+552,29,End,552,551,None,0,,,End
+555,30,Start,555,None,556,0,,,Start
+556,30,Create Purchase Requisition,556,555,557,0,,,Create Purchase Requisition
+557,30,Analyze Purchase Requisition,557,556,558,0,,,Analyze Purchase Requisition
+558,30,Create Request for Quotation,558,557,559,0,,,Create Request for Quotation
+559,30,Analyze Request for Quotation,559,558,560,0,,,Analyze Request for Quotation
+560,30,Amend Request for Quotation,560,559,561,0,,,Amend Request for Quotation
+561,30,Analyze Request for Quotation,561,560,562,0,,,Analyze Request for Quotation
+562,30,Amend Request for Quotation,562,561,563,0,,,Amend Request for Quotation
+563,30,Analyze Request for Quotation,563,562,564,0,,,Analyze Request for Quotation
+564,30,Amend Request for Quotation,564,563,565,0,,,Amend Request for Quotation
+565,30,Analyze Request for Quotation,565,564,566,0,,,Analyze Request for Quotation
+566,30,Send Request for Quotation to Supplier,566,565,567,0,,,Send Request for Quotation to Supplier
+567,30,Create Quotation comparison Map,567,566,568,0,,,Create Quotation comparison Map
+568,30,Analyze Quotation Comparison Map,568,567,569,0,,,Analyze Quotation Comparison Map
+569,30,Choose best option,569,568,570,0,,,Choose best option
+570,30,Settle Conditions With Supplier,570,569,571,0,,,Settle Conditions With Supplier
+571,30,Create Purchase Order,571,570,572,0,,,Create Purchase Order
+572,30,Confirm Purchase Order,572,571,573,0,,,Confirm Purchase Order
+573,30,Deliver Goods Services,573,572,574,0,,,Deliver Goods Services
+574,30,Release Purchase Order,574,573,575,0,,,Release Purchase Order
+575,30,Approve Purchase Order for payment,575,574,576,0,,,Approve Purchase Order for payment
+576,30,Send Invoice,576,575,577,0,,,Send Invoice
+577,30,Release Supplier's Invoice,577,576,578,0,,,Release Supplier's Invoice
+578,30,Settle Dispute With Supplier,578,577,579,0,,,Settle Dispute With Supplier
+579,30,Authorize Supplier's Invoice payment,579,578,580,0,,,Authorize Supplier's Invoice payment
+580,30,Pay Invoice,580,579,581,0,,,Pay Invoice
+581,30,End,581,580,None,0,,,End
+584,31,Start,584,None,585,0,,,Start
+585,31,Create Purchase Requisition,585,584,586,0,,,Create Purchase Requisition
+586,31,Create Request for Quotation,586,585,587,0,,,Create Request for Quotation
+587,31,Analyze Request for Quotation,587,586,588,0,,,Analyze Request for Quotation
+588,31,Amend Request for Quotation,588,587,589,0,,,Amend Request for Quotation
+589,31,Analyze Request for Quotation,589,588,590,0,,,Analyze Request for Quotation
+590,31,Amend Request for Quotation,590,589,591,0,,,Amend Request for Quotation
+591,31,Analyze Request for Quotation,591,590,592,0,,,Analyze Request for Quotation
+592,31,End,592,591,None,0,,,End
+595,32,Start,595,None,596,0,,,Start
+596,32,Create Purchase Requisition,596,595,597,0,,,Create Purchase Requisition
+597,32,Analyze Purchase Requisition,597,596,598,0,,,Analyze Purchase Requisition
+598,32,Create Request for Quotation,598,597,599,0,,,Create Request for Quotation
+599,32,Analyze Request for Quotation,599,598,600,0,,,Analyze Request for Quotation
+600,32,End,600,599,None,0,,,End
+603,33,Start,603,None,604,0,,,Start
+604,33,Create Purchase Requisition,604,603,605,0,,,Create Purchase Requisition
+605,33,Analyze Purchase Requisition,605,604,606,0,,,Analyze Purchase Requisition
+606,33,End,606,605,None,0,,,End
+609,34,Start,609,None,610,0,,,Start
+610,34,Create Purchase Requisition,610,609,611,0,,,Create Purchase Requisition
+611,34,Create Request for Quotation,611,610,612,0,,,Create Request for Quotation
+612,34,Analyze Request for Quotation,612,611,613,0,,,Analyze Request for Quotation
+613,34,Send Request for Quotation to Supplier,613,612,614,0,,,Send Request for Quotation to Supplier
+614,34,Create Quotation comparison Map,614,613,615,0,,,Create Quotation comparison Map
+615,34,Analyze Quotation Comparison Map,615,614,616,0,,,Analyze Quotation Comparison Map
+616,34,Choose best option,616,615,617,0,,,Choose best option
+617,34,Settle Conditions With Supplier,617,616,618,0,,,Settle Conditions With Supplier
+618,34,Create Purchase Order,618,617,619,0,,,Create Purchase Order
+619,34,Confirm Purchase Order,619,618,620,0,,,Confirm Purchase Order
+620,34,Deliver Goods Services,620,619,621,0,,,Deliver Goods Services
+621,34,Release Purchase Order,621,620,622,0,,,Release Purchase Order
+622,34,Approve Purchase Order for payment,622,621,623,0,,,Approve Purchase Order for payment
+623,34,Send Invoice,623,622,624,0,,,Send Invoice
+624,34,Release Supplier's Invoice,624,623,625,0,,,Release Supplier's Invoice
+625,34,Authorize Supplier's Invoice payment,625,624,626,0,,,Authorize Supplier's Invoice payment
+626,34,Pay Invoice,626,625,627,0,,,Pay Invoice
+627,34,End,627,626,None,0,,,End
+630,35,Start,630,None,631,0,,,Start
+631,35,Create Purchase Requisition,631,630,632,0,,,Create Purchase Requisition
+632,35,Create Request for Quotation,632,631,633,0,,,Create Request for Quotation
+633,35,Analyze Request for Quotation,633,632,634,0,,,Analyze Request for Quotation
+634,35,Amend Request for Quotation,634,633,635,0,,,Amend Request for Quotation
+635,35,Analyze Request for Quotation,635,634,636,0,,,Analyze Request for Quotation
+636,35,Amend Request for Quotation,636,635,637,0,,,Amend Request for Quotation
+637,35,Analyze Request for Quotation,637,636,638,0,,,Analyze Request for Quotation
+638,35,Amend Request for Quotation,638,637,639,0,,,Amend Request for Quotation
+639,35,Analyze Request for Quotation,639,638,640,0,,,Analyze Request for Quotation
+640,35,Send Request for Quotation to Supplier,640,639,641,0,,,Send Request for Quotation to Supplier
+641,35,Create Quotation comparison Map,641,640,642,0,,,Create Quotation comparison Map
+642,35,Analyze Quotation Comparison Map,642,641,643,0,,,Analyze Quotation Comparison Map
+643,35,Choose best option,643,642,644,0,,,Choose best option
+644,35,Settle Conditions With Supplier,644,643,645,0,,,Settle Conditions With Supplier
+645,35,Create Purchase Order,645,644,646,0,,,Create Purchase Order
+646,35,Confirm Purchase Order,646,645,647,0,,,Confirm Purchase Order
+647,35,Deliver Goods Services,647,646,648,0,,,Deliver Goods Services
+648,35,Release Purchase Order,648,647,649,0,,,Release Purchase Order
+649,35,Approve Purchase Order for payment,649,648,650,0,,,Approve Purchase Order for payment
+650,35,Send Invoice,650,649,651,0,,,Send Invoice
+651,35,Release Supplier's Invoice,651,650,652,0,,,Release Supplier's Invoice
+652,35,Authorize Supplier's Invoice payment,652,651,653,0,,,Authorize Supplier's Invoice payment
+653,35,Pay Invoice,653,652,654,0,,,Pay Invoice
+654,35,End,654,653,None,0,,,End
+657,36,Start,657,None,658,0,,,Start
+658,36,Create Purchase Requisition,658,657,659,0,,,Create Purchase Requisition
+659,36,Create Request for Quotation,659,658,660,0,,,Create Request for Quotation
+660,36,Analyze Request for Quotation,660,659,661,0,,,Analyze Request for Quotation
+661,36,Amend Request for Quotation,661,660,662,0,,,Amend Request for Quotation
+662,36,Analyze Request for Quotation,662,661,663,0,,,Analyze Request for Quotation
+663,36,Amend Request for Quotation,663,662,664,0,,,Amend Request for Quotation
+664,36,Analyze Request for Quotation,664,663,665,0,,,Analyze Request for Quotation
+665,36,Send Request for Quotation to Supplier,665,664,666,0,,,Send Request for Quotation to Supplier
+666,36,Create Quotation comparison Map,666,665,667,0,,,Create Quotation comparison Map
+667,36,Analyze Quotation Comparison Map,667,666,668,0,,,Analyze Quotation Comparison Map
+668,36,Choose best option,668,667,669,0,,,Choose best option
+669,36,Settle Conditions With Supplier,669,668,670,0,,,Settle Conditions With Supplier
+670,36,Create Purchase Order,670,669,671,0,,,Create Purchase Order
+671,36,Confirm Purchase Order,671,670,672,0,,,Confirm Purchase Order
+672,36,Deliver Goods Services,672,671,673,0,,,Deliver Goods Services
+673,36,Release Purchase Order,673,672,674,0,,,Release Purchase Order
+674,36,Approve Purchase Order for payment,674,673,675,0,,,Approve Purchase Order for payment
+675,36,Send Invoice,675,674,676,0,,,Send Invoice
+676,36,Release Supplier's Invoice,676,675,677,0,,,Release Supplier's Invoice
+677,36,Authorize Supplier's Invoice payment,677,676,678,0,,,Authorize Supplier's Invoice payment
+678,36,Pay Invoice,678,677,679,0,,,Pay Invoice
+679,36,End,679,678,None,0,,,End
+682,37,Start,682,None,683,0,,,Start
+683,37,Create Purchase Requisition,683,682,684,0,,,Create Purchase Requisition
+684,37,Create Request for Quotation,684,683,685,0,,,Create Request for Quotation
+685,37,Analyze Request for Quotation,685,684,686,0,,,Analyze Request for Quotation
+686,37,Amend Request for Quotation,686,685,687,0,,,Amend Request for Quotation
+687,37,Analyze Request for Quotation,687,686,688,0,,,Analyze Request for Quotation
+688,37,Amend Request for Quotation,688,687,689,0,,,Amend Request for Quotation
+689,37,Analyze Request for Quotation,689,688,690,0,,,Analyze Request for Quotation
+690,37,Send Request for Quotation to Supplier,690,689,691,0,,,Send Request for Quotation to Supplier
+691,37,Create Quotation comparison Map,691,690,692,0,,,Create Quotation comparison Map
+692,37,Analyze Quotation Comparison Map,692,691,693,0,,,Analyze Quotation Comparison Map
+693,37,Choose best option,693,692,694,0,,,Choose best option
+694,37,Settle Conditions With Supplier,694,693,695,0,,,Settle Conditions With Supplier
+695,37,Create Purchase Order,695,694,696,0,,,Create Purchase Order
+696,37,Confirm Purchase Order,696,695,697,0,,,Confirm Purchase Order
+697,37,Deliver Goods Services,697,696,698,0,,,Deliver Goods Services
+698,37,Release Purchase Order,698,697,699,0,,,Release Purchase Order
+699,37,Approve Purchase Order for payment,699,698,700,0,,,Approve Purchase Order for payment
+700,37,Send Invoice,700,699,701,0,,,Send Invoice
+701,37,Release Supplier's Invoice,701,700,702,0,,,Release Supplier's Invoice
+702,37,Authorize Supplier's Invoice payment,702,701,703,0,,,Authorize Supplier's Invoice payment
+703,37,Pay Invoice,703,702,704,0,,,Pay Invoice
+704,37,End,704,703,None,0,,,End
+707,38,Start,707,None,708,0,,,Start
+708,38,Create Purchase Requisition,708,707,709,0,,,Create Purchase Requisition
+709,38,Analyze Purchase Requisition,709,708,710,0,,,Analyze Purchase Requisition
+710,38,Create Request for Quotation,710,709,711,0,,,Create Request for Quotation
+711,38,Analyze Request for Quotation,711,710,712,0,,,Analyze Request for Quotation
+712,38,Amend Request for Quotation,712,711,713,0,,,Amend Request for Quotation
+713,38,Analyze Request for Quotation,713,712,714,0,,,Analyze Request for Quotation
+714,38,Amend Request for Quotation,714,713,715,0,,,Amend Request for Quotation
+715,38,Analyze Request for Quotation,715,714,716,0,,,Analyze Request for Quotation
+716,38,Amend Request for Quotation,716,715,717,0,,,Amend Request for Quotation
+717,38,Analyze Request for Quotation,717,716,718,0,,,Analyze Request for Quotation
+718,38,Amend Request for Quotation,718,717,719,0,,,Amend Request for Quotation
+719,38,Analyze Request for Quotation,719,718,720,0,,,Analyze Request for Quotation
+720,38,Send Request for Quotation to Supplier,720,719,721,0,,,Send Request for Quotation to Supplier
+721,38,Create Quotation comparison Map,721,720,722,0,,,Create Quotation comparison Map
+722,38,Analyze Quotation Comparison Map,722,721,723,0,,,Analyze Quotation Comparison Map
+723,38,Choose best option,723,722,724,0,,,Choose best option
+724,38,Settle Conditions With Supplier,724,723,725,0,,,Settle Conditions With Supplier
+725,38,Create Purchase Order,725,724,726,0,,,Create Purchase Order
+726,38,Confirm Purchase Order,726,725,727,0,,,Confirm Purchase Order
+727,38,Deliver Goods Services,727,726,728,0,,,Deliver Goods Services
+728,38,Release Purchase Order,728,727,729,0,,,Release Purchase Order
+729,38,Approve Purchase Order for payment,729,728,730,0,,,Approve Purchase Order for payment
+730,38,Send Invoice,730,729,731,0,,,Send Invoice
+731,38,Release Supplier's Invoice,731,730,732,0,,,Release Supplier's Invoice
+732,38,Authorize Supplier's Invoice payment,732,731,733,0,,,Authorize Supplier's Invoice payment
+733,38,Pay Invoice,733,732,734,0,,,Pay Invoice
+734,38,End,734,733,None,0,,,End
+737,39,Start,737,None,738,0,,,Start
+738,39,Create Purchase Requisition,738,737,739,0,,,Create Purchase Requisition
+739,39,Analyze Purchase Requisition,739,738,740,0,,,Analyze Purchase Requisition
+740,39,Create Request for Quotation,740,739,741,0,,,Create Request for Quotation
+741,39,Analyze Request for Quotation,741,740,742,0,,,Analyze Request for Quotation
+742,39,Send Request for Quotation to Supplier,742,741,743,0,,,Send Request for Quotation to Supplier
+743,39,Create Quotation comparison Map,743,742,744,0,,,Create Quotation comparison Map
+744,39,Analyze Quotation Comparison Map,744,743,745,0,,,Analyze Quotation Comparison Map
+745,39,Choose best option,745,744,746,0,,,Choose best option
+746,39,Settle Conditions With Supplier,746,745,747,0,,,Settle Conditions With Supplier
+747,39,Create Purchase Order,747,746,748,0,,,Create Purchase Order
+748,39,Confirm Purchase Order,748,747,749,0,,,Confirm Purchase Order
+749,39,Deliver Goods Services,749,748,750,0,,,Deliver Goods Services
+750,39,Release Purchase Order,750,749,751,0,,,Release Purchase Order
+751,39,Approve Purchase Order for payment,751,750,752,0,,,Approve Purchase Order for payment
+752,39,Send Invoice,752,751,753,0,,,Send Invoice
+753,39,Release Supplier's Invoice,753,752,754,0,,,Release Supplier's Invoice
+754,39,Settle Dispute With Supplier,754,753,755,0,,,Settle Dispute With Supplier
+755,39,Authorize Supplier's Invoice payment,755,754,756,0,,,Authorize Supplier's Invoice payment
+756,39,Pay Invoice,756,755,757,0,,,Pay Invoice
+757,39,End,757,756,None,0,,,End
+760,40,Start,760,None,761,0,,,Start
+761,40,Create Purchase Requisition,761,760,762,0,,,Create Purchase Requisition
+762,40,Analyze Purchase Requisition,762,761,763,0,,,Analyze Purchase Requisition
+763,40,Create Request for Quotation,763,762,764,0,,,Create Request for Quotation
+764,40,Analyze Request for Quotation,764,763,765,0,,,Analyze Request for Quotation
+765,40,Amend Request for Quotation,765,764,766,0,,,Amend Request for Quotation
+766,40,Analyze Request for Quotation,766,765,767,0,,,Analyze Request for Quotation
+767,40,Send Request for Quotation to Supplier,767,766,768,0,,,Send Request for Quotation to Supplier
+768,40,Create Quotation comparison Map,768,767,769,0,,,Create Quotation comparison Map
+769,40,Analyze Quotation Comparison Map,769,768,770,0,,,Analyze Quotation Comparison Map
+770,40,Choose best option,770,769,771,0,,,Choose best option
+771,40,Settle Conditions With Supplier,771,770,772,0,,,Settle Conditions With Supplier
+772,40,Create Purchase Order,772,771,773,0,,,Create Purchase Order
+773,40,Confirm Purchase Order,773,772,774,0,,,Confirm Purchase Order
+774,40,Deliver Goods Services,774,773,775,0,,,Deliver Goods Services
+775,40,Release Purchase Order,775,774,776,0,,,Release Purchase Order
+776,40,Approve Purchase Order for payment,776,775,777,0,,,Approve Purchase Order for payment
+777,40,Send Invoice,777,776,778,0,,,Send Invoice
+778,40,Release Supplier's Invoice,778,777,779,0,,,Release Supplier's Invoice
+779,40,Settle Dispute With Supplier,779,778,780,0,,,Settle Dispute With Supplier
+780,40,Authorize Supplier's Invoice payment,780,779,781,0,,,Authorize Supplier's Invoice payment
+781,40,Pay Invoice,781,780,782,0,,,Pay Invoice
+782,40,End,782,781,None,0,,,End
+785,41,Start,785,None,786,0,,,Start
+786,41,Create Purchase Requisition,786,785,787,0,,,Create Purchase Requisition
+787,41,Create Request for Quotation,787,786,788,0,,,Create Request for Quotation
+788,41,Analyze Request for Quotation,788,787,789,0,,,Analyze Request for Quotation
+789,41,End,789,788,None,0,,,End
+792,42,Start,792,None,793,0,,,Start
+793,42,Create Purchase Requisition,793,792,794,0,,,Create Purchase Requisition
+794,42,Analyze Purchase Requisition,794,793,795,0,,,Analyze Purchase Requisition
+795,42,Create Request for Quotation,795,794,796,0,,,Create Request for Quotation
+796,42,Analyze Request for Quotation,796,795,797,0,,,Analyze Request for Quotation
+797,42,End,797,796,None,0,,,End
+800,43,Start,800,None,801,0,,,Start
+801,43,Create Purchase Requisition,801,800,802,0,,,Create Purchase Requisition
+802,43,Create Request for Quotation,802,801,803,0,,,Create Request for Quotation
+803,43,Analyze Request for Quotation,803,802,804,0,,,Analyze Request for Quotation
+804,43,Send Request for Quotation to Supplier,804,803,805,0,,,Send Request for Quotation to Supplier
+805,43,Create Quotation comparison Map,805,804,806,0,,,Create Quotation comparison Map
+806,43,Analyze Quotation Comparison Map,806,805,807,0,,,Analyze Quotation Comparison Map
+807,43,Choose best option,807,806,808,0,,,Choose best option
+808,43,Settle Conditions With Supplier,808,807,809,0,,,Settle Conditions With Supplier
+809,43,Create Purchase Order,809,808,810,0,,,Create Purchase Order
+810,43,Confirm Purchase Order,810,809,811,0,,,Confirm Purchase Order
+811,43,Deliver Goods Services,811,810,812,0,,,Deliver Goods Services
+812,43,Release Purchase Order,812,811,813,0,,,Release Purchase Order
+813,43,Approve Purchase Order for payment,813,812,814,0,,,Approve Purchase Order for payment
+814,43,Send Invoice,814,813,815,0,,,Send Invoice
+815,43,Release Supplier's Invoice,815,814,816,0,,,Release Supplier's Invoice
+816,43,Authorize Supplier's Invoice payment,816,815,817,0,,,Authorize Supplier's Invoice payment
+817,43,Pay Invoice,817,816,818,0,,,Pay Invoice
+818,43,End,818,817,None,0,,,End
+821,44,Start,821,None,822,0,,,Start
+822,44,Create Purchase Requisition,822,821,823,0,,,Create Purchase Requisition
+823,44,Analyze Purchase Requisition,823,822,824,0,,,Analyze Purchase Requisition
+824,44,End,824,823,None,0,,,End
+827,45,Start,827,None,828,0,,,Start
+828,45,Create Purchase Requisition,828,827,829,0,,,Create Purchase Requisition
+829,45,Analyze Purchase Requisition,829,828,830,0,,,Analyze Purchase Requisition
+830,45,Create Request for Quotation,830,829,831,0,,,Create Request for Quotation
+831,45,Analyze Request for Quotation,831,830,832,0,,,Analyze Request for Quotation
+832,45,Amend Request for Quotation,832,831,833,0,,,Amend Request for Quotation
+833,45,Analyze Request for Quotation,833,832,834,0,,,Analyze Request for Quotation
+834,45,Send Request for Quotation to Supplier,834,833,835,0,,,Send Request for Quotation to Supplier
+835,45,Create Quotation comparison Map,835,834,836,0,,,Create Quotation comparison Map
+836,45,Analyze Quotation Comparison Map,836,835,837,0,,,Analyze Quotation Comparison Map
+837,45,Choose best option,837,836,838,0,,,Choose best option
+838,45,Settle Conditions With Supplier,838,837,839,0,,,Settle Conditions With Supplier
+839,45,Create Purchase Order,839,838,840,0,,,Create Purchase Order
+840,45,Confirm Purchase Order,840,839,841,0,,,Confirm Purchase Order
+841,45,Deliver Goods Services,841,840,842,0,,,Deliver Goods Services
+842,45,Release Purchase Order,842,841,843,0,,,Release Purchase Order
+843,45,Approve Purchase Order for payment,843,842,844,0,,,Approve Purchase Order for payment
+844,45,Send Invoice,844,843,845,0,,,Send Invoice
+845,45,Release Supplier's Invoice,845,844,846,0,,,Release Supplier's Invoice
+846,45,Authorize Supplier's Invoice payment,846,845,847,0,,,Authorize Supplier's Invoice payment
+847,45,Pay Invoice,847,846,848,0,,,Pay Invoice
+848,45,End,848,847,None,0,,,End
+851,46,Start,851,None,852,0,,,Start
+852,46,Create Purchase Requisition,852,851,853,0,,,Create Purchase Requisition
+853,46,Create Request for Quotation,853,852,854,0,,,Create Request for Quotation
+854,46,Analyze Request for Quotation,854,853,855,0,,,Analyze Request for Quotation
+855,46,Amend Request for Quotation,855,854,856,0,,,Amend Request for Quotation
+856,46,Analyze Request for Quotation,856,855,857,0,,,Analyze Request for Quotation
+857,46,Amend Request for Quotation,857,856,858,0,,,Amend Request for Quotation
+858,46,Analyze Request for Quotation,858,857,859,0,,,Analyze Request for Quotation
+859,46,Send Request for Quotation to Supplier,859,858,860,0,,,Send Request for Quotation to Supplier
+860,46,Create Quotation comparison Map,860,859,861,0,,,Create Quotation comparison Map
+861,46,Analyze Quotation Comparison Map,861,860,862,0,,,Analyze Quotation Comparison Map
+862,46,Choose best option,862,861,863,0,,,Choose best option
+863,46,Settle Conditions With Supplier,863,862,864,0,,,Settle Conditions With Supplier
+864,46,Create Purchase Order,864,863,865,0,,,Create Purchase Order
+865,46,Confirm Purchase Order,865,864,866,0,,,Confirm Purchase Order
+866,46,Deliver Goods Services,866,865,867,0,,,Deliver Goods Services
+867,46,Release Purchase Order,867,866,868,0,,,Release Purchase Order
+868,46,Approve Purchase Order for payment,868,867,869,0,,,Approve Purchase Order for payment
+869,46,Send Invoice,869,868,870,0,,,Send Invoice
+870,46,Release Supplier's Invoice,870,869,871,0,,,Release Supplier's Invoice
+871,46,Settle Dispute With Supplier,871,870,872,0,,,Settle Dispute With Supplier
+872,46,Authorize Supplier's Invoice payment,872,871,873,0,,,Authorize Supplier's Invoice payment
+873,46,Pay Invoice,873,872,874,0,,,Pay Invoice
+874,46,End,874,873,None,0,,,End
+877,47,Start,877,None,878,0,,,Start
+878,47,Create Purchase Requisition,878,877,879,0,,,Create Purchase Requisition
+879,47,Analyze Purchase Requisition,879,878,880,0,,,Analyze Purchase Requisition
+880,47,Create Request for Quotation,880,879,881,0,,,Create Request for Quotation
+881,47,Analyze Request for Quotation,881,880,882,0,,,Analyze Request for Quotation
+882,47,Send Request for Quotation to Supplier,882,881,883,0,,,Send Request for Quotation to Supplier
+883,47,Create Quotation comparison Map,883,882,884,0,,,Create Quotation comparison Map
+884,47,Analyze Quotation Comparison Map,884,883,885,0,,,Analyze Quotation Comparison Map
+885,47,Choose best option,885,884,886,0,,,Choose best option
+886,47,Settle Conditions With Supplier,886,885,887,0,,,Settle Conditions With Supplier
+887,47,Create Purchase Order,887,886,888,0,,,Create Purchase Order
+888,47,Confirm Purchase Order,888,887,889,0,,,Confirm Purchase Order
+889,47,Deliver Goods Services,889,888,890,0,,,Deliver Goods Services
+890,47,Release Purchase Order,890,889,891,0,,,Release Purchase Order
+891,47,Approve Purchase Order for payment,891,890,892,0,,,Approve Purchase Order for payment
+892,47,Send Invoice,892,891,893,0,,,Send Invoice
+893,47,Release Supplier's Invoice,893,892,894,0,,,Release Supplier's Invoice
+894,47,Authorize Supplier's Invoice payment,894,893,895,0,,,Authorize Supplier's Invoice payment
+895,47,Pay Invoice,895,894,896,0,,,Pay Invoice
+896,47,End,896,895,None,0,,,End
+899,48,Start,899,None,900,0,,,Start
+900,48,Create Purchase Requisition,900,899,901,0,,,Create Purchase Requisition
+901,48,Analyze Purchase Requisition,901,900,902,0,,,Analyze Purchase Requisition
+902,48,Create Request for Quotation,902,901,903,0,,,Create Request for Quotation
+903,48,Analyze Request for Quotation,903,902,904,0,,,Analyze Request for Quotation
+904,48,Send Request for Quotation to Supplier,904,903,905,0,,,Send Request for Quotation to Supplier
+905,48,Create Quotation comparison Map,905,904,906,0,,,Create Quotation comparison Map
+906,48,Analyze Quotation Comparison Map,906,905,907,0,,,Analyze Quotation Comparison Map
+907,48,Choose best option,907,906,908,0,,,Choose best option
+908,48,Settle Conditions With Supplier,908,907,909,0,,,Settle Conditions With Supplier
+909,48,Create Purchase Order,909,908,910,0,,,Create Purchase Order
+910,48,Confirm Purchase Order,910,909,911,0,,,Confirm Purchase Order
+911,48,Deliver Goods Services,911,910,912,0,,,Deliver Goods Services
+912,48,Release Purchase Order,912,911,913,0,,,Release Purchase Order
+913,48,Approve Purchase Order for payment,913,912,914,0,,,Approve Purchase Order for payment
+914,48,Send Invoice,914,913,915,0,,,Send Invoice
+915,48,Release Supplier's Invoice,915,914,916,0,,,Release Supplier's Invoice
+916,48,Authorize Supplier's Invoice payment,916,915,917,0,,,Authorize Supplier's Invoice payment
+917,48,Pay Invoice,917,916,918,0,,,Pay Invoice
+918,48,End,918,917,None,0,,,End
+921,49,Start,921,None,922,0,,,Start
+922,49,Create Purchase Requisition,922,921,923,0,,,Create Purchase Requisition
+923,49,Analyze Purchase Requisition,923,922,924,0,,,Analyze Purchase Requisition
+924,49,Create Request for Quotation,924,923,925,0,,,Create Request for Quotation
+925,49,Analyze Request for Quotation,925,924,926,0,,,Analyze Request for Quotation
+926,49,Amend Request for Quotation,926,925,927,0,,,Amend Request for Quotation
+927,49,Analyze Request for Quotation,927,926,928,0,,,Analyze Request for Quotation
+928,49,End,928,927,None,0,,,End
+931,50,Start,931,None,932,0,,,Start
+932,50,Create Purchase Requisition,932,931,933,0,,,Create Purchase Requisition
+933,50,Create Request for Quotation,933,932,934,0,,,Create Request for Quotation
+934,50,Analyze Request for Quotation,934,933,935,0,,,Analyze Request for Quotation
+935,50,Amend Request for Quotation,935,934,936,0,,,Amend Request for Quotation
+936,50,Analyze Request for Quotation,936,935,937,0,,,Analyze Request for Quotation
+937,50,Amend Request for Quotation,937,936,938,0,,,Amend Request for Quotation
+938,50,Analyze Request for Quotation,938,937,939,0,,,Analyze Request for Quotation
+939,50,Amend Request for Quotation,939,938,940,0,,,Amend Request for Quotation
+940,50,Analyze Request for Quotation,940,939,941,0,,,Analyze Request for Quotation
+941,50,Amend Request for Quotation,941,940,942,0,,,Amend Request for Quotation
+942,50,Analyze Request for Quotation,942,941,943,0,,,Analyze Request for Quotation
+943,50,Amend Request for Quotation,943,942,944,0,,,Amend Request for Quotation
+944,50,Analyze Request for Quotation,944,943,945,0,,,Analyze Request for Quotation
+945,50,Send Request for Quotation to Supplier,945,944,946,0,,,Send Request for Quotation to Supplier
+946,50,Create Quotation comparison Map,946,945,947,0,,,Create Quotation comparison Map
+947,50,Analyze Quotation Comparison Map,947,946,948,0,,,Analyze Quotation Comparison Map
+948,50,Choose best option,948,947,949,0,,,Choose best option
+949,50,Settle Conditions With Supplier,949,948,950,0,,,Settle Conditions With Supplier
+950,50,Create Purchase Order,950,949,951,0,,,Create Purchase Order
+951,50,Confirm Purchase Order,951,950,952,0,,,Confirm Purchase Order
+952,50,Deliver Goods Services,952,951,953,0,,,Deliver Goods Services
+953,50,Release Purchase Order,953,952,954,0,,,Release Purchase Order
+954,50,Approve Purchase Order for payment,954,953,955,0,,,Approve Purchase Order for payment
+955,50,Send Invoice,955,954,956,0,,,Send Invoice
+956,50,Release Supplier's Invoice,956,955,957,0,,,Release Supplier's Invoice
+957,50,Authorize Supplier's Invoice payment,957,956,958,0,,,Authorize Supplier's Invoice payment
+958,50,Pay Invoice,958,957,959,0,,,Pay Invoice
+959,50,End,959,958,None,0,,,End
+962,51,Start,962,None,963,0,,,Start
+963,51,Create Purchase Requisition,963,962,964,0,,,Create Purchase Requisition
+964,51,Create Request for Quotation,964,963,965,0,,,Create Request for Quotation
+965,51,Analyze Request for Quotation,965,964,966,0,,,Analyze Request for Quotation
+966,51,Amend Request for Quotation,966,965,967,0,,,Amend Request for Quotation
+967,51,Analyze Request for Quotation,967,966,968,0,,,Analyze Request for Quotation
+968,51,Send Request for Quotation to Supplier,968,967,969,0,,,Send Request for Quotation to Supplier
+969,51,Create Quotation comparison Map,969,968,970,0,,,Create Quotation comparison Map
+970,51,Analyze Quotation Comparison Map,970,969,971,0,,,Analyze Quotation Comparison Map
+971,51,Choose best option,971,970,972,0,,,Choose best option
+972,51,Settle Conditions With Supplier,972,971,973,0,,,Settle Conditions With Supplier
+973,51,Create Purchase Order,973,972,974,0,,,Create Purchase Order
+974,51,Confirm Purchase Order,974,973,975,0,,,Confirm Purchase Order
+975,51,Deliver Goods Services,975,974,976,0,,,Deliver Goods Services
+976,51,Release Purchase Order,976,975,977,0,,,Release Purchase Order
+977,51,Settle Dispute With Supplier,977,976,978,0,,,Settle Dispute With Supplier
+978,51,Release Purchase Order,978,977,979,0,,,Release Purchase Order
+979,51,Approve Purchase Order for payment,979,978,980,0,,,Approve Purchase Order for payment
+980,51,Send Invoice,980,979,981,0,,,Send Invoice
+981,51,Release Supplier's Invoice,981,980,982,0,,,Release Supplier's Invoice
+982,51,Authorize Supplier's Invoice payment,982,981,983,0,,,Authorize Supplier's Invoice payment
+983,51,Pay Invoice,983,982,984,0,,,Pay Invoice
+984,51,End,984,983,None,0,,,End
+987,52,Start,987,None,988,0,,,Start
+988,52,Create Purchase Requisition,988,987,989,0,,,Create Purchase Requisition
+989,52,Create Request for Quotation,989,988,990,0,,,Create Request for Quotation
+990,52,Analyze Request for Quotation,990,989,991,0,,,Analyze Request for Quotation
+991,52,Amend Request for Quotation,991,990,992,0,,,Amend Request for Quotation
+992,52,Analyze Request for Quotation,992,991,993,0,,,Analyze Request for Quotation
+993,52,Amend Request for Quotation,993,992,994,0,,,Amend Request for Quotation
+994,52,Analyze Request for Quotation,994,993,995,0,,,Analyze Request for Quotation
+995,52,Send Request for Quotation to Supplier,995,994,996,0,,,Send Request for Quotation to Supplier
+996,52,Create Quotation comparison Map,996,995,997,0,,,Create Quotation comparison Map
+997,52,Analyze Quotation Comparison Map,997,996,998,0,,,Analyze Quotation Comparison Map
+998,52,Choose best option,998,997,999,0,,,Choose best option
+999,52,Settle Conditions With Supplier,999,998,1000,0,,,Settle Conditions With Supplier
+1000,52,Create Purchase Order,1000,999,1001,0,,,Create Purchase Order
+1001,52,Confirm Purchase Order,1001,1000,1002,0,,,Confirm Purchase Order
+1002,52,Deliver Goods Services,1002,1001,1003,0,,,Deliver Goods Services
+1003,52,Release Purchase Order,1003,1002,1004,0,,,Release Purchase Order
+1004,52,Approve Purchase Order for payment,1004,1003,1005,0,,,Approve Purchase Order for payment
+1005,52,Send Invoice,1005,1004,1006,0,,,Send Invoice
+1006,52,Release Supplier's Invoice,1006,1005,1007,0,,,Release Supplier's Invoice
+1007,52,Settle Dispute With Supplier,1007,1006,1008,0,,,Settle Dispute With Supplier
+1008,52,Authorize Supplier's Invoice payment,1008,1007,1009,0,,,Authorize Supplier's Invoice payment
+1009,52,Pay Invoice,1009,1008,1010,0,,,Pay Invoice
+1010,52,End,1010,1009,None,0,,,End
+1013,53,Start,1013,None,1014,0,,,Start
+1014,53,Create Purchase Requisition,1014,1013,1015,0,,,Create Purchase Requisition
+1015,53,Create Request for Quotation,1015,1014,1016,0,,,Create Request for Quotation
+1016,53,Analyze Request for Quotation,1016,1015,1017,0,,,Analyze Request for Quotation
+1017,53,End,1017,1016,None,0,,,End
+1020,54,Start,1020,None,1021,0,,,Start
+1021,54,Create Purchase Requisition,1021,1020,1022,0,,,Create Purchase Requisition
+1022,54,Analyze Purchase Requisition,1022,1021,1023,0,,,Analyze Purchase Requisition
+1023,54,Create Request for Quotation,1023,1022,1024,0,,,Create Request for Quotation
+1024,54,Analyze Request for Quotation,1024,1023,1025,0,,,Analyze Request for Quotation
+1025,54,Send Request for Quotation to Supplier,1025,1024,1026,0,,,Send Request for Quotation to Supplier
+1026,54,Create Quotation comparison Map,1026,1025,1027,0,,,Create Quotation comparison Map
+1027,54,Analyze Quotation Comparison Map,1027,1026,1028,0,,,Analyze Quotation Comparison Map
+1028,54,Choose best option,1028,1027,1029,0,,,Choose best option
+1029,54,Settle Conditions With Supplier,1029,1028,1030,0,,,Settle Conditions With Supplier
+1030,54,Create Purchase Order,1030,1029,1031,0,,,Create Purchase Order
+1031,54,Confirm Purchase Order,1031,1030,1032,0,,,Confirm Purchase Order
+1032,54,Deliver Goods Services,1032,1031,1033,0,,,Deliver Goods Services
+1033,54,Release Purchase Order,1033,1032,1034,0,,,Release Purchase Order
+1034,54,Approve Purchase Order for payment,1034,1033,1035,0,,,Approve Purchase Order for payment
+1035,54,Send Invoice,1035,1034,1036,0,,,Send Invoice
+1036,54,Release Supplier's Invoice,1036,1035,1037,0,,,Release Supplier's Invoice
+1037,54,Authorize Supplier's Invoice payment,1037,1036,1038,0,,,Authorize Supplier's Invoice payment
+1038,54,Pay Invoice,1038,1037,1039,0,,,Pay Invoice
+1039,54,End,1039,1038,None,0,,,End
+1042,55,Start,1042,None,1043,0,,,Start
+1043,55,Create Purchase Requisition,1043,1042,1044,0,,,Create Purchase Requisition
+1044,55,Create Request for Quotation,1044,1043,1045,0,,,Create Request for Quotation
+1045,55,Analyze Request for Quotation,1045,1044,1046,0,,,Analyze Request for Quotation
+1046,55,Send Request for Quotation to Supplier,1046,1045,1047,0,,,Send Request for Quotation to Supplier
+1047,55,Create Quotation comparison Map,1047,1046,1048,0,,,Create Quotation comparison Map
+1048,55,Analyze Quotation Comparison Map,1048,1047,1049,0,,,Analyze Quotation Comparison Map
+1049,55,Choose best option,1049,1048,1050,0,,,Choose best option
+1050,55,Settle Conditions With Supplier,1050,1049,1051,0,,,Settle Conditions With Supplier
+1051,55,Create Purchase Order,1051,1050,1052,0,,,Create Purchase Order
+1052,55,Confirm Purchase Order,1052,1051,1053,0,,,Confirm Purchase Order
+1053,55,Deliver Goods Services,1053,1052,1054,0,,,Deliver Goods Services
+1054,55,Release Purchase Order,1054,1053,1055,0,,,Release Purchase Order
+1055,55,Approve Purchase Order for payment,1055,1054,1056,0,,,Approve Purchase Order for payment
+1056,55,Send Invoice,1056,1055,1057,0,,,Send Invoice
+1057,55,Release Supplier's Invoice,1057,1056,1058,0,,,Release Supplier's Invoice
+1058,55,Authorize Supplier's Invoice payment,1058,1057,1059,0,,,Authorize Supplier's Invoice payment
+1059,55,Pay Invoice,1059,1058,1060,0,,,Pay Invoice
+1060,55,End,1060,1059,None,0,,,End
+1063,56,Start,1063,None,1064,0,,,Start
+1064,56,Create Purchase Requisition,1064,1063,1065,0,,,Create Purchase Requisition
+1065,56,Create Request for Quotation,1065,1064,1066,0,,,Create Request for Quotation
+1066,56,Analyze Request for Quotation,1066,1065,1067,0,,,Analyze Request for Quotation
+1067,56,Send Request for Quotation to Supplier,1067,1066,1068,0,,,Send Request for Quotation to Supplier
+1068,56,Create Quotation comparison Map,1068,1067,1069,0,,,Create Quotation comparison Map
+1069,56,Analyze Quotation Comparison Map,1069,1068,1070,0,,,Analyze Quotation Comparison Map
+1070,56,Choose best option,1070,1069,1071,0,,,Choose best option
+1071,56,Settle Conditions With Supplier,1071,1070,1072,0,,,Settle Conditions With Supplier
+1072,56,Create Purchase Order,1072,1071,1073,0,,,Create Purchase Order
+1073,56,Confirm Purchase Order,1073,1072,1074,0,,,Confirm Purchase Order
+1074,56,Deliver Goods Services,1074,1073,1075,0,,,Deliver Goods Services
+1075,56,Release Purchase Order,1075,1074,1076,0,,,Release Purchase Order
+1076,56,Approve Purchase Order for payment,1076,1075,1077,0,,,Approve Purchase Order for payment
+1077,56,Send Invoice,1077,1076,1078,0,,,Send Invoice
+1078,56,Authorize Supplier's Invoice payment,1078,1077,1079,0,,,Authorize Supplier's Invoice payment
+1079,56,Pay Invoice,1079,1078,1080,0,,,Pay Invoice
+1080,56,End,1080,1079,None,0,,,End
+1083,57,Start,1083,None,1084,0,,,Start
+1084,57,Create Purchase Requisition,1084,1083,1085,0,,,Create Purchase Requisition
+1085,57,Create Request for Quotation,1085,1084,1086,0,,,Create Request for Quotation
+1086,57,Analyze Request for Quotation,1086,1085,1087,0,,,Analyze Request for Quotation
+1087,57,Amend Request for Quotation,1087,1086,1088,0,,,Amend Request for Quotation
+1088,57,Analyze Request for Quotation,1088,1087,1089,0,,,Analyze Request for Quotation
+1089,57,Amend Request for Quotation,1089,1088,1090,0,,,Amend Request for Quotation
+1090,57,Analyze Request for Quotation,1090,1089,1091,0,,,Analyze Request for Quotation
+1091,57,Amend Request for Quotation,1091,1090,1092,0,,,Amend Request for Quotation
+1092,57,Analyze Request for Quotation,1092,1091,1093,0,,,Analyze Request for Quotation
+1093,57,Send Request for Quotation to Supplier,1093,1092,1094,0,,,Send Request for Quotation to Supplier
+1094,57,Create Quotation comparison Map,1094,1093,1095,0,,,Create Quotation comparison Map
+1095,57,Analyze Quotation Comparison Map,1095,1094,1096,0,,,Analyze Quotation Comparison Map
+1096,57,Choose best option,1096,1095,1097,0,,,Choose best option
+1097,57,Settle Conditions With Supplier,1097,1096,1098,0,,,Settle Conditions With Supplier
+1098,57,Create Purchase Order,1098,1097,1099,0,,,Create Purchase Order
+1099,57,Confirm Purchase Order,1099,1098,1100,0,,,Confirm Purchase Order
+1100,57,Deliver Goods Services,1100,1099,1101,0,,,Deliver Goods Services
+1101,57,Release Purchase Order,1101,1100,1102,0,,,Release Purchase Order
+1102,57,Approve Purchase Order for payment,1102,1101,1103,0,,,Approve Purchase Order for payment
+1103,57,Send Invoice,1103,1102,1104,0,,,Send Invoice
+1104,57,Release Supplier's Invoice,1104,1103,1105,0,,,Release Supplier's Invoice
+1105,57,Authorize Supplier's Invoice payment,1105,1104,1106,0,,,Authorize Supplier's Invoice payment
+1106,57,Pay Invoice,1106,1105,1107,0,,,Pay Invoice
+1107,57,End,1107,1106,None,0,,,End
+1110,58,Start,1110,None,1111,0,,,Start
+1111,58,Create Purchase Requisition,1111,1110,1112,0,,,Create Purchase Requisition
+1112,58,Analyze Purchase Requisition,1112,1111,1113,0,,,Analyze Purchase Requisition
+1113,58,End,1113,1112,None,0,,,End
+1116,59,Start,1116,None,1117,0,,,Start
+1117,59,Create Purchase Requisition,1117,1116,1118,0,,,Create Purchase Requisition
+1118,59,Analyze Purchase Requisition,1118,1117,1119,0,,,Analyze Purchase Requisition
+1119,59,Create Request for Quotation,1119,1118,1120,0,,,Create Request for Quotation
+1120,59,Analyze Request for Quotation,1120,1119,1121,0,,,Analyze Request for Quotation
+1121,59,End,1121,1120,None,0,,,End
+1124,60,Start,1124,None,1125,0,,,Start
+1125,60,Create Purchase Requisition,1125,1124,1126,0,,,Create Purchase Requisition
+1126,60,Analyze Purchase Requisition,1126,1125,1127,0,,,Analyze Purchase Requisition
+1127,60,Create Request for Quotation,1127,1126,1128,0,,,Create Request for Quotation
+1128,60,Analyze Request for Quotation,1128,1127,1129,0,,,Analyze Request for Quotation
+1129,60,Send Request for Quotation to Supplier,1129,1128,1130,0,,,Send Request for Quotation to Supplier
+1130,60,Create Quotation comparison Map,1130,1129,1131,0,,,Create Quotation comparison Map
+1131,60,Analyze Quotation Comparison Map,1131,1130,1132,0,,,Analyze Quotation Comparison Map
+1132,60,Choose best option,1132,1131,1133,0,,,Choose best option
+1133,60,Settle Conditions With Supplier,1133,1132,1134,0,,,Settle Conditions With Supplier
+1134,60,Create Purchase Order,1134,1133,1135,0,,,Create Purchase Order
+1135,60,Confirm Purchase Order,1135,1134,1136,0,,,Confirm Purchase Order
+1136,60,Deliver Goods Services,1136,1135,1137,0,,,Deliver Goods Services
+1137,60,Release Purchase Order,1137,1136,1138,0,,,Release Purchase Order
+1138,60,Approve Purchase Order for payment,1138,1137,1139,0,,,Approve Purchase Order for payment
+1139,60,Send Invoice,1139,1138,1140,0,,,Send Invoice
+1140,60,Release Supplier's Invoice,1140,1139,1141,0,,,Release Supplier's Invoice
+1141,60,Authorize Supplier's Invoice payment,1141,1140,1142,0,,,Authorize Supplier's Invoice payment
+1142,60,Pay Invoice,1142,1141,1143,0,,,Pay Invoice
+1143,60,End,1143,1142,None,0,,,End
+1146,61,Start,1146,None,1147,0,,,Start
+1147,61,Create Purchase Requisition,1147,1146,1148,0,,,Create Purchase Requisition
+1148,61,Create Request for Quotation,1148,1147,1149,0,,,Create Request for Quotation
+1149,61,Analyze Request for Quotation,1149,1148,1150,0,,,Analyze Request for Quotation
+1150,61,Amend Request for Quotation,1150,1149,1151,0,,,Amend Request for Quotation
+1151,61,Analyze Request for Quotation,1151,1150,1152,0,,,Analyze Request for Quotation
+1152,61,Amend Request for Quotation,1152,1151,1153,0,,,Amend Request for Quotation
+1153,61,Analyze Request for Quotation,1153,1152,1154,0,,,Analyze Request for Quotation
+1154,61,Amend Request for Quotation,1154,1153,1155,0,,,Amend Request for Quotation
+1155,61,Analyze Request for Quotation,1155,1154,1156,0,,,Analyze Request for Quotation
+1156,61,Send Request for Quotation to Supplier,1156,1155,1157,0,,,Send Request for Quotation to Supplier
+1157,61,Create Quotation comparison Map,1157,1156,1158,0,,,Create Quotation comparison Map
+1158,61,Analyze Quotation Comparison Map,1158,1157,1159,0,,,Analyze Quotation Comparison Map
+1159,61,Choose best option,1159,1158,1160,0,,,Choose best option
+1160,61,Settle Conditions With Supplier,1160,1159,1161,0,,,Settle Conditions With Supplier
+1161,61,Create Purchase Order,1161,1160,1162,0,,,Create Purchase Order
+1162,61,Confirm Purchase Order,1162,1161,1163,0,,,Confirm Purchase Order
+1163,61,Deliver Goods Services,1163,1162,1164,0,,,Deliver Goods Services
+1164,61,Release Purchase Order,1164,1163,1165,0,,,Release Purchase Order
+1165,61,Approve Purchase Order for payment,1165,1164,1166,0,,,Approve Purchase Order for payment
+1166,61,Send Invoice,1166,1165,1167,0,,,Send Invoice
+1167,61,Release Supplier's Invoice,1167,1166,1168,0,,,Release Supplier's Invoice
+1168,61,Authorize Supplier's Invoice payment,1168,1167,1169,0,,,Authorize Supplier's Invoice payment
+1169,61,Pay Invoice,1169,1168,1170,0,,,Pay Invoice
+1170,61,End,1170,1169,None,0,,,End
+1173,62,Start,1173,None,1174,0,,,Start
+1174,62,Create Purchase Requisition,1174,1173,1175,0,,,Create Purchase Requisition
+1175,62,Create Request for Quotation,1175,1174,1176,0,,,Create Request for Quotation
+1176,62,Analyze Request for Quotation,1176,1175,1177,0,,,Analyze Request for Quotation
+1177,62,Amend Request for Quotation,1177,1176,1178,0,,,Amend Request for Quotation
+1178,62,Analyze Request for Quotation,1178,1177,1179,0,,,Analyze Request for Quotation
+1179,62,End,1179,1178,None,0,,,End
+1182,63,Start,1182,None,1183,0,,,Start
+1183,63,Create Purchase Requisition,1183,1182,1184,0,,,Create Purchase Requisition
+1184,63,Create Request for Quotation,1184,1183,1185,0,,,Create Request for Quotation
+1185,63,Analyze Request for Quotation,1185,1184,1186,0,,,Analyze Request for Quotation
+1186,63,Send Request for Quotation to Supplier,1186,1185,1187,0,,,Send Request for Quotation to Supplier
+1187,63,Create Quotation comparison Map,1187,1186,1188,0,,,Create Quotation comparison Map
+1188,63,Analyze Quotation Comparison Map,1188,1187,1189,0,,,Analyze Quotation Comparison Map
+1189,63,Choose best option,1189,1188,1190,0,,,Choose best option
+1190,63,Settle Conditions With Supplier,1190,1189,1191,0,,,Settle Conditions With Supplier
+1191,63,Create Purchase Order,1191,1190,1192,0,,,Create Purchase Order
+1192,63,Confirm Purchase Order,1192,1191,1193,0,,,Confirm Purchase Order
+1193,63,Deliver Goods Services,1193,1192,1194,0,,,Deliver Goods Services
+1194,63,Release Purchase Order,1194,1193,1195,0,,,Release Purchase Order
+1195,63,Approve Purchase Order for payment,1195,1194,1196,0,,,Approve Purchase Order for payment
+1196,63,Send Invoice,1196,1195,1197,0,,,Send Invoice
+1197,63,Release Supplier's Invoice,1197,1196,1198,0,,,Release Supplier's Invoice
+1198,63,Authorize Supplier's Invoice payment,1198,1197,1199,0,,,Authorize Supplier's Invoice payment
+1199,63,Pay Invoice,1199,1198,1200,0,,,Pay Invoice
+1200,63,End,1200,1199,None,0,,,End
+1203,64,Start,1203,None,1204,0,,,Start
+1204,64,Create Purchase Requisition,1204,1203,1205,0,,,Create Purchase Requisition
+1205,64,Create Request for Quotation,1205,1204,1206,0,,,Create Request for Quotation
+1206,64,Analyze Request for Quotation,1206,1205,1207,0,,,Analyze Request for Quotation
+1207,64,Send Request for Quotation to Supplier,1207,1206,1208,0,,,Send Request for Quotation to Supplier
+1208,64,Create Quotation comparison Map,1208,1207,1209,0,,,Create Quotation comparison Map
+1209,64,Analyze Quotation Comparison Map,1209,1208,1210,0,,,Analyze Quotation Comparison Map
+1210,64,Choose best option,1210,1209,1211,0,,,Choose best option
+1211,64,Settle Conditions With Supplier,1211,1210,1212,0,,,Settle Conditions With Supplier
+1212,64,Create Purchase Order,1212,1211,1213,0,,,Create Purchase Order
+1213,64,Confirm Purchase Order,1213,1212,1214,0,,,Confirm Purchase Order
+1214,64,Deliver Goods Services,1214,1213,1215,0,,,Deliver Goods Services
+1215,64,Release Purchase Order,1215,1214,1216,0,,,Release Purchase Order
+1216,64,Approve Purchase Order for payment,1216,1215,1217,0,,,Approve Purchase Order for payment
+1217,64,Send Invoice,1217,1216,1218,0,,,Send Invoice
+1218,64,Release Supplier's Invoice,1218,1217,1219,0,,,Release Supplier's Invoice
+1219,64,Authorize Supplier's Invoice payment,1219,1218,1220,0,,,Authorize Supplier's Invoice payment
+1220,64,Pay Invoice,1220,1219,1221,0,,,Pay Invoice
+1221,64,End,1221,1220,None,0,,,End
+1224,65,Start,1224,None,1225,0,,,Start
+1225,65,Create Purchase Requisition,1225,1224,1226,0,,,Create Purchase Requisition
+1226,65,Analyze Purchase Requisition,1226,1225,1227,0,,,Analyze Purchase Requisition
+1227,65,Create Request for Quotation,1227,1226,1228,0,,,Create Request for Quotation
+1228,65,Analyze Request for Quotation,1228,1227,1229,0,,,Analyze Request for Quotation
+1229,65,End,1229,1228,None,0,,,End
+1232,66,Start,1232,None,1233,0,,,Start
+1233,66,Create Purchase Requisition,1233,1232,1234,0,,,Create Purchase Requisition
+1234,66,Create Request for Quotation,1234,1233,1235,0,,,Create Request for Quotation
+1235,66,Analyze Request for Quotation,1235,1234,1236,0,,,Analyze Request for Quotation
+1236,66,Amend Request for Quotation,1236,1235,1237,0,,,Amend Request for Quotation
+1237,66,Analyze Request for Quotation,1237,1236,1238,0,,,Analyze Request for Quotation
+1238,66,End,1238,1237,None,0,,,End
+1241,67,Start,1241,None,1242,0,,,Start
+1242,67,Create Purchase Requisition,1242,1241,1243,0,,,Create Purchase Requisition
+1243,67,Create Request for Quotation,1243,1242,1244,0,,,Create Request for Quotation
+1244,67,Analyze Request for Quotation,1244,1243,1245,0,,,Analyze Request for Quotation
+1245,67,Amend Request for Quotation,1245,1244,1246,0,,,Amend Request for Quotation
+1246,67,Analyze Request for Quotation,1246,1245,1247,0,,,Analyze Request for Quotation
+1247,67,Amend Request for Quotation,1247,1246,1248,0,,,Amend Request for Quotation
+1248,67,Analyze Request for Quotation,1248,1247,1249,0,,,Analyze Request for Quotation
+1249,67,Amend Request for Quotation,1249,1248,1250,0,,,Amend Request for Quotation
+1250,67,Analyze Request for Quotation,1250,1249,1251,0,,,Analyze Request for Quotation
+1251,67,Amend Request for Quotation,1251,1250,1252,0,,,Amend Request for Quotation
+1252,67,Analyze Request for Quotation,1252,1251,1253,0,,,Analyze Request for Quotation
+1253,67,Send Request for Quotation to Supplier,1253,1252,1254,0,,,Send Request for Quotation to Supplier
+1254,67,Create Quotation comparison Map,1254,1253,1255,0,,,Create Quotation comparison Map
+1255,67,Analyze Quotation Comparison Map,1255,1254,1256,0,,,Analyze Quotation Comparison Map
+1256,67,Choose best option,1256,1255,1257,0,,,Choose best option
+1257,67,Settle Conditions With Supplier,1257,1256,1258,0,,,Settle Conditions With Supplier
+1258,67,Create Purchase Order,1258,1257,1259,0,,,Create Purchase Order
+1259,67,Confirm Purchase Order,1259,1258,1260,0,,,Confirm Purchase Order
+1260,67,Deliver Goods Services,1260,1259,1261,0,,,Deliver Goods Services
+1261,67,Release Purchase Order,1261,1260,1262,0,,,Release Purchase Order
+1262,67,Approve Purchase Order for payment,1262,1261,1263,0,,,Approve Purchase Order for payment
+1263,67,Send Invoice,1263,1262,1264,0,,,Send Invoice
+1264,67,Release Supplier's Invoice,1264,1263,1265,0,,,Release Supplier's Invoice
+1265,67,Authorize Supplier's Invoice payment,1265,1264,1266,0,,,Authorize Supplier's Invoice payment
+1266,67,Pay Invoice,1266,1265,1267,0,,,Pay Invoice
+1267,67,End,1267,1266,None,0,,,End
+1270,68,Start,1270,None,1271,0,,,Start
+1271,68,Create Purchase Requisition,1271,1270,1272,0,,,Create Purchase Requisition
+1272,68,Analyze Purchase Requisition,1272,1271,1273,0,,,Analyze Purchase Requisition
+1273,68,Create Request for Quotation,1273,1272,1274,0,,,Create Request for Quotation
+1274,68,Analyze Request for Quotation,1274,1273,1275,0,,,Analyze Request for Quotation
+1275,68,Amend Request for Quotation,1275,1274,1276,0,,,Amend Request for Quotation
+1276,68,Analyze Request for Quotation,1276,1275,1277,0,,,Analyze Request for Quotation
+1277,68,Amend Request for Quotation,1277,1276,1278,0,,,Amend Request for Quotation
+1278,68,Analyze Request for Quotation,1278,1277,1279,0,,,Analyze Request for Quotation
+1279,68,End,1279,1278,None,0,,,End
+1282,69,Start,1282,None,1283,0,,,Start
+1283,69,Create Purchase Requisition,1283,1282,1284,0,,,Create Purchase Requisition
+1284,69,Create Request for Quotation,1284,1283,1285,0,,,Create Request for Quotation
+1285,69,Analyze Request for Quotation,1285,1284,1286,0,,,Analyze Request for Quotation
+1286,69,Send Request for Quotation to Supplier,1286,1285,1287,0,,,Send Request for Quotation to Supplier
+1287,69,Create Quotation comparison Map,1287,1286,1288,0,,,Create Quotation comparison Map
+1288,69,Analyze Quotation Comparison Map,1288,1287,1289,0,,,Analyze Quotation Comparison Map
+1289,69,Choose best option,1289,1288,1290,0,,,Choose best option
+1290,69,Settle Conditions With Supplier,1290,1289,1291,0,,,Settle Conditions With Supplier
+1291,69,Create Purchase Order,1291,1290,1292,0,,,Create Purchase Order
+1292,69,Confirm Purchase Order,1292,1291,1293,0,,,Confirm Purchase Order
+1293,69,Deliver Goods Services,1293,1292,1294,0,,,Deliver Goods Services
+1294,69,Release Purchase Order,1294,1293,1295,0,,,Release Purchase Order
+1295,69,Approve Purchase Order for payment,1295,1294,1296,0,,,Approve Purchase Order for payment
+1296,69,Send Invoice,1296,1295,1297,0,,,Send Invoice
+1297,69,Release Supplier's Invoice,1297,1296,1298,0,,,Release Supplier's Invoice
+1298,69,Authorize Supplier's Invoice payment,1298,1297,1299,0,,,Authorize Supplier's Invoice payment
+1299,69,Pay Invoice,1299,1298,1300,0,,,Pay Invoice
+1300,69,End,1300,1299,None,0,,,End
+1303,70,Start,1303,None,1304,0,,,Start
+1304,70,Create Purchase Requisition,1304,1303,1305,0,,,Create Purchase Requisition
+1305,70,Analyze Purchase Requisition,1305,1304,1306,0,,,Analyze Purchase Requisition
+1306,70,Create Request for Quotation,1306,1305,1307,0,,,Create Request for Quotation
+1307,70,Analyze Request for Quotation,1307,1306,1308,0,,,Analyze Request for Quotation
+1308,70,Send Request for Quotation to Supplier,1308,1307,1309,0,,,Send Request for Quotation to Supplier
+1309,70,Create Quotation comparison Map,1309,1308,1310,0,,,Create Quotation comparison Map
+1310,70,Analyze Quotation Comparison Map,1310,1309,1311,0,,,Analyze Quotation Comparison Map
+1311,70,Choose best option,1311,1310,1312,0,,,Choose best option
+1312,70,Settle Conditions With Supplier,1312,1311,1313,0,,,Settle Conditions With Supplier
+1313,70,Create Purchase Order,1313,1312,1314,0,,,Create Purchase Order
+1314,70,Confirm Purchase Order,1314,1313,1315,0,,,Confirm Purchase Order
+1315,70,Deliver Goods Services,1315,1314,1316,0,,,Deliver Goods Services
+1316,70,Release Purchase Order,1316,1315,1317,0,,,Release Purchase Order
+1317,70,Approve Purchase Order for payment,1317,1316,1318,0,,,Approve Purchase Order for payment
+1318,70,Send Invoice,1318,1317,1319,0,,,Send Invoice
+1319,70,Release Supplier's Invoice,1319,1318,1320,0,,,Release Supplier's Invoice
+1320,70,Authorize Supplier's Invoice payment,1320,1319,1321,0,,,Authorize Supplier's Invoice payment
+1321,70,Pay Invoice,1321,1320,1322,0,,,Pay Invoice
+1322,70,End,1322,1321,None,0,,,End
+1325,71,Start,1325,None,1326,0,,,Start
+1326,71,Create Purchase Requisition,1326,1325,1327,0,,,Create Purchase Requisition
+1327,71,Analyze Purchase Requisition,1327,1326,1328,0,,,Analyze Purchase Requisition
+1328,71,End,1328,1327,None,0,,,End
+1331,72,Start,1331,None,1332,0,,,Start
+1332,72,Create Purchase Requisition,1332,1331,1333,0,,,Create Purchase Requisition
+1333,72,Analyze Purchase Requisition,1333,1332,1334,0,,,Analyze Purchase Requisition
+1334,72,Create Request for Quotation,1334,1333,1335,0,,,Create Request for Quotation
+1335,72,Analyze Request for Quotation,1335,1334,1336,0,,,Analyze Request for Quotation
+1336,72,Send Request for Quotation to Supplier,1336,1335,1337,0,,,Send Request for Quotation to Supplier
+1337,72,Create Quotation comparison Map,1337,1336,1338,0,,,Create Quotation comparison Map
+1338,72,Analyze Quotation Comparison Map,1338,1337,1339,0,,,Analyze Quotation Comparison Map
+1339,72,Choose best option,1339,1338,1340,0,,,Choose best option
+1340,72,Settle Conditions With Supplier,1340,1339,1341,0,,,Settle Conditions With Supplier
+1341,72,Create Purchase Order,1341,1340,1342,0,,,Create Purchase Order
+1342,72,Confirm Purchase Order,1342,1341,1343,0,,,Confirm Purchase Order
+1343,72,Deliver Goods Services,1343,1342,1344,0,,,Deliver Goods Services
+1344,72,Release Purchase Order,1344,1343,1345,0,,,Release Purchase Order
+1345,72,Approve Purchase Order for payment,1345,1344,1346,0,,,Approve Purchase Order for payment
+1346,72,Send Invoice,1346,1345,1347,0,,,Send Invoice
+1347,72,Release Supplier's Invoice,1347,1346,1348,0,,,Release Supplier's Invoice
+1348,72,Authorize Supplier's Invoice payment,1348,1347,1349,0,,,Authorize Supplier's Invoice payment
+1349,72,Pay Invoice,1349,1348,1350,0,,,Pay Invoice
+1350,72,End,1350,1349,None,0,,,End
+1353,73,Start,1353,None,1354,0,,,Start
+1354,73,Create Purchase Requisition,1354,1353,1355,0,,,Create Purchase Requisition
+1355,73,Create Request for Quotation,1355,1354,1356,0,,,Create Request for Quotation
+1356,73,Analyze Request for Quotation,1356,1355,1357,0,,,Analyze Request for Quotation
+1357,73,Amend Request for Quotation,1357,1356,1358,0,,,Amend Request for Quotation
+1358,73,Analyze Request for Quotation,1358,1357,1359,0,,,Analyze Request for Quotation
+1359,73,Amend Request for Quotation,1359,1358,1360,0,,,Amend Request for Quotation
+1360,73,Analyze Request for Quotation,1360,1359,1361,0,,,Analyze Request for Quotation
+1361,73,Amend Request for Quotation,1361,1360,1362,0,,,Amend Request for Quotation
+1362,73,Analyze Request for Quotation,1362,1361,1363,0,,,Analyze Request for Quotation
+1363,73,Send Request for Quotation to Supplier,1363,1362,1364,0,,,Send Request for Quotation to Supplier
+1364,73,Create Quotation comparison Map,1364,1363,1365,0,,,Create Quotation comparison Map
+1365,73,Analyze Quotation Comparison Map,1365,1364,1366,0,,,Analyze Quotation Comparison Map
+1366,73,Choose best option,1366,1365,1367,0,,,Choose best option
+1367,73,Settle Conditions With Supplier,1367,1366,1368,0,,,Settle Conditions With Supplier
+1368,73,Create Purchase Order,1368,1367,1369,0,,,Create Purchase Order
+1369,73,Confirm Purchase Order,1369,1368,1370,0,,,Confirm Purchase Order
+1370,73,Deliver Goods Services,1370,1369,1371,0,,,Deliver Goods Services
+1371,73,Release Purchase Order,1371,1370,1372,0,,,Release Purchase Order
+1372,73,Approve Purchase Order for payment,1372,1371,1373,0,,,Approve Purchase Order for payment
+1373,73,Send Invoice,1373,1372,1374,0,,,Send Invoice
+1374,73,Release Supplier's Invoice,1374,1373,1375,0,,,Release Supplier's Invoice
+1375,73,Authorize Supplier's Invoice payment,1375,1374,1376,0,,,Authorize Supplier's Invoice payment
+1376,73,Pay Invoice,1376,1375,1377,0,,,Pay Invoice
+1377,73,End,1377,1376,None,0,,,End
+1380,74,Start,1380,None,1381,0,,,Start
+1381,74,Create Purchase Requisition,1381,1380,1382,0,,,Create Purchase Requisition
+1382,74,Analyze Purchase Requisition,1382,1381,1383,0,,,Analyze Purchase Requisition
+1383,74,Create Request for Quotation,1383,1382,1384,0,,,Create Request for Quotation
+1384,74,Analyze Request for Quotation,1384,1383,1385,0,,,Analyze Request for Quotation
+1385,74,Send Request for Quotation to Supplier,1385,1384,1386,0,,,Send Request for Quotation to Supplier
+1386,74,Create Quotation comparison Map,1386,1385,1387,0,,,Create Quotation comparison Map
+1387,74,Analyze Quotation Comparison Map,1387,1386,1388,0,,,Analyze Quotation Comparison Map
+1388,74,Choose best option,1388,1387,1389,0,,,Choose best option
+1389,74,Settle Conditions With Supplier,1389,1388,1390,0,,,Settle Conditions With Supplier
+1390,74,Create Purchase Order,1390,1389,1391,0,,,Create Purchase Order
+1391,74,Confirm Purchase Order,1391,1390,1392,0,,,Confirm Purchase Order
+1392,74,Deliver Goods Services,1392,1391,1393,0,,,Deliver Goods Services
+1393,74,Release Purchase Order,1393,1392,1394,0,,,Release Purchase Order
+1394,74,Approve Purchase Order for payment,1394,1393,1395,0,,,Approve Purchase Order for payment
+1395,74,Send Invoice,1395,1394,1396,0,,,Send Invoice
+1396,74,Release Supplier's Invoice,1396,1395,1397,0,,,Release Supplier's Invoice
+1397,74,Authorize Supplier's Invoice payment,1397,1396,1398,0,,,Authorize Supplier's Invoice payment
+1398,74,Pay Invoice,1398,1397,1399,0,,,Pay Invoice
+1399,74,End,1399,1398,None,0,,,End
+1402,75,Start,1402,None,1403,0,,,Start
+1403,75,Create Purchase Requisition,1403,1402,1404,0,,,Create Purchase Requisition
+1404,75,Create Request for Quotation,1404,1403,1405,0,,,Create Request for Quotation
+1405,75,Analyze Request for Quotation,1405,1404,1406,0,,,Analyze Request for Quotation
+1406,75,Send Request for Quotation to Supplier,1406,1405,1407,0,,,Send Request for Quotation to Supplier
+1407,75,Create Quotation comparison Map,1407,1406,1408,0,,,Create Quotation comparison Map
+1408,75,Analyze Quotation Comparison Map,1408,1407,1409,0,,,Analyze Quotation Comparison Map
+1409,75,Choose best option,1409,1408,1410,0,,,Choose best option
+1410,75,Settle Conditions With Supplier,1410,1409,1411,0,,,Settle Conditions With Supplier
+1411,75,Create Purchase Order,1411,1410,1412,0,,,Create Purchase Order
+1412,75,Confirm Purchase Order,1412,1411,1413,0,,,Confirm Purchase Order
+1413,75,Deliver Goods Services,1413,1412,1414,0,,,Deliver Goods Services
+1414,75,Release Purchase Order,1414,1413,1415,0,,,Release Purchase Order
+1415,75,Approve Purchase Order for payment,1415,1414,1416,0,,,Approve Purchase Order for payment
+1416,75,Send Invoice,1416,1415,1417,0,,,Send Invoice
+1417,75,Release Supplier's Invoice,1417,1416,1418,0,,,Release Supplier's Invoice
+1418,75,Authorize Supplier's Invoice payment,1418,1417,1419,0,,,Authorize Supplier's Invoice payment
+1419,75,Pay Invoice,1419,1418,1420,0,,,Pay Invoice
+1420,75,End,1420,1419,None,0,,,End
+1423,76,Start,1423,None,1424,0,,,Start
+1424,76,Create Purchase Requisition,1424,1423,1425,0,,,Create Purchase Requisition
+1425,76,Create Request for Quotation,1425,1424,1426,0,,,Create Request for Quotation
+1426,76,Analyze Request for Quotation,1426,1425,1427,0,,,Analyze Request for Quotation
+1427,76,Send Request for Quotation to Supplier,1427,1426,1428,0,,,Send Request for Quotation to Supplier
+1428,76,Create Quotation comparison Map,1428,1427,1429,0,,,Create Quotation comparison Map
+1429,76,Analyze Quotation Comparison Map,1429,1428,1430,0,,,Analyze Quotation Comparison Map
+1430,76,Choose best option,1430,1429,1431,0,,,Choose best option
+1431,76,Settle Conditions With Supplier,1431,1430,1432,0,,,Settle Conditions With Supplier
+1432,76,Create Purchase Order,1432,1431,1433,0,,,Create Purchase Order
+1433,76,Confirm Purchase Order,1433,1432,1434,0,,,Confirm Purchase Order
+1434,76,Deliver Goods Services,1434,1433,1435,0,,,Deliver Goods Services
+1435,76,Release Purchase Order,1435,1434,1436,0,,,Release Purchase Order
+1436,76,Approve Purchase Order for payment,1436,1435,1437,0,,,Approve Purchase Order for payment
+1437,76,Send Invoice,1437,1436,1438,0,,,Send Invoice
+1438,76,Release Supplier's Invoice,1438,1437,1439,0,,,Release Supplier's Invoice
+1439,76,Authorize Supplier's Invoice payment,1439,1438,1440,0,,,Authorize Supplier's Invoice payment
+1440,76,Pay Invoice,1440,1439,1441,0,,,Pay Invoice
+1441,76,End,1441,1440,None,0,,,End
+1444,77,Start,1444,None,1445,0,,,Start
+1445,77,Create Purchase Requisition,1445,1444,1446,0,,,Create Purchase Requisition
+1446,77,Analyze Purchase Requisition,1446,1445,1447,0,,,Analyze Purchase Requisition
+1447,77,Create Request for Quotation,1447,1446,1448,0,,,Create Request for Quotation
+1448,77,Analyze Request for Quotation,1448,1447,1449,0,,,Analyze Request for Quotation
+1449,77,Send Request for Quotation to Supplier,1449,1448,1450,0,,,Send Request for Quotation to Supplier
+1450,77,Create Quotation comparison Map,1450,1449,1451,0,,,Create Quotation comparison Map
+1451,77,Analyze Quotation Comparison Map,1451,1450,1452,0,,,Analyze Quotation Comparison Map
+1452,77,Choose best option,1452,1451,1453,0,,,Choose best option
+1453,77,Settle Conditions With Supplier,1453,1452,1454,0,,,Settle Conditions With Supplier
+1454,77,Create Purchase Order,1454,1453,1455,0,,,Create Purchase Order
+1455,77,Confirm Purchase Order,1455,1454,1456,0,,,Confirm Purchase Order
+1456,77,Deliver Goods Services,1456,1455,1457,0,,,Deliver Goods Services
+1457,77,Release Purchase Order,1457,1456,1458,0,,,Release Purchase Order
+1458,77,Approve Purchase Order for payment,1458,1457,1459,0,,,Approve Purchase Order for payment
+1459,77,Send Invoice,1459,1458,1460,0,,,Send Invoice
+1460,77,Release Supplier's Invoice,1460,1459,1461,0,,,Release Supplier's Invoice
+1461,77,Authorize Supplier's Invoice payment,1461,1460,1462,0,,,Authorize Supplier's Invoice payment
+1462,77,Pay Invoice,1462,1461,1463,0,,,Pay Invoice
+1463,77,End,1463,1462,None,0,,,End
+1466,78,Start,1466,None,1467,0,,,Start
+1467,78,Create Purchase Requisition,1467,1466,1468,0,,,Create Purchase Requisition
+1468,78,Analyze Purchase Requisition,1468,1467,1469,0,,,Analyze Purchase Requisition
+1469,78,Create Request for Quotation,1469,1468,1470,0,,,Create Request for Quotation
+1470,78,Analyze Request for Quotation,1470,1469,1471,0,,,Analyze Request for Quotation
+1471,78,Send Request for Quotation to Supplier,1471,1470,1472,0,,,Send Request for Quotation to Supplier
+1472,78,Create Quotation comparison Map,1472,1471,1473,0,,,Create Quotation comparison Map
+1473,78,Analyze Quotation Comparison Map,1473,1472,1474,0,,,Analyze Quotation Comparison Map
+1474,78,Choose best option,1474,1473,1475,0,,,Choose best option
+1475,78,Settle Conditions With Supplier,1475,1474,1476,0,,,Settle Conditions With Supplier
+1476,78,Create Purchase Order,1476,1475,1477,0,,,Create Purchase Order
+1477,78,Confirm Purchase Order,1477,1476,1478,0,,,Confirm Purchase Order
+1478,78,Deliver Goods Services,1478,1477,1479,0,,,Deliver Goods Services
+1479,78,Release Purchase Order,1479,1478,1480,0,,,Release Purchase Order
+1480,78,Approve Purchase Order for payment,1480,1479,1481,0,,,Approve Purchase Order for payment
+1481,78,Send Invoice,1481,1480,1482,0,,,Send Invoice
+1482,78,Release Supplier's Invoice,1482,1481,1483,0,,,Release Supplier's Invoice
+1483,78,Settle Dispute With Supplier,1483,1482,1484,0,,,Settle Dispute With Supplier
+1484,78,Authorize Supplier's Invoice payment,1484,1483,1485,0,,,Authorize Supplier's Invoice payment
+1485,78,Pay Invoice,1485,1484,1486,0,,,Pay Invoice
+1486,78,End,1486,1485,None,0,,,End
+1489,79,Start,1489,None,1490,0,,,Start
+1490,79,Create Purchase Requisition,1490,1489,1491,0,,,Create Purchase Requisition
+1491,79,Create Request for Quotation,1491,1490,1492,0,,,Create Request for Quotation
+1492,79,Analyze Request for Quotation,1492,1491,1493,0,,,Analyze Request for Quotation
+1493,79,End,1493,1492,None,0,,,End
+1496,80,Start,1496,None,1497,0,,,Start
+1497,80,Create Purchase Requisition,1497,1496,1498,0,,,Create Purchase Requisition
+1498,80,Analyze Purchase Requisition,1498,1497,1499,0,,,Analyze Purchase Requisition
+1499,80,Create Request for Quotation,1499,1498,1500,0,,,Create Request for Quotation
+1500,80,Analyze Request for Quotation,1500,1499,1501,0,,,Analyze Request for Quotation
+1501,80,Send Request for Quotation to Supplier,1501,1500,1502,0,,,Send Request for Quotation to Supplier
+1502,80,Create Quotation comparison Map,1502,1501,1503,0,,,Create Quotation comparison Map
+1503,80,Analyze Quotation Comparison Map,1503,1502,1504,0,,,Analyze Quotation Comparison Map
+1504,80,Choose best option,1504,1503,1505,0,,,Choose best option
+1505,80,Settle Conditions With Supplier,1505,1504,1506,0,,,Settle Conditions With Supplier
+1506,80,Create Purchase Order,1506,1505,1507,0,,,Create Purchase Order
+1507,80,Confirm Purchase Order,1507,1506,1508,0,,,Confirm Purchase Order
+1508,80,Deliver Goods Services,1508,1507,1509,0,,,Deliver Goods Services
+1509,80,Release Purchase Order,1509,1508,1510,0,,,Release Purchase Order
+1510,80,Approve Purchase Order for payment,1510,1509,1511,0,,,Approve Purchase Order for payment
+1511,80,Send Invoice,1511,1510,1512,0,,,Send Invoice
+1512,80,Release Supplier's Invoice,1512,1511,1513,0,,,Release Supplier's Invoice
+1513,80,Authorize Supplier's Invoice payment,1513,1512,1514,0,,,Authorize Supplier's Invoice payment
+1514,80,Pay Invoice,1514,1513,1515,0,,,Pay Invoice
+1515,80,End,1515,1514,None,0,,,End
+1518,81,Start,1518,None,1519,0,,,Start
+1519,81,Create Purchase Requisition,1519,1518,1520,0,,,Create Purchase Requisition
+1520,81,Analyze Purchase Requisition,1520,1519,1521,0,,,Analyze Purchase Requisition
+1521,81,Create Request for Quotation,1521,1520,1522,0,,,Create Request for Quotation
+1522,81,Analyze Request for Quotation,1522,1521,1523,0,,,Analyze Request for Quotation
+1523,81,Send Request for Quotation to Supplier,1523,1522,1524,0,,,Send Request for Quotation to Supplier
+1524,81,Create Quotation comparison Map,1524,1523,1525,0,,,Create Quotation comparison Map
+1525,81,Analyze Quotation Comparison Map,1525,1524,1526,0,,,Analyze Quotation Comparison Map
+1526,81,Choose best option,1526,1525,1527,0,,,Choose best option
+1527,81,Settle Conditions With Supplier,1527,1526,1528,0,,,Settle Conditions With Supplier
+1528,81,Create Purchase Order,1528,1527,1529,0,,,Create Purchase Order
+1529,81,Confirm Purchase Order,1529,1528,1530,0,,,Confirm Purchase Order
+1530,81,Deliver Goods Services,1530,1529,1531,0,,,Deliver Goods Services
+1531,81,Release Purchase Order,1531,1530,1532,0,,,Release Purchase Order
+1532,81,Approve Purchase Order for payment,1532,1531,1533,0,,,Approve Purchase Order for payment
+1533,81,Send Invoice,1533,1532,1534,0,,,Send Invoice
+1534,81,Release Supplier's Invoice,1534,1533,1535,0,,,Release Supplier's Invoice
+1535,81,Authorize Supplier's Invoice payment,1535,1534,1536,0,,,Authorize Supplier's Invoice payment
+1536,81,Pay Invoice,1536,1535,1537,0,,,Pay Invoice
+1537,81,End,1537,1536,None,0,,,End
+1540,82,Start,1540,None,1541,0,,,Start
+1541,82,Create Purchase Requisition,1541,1540,1542,0,,,Create Purchase Requisition
+1542,82,Create Request for Quotation,1542,1541,1543,0,,,Create Request for Quotation
+1543,82,Analyze Request for Quotation,1543,1542,1544,0,,,Analyze Request for Quotation
+1544,82,Send Request for Quotation to Supplier,1544,1543,1545,0,,,Send Request for Quotation to Supplier
+1545,82,Create Quotation comparison Map,1545,1544,1546,0,,,Create Quotation comparison Map
+1546,82,Analyze Quotation Comparison Map,1546,1545,1547,0,,,Analyze Quotation Comparison Map
+1547,82,Choose best option,1547,1546,1548,0,,,Choose best option
+1548,82,Settle Conditions With Supplier,1548,1547,1549,0,,,Settle Conditions With Supplier
+1549,82,Create Purchase Order,1549,1548,1550,0,,,Create Purchase Order
+1550,82,Confirm Purchase Order,1550,1549,1551,0,,,Confirm Purchase Order
+1551,82,Deliver Goods Services,1551,1550,1552,0,,,Deliver Goods Services
+1552,82,Release Purchase Order,1552,1551,1553,0,,,Release Purchase Order
+1553,82,Approve Purchase Order for payment,1553,1552,1554,0,,,Approve Purchase Order for payment
+1554,82,Send Invoice,1554,1553,1555,0,,,Send Invoice
+1555,82,Release Supplier's Invoice,1555,1554,1556,0,,,Release Supplier's Invoice
+1556,82,Settle Dispute With Supplier,1556,1555,1557,0,,,Settle Dispute With Supplier
+1557,82,Authorize Supplier's Invoice payment,1557,1556,1558,0,,,Authorize Supplier's Invoice payment
+1558,82,Pay Invoice,1558,1557,1559,0,,,Pay Invoice
+1559,82,End,1559,1558,None,0,,,End
+1562,83,Start,1562,None,1563,0,,,Start
+1563,83,Create Purchase Requisition,1563,1562,1564,0,,,Create Purchase Requisition
+1564,83,Analyze Purchase Requisition,1564,1563,1565,0,,,Analyze Purchase Requisition
+1565,83,Amend Purchase Requisition,1565,1564,1566,0,,,Amend Purchase Requisition
+1566,83,Analyze Purchase Requisition,1566,1565,1567,0,,,Analyze Purchase Requisition
+1567,83,End,1567,1566,None,0,,,End
+1570,84,Start,1570,None,1571,0,,,Start
+1571,84,Create Purchase Requisition,1571,1570,1572,0,,,Create Purchase Requisition
+1572,84,Analyze Purchase Requisition,1572,1571,1573,0,,,Analyze Purchase Requisition
+1573,84,Create Request for Quotation,1573,1572,1574,0,,,Create Request for Quotation
+1574,84,Analyze Request for Quotation,1574,1573,1575,0,,,Analyze Request for Quotation
+1575,84,Send Request for Quotation to Supplier,1575,1574,1576,0,,,Send Request for Quotation to Supplier
+1576,84,Create Quotation comparison Map,1576,1575,1577,0,,,Create Quotation comparison Map
+1577,84,Analyze Quotation Comparison Map,1577,1576,1578,0,,,Analyze Quotation Comparison Map
+1578,84,Choose best option,1578,1577,1579,0,,,Choose best option
+1579,84,Settle Conditions With Supplier,1579,1578,1580,0,,,Settle Conditions With Supplier
+1580,84,Create Purchase Order,1580,1579,1581,0,,,Create Purchase Order
+1581,84,Confirm Purchase Order,1581,1580,1582,0,,,Confirm Purchase Order
+1582,84,Deliver Goods Services,1582,1581,1583,0,,,Deliver Goods Services
+1583,84,Release Purchase Order,1583,1582,1584,0,,,Release Purchase Order
+1584,84,Approve Purchase Order for payment,1584,1583,1585,0,,,Approve Purchase Order for payment
+1585,84,Send Invoice,1585,1584,1586,0,,,Send Invoice
+1586,84,Release Supplier's Invoice,1586,1585,1587,0,,,Release Supplier's Invoice
+1587,84,Authorize Supplier's Invoice payment,1587,1586,1588,0,,,Authorize Supplier's Invoice payment
+1588,84,Pay Invoice,1588,1587,1589,0,,,Pay Invoice
+1589,84,End,1589,1588,None,0,,,End
+1592,85,Start,1592,None,1593,0,,,Start
+1593,85,Create Purchase Requisition,1593,1592,1594,0,,,Create Purchase Requisition
+1594,85,Analyze Purchase Requisition,1594,1593,1595,0,,,Analyze Purchase Requisition
+1595,85,Create Request for Quotation,1595,1594,1596,0,,,Create Request for Quotation
+1596,85,Analyze Request for Quotation,1596,1595,1597,0,,,Analyze Request for Quotation
+1597,85,Amend Request for Quotation,1597,1596,1598,0,,,Amend Request for Quotation
+1598,85,Analyze Request for Quotation,1598,1597,1599,0,,,Analyze Request for Quotation
+1599,85,Amend Request for Quotation,1599,1598,1600,0,,,Amend Request for Quotation
+1600,85,Analyze Request for Quotation,1600,1599,1601,0,,,Analyze Request for Quotation
+1601,85,Amend Request for Quotation,1601,1600,1602,0,,,Amend Request for Quotation
+1602,85,Analyze Request for Quotation,1602,1601,1603,0,,,Analyze Request for Quotation
+1603,85,Amend Request for Quotation,1603,1602,1604,0,,,Amend Request for Quotation
+1604,85,Analyze Request for Quotation,1604,1603,1605,0,,,Analyze Request for Quotation
+1605,85,Amend Request for Quotation,1605,1604,1606,0,,,Amend Request for Quotation
+1606,85,Analyze Request for Quotation,1606,1605,1607,0,,,Analyze Request for Quotation
+1607,85,Amend Request for Quotation,1607,1606,1608,0,,,Amend Request for Quotation
+1608,85,Analyze Request for Quotation,1608,1607,1609,0,,,Analyze Request for Quotation
+1609,85,Send Request for Quotation to Supplier,1609,1608,1610,0,,,Send Request for Quotation to Supplier
+1610,85,Create Quotation comparison Map,1610,1609,1611,0,,,Create Quotation comparison Map
+1611,85,Analyze Quotation Comparison Map,1611,1610,1612,0,,,Analyze Quotation Comparison Map
+1612,85,Choose best option,1612,1611,1613,0,,,Choose best option
+1613,85,Settle Conditions With Supplier,1613,1612,1614,0,,,Settle Conditions With Supplier
+1614,85,Create Purchase Order,1614,1613,1615,0,,,Create Purchase Order
+1615,85,Confirm Purchase Order,1615,1614,1616,0,,,Confirm Purchase Order
+1616,85,Deliver Goods Services,1616,1615,1617,0,,,Deliver Goods Services
+1617,85,Release Purchase Order,1617,1616,1618,0,,,Release Purchase Order
+1618,85,Approve Purchase Order for payment,1618,1617,1619,0,,,Approve Purchase Order for payment
+1619,85,Send Invoice,1619,1618,1620,0,,,Send Invoice
+1620,85,Release Supplier's Invoice,1620,1619,1621,0,,,Release Supplier's Invoice
+1621,85,Authorize Supplier's Invoice payment,1621,1620,1622,0,,,Authorize Supplier's Invoice payment
+1622,85,Pay Invoice,1622,1621,1623,0,,,Pay Invoice
+1623,85,End,1623,1622,None,0,,,End
+1626,86,Start,1626,None,1627,0,,,Start
+1627,86,Create Purchase Requisition,1627,1626,1628,0,,,Create Purchase Requisition
+1628,86,Analyze Purchase Requisition,1628,1627,1629,0,,,Analyze Purchase Requisition
+1629,86,Create Request for Quotation,1629,1628,1630,0,,,Create Request for Quotation
+1630,86,Analyze Request for Quotation,1630,1629,1631,0,,,Analyze Request for Quotation
+1631,86,Amend Request for Quotation,1631,1630,1632,0,,,Amend Request for Quotation
+1632,86,Analyze Request for Quotation,1632,1631,1633,0,,,Analyze Request for Quotation
+1633,86,Amend Request for Quotation,1633,1632,1634,0,,,Amend Request for Quotation
+1634,86,Analyze Request for Quotation,1634,1633,1635,0,,,Analyze Request for Quotation
+1635,86,Amend Request for Quotation,1635,1634,1636,0,,,Amend Request for Quotation
+1636,86,Analyze Request for Quotation,1636,1635,1637,0,,,Analyze Request for Quotation
+1637,86,Amend Request for Quotation,1637,1636,1638,0,,,Amend Request for Quotation
+1638,86,Analyze Request for Quotation,1638,1637,1639,0,,,Analyze Request for Quotation
+1639,86,Send Request for Quotation to Supplier,1639,1638,1640,0,,,Send Request for Quotation to Supplier
+1640,86,Create Quotation comparison Map,1640,1639,1641,0,,,Create Quotation comparison Map
+1641,86,Analyze Quotation Comparison Map,1641,1640,1642,0,,,Analyze Quotation Comparison Map
+1642,86,Choose best option,1642,1641,1643,0,,,Choose best option
+1643,86,Settle Conditions With Supplier,1643,1642,1644,0,,,Settle Conditions With Supplier
+1644,86,Create Purchase Order,1644,1643,1645,0,,,Create Purchase Order
+1645,86,Confirm Purchase Order,1645,1644,1646,0,,,Confirm Purchase Order
+1646,86,Deliver Goods Services,1646,1645,1647,0,,,Deliver Goods Services
+1647,86,Release Purchase Order,1647,1646,1648,0,,,Release Purchase Order
+1648,86,Approve Purchase Order for payment,1648,1647,1649,0,,,Approve Purchase Order for payment
+1649,86,Send Invoice,1649,1648,1650,0,,,Send Invoice
+1650,86,Release Supplier's Invoice,1650,1649,1651,0,,,Release Supplier's Invoice
+1651,86,Authorize Supplier's Invoice payment,1651,1650,1652,0,,,Authorize Supplier's Invoice payment
+1652,86,Pay Invoice,1652,1651,1653,0,,,Pay Invoice
+1653,86,End,1653,1652,None,0,,,End
+1656,87,Start,1656,None,1657,0,,,Start
+1657,87,Create Purchase Requisition,1657,1656,1658,0,,,Create Purchase Requisition
+1658,87,Analyze Purchase Requisition,1658,1657,1659,0,,,Analyze Purchase Requisition
+1659,87,End,1659,1658,None,0,,,End
+1662,88,Start,1662,None,1663,0,,,Start
+1663,88,Create Purchase Requisition,1663,1662,1664,0,,,Create Purchase Requisition
+1664,88,Create Request for Quotation,1664,1663,1665,0,,,Create Request for Quotation
+1665,88,Analyze Request for Quotation,1665,1664,1666,0,,,Analyze Request for Quotation
+1666,88,End,1666,1665,None,0,,,End
+1669,89,Start,1669,None,1670,0,,,Start
+1670,89,Create Purchase Requisition,1670,1669,1671,0,,,Create Purchase Requisition
+1671,89,Create Request for Quotation,1671,1670,1672,0,,,Create Request for Quotation
+1672,89,Analyze Request for Quotation,1672,1671,1673,0,,,Analyze Request for Quotation
+1673,89,End,1673,1672,None,0,,,End
+1676,90,Start,1676,None,1677,0,,,Start
+1677,90,Create Purchase Requisition,1677,1676,1678,0,,,Create Purchase Requisition
+1678,90,Analyze Purchase Requisition,1678,1677,1679,0,,,Analyze Purchase Requisition
+1679,90,Create Request for Quotation,1679,1678,1680,0,,,Create Request for Quotation
+1680,90,Analyze Request for Quotation,1680,1679,1681,0,,,Analyze Request for Quotation
+1681,90,Amend Request for Quotation,1681,1680,1682,0,,,Amend Request for Quotation
+1682,90,Analyze Request for Quotation,1682,1681,1683,0,,,Analyze Request for Quotation
+1683,90,Amend Request for Quotation,1683,1682,1684,0,,,Amend Request for Quotation
+1684,90,Analyze Request for Quotation,1684,1683,1685,0,,,Analyze Request for Quotation
+1685,90,Amend Request for Quotation,1685,1684,1686,0,,,Amend Request for Quotation
+1686,90,Analyze Request for Quotation,1686,1685,1687,0,,,Analyze Request for Quotation
+1687,90,Amend Request for Quotation,1687,1686,1688,0,,,Amend Request for Quotation
+1688,90,Analyze Request for Quotation,1688,1687,1689,0,,,Analyze Request for Quotation
+1689,90,Send Request for Quotation to Supplier,1689,1688,1690,0,,,Send Request for Quotation to Supplier
+1690,90,Create Quotation comparison Map,1690,1689,1691,0,,,Create Quotation comparison Map
+1691,90,Analyze Quotation Comparison Map,1691,1690,1692,0,,,Analyze Quotation Comparison Map
+1692,90,Choose best option,1692,1691,1693,0,,,Choose best option
+1693,90,Settle Conditions With Supplier,1693,1692,1694,0,,,Settle Conditions With Supplier
+1694,90,Create Purchase Order,1694,1693,1695,0,,,Create Purchase Order
+1695,90,Confirm Purchase Order,1695,1694,1696,0,,,Confirm Purchase Order
+1696,90,Deliver Goods Services,1696,1695,1697,0,,,Deliver Goods Services
+1697,90,Release Purchase Order,1697,1696,1698,0,,,Release Purchase Order
+1698,90,Approve Purchase Order for payment,1698,1697,1699,0,,,Approve Purchase Order for payment
+1699,90,Send Invoice,1699,1698,1700,0,,,Send Invoice
+1700,90,Release Supplier's Invoice,1700,1699,1701,0,,,Release Supplier's Invoice
+1701,90,Authorize Supplier's Invoice payment,1701,1700,1702,0,,,Authorize Supplier's Invoice payment
+1702,90,Pay Invoice,1702,1701,1703,0,,,Pay Invoice
+1703,90,End,1703,1702,None,0,,,End
+1706,91,Start,1706,None,1707,0,,,Start
+1707,91,Create Purchase Requisition,1707,1706,1708,0,,,Create Purchase Requisition
+1708,91,Analyze Purchase Requisition,1708,1707,1709,0,,,Analyze Purchase Requisition
+1709,91,Create Request for Quotation,1709,1708,1710,0,,,Create Request for Quotation
+1710,91,Analyze Request for Quotation,1710,1709,1711,0,,,Analyze Request for Quotation
+1711,91,Send Request for Quotation to Supplier,1711,1710,1712,0,,,Send Request for Quotation to Supplier
+1712,91,Create Quotation comparison Map,1712,1711,1713,0,,,Create Quotation comparison Map
+1713,91,Analyze Quotation Comparison Map,1713,1712,1714,0,,,Analyze Quotation Comparison Map
+1714,91,Choose best option,1714,1713,1715,0,,,Choose best option
+1715,91,Settle Conditions With Supplier,1715,1714,1716,0,,,Settle Conditions With Supplier
+1716,91,Create Purchase Order,1716,1715,1717,0,,,Create Purchase Order
+1717,91,Confirm Purchase Order,1717,1716,1718,0,,,Confirm Purchase Order
+1718,91,Deliver Goods Services,1718,1717,1719,0,,,Deliver Goods Services
+1719,91,Release Purchase Order,1719,1718,1720,0,,,Release Purchase Order
+1720,91,Approve Purchase Order for payment,1720,1719,1721,0,,,Approve Purchase Order for payment
+1721,91,Send Invoice,1721,1720,1722,0,,,Send Invoice
+1722,91,Release Supplier's Invoice,1722,1721,1723,0,,,Release Supplier's Invoice
+1723,91,Authorize Supplier's Invoice payment,1723,1722,1724,0,,,Authorize Supplier's Invoice payment
+1724,91,Pay Invoice,1724,1723,1725,0,,,Pay Invoice
+1725,91,End,1725,1724,None,0,,,End
+1728,92,Start,1728,None,1729,0,,,Start
+1729,92,Create Purchase Requisition,1729,1728,1730,0,,,Create Purchase Requisition
+1730,92,Create Request for Quotation,1730,1729,1731,0,,,Create Request for Quotation
+1731,92,Analyze Request for Quotation,1731,1730,1732,0,,,Analyze Request for Quotation
+1732,92,Send Request for Quotation to Supplier,1732,1731,1733,0,,,Send Request for Quotation to Supplier
+1733,92,Create Quotation comparison Map,1733,1732,1734,0,,,Create Quotation comparison Map
+1734,92,Analyze Quotation Comparison Map,1734,1733,1735,0,,,Analyze Quotation Comparison Map
+1735,92,Choose best option,1735,1734,1736,0,,,Choose best option
+1736,92,Settle Conditions With Supplier,1736,1735,1737,0,,,Settle Conditions With Supplier
+1737,92,Create Purchase Order,1737,1736,1738,0,,,Create Purchase Order
+1738,92,Confirm Purchase Order,1738,1737,1739,0,,,Confirm Purchase Order
+1739,92,Deliver Goods Services,1739,1738,1740,0,,,Deliver Goods Services
+1740,92,Release Purchase Order,1740,1739,1741,0,,,Release Purchase Order
+1741,92,Approve Purchase Order for payment,1741,1740,1742,0,,,Approve Purchase Order for payment
+1742,92,Send Invoice,1742,1741,1743,0,,,Send Invoice
+1743,92,Release Supplier's Invoice,1743,1742,1744,0,,,Release Supplier's Invoice
+1744,92,Settle Dispute With Supplier,1744,1743,1745,0,,,Settle Dispute With Supplier
+1745,92,Authorize Supplier's Invoice payment,1745,1744,1746,0,,,Authorize Supplier's Invoice payment
+1746,92,Pay Invoice,1746,1745,1747,0,,,Pay Invoice
+1747,92,End,1747,1746,None,0,,,End
+1750,93,Start,1750,None,1751,0,,,Start
+1751,93,Create Purchase Requisition,1751,1750,1752,0,,,Create Purchase Requisition
+1752,93,Create Request for Quotation,1752,1751,1753,0,,,Create Request for Quotation
+1753,93,Analyze Request for Quotation,1753,1752,1754,0,,,Analyze Request for Quotation
+1754,93,Amend Request for Quotation,1754,1753,1755,0,,,Amend Request for Quotation
+1755,93,Analyze Request for Quotation,1755,1754,1756,0,,,Analyze Request for Quotation
+1756,93,Amend Request for Quotation,1756,1755,1757,0,,,Amend Request for Quotation
+1757,93,Analyze Request for Quotation,1757,1756,1758,0,,,Analyze Request for Quotation
+1758,93,Amend Request for Quotation,1758,1757,1759,0,,,Amend Request for Quotation
+1759,93,Analyze Request for Quotation,1759,1758,1760,0,,,Analyze Request for Quotation
+1760,93,Amend Request for Quotation,1760,1759,1761,0,,,Amend Request for Quotation
+1761,93,Analyze Request for Quotation,1761,1760,1762,0,,,Analyze Request for Quotation
+1762,93,Send Request for Quotation to Supplier,1762,1761,1763,0,,,Send Request for Quotation to Supplier
+1763,93,Create Quotation comparison Map,1763,1762,1764,0,,,Create Quotation comparison Map
+1764,93,Analyze Quotation Comparison Map,1764,1763,1765,0,,,Analyze Quotation Comparison Map
+1765,93,Choose best option,1765,1764,1766,0,,,Choose best option
+1766,93,Settle Conditions With Supplier,1766,1765,1767,0,,,Settle Conditions With Supplier
+1767,93,Create Purchase Order,1767,1766,1768,0,,,Create Purchase Order
+1768,93,Confirm Purchase Order,1768,1767,1769,0,,,Confirm Purchase Order
+1769,93,Deliver Goods Services,1769,1768,1770,0,,,Deliver Goods Services
+1770,93,Release Purchase Order,1770,1769,1771,0,,,Release Purchase Order
+1771,93,Approve Purchase Order for payment,1771,1770,1772,0,,,Approve Purchase Order for payment
+1772,93,Send Invoice,1772,1771,1773,0,,,Send Invoice
+1773,93,Release Supplier's Invoice,1773,1772,1774,0,,,Release Supplier's Invoice
+1774,93,Authorize Supplier's Invoice payment,1774,1773,1775,0,,,Authorize Supplier's Invoice payment
+1775,93,Pay Invoice,1775,1774,1776,0,,,Pay Invoice
+1776,93,End,1776,1775,None,0,,,End
+1779,94,Start,1779,None,1780,0,,,Start
+1780,94,Create Purchase Requisition,1780,1779,1781,0,,,Create Purchase Requisition
+1781,94,Analyze Purchase Requisition,1781,1780,1782,0,,,Analyze Purchase Requisition
+1782,94,End,1782,1781,None,0,,,End
+1785,95,Start,1785,None,1786,0,,,Start
+1786,95,Create Purchase Requisition,1786,1785,1787,0,,,Create Purchase Requisition
+1787,95,Analyze Purchase Requisition,1787,1786,1788,0,,,Analyze Purchase Requisition
+1788,95,Create Request for Quotation,1788,1787,1789,0,,,Create Request for Quotation
+1789,95,Analyze Request for Quotation,1789,1788,1790,0,,,Analyze Request for Quotation
+1790,95,Amend Request for Quotation,1790,1789,1791,0,,,Amend Request for Quotation
+1791,95,Analyze Request for Quotation,1791,1790,1792,0,,,Analyze Request for Quotation
+1792,95,Amend Request for Quotation,1792,1791,1793,0,,,Amend Request for Quotation
+1793,95,Analyze Request for Quotation,1793,1792,1794,0,,,Analyze Request for Quotation
+1794,95,Amend Request for Quotation,1794,1793,1795,0,,,Amend Request for Quotation
+1795,95,Analyze Request for Quotation,1795,1794,1796,0,,,Analyze Request for Quotation
+1796,95,Amend Request for Quotation,1796,1795,1797,0,,,Amend Request for Quotation
+1797,95,Analyze Request for Quotation,1797,1796,1798,0,,,Analyze Request for Quotation
+1798,95,Amend Request for Quotation,1798,1797,1799,0,,,Amend Request for Quotation
+1799,95,Analyze Request for Quotation,1799,1798,1800,0,,,Analyze Request for Quotation
+1800,95,Send Request for Quotation to Supplier,1800,1799,1801,0,,,Send Request for Quotation to Supplier
+1801,95,Create Quotation comparison Map,1801,1800,1802,0,,,Create Quotation comparison Map
+1802,95,Analyze Quotation Comparison Map,1802,1801,1803,0,,,Analyze Quotation Comparison Map
+1803,95,Choose best option,1803,1802,1804,0,,,Choose best option
+1804,95,Settle Conditions With Supplier,1804,1803,1805,0,,,Settle Conditions With Supplier
+1805,95,Create Purchase Order,1805,1804,1806,0,,,Create Purchase Order
+1806,95,Confirm Purchase Order,1806,1805,1807,0,,,Confirm Purchase Order
+1807,95,Deliver Goods Services,1807,1806,1808,0,,,Deliver Goods Services
+1808,95,Release Purchase Order,1808,1807,1809,0,,,Release Purchase Order
+1809,95,Approve Purchase Order for payment,1809,1808,1810,0,,,Approve Purchase Order for payment
+1810,95,Send Invoice,1810,1809,1811,0,,,Send Invoice
+1811,95,Release Supplier's Invoice,1811,1810,1812,0,,,Release Supplier's Invoice
+1812,95,Authorize Supplier's Invoice payment,1812,1811,1813,0,,,Authorize Supplier's Invoice payment
+1813,95,Pay Invoice,1813,1812,1814,0,,,Pay Invoice
+1814,95,End,1814,1813,None,0,,,End
+1817,96,Start,1817,None,1818,0,,,Start
+1818,96,Create Purchase Requisition,1818,1817,1819,0,,,Create Purchase Requisition
+1819,96,Analyze Purchase Requisition,1819,1818,1820,0,,,Analyze Purchase Requisition
+1820,96,Create Request for Quotation,1820,1819,1821,0,,,Create Request for Quotation
+1821,96,Analyze Request for Quotation,1821,1820,1822,0,,,Analyze Request for Quotation
+1822,96,Send Request for Quotation to Supplier,1822,1821,1823,0,,,Send Request for Quotation to Supplier
+1823,96,Create Quotation comparison Map,1823,1822,1824,0,,,Create Quotation comparison Map
+1824,96,Analyze Quotation Comparison Map,1824,1823,1825,0,,,Analyze Quotation Comparison Map
+1825,96,Choose best option,1825,1824,1826,0,,,Choose best option
+1826,96,Settle Conditions With Supplier,1826,1825,1827,0,,,Settle Conditions With Supplier
+1827,96,Create Purchase Order,1827,1826,1828,0,,,Create Purchase Order
+1828,96,Confirm Purchase Order,1828,1827,1829,0,,,Confirm Purchase Order
+1829,96,Deliver Goods Services,1829,1828,1830,0,,,Deliver Goods Services
+1830,96,Release Purchase Order,1830,1829,1831,0,,,Release Purchase Order
+1831,96,Approve Purchase Order for payment,1831,1830,1832,0,,,Approve Purchase Order for payment
+1832,96,Send Invoice,1832,1831,1833,0,,,Send Invoice
+1833,96,Release Supplier's Invoice,1833,1832,1834,0,,,Release Supplier's Invoice
+1834,96,Authorize Supplier's Invoice payment,1834,1833,1835,0,,,Authorize Supplier's Invoice payment
+1835,96,Pay Invoice,1835,1834,1836,0,,,Pay Invoice
+1836,96,End,1836,1835,None,0,,,End
+1839,97,Start,1839,None,1840,0,,,Start
+1840,97,Create Purchase Requisition,1840,1839,1841,0,,,Create Purchase Requisition
+1841,97,Analyze Purchase Requisition,1841,1840,1842,0,,,Analyze Purchase Requisition
+1842,97,Create Request for Quotation,1842,1841,1843,0,,,Create Request for Quotation
+1843,97,Analyze Request for Quotation,1843,1842,1844,0,,,Analyze Request for Quotation
+1844,97,Amend Request for Quotation,1844,1843,1845,0,,,Amend Request for Quotation
+1845,97,Analyze Request for Quotation,1845,1844,1846,0,,,Analyze Request for Quotation
+1846,97,End,1846,1845,None,0,,,End
+1849,98,Start,1849,None,1850,0,,,Start
+1850,98,Create Purchase Requisition,1850,1849,1851,0,,,Create Purchase Requisition
+1851,98,Create Request for Quotation,1851,1850,1852,0,,,Create Request for Quotation
+1852,98,Analyze Request for Quotation,1852,1851,1853,0,,,Analyze Request for Quotation
+1853,98,Amend Request for Quotation,1853,1852,1854,0,,,Amend Request for Quotation
+1854,98,Analyze Request for Quotation,1854,1853,1855,0,,,Analyze Request for Quotation
+1855,98,Amend Request for Quotation,1855,1854,1856,0,,,Amend Request for Quotation
+1856,98,Analyze Request for Quotation,1856,1855,1857,0,,,Analyze Request for Quotation
+1857,98,Amend Request for Quotation,1857,1856,1858,0,,,Amend Request for Quotation
+1858,98,Analyze Request for Quotation,1858,1857,1859,0,,,Analyze Request for Quotation
+1859,98,Send Request for Quotation to Supplier,1859,1858,1860,0,,,Send Request for Quotation to Supplier
+1860,98,Create Quotation comparison Map,1860,1859,1861,0,,,Create Quotation comparison Map
+1861,98,Analyze Quotation Comparison Map,1861,1860,1862,0,,,Analyze Quotation Comparison Map
+1862,98,Choose best option,1862,1861,1863,0,,,Choose best option
+1863,98,Settle Conditions With Supplier,1863,1862,1864,0,,,Settle Conditions With Supplier
+1864,98,Create Purchase Order,1864,1863,1865,0,,,Create Purchase Order
+1865,98,Confirm Purchase Order,1865,1864,1866,0,,,Confirm Purchase Order
+1866,98,Deliver Goods Services,1866,1865,1867,0,,,Deliver Goods Services
+1867,98,Release Purchase Order,1867,1866,1868,0,,,Release Purchase Order
+1868,98,Approve Purchase Order for payment,1868,1867,1869,0,,,Approve Purchase Order for payment
+1869,98,Send Invoice,1869,1868,1870,0,,,Send Invoice
+1870,98,Release Supplier's Invoice,1870,1869,1871,0,,,Release Supplier's Invoice
+1871,98,Authorize Supplier's Invoice payment,1871,1870,1872,0,,,Authorize Supplier's Invoice payment
+1872,98,Pay Invoice,1872,1871,1873,0,,,Pay Invoice
+1873,98,End,1873,1872,None,0,,,End
+1876,99,Start,1876,None,1877,0,,,Start
+1877,99,Create Purchase Requisition,1877,1876,1878,0,,,Create Purchase Requisition
+1878,99,Create Request for Quotation,1878,1877,1879,0,,,Create Request for Quotation
+1879,99,Analyze Request for Quotation,1879,1878,1880,0,,,Analyze Request for Quotation
+1880,99,Amend Request for Quotation,1880,1879,1881,0,,,Amend Request for Quotation
+1881,99,Analyze Request for Quotation,1881,1880,1882,0,,,Analyze Request for Quotation
+1882,99,Send Request for Quotation to Supplier,1882,1881,1883,0,,,Send Request for Quotation to Supplier
+1883,99,Create Quotation comparison Map,1883,1882,1884,0,,,Create Quotation comparison Map
+1884,99,Analyze Quotation Comparison Map,1884,1883,1885,0,,,Analyze Quotation Comparison Map
+1885,99,Choose best option,1885,1884,1886,0,,,Choose best option
+1886,99,Settle Conditions With Supplier,1886,1885,1887,0,,,Settle Conditions With Supplier
+1887,99,Create Purchase Order,1887,1886,1888,0,,,Create Purchase Order
+1888,99,Confirm Purchase Order,1888,1887,1889,0,,,Confirm Purchase Order
+1889,99,Deliver Goods Services,1889,1888,1890,0,,,Deliver Goods Services
+1890,99,Release Purchase Order,1890,1889,1891,0,,,Release Purchase Order
+1891,99,Approve Purchase Order for payment,1891,1890,1892,0,,,Approve Purchase Order for payment
+1892,99,Send Invoice,1892,1891,1893,0,,,Send Invoice
+1893,99,Release Supplier's Invoice,1893,1892,1894,0,,,Release Supplier's Invoice
+1894,99,Authorize Supplier's Invoice payment,1894,1893,1895,0,,,Authorize Supplier's Invoice payment
+1895,99,Pay Invoice,1895,1894,1896,0,,,Pay Invoice
+1896,99,End,1896,1895,None,0,,,End
+1899,100,Start,1899,None,1900,0,,,Start
+1900,100,Create Purchase Requisition,1900,1899,1901,0,,,Create Purchase Requisition
+1901,100,Create Request for Quotation,1901,1900,1902,0,,,Create Request for Quotation
+1902,100,Analyze Request for Quotation,1902,1901,1903,0,,,Analyze Request for Quotation
+1903,100,Amend Request for Quotation,1903,1902,1904,0,,,Amend Request for Quotation
+1904,100,Analyze Request for Quotation,1904,1903,1905,0,,,Analyze Request for Quotation
+1905,100,Amend Request for Quotation,1905,1904,1906,0,,,Amend Request for Quotation
+1906,100,Analyze Request for Quotation,1906,1905,1907,0,,,Analyze Request for Quotation
+1907,100,Send Request for Quotation to Supplier,1907,1906,1908,0,,,Send Request for Quotation to Supplier
+1908,100,Create Quotation comparison Map,1908,1907,1909,0,,,Create Quotation comparison Map
+1909,100,Analyze Quotation Comparison Map,1909,1908,1910,0,,,Analyze Quotation Comparison Map
+1910,100,Choose best option,1910,1909,1911,0,,,Choose best option
+1911,100,Settle Conditions With Supplier,1911,1910,1912,0,,,Settle Conditions With Supplier
+1912,100,Create Purchase Order,1912,1911,1913,0,,,Create Purchase Order
+1913,100,Confirm Purchase Order,1913,1912,1914,0,,,Confirm Purchase Order
+1914,100,Deliver Goods Services,1914,1913,1915,0,,,Deliver Goods Services
+1915,100,Release Purchase Order,1915,1914,1916,0,,,Release Purchase Order
+1916,100,Approve Purchase Order for payment,1916,1915,1917,0,,,Approve Purchase Order for payment
+1917,100,Send Invoice,1917,1916,1918,0,,,Send Invoice
+1918,100,Release Supplier's Invoice,1918,1917,1919,0,,,Release Supplier's Invoice
+1919,100,Authorize Supplier's Invoice payment,1919,1918,1920,0,,,Authorize Supplier's Invoice payment
+1920,100,Pay Invoice,1920,1919,1921,0,,,Pay Invoice
+1921,100,End,1921,1920,None,0,,,End
+1924,101,Start,1924,None,1925,0,,,Start
+1925,101,Create Purchase Requisition,1925,1924,1926,0,,,Create Purchase Requisition
+1926,101,Analyze Purchase Requisition,1926,1925,1927,0,,,Analyze Purchase Requisition
+1927,101,Create Request for Quotation,1927,1926,1928,0,,,Create Request for Quotation
+1928,101,Analyze Request for Quotation,1928,1927,1929,0,,,Analyze Request for Quotation
+1929,101,Send Request for Quotation to Supplier,1929,1928,1930,0,,,Send Request for Quotation to Supplier
+1930,101,Create Quotation comparison Map,1930,1929,1931,0,,,Create Quotation comparison Map
+1931,101,Analyze Quotation Comparison Map,1931,1930,1932,0,,,Analyze Quotation Comparison Map
+1932,101,Choose best option,1932,1931,1933,0,,,Choose best option
+1933,101,Settle Conditions With Supplier,1933,1932,1934,0,,,Settle Conditions With Supplier
+1934,101,Create Purchase Order,1934,1933,1935,0,,,Create Purchase Order
+1935,101,Confirm Purchase Order,1935,1934,1936,0,,,Confirm Purchase Order
+1936,101,Deliver Goods Services,1936,1935,1937,0,,,Deliver Goods Services
+1937,101,Release Purchase Order,1937,1936,1938,0,,,Release Purchase Order
+1938,101,Approve Purchase Order for payment,1938,1937,1939,0,,,Approve Purchase Order for payment
+1939,101,Send Invoice,1939,1938,1940,0,,,Send Invoice
+1940,101,Release Supplier's Invoice,1940,1939,1941,0,,,Release Supplier's Invoice
+1941,101,Authorize Supplier's Invoice payment,1941,1940,1942,0,,,Authorize Supplier's Invoice payment
+1942,101,Pay Invoice,1942,1941,1943,0,,,Pay Invoice
+1943,101,End,1943,1942,None,0,,,End
+1946,102,Start,1946,None,1947,0,,,Start
+1947,102,Create Purchase Requisition,1947,1946,1948,0,,,Create Purchase Requisition
+1948,102,Create Request for Quotation,1948,1947,1949,0,,,Create Request for Quotation
+1949,102,Analyze Request for Quotation,1949,1948,1950,0,,,Analyze Request for Quotation
+1950,102,Amend Request for Quotation,1950,1949,1951,0,,,Amend Request for Quotation
+1951,102,Analyze Request for Quotation,1951,1950,1952,0,,,Analyze Request for Quotation
+1952,102,End,1952,1951,None,0,,,End
+1955,103,Start,1955,None,1956,0,,,Start
+1956,103,Create Purchase Requisition,1956,1955,1957,0,,,Create Purchase Requisition
+1957,103,Create Request for Quotation,1957,1956,1958,0,,,Create Request for Quotation
+1958,103,Analyze Request for Quotation,1958,1957,1959,0,,,Analyze Request for Quotation
+1959,103,Send Request for Quotation to Supplier,1959,1958,1960,0,,,Send Request for Quotation to Supplier
+1960,103,Create Quotation comparison Map,1960,1959,1961,0,,,Create Quotation comparison Map
+1961,103,Analyze Quotation Comparison Map,1961,1960,1962,0,,,Analyze Quotation Comparison Map
+1962,103,Choose best option,1962,1961,1963,0,,,Choose best option
+1963,103,Settle Conditions With Supplier,1963,1962,1964,0,,,Settle Conditions With Supplier
+1964,103,Create Purchase Order,1964,1963,1965,0,,,Create Purchase Order
+1965,103,Confirm Purchase Order,1965,1964,1966,0,,,Confirm Purchase Order
+1966,103,Deliver Goods Services,1966,1965,1967,0,,,Deliver Goods Services
+1967,103,Release Purchase Order,1967,1966,1968,0,,,Release Purchase Order
+1968,103,Approve Purchase Order for payment,1968,1967,1969,0,,,Approve Purchase Order for payment
+1969,103,Send Invoice,1969,1968,1970,0,,,Send Invoice
+1970,103,Release Supplier's Invoice,1970,1969,1971,0,,,Release Supplier's Invoice
+1971,103,Authorize Supplier's Invoice payment,1971,1970,1972,0,,,Authorize Supplier's Invoice payment
+1972,103,Pay Invoice,1972,1971,1973,0,,,Pay Invoice
+1973,103,End,1973,1972,None,0,,,End
+1976,104,Start,1976,None,1977,0,,,Start
+1977,104,Create Purchase Requisition,1977,1976,1978,0,,,Create Purchase Requisition
+1978,104,Create Request for Quotation,1978,1977,1979,0,,,Create Request for Quotation
+1979,104,Analyze Request for Quotation,1979,1978,1980,0,,,Analyze Request for Quotation
+1980,104,End,1980,1979,None,0,,,End
+1983,105,Start,1983,None,1984,0,,,Start
+1984,105,Create Purchase Requisition,1984,1983,1985,0,,,Create Purchase Requisition
+1985,105,Analyze Purchase Requisition,1985,1984,1986,0,,,Analyze Purchase Requisition
+1986,105,Create Request for Quotation,1986,1985,1987,0,,,Create Request for Quotation
+1987,105,Analyze Request for Quotation,1987,1986,1988,0,,,Analyze Request for Quotation
+1988,105,Send Request for Quotation to Supplier,1988,1987,1989,0,,,Send Request for Quotation to Supplier
+1989,105,Create Quotation comparison Map,1989,1988,1990,0,,,Create Quotation comparison Map
+1990,105,Analyze Quotation Comparison Map,1990,1989,1991,0,,,Analyze Quotation Comparison Map
+1991,105,Choose best option,1991,1990,1992,0,,,Choose best option
+1992,105,Settle Conditions With Supplier,1992,1991,1993,0,,,Settle Conditions With Supplier
+1993,105,Create Purchase Order,1993,1992,1994,0,,,Create Purchase Order
+1994,105,Confirm Purchase Order,1994,1993,1995,0,,,Confirm Purchase Order
+1995,105,Deliver Goods Services,1995,1994,1996,0,,,Deliver Goods Services
+1996,105,Release Purchase Order,1996,1995,1997,0,,,Release Purchase Order
+1997,105,Approve Purchase Order for payment,1997,1996,1998,0,,,Approve Purchase Order for payment
+1998,105,Send Invoice,1998,1997,1999,0,,,Send Invoice
+1999,105,Release Supplier's Invoice,1999,1998,2000,0,,,Release Supplier's Invoice
+2000,105,Authorize Supplier's Invoice payment,2000,1999,2001,0,,,Authorize Supplier's Invoice payment
+2001,105,Pay Invoice,2001,2000,2002,0,,,Pay Invoice
+2002,105,End,2002,2001,None,0,,,End
+2005,106,Start,2005,None,2006,0,,,Start
+2006,106,Create Purchase Requisition,2006,2005,2007,0,,,Create Purchase Requisition
+2007,106,Analyze Purchase Requisition,2007,2006,2008,0,,,Analyze Purchase Requisition
+2008,106,Create Request for Quotation,2008,2007,2009,0,,,Create Request for Quotation
+2009,106,Analyze Request for Quotation,2009,2008,2010,0,,,Analyze Request for Quotation
+2010,106,End,2010,2009,None,0,,,End
+2013,107,Start,2013,None,2014,0,,,Start
+2014,107,Create Purchase Requisition,2014,2013,2015,0,,,Create Purchase Requisition
+2015,107,Analyze Purchase Requisition,2015,2014,2016,0,,,Analyze Purchase Requisition
+2016,107,Create Request for Quotation,2016,2015,2017,0,,,Create Request for Quotation
+2017,107,Analyze Request for Quotation,2017,2016,2018,0,,,Analyze Request for Quotation
+2018,107,Send Request for Quotation to Supplier,2018,2017,2019,0,,,Send Request for Quotation to Supplier
+2019,107,Create Quotation comparison Map,2019,2018,2020,0,,,Create Quotation comparison Map
+2020,107,Analyze Quotation Comparison Map,2020,2019,2021,0,,,Analyze Quotation Comparison Map
+2021,107,Choose best option,2021,2020,2022,0,,,Choose best option
+2022,107,Settle Conditions With Supplier,2022,2021,2023,0,,,Settle Conditions With Supplier
+2023,107,Create Purchase Order,2023,2022,2024,0,,,Create Purchase Order
+2024,107,Confirm Purchase Order,2024,2023,2025,0,,,Confirm Purchase Order
+2025,107,Deliver Goods Services,2025,2024,2026,0,,,Deliver Goods Services
+2026,107,Release Purchase Order,2026,2025,2027,0,,,Release Purchase Order
+2027,107,Approve Purchase Order for payment,2027,2026,2028,0,,,Approve Purchase Order for payment
+2028,107,Send Invoice,2028,2027,2029,0,,,Send Invoice
+2029,107,Release Supplier's Invoice,2029,2028,2030,0,,,Release Supplier's Invoice
+2030,107,Authorize Supplier's Invoice payment,2030,2029,2031,0,,,Authorize Supplier's Invoice payment
+2031,107,Pay Invoice,2031,2030,2032,0,,,Pay Invoice
+2032,107,End,2032,2031,None,0,,,End
+2035,108,Start,2035,None,2036,0,,,Start
+2036,108,Create Purchase Requisition,2036,2035,2037,0,,,Create Purchase Requisition
+2037,108,Analyze Purchase Requisition,2037,2036,2038,0,,,Analyze Purchase Requisition
+2038,108,Create Request for Quotation,2038,2037,2039,0,,,Create Request for Quotation
+2039,108,Analyze Request for Quotation,2039,2038,2040,0,,,Analyze Request for Quotation
+2040,108,End,2040,2039,None,0,,,End
+2043,109,Start,2043,None,2044,0,,,Start
+2044,109,Create Purchase Requisition,2044,2043,2045,0,,,Create Purchase Requisition
+2045,109,Create Request for Quotation,2045,2044,2046,0,,,Create Request for Quotation
+2046,109,Analyze Request for Quotation,2046,2045,2047,0,,,Analyze Request for Quotation
+2047,109,Amend Request for Quotation,2047,2046,2048,0,,,Amend Request for Quotation
+2048,109,Analyze Request for Quotation,2048,2047,2049,0,,,Analyze Request for Quotation
+2049,109,Send Request for Quotation to Supplier,2049,2048,2050,0,,,Send Request for Quotation to Supplier
+2050,109,Create Quotation comparison Map,2050,2049,2051,0,,,Create Quotation comparison Map
+2051,109,Analyze Quotation Comparison Map,2051,2050,2052,0,,,Analyze Quotation Comparison Map
+2052,109,Choose best option,2052,2051,2053,0,,,Choose best option
+2053,109,Settle Conditions With Supplier,2053,2052,2054,0,,,Settle Conditions With Supplier
+2054,109,Create Purchase Order,2054,2053,2055,0,,,Create Purchase Order
+2055,109,Confirm Purchase Order,2055,2054,2056,0,,,Confirm Purchase Order
+2056,109,Deliver Goods Services,2056,2055,2057,0,,,Deliver Goods Services
+2057,109,Release Purchase Order,2057,2056,2058,0,,,Release Purchase Order
+2058,109,Approve Purchase Order for payment,2058,2057,2059,0,,,Approve Purchase Order for payment
+2059,109,Send Invoice,2059,2058,2060,0,,,Send Invoice
+2060,109,Release Supplier's Invoice,2060,2059,2061,0,,,Release Supplier's Invoice
+2061,109,Authorize Supplier's Invoice payment,2061,2060,2062,0,,,Authorize Supplier's Invoice payment
+2062,109,Pay Invoice,2062,2061,2063,0,,,Pay Invoice
+2063,109,End,2063,2062,None,0,,,End
+2066,110,Start,2066,None,2067,0,,,Start
+2067,110,Create Purchase Requisition,2067,2066,2068,0,,,Create Purchase Requisition
+2068,110,Create Request for Quotation,2068,2067,2069,0,,,Create Request for Quotation
+2069,110,Analyze Request for Quotation,2069,2068,2070,0,,,Analyze Request for Quotation
+2070,110,Amend Request for Quotation,2070,2069,2071,0,,,Amend Request for Quotation
+2071,110,Analyze Request for Quotation,2071,2070,2072,0,,,Analyze Request for Quotation
+2072,110,Send Request for Quotation to Supplier,2072,2071,2073,0,,,Send Request for Quotation to Supplier
+2073,110,Create Quotation comparison Map,2073,2072,2074,0,,,Create Quotation comparison Map
+2074,110,Analyze Quotation Comparison Map,2074,2073,2075,0,,,Analyze Quotation Comparison Map
+2075,110,Choose best option,2075,2074,2076,0,,,Choose best option
+2076,110,Settle Conditions With Supplier,2076,2075,2077,0,,,Settle Conditions With Supplier
+2077,110,Create Purchase Order,2077,2076,2078,0,,,Create Purchase Order
+2078,110,Confirm Purchase Order,2078,2077,2079,0,,,Confirm Purchase Order
+2079,110,Deliver Goods Services,2079,2078,2080,0,,,Deliver Goods Services
+2080,110,Release Purchase Order,2080,2079,2081,0,,,Release Purchase Order
+2081,110,Approve Purchase Order for payment,2081,2080,2082,0,,,Approve Purchase Order for payment
+2082,110,Send Invoice,2082,2081,2083,0,,,Send Invoice
+2083,110,Release Supplier's Invoice,2083,2082,2084,0,,,Release Supplier's Invoice
+2084,110,Authorize Supplier's Invoice payment,2084,2083,2085,0,,,Authorize Supplier's Invoice payment
+2085,110,Pay Invoice,2085,2084,2086,0,,,Pay Invoice
+2086,110,End,2086,2085,None,0,,,End
+2089,111,Start,2089,None,2090,0,,,Start
+2090,111,Create Purchase Requisition,2090,2089,2091,0,,,Create Purchase Requisition
+2091,111,Analyze Purchase Requisition,2091,2090,2092,0,,,Analyze Purchase Requisition
+2092,111,Create Request for Quotation,2092,2091,2093,0,,,Create Request for Quotation
+2093,111,Analyze Request for Quotation,2093,2092,2094,0,,,Analyze Request for Quotation
+2094,111,Amend Request for Quotation,2094,2093,2095,0,,,Amend Request for Quotation
+2095,111,Analyze Request for Quotation,2095,2094,2096,0,,,Analyze Request for Quotation
+2096,111,Amend Request for Quotation,2096,2095,2097,0,,,Amend Request for Quotation
+2097,111,Analyze Request for Quotation,2097,2096,2098,0,,,Analyze Request for Quotation
+2098,111,Send Request for Quotation to Supplier,2098,2097,2099,0,,,Send Request for Quotation to Supplier
+2099,111,Create Quotation comparison Map,2099,2098,2100,0,,,Create Quotation comparison Map
+2100,111,Analyze Quotation Comparison Map,2100,2099,2101,0,,,Analyze Quotation Comparison Map
+2101,111,Choose best option,2101,2100,2102,0,,,Choose best option
+2102,111,Settle Conditions With Supplier,2102,2101,2103,0,,,Settle Conditions With Supplier
+2103,111,Create Purchase Order,2103,2102,2104,0,,,Create Purchase Order
+2104,111,Confirm Purchase Order,2104,2103,2105,0,,,Confirm Purchase Order
+2105,111,Deliver Goods Services,2105,2104,2106,0,,,Deliver Goods Services
+2106,111,Release Purchase Order,2106,2105,2107,0,,,Release Purchase Order
+2107,111,Approve Purchase Order for payment,2107,2106,2108,0,,,Approve Purchase Order for payment
+2108,111,Send Invoice,2108,2107,2109,0,,,Send Invoice
+2109,111,Release Supplier's Invoice,2109,2108,2110,0,,,Release Supplier's Invoice
+2110,111,Authorize Supplier's Invoice payment,2110,2109,2111,0,,,Authorize Supplier's Invoice payment
+2111,111,Pay Invoice,2111,2110,2112,0,,,Pay Invoice
+2112,111,End,2112,2111,None,0,,,End
+2115,112,Start,2115,None,2116,0,,,Start
+2116,112,Create Purchase Requisition,2116,2115,2117,0,,,Create Purchase Requisition
+2117,112,Create Request for Quotation,2117,2116,2118,0,,,Create Request for Quotation
+2118,112,Analyze Request for Quotation,2118,2117,2119,0,,,Analyze Request for Quotation
+2119,112,End,2119,2118,None,0,,,End
+2122,113,Start,2122,None,2123,0,,,Start
+2123,113,Create Purchase Requisition,2123,2122,2124,0,,,Create Purchase Requisition
+2124,113,Create Request for Quotation,2124,2123,2125,0,,,Create Request for Quotation
+2125,113,Analyze Request for Quotation,2125,2124,2126,0,,,Analyze Request for Quotation
+2126,113,Amend Request for Quotation,2126,2125,2127,0,,,Amend Request for Quotation
+2127,113,Analyze Request for Quotation,2127,2126,2128,0,,,Analyze Request for Quotation
+2128,113,Amend Request for Quotation,2128,2127,2129,0,,,Amend Request for Quotation
+2129,113,Analyze Request for Quotation,2129,2128,2130,0,,,Analyze Request for Quotation
+2130,113,Amend Request for Quotation,2130,2129,2131,0,,,Amend Request for Quotation
+2131,113,Analyze Request for Quotation,2131,2130,2132,0,,,Analyze Request for Quotation
+2132,113,Send Request for Quotation to Supplier,2132,2131,2133,0,,,Send Request for Quotation to Supplier
+2133,113,Create Quotation comparison Map,2133,2132,2134,0,,,Create Quotation comparison Map
+2134,113,Analyze Quotation Comparison Map,2134,2133,2135,0,,,Analyze Quotation Comparison Map
+2135,113,Choose best option,2135,2134,2136,0,,,Choose best option
+2136,113,Settle Conditions With Supplier,2136,2135,2137,0,,,Settle Conditions With Supplier
+2137,113,Create Purchase Order,2137,2136,2138,0,,,Create Purchase Order
+2138,113,Confirm Purchase Order,2138,2137,2139,0,,,Confirm Purchase Order
+2139,113,Deliver Goods Services,2139,2138,2140,0,,,Deliver Goods Services
+2140,113,Release Purchase Order,2140,2139,2141,0,,,Release Purchase Order
+2141,113,Approve Purchase Order for payment,2141,2140,2142,0,,,Approve Purchase Order for payment
+2142,113,Send Invoice,2142,2141,2143,0,,,Send Invoice
+2143,113,Release Supplier's Invoice,2143,2142,2144,0,,,Release Supplier's Invoice
+2144,113,Settle Dispute With Supplier,2144,2143,2145,0,,,Settle Dispute With Supplier
+2145,113,Authorize Supplier's Invoice payment,2145,2144,2146,0,,,Authorize Supplier's Invoice payment
+2146,113,Pay Invoice,2146,2145,2147,0,,,Pay Invoice
+2147,113,End,2147,2146,None,0,,,End
+2150,114,Start,2150,None,2151,0,,,Start
+2151,114,Create Purchase Requisition,2151,2150,2152,0,,,Create Purchase Requisition
+2152,114,Analyze Purchase Requisition,2152,2151,2153,0,,,Analyze Purchase Requisition
+2153,114,Create Request for Quotation,2153,2152,2154,0,,,Create Request for Quotation
+2154,114,Analyze Request for Quotation,2154,2153,2155,0,,,Analyze Request for Quotation
+2155,114,Send Request for Quotation to Supplier,2155,2154,2156,0,,,Send Request for Quotation to Supplier
+2156,114,Create Quotation comparison Map,2156,2155,2157,0,,,Create Quotation comparison Map
+2157,114,Analyze Quotation Comparison Map,2157,2156,2158,0,,,Analyze Quotation Comparison Map
+2158,114,Choose best option,2158,2157,2159,0,,,Choose best option
+2159,114,Settle Conditions With Supplier,2159,2158,2160,0,,,Settle Conditions With Supplier
+2160,114,Create Purchase Order,2160,2159,2161,0,,,Create Purchase Order
+2161,114,Confirm Purchase Order,2161,2160,2162,0,,,Confirm Purchase Order
+2162,114,Deliver Goods Services,2162,2161,2163,0,,,Deliver Goods Services
+2163,114,Release Purchase Order,2163,2162,2164,0,,,Release Purchase Order
+2164,114,Approve Purchase Order for payment,2164,2163,2165,0,,,Approve Purchase Order for payment
+2165,114,Send Invoice,2165,2164,2166,0,,,Send Invoice
+2166,114,Release Supplier's Invoice,2166,2165,2167,0,,,Release Supplier's Invoice
+2167,114,Authorize Supplier's Invoice payment,2167,2166,2168,0,,,Authorize Supplier's Invoice payment
+2168,114,Pay Invoice,2168,2167,2169,0,,,Pay Invoice
+2169,114,End,2169,2168,None,0,,,End
+2172,115,Start,2172,None,2173,0,,,Start
+2173,115,Create Purchase Requisition,2173,2172,2174,0,,,Create Purchase Requisition
+2174,115,Analyze Purchase Requisition,2174,2173,2175,0,,,Analyze Purchase Requisition
+2175,115,Create Request for Quotation,2175,2174,2176,0,,,Create Request for Quotation
+2176,115,Analyze Request for Quotation,2176,2175,2177,0,,,Analyze Request for Quotation
+2177,115,Amend Request for Quotation,2177,2176,2178,0,,,Amend Request for Quotation
+2178,115,Analyze Request for Quotation,2178,2177,2179,0,,,Analyze Request for Quotation
+2179,115,Amend Request for Quotation,2179,2178,2180,0,,,Amend Request for Quotation
+2180,115,Analyze Request for Quotation,2180,2179,2181,0,,,Analyze Request for Quotation
+2181,115,Amend Request for Quotation,2181,2180,2182,0,,,Amend Request for Quotation
+2182,115,Analyze Request for Quotation,2182,2181,2183,0,,,Analyze Request for Quotation
+2183,115,Amend Request for Quotation,2183,2182,2184,0,,,Amend Request for Quotation
+2184,115,Analyze Request for Quotation,2184,2183,2185,0,,,Analyze Request for Quotation
+2185,115,Send Request for Quotation to Supplier,2185,2184,2186,0,,,Send Request for Quotation to Supplier
+2186,115,Create Quotation comparison Map,2186,2185,2187,0,,,Create Quotation comparison Map
+2187,115,Analyze Quotation Comparison Map,2187,2186,2188,0,,,Analyze Quotation Comparison Map
+2188,115,Choose best option,2188,2187,2189,0,,,Choose best option
+2189,115,Settle Conditions With Supplier,2189,2188,2190,0,,,Settle Conditions With Supplier
+2190,115,Create Purchase Order,2190,2189,2191,0,,,Create Purchase Order
+2191,115,Confirm Purchase Order,2191,2190,2192,0,,,Confirm Purchase Order
+2192,115,Deliver Goods Services,2192,2191,2193,0,,,Deliver Goods Services
+2193,115,Release Purchase Order,2193,2192,2194,0,,,Release Purchase Order
+2194,115,Approve Purchase Order for payment,2194,2193,2195,0,,,Approve Purchase Order for payment
+2195,115,Send Invoice,2195,2194,2196,0,,,Send Invoice
+2196,115,Release Supplier's Invoice,2196,2195,2197,0,,,Release Supplier's Invoice
+2197,115,Authorize Supplier's Invoice payment,2197,2196,2198,0,,,Authorize Supplier's Invoice payment
+2198,115,Pay Invoice,2198,2197,2199,0,,,Pay Invoice
+2199,115,End,2199,2198,None,0,,,End
+2202,116,Start,2202,None,2203,0,,,Start
+2203,116,Create Purchase Requisition,2203,2202,2204,0,,,Create Purchase Requisition
+2204,116,Analyze Purchase Requisition,2204,2203,2205,0,,,Analyze Purchase Requisition
+2205,116,Create Request for Quotation,2205,2204,2206,0,,,Create Request for Quotation
+2206,116,Analyze Request for Quotation,2206,2205,2207,0,,,Analyze Request for Quotation
+2207,116,Send Request for Quotation to Supplier,2207,2206,2208,0,,,Send Request for Quotation to Supplier
+2208,116,Create Quotation comparison Map,2208,2207,2209,0,,,Create Quotation comparison Map
+2209,116,Analyze Quotation Comparison Map,2209,2208,2210,0,,,Analyze Quotation Comparison Map
+2210,116,Choose best option,2210,2209,2211,0,,,Choose best option
+2211,116,Settle Conditions With Supplier,2211,2210,2212,0,,,Settle Conditions With Supplier
+2212,116,Create Purchase Order,2212,2211,2213,0,,,Create Purchase Order
+2213,116,Confirm Purchase Order,2213,2212,2214,0,,,Confirm Purchase Order
+2214,116,Deliver Goods Services,2214,2213,2215,0,,,Deliver Goods Services
+2215,116,Release Purchase Order,2215,2214,2216,0,,,Release Purchase Order
+2216,116,Approve Purchase Order for payment,2216,2215,2217,0,,,Approve Purchase Order for payment
+2217,116,Send Invoice,2217,2216,2218,0,,,Send Invoice
+2218,116,Release Supplier's Invoice,2218,2217,2219,0,,,Release Supplier's Invoice
+2219,116,Authorize Supplier's Invoice payment,2219,2218,2220,0,,,Authorize Supplier's Invoice payment
+2220,116,Pay Invoice,2220,2219,2221,0,,,Pay Invoice
+2221,116,End,2221,2220,None,0,,,End
+2224,117,Start,2224,None,2225,0,,,Start
+2225,117,Create Purchase Requisition,2225,2224,2226,0,,,Create Purchase Requisition
+2226,117,Analyze Purchase Requisition,2226,2225,2227,0,,,Analyze Purchase Requisition
+2227,117,Create Request for Quotation,2227,2226,2228,0,,,Create Request for Quotation
+2228,117,Analyze Request for Quotation,2228,2227,2229,0,,,Analyze Request for Quotation
+2229,117,Send Request for Quotation to Supplier,2229,2228,2230,0,,,Send Request for Quotation to Supplier
+2230,117,Create Quotation comparison Map,2230,2229,2231,0,,,Create Quotation comparison Map
+2231,117,Analyze Quotation Comparison Map,2231,2230,2232,0,,,Analyze Quotation Comparison Map
+2232,117,Choose best option,2232,2231,2233,0,,,Choose best option
+2233,117,Settle Conditions With Supplier,2233,2232,2234,0,,,Settle Conditions With Supplier
+2234,117,Create Purchase Order,2234,2233,2235,0,,,Create Purchase Order
+2235,117,Confirm Purchase Order,2235,2234,2236,0,,,Confirm Purchase Order
+2236,117,Deliver Goods Services,2236,2235,2237,0,,,Deliver Goods Services
+2237,117,Release Purchase Order,2237,2236,2238,0,,,Release Purchase Order
+2238,117,Approve Purchase Order for payment,2238,2237,2239,0,,,Approve Purchase Order for payment
+2239,117,Send Invoice,2239,2238,2240,0,,,Send Invoice
+2240,117,Release Supplier's Invoice,2240,2239,2241,0,,,Release Supplier's Invoice
+2241,117,Authorize Supplier's Invoice payment,2241,2240,2242,0,,,Authorize Supplier's Invoice payment
+2242,117,Pay Invoice,2242,2241,2243,0,,,Pay Invoice
+2243,117,End,2243,2242,None,0,,,End
+2246,118,Start,2246,None,2247,0,,,Start
+2247,118,Create Purchase Requisition,2247,2246,2248,0,,,Create Purchase Requisition
+2248,118,Analyze Purchase Requisition,2248,2247,2249,0,,,Analyze Purchase Requisition
+2249,118,Create Request for Quotation,2249,2248,2250,0,,,Create Request for Quotation
+2250,118,Analyze Request for Quotation,2250,2249,2251,0,,,Analyze Request for Quotation
+2251,118,End,2251,2250,None,0,,,End
+2254,119,Start,2254,None,2255,0,,,Start
+2255,119,Create Purchase Requisition,2255,2254,2256,0,,,Create Purchase Requisition
+2256,119,Analyze Purchase Requisition,2256,2255,2257,0,,,Analyze Purchase Requisition
+2257,119,End,2257,2256,None,0,,,End
+2260,120,Start,2260,None,2261,0,,,Start
+2261,120,Create Purchase Requisition,2261,2260,2262,0,,,Create Purchase Requisition
+2262,120,Analyze Purchase Requisition,2262,2261,2263,0,,,Analyze Purchase Requisition
+2263,120,End,2263,2262,None,0,,,End
+2266,121,Start,2266,None,2267,0,,,Start
+2267,121,Create Purchase Requisition,2267,2266,2268,0,,,Create Purchase Requisition
+2268,121,Analyze Purchase Requisition,2268,2267,2269,0,,,Analyze Purchase Requisition
+2269,121,Create Request for Quotation,2269,2268,2270,0,,,Create Request for Quotation
+2270,121,Analyze Request for Quotation,2270,2269,2271,0,,,Analyze Request for Quotation
+2271,121,Send Request for Quotation to Supplier,2271,2270,2272,0,,,Send Request for Quotation to Supplier
+2272,121,Create Quotation comparison Map,2272,2271,2273,0,,,Create Quotation comparison Map
+2273,121,Analyze Quotation Comparison Map,2273,2272,2274,0,,,Analyze Quotation Comparison Map
+2274,121,Choose best option,2274,2273,2275,0,,,Choose best option
+2275,121,Settle Conditions With Supplier,2275,2274,2276,0,,,Settle Conditions With Supplier
+2276,121,Create Purchase Order,2276,2275,2277,0,,,Create Purchase Order
+2277,121,Confirm Purchase Order,2277,2276,2278,0,,,Confirm Purchase Order
+2278,121,Deliver Goods Services,2278,2277,2279,0,,,Deliver Goods Services
+2279,121,Release Purchase Order,2279,2278,2280,0,,,Release Purchase Order
+2280,121,Approve Purchase Order for payment,2280,2279,2281,0,,,Approve Purchase Order for payment
+2281,121,Send Invoice,2281,2280,2282,0,,,Send Invoice
+2282,121,Release Supplier's Invoice,2282,2281,2283,0,,,Release Supplier's Invoice
+2283,121,Authorize Supplier's Invoice payment,2283,2282,2284,0,,,Authorize Supplier's Invoice payment
+2284,121,Pay Invoice,2284,2283,2285,0,,,Pay Invoice
+2285,121,End,2285,2284,None,0,,,End
+2288,122,Start,2288,None,2289,0,,,Start
+2289,122,Create Purchase Requisition,2289,2288,2290,0,,,Create Purchase Requisition
+2290,122,Analyze Purchase Requisition,2290,2289,2291,0,,,Analyze Purchase Requisition
+2291,122,Create Request for Quotation,2291,2290,2292,0,,,Create Request for Quotation
+2292,122,Analyze Request for Quotation,2292,2291,2293,0,,,Analyze Request for Quotation
+2293,122,Amend Request for Quotation,2293,2292,2294,0,,,Amend Request for Quotation
+2294,122,Analyze Request for Quotation,2294,2293,2295,0,,,Analyze Request for Quotation
+2295,122,Send Request for Quotation to Supplier,2295,2294,2296,0,,,Send Request for Quotation to Supplier
+2296,122,Create Quotation comparison Map,2296,2295,2297,0,,,Create Quotation comparison Map
+2297,122,Analyze Quotation Comparison Map,2297,2296,2298,0,,,Analyze Quotation Comparison Map
+2298,122,Choose best option,2298,2297,2299,0,,,Choose best option
+2299,122,Settle Conditions With Supplier,2299,2298,2300,0,,,Settle Conditions With Supplier
+2300,122,Create Purchase Order,2300,2299,2301,0,,,Create Purchase Order
+2301,122,Confirm Purchase Order,2301,2300,2302,0,,,Confirm Purchase Order
+2302,122,Deliver Goods Services,2302,2301,2303,0,,,Deliver Goods Services
+2303,122,Release Purchase Order,2303,2302,2304,0,,,Release Purchase Order
+2304,122,Approve Purchase Order for payment,2304,2303,2305,0,,,Approve Purchase Order for payment
+2305,122,Send Invoice,2305,2304,2306,0,,,Send Invoice
+2306,122,Release Supplier's Invoice,2306,2305,2307,0,,,Release Supplier's Invoice
+2307,122,Authorize Supplier's Invoice payment,2307,2306,2308,0,,,Authorize Supplier's Invoice payment
+2308,122,Pay Invoice,2308,2307,2309,0,,,Pay Invoice
+2309,122,End,2309,2308,None,0,,,End

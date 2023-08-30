@@ -1,0 +1,908 @@
+caseid,task,start_timestamp,end_timestamp,resource
+Case1,Start,2012-01-02 07:03:07,2012-01-02 07:03:07,Turning
+Case1,Turning,2012-01-02 07:03:07,2012-01-02 10:06:07,Turning
+Case1,Turning,2012-01-03 03:46:07,2012-01-03 05:13:07,Turning
+Case1,Turning Q.C.,2012-01-03 07:39:07,2012-01-03 09:19:07,Turning Q.C.
+Case1,Turning,2012-01-15 04:22:07,2012-01-15 04:57:07,Turning
+Case1,Turning,2012-01-15 04:58:07,2012-01-15 06:00:07,Turning
+Case1,Turning,2012-01-15 06:01:07,2012-01-15 07:28:07,Turning
+Case1,Turning,2012-01-15 08:08:07,2012-01-15 09:53:07,Turning
+Case1,Turning,2012-01-15 10:39:07,2012-01-15 16:27:07,Turning
+Case1,Turning,2012-01-15 16:27:07,2012-01-15 20:27:07,Turning
+Case1,Turning,2012-01-16 02:43:07,2012-01-16 06:46:07,Turning
+Case1,Turning Q.C.,2012-01-16 20:40:07,2012-01-16 21:37:07,Turning Q.C.
+Case1,Turning & Milling,2012-01-22 09:53:07,2012-01-22 10:51:07,Turning & Milling
+Case1,Lapping,2012-01-22 11:03:07,2012-01-22 11:54:07,Lapping
+Case1,Flat Grinding,2012-01-22 22:11:07,2012-01-22 23:26:07,Flat Grinding
+Case1,Flat Grinding,2012-01-22 23:26:07,2012-01-23 01:17:07,Flat Grinding
+Case1,Laser Marking,2012-02-05 22:07:07,2012-02-06 01:33:07,Laser Marking
+Case1,Flat Grinding,2012-02-06 08:35:07,2012-02-06 09:50:07,Flat Grinding
+Case1,Final Inspection Q.C.,2012-02-06 09:51:07,2012-02-06 11:51:07,Final Inspection Q.C.
+Case1,Flat Grinding,2012-02-07 01:55:07,2012-02-07 04:47:07,Flat Grinding
+Case1,Flat Grinding,2012-02-07 04:47:07,2012-02-07 07:39:07,Flat Grinding
+Case1,Laser Marking,2012-02-17 04:17:07,2012-02-17 04:44:07,Laser Marking
+Case1,Final Inspection Q.C.,2012-02-23 03:56:07,2012-02-23 05:56:07,Final Inspection Q.C.
+Case1,Final Inspection Q.C.,2012-02-23 23:54:07,2012-02-24 05:50:07,Final Inspection Q.C.
+Case1,Final Inspection Q.C.,2012-02-25 02:39:07,2012-02-25 02:40:07,Final Inspection Q.C.
+Case1,Packing,2012-02-25 11:10:07,2012-02-25 12:10:07,Packing
+Case1,End,2012-02-25 12:10:07,2012-02-25 12:10:07,End
+Case2,Start,2012-01-02 08:48:45,2012-01-02 08:48:45,Lapping
+Case2,Lapping,2012-01-02 08:48:45,2012-01-02 11:18:45,Lapping
+Case2,Lapping,2012-01-02 20:25:45,2012-01-02 21:29:45,Lapping
+Case2,Round Grinding,2012-01-03 02:56:45,2012-01-03 09:15:45,Round Grinding
+Case2,Round Grinding,2012-01-03 09:15:45,2012-01-03 16:15:45,Round Grinding
+Case2,Round Grinding,2012-01-03 16:16:45,2012-01-03 17:59:45,Round Grinding
+Case2,Round Grinding,2012-01-03 20:33:45,2012-01-03 21:17:45,Round Grinding
+Case2,Round Grinding,2012-01-03 21:30:45,2012-01-03 23:52:45,Round Grinding
+Case2,Final Inspection Q.C.,2012-01-04 18:57:45,2012-01-04 21:57:45,Final Inspection Q.C.
+Case2,Final Inspection Q.C.,2012-01-04 22:46:45,2012-01-04 23:16:45,Final Inspection Q.C.
+Case2,Packing,2012-01-18 17:22:45,2012-01-18 18:22:45,Packing
+Case2,Packing,2012-01-19 17:22:45,2012-01-19 18:22:45,Packing
+Case2,End,2012-01-19 18:22:45,2012-01-19 18:22:45,End
+Case3,Start,2012-01-02 09:23:19,2012-01-02 09:23:19,Round Grinding
+Case3,Round Grinding,2012-01-02 09:23:19,2012-01-02 14:13:19,Round Grinding
+Case3,Packing,2012-01-02 20:12:19,2012-01-02 21:12:19,Packing
+Case3,Final Inspection Q.C.,2012-01-03 07:36:18,2012-01-03 10:34:18,Final Inspection Q.C.
+Case3,End,2012-01-03 10:34:18,2012-01-03 10:34:18,End
+Case4,Start,2012-01-02 10:01:00,2012-01-02 10:01:00,Turning & Milling Q.C.
+Case4,Turning & Milling Q.C.,2012-01-02 10:01:00,2012-01-02 12:01:01,Turning & Milling Q.C.
+Case4,Turning & Milling Q.C.,2012-01-05 06:21:01,2012-01-05 07:36:01,Turning & Milling Q.C.
+Case4,End,2012-01-05 07:36:01,2012-01-05 07:36:01,End
+Case5,Start,2012-01-02 11:56:31,2012-01-02 11:56:31,Round Grinding
+Case5,Round Grinding,2012-01-02 11:59:31,2012-01-02 12:44:31,Round Grinding
+Case5,Round Grinding,2012-01-02 13:23:31,2012-01-02 17:23:31,Round Grinding
+Case5,Grinding Rework,2012-01-03 16:36:31,2012-01-03 18:04:31,Grinding Rework
+Case5,Grinding Rework,2012-01-03 18:19:31,2012-01-03 18:36:31,Grinding Rework
+Case5,Grinding Rework,2012-01-04 13:01:31,2012-01-04 14:44:31,Grinding Rework
+Case5,Lapping,2012-01-03 18:04:31,2012-01-03 18:05:31,Lapping
+Case5,Grinding Rework,2012-01-04 03:00:31,2012-01-04 03:47:31,Grinding Rework
+Case5,Lapping,2012-01-03 18:04:31,2012-01-03 20:32:31,Lapping
+Case5,Grinding Rework,2012-01-04 17:10:31,2012-01-04 17:57:31,Grinding Rework
+Case5,Grinding Rework,2012-01-05 06:25:51,2012-01-05 11:53:11,Grinding Rework
+Case5,Fix,2012-01-05 12:05:11,2012-01-05 18:50:11,Fix
+Case5,Grinding Rework,2012-01-05 19:06:11,2012-01-06 04:16:11,Grinding Rework
+Case5,Grinding Rework,2012-01-06 05:20:11,2012-01-06 05:29:11,Grinding Rework
+Case5,Grinding Rework,2012-01-07 05:17:11,2012-01-07 08:37:11,Grinding Rework
+Case5,Grinding Rework,2012-01-07 17:01:11,2012-01-07 20:15:11,Grinding Rework
+Case5,Grinding Rework,2012-01-08 17:58:11,2012-01-08 19:41:11,Grinding Rework
+Case5,Grinding Rework,2012-01-08 22:21:11,2012-01-08 22:22:11,Grinding Rework
+Case5,Grinding Rework,2012-01-28 21:32:11,2012-01-29 00:46:11,Grinding Rework
+Case5,Grinding Rework,2012-01-29 09:10:11,2012-01-29 12:30:11,Grinding Rework
+Case5,Grinding Rework,2012-01-30 06:55:11,2012-01-30 08:33:11,Grinding Rework
+Case5,Grinding Rework,2012-01-31 06:36:11,2012-01-31 06:37:11,Grinding Rework
+Case5,Grinding Rework,2012-01-31 18:33:11,2012-02-01 03:21:11,Grinding Rework
+Case5,Grinding Rework,2012-02-02 01:04:11,2012-02-02 06:03:11,Grinding Rework
+Case5,Grinding Rework,2012-02-02 13:39:11,2012-02-02 15:09:11,Grinding Rework
+Case5,Grinding Rework,2012-02-02 15:09:11,2012-02-02 16:17:11,Grinding Rework
+Case5,Grinding Rework,2012-02-22 15:27:11,2012-02-22 20:37:11,Grinding Rework
+Case5,Grinding Rework,2012-02-22 22:07:11,2012-02-22 23:45:11,Grinding Rework
+Case5,Grinding Rework,2012-02-23 15:39:11,2012-02-23 15:40:11,Grinding Rework
+Case5,Grinding Rework,2012-02-24 13:43:11,2012-02-24 14:00:11,Grinding Rework
+Case5,Grinding Rework,2012-02-24 15:04:11,2012-02-24 19:09:11,Grinding Rework
+Case5,Turning & Milling Q.C.,2012-02-26 15:59:11,2012-02-26 16:07:11,Turning & Milling Q.C.
+Case5,Lapping,2012-04-01 15:04:11,2012-04-01 16:19:11,Lapping
+Case5,Laser Marking,2012-02-26 18:29:11,2012-02-26 18:56:11,Laser Marking
+Case5,Round Grinding,2012-02-27 01:39:11,2012-02-27 03:59:11,Round Grinding
+Case5,End,2012-04-01 16:19:11,2012-04-01 16:19:11,End
+Case6,Start,2012-01-02 13:29:43,2012-01-02 13:29:43,Round Grinding
+Case6,Round Grinding,2012-01-02 13:29:43,2012-01-02 14:44:43,Round Grinding
+Case6,Round Grinding,2012-01-02 14:44:43,2012-01-02 18:23:43,Round Grinding
+Case6,Final Inspection Q.C.,2012-01-02 21:25:43,2012-01-03 01:32:43,Final Inspection Q.C.
+Case6,Packing,2012-01-03 17:26:43,2012-01-03 18:26:43,Packing
+Case6,End,2012-01-03 18:26:43,2012-01-03 18:26:43,End
+Case7,Start,2012-01-02 14:14:11,2012-01-02 14:14:11,Turning & Milling
+Case7,Turning & Milling,2012-01-02 14:14:11,2012-01-02 16:14:11,Turning & Milling
+Case7,Turning & Milling,2012-01-02 20:28:11,2012-01-03 01:57:11,Turning & Milling
+Case7,Turning & Milling,2012-01-03 04:05:11,2012-01-03 07:54:11,Turning & Milling
+Case7,Turning & Milling,2012-01-03 01:58:11,2012-01-03 07:16:11,Turning & Milling
+Case7,Turning & Milling,2012-01-03 08:00:11,2012-01-03 11:47:11,Turning & Milling
+Case7,Turning & Milling Q.C.,2012-01-03 11:48:11,2012-01-03 12:10:11,Turning & Milling Q.C.
+Case7,Turning & Milling,2012-01-04 00:10:12,2012-01-04 03:10:12,Turning & Milling
+Case7,Turning & Milling,2012-01-04 03:39:12,2012-01-04 04:43:12,Turning & Milling
+Case7,Turning & Milling,2012-01-04 06:26:12,2012-01-04 16:26:12,Turning & Milling
+Case7,Turning & Milling Q.C.,2012-01-04 22:52:12,2012-01-04 23:48:12,Turning & Milling Q.C.
+Case7,Turning & Milling Q.C.,2012-01-04 18:35:12,2012-01-04 21:17:12,Turning & Milling Q.C.
+Case7,Turning & Milling,2012-01-06 18:30:12,2012-01-07 01:06:12,Turning & Milling
+Case7,Turning & Milling,2012-01-07 01:12:12,2012-01-07 01:57:12,Turning & Milling
+Case7,Turning & Milling,2012-01-07 05:29:12,2012-01-07 06:44:12,Turning & Milling
+Case7,Turning & Milling,2012-01-07 15:01:12,2012-01-07 17:37:12,Turning & Milling
+Case7,Turning & Milling,2012-01-07 21:46:12,2012-01-08 04:07:12,Turning & Milling
+Case7,Turning & Milling,2012-01-08 04:08:12,2012-01-08 05:13:12,Turning & Milling
+Case7,Turning & Milling Q.C.,2012-01-07 23:00:12,2012-01-08 00:40:12,Turning & Milling Q.C.
+Case7,Turning & Milling Q.C.,2012-01-08 21:34:12,2012-01-08 21:54:12,Turning & Milling Q.C.
+Case7,Turning & Milling Q.C.,2012-01-08 21:55:12,2012-01-08 23:15:12,Turning & Milling Q.C.
+Case7,Turning & Milling,2012-01-09 02:08:12,2012-01-09 03:13:12,Turning & Milling
+Case7,Turning & Milling,2012-01-09 04:35:12,2012-01-09 06:44:12,Turning & Milling
+Case7,Turning & Milling,2012-01-09 22:12:12,2012-01-10 05:50:12,Turning & Milling
+Case7,Turning & Milling Q.C.,2012-01-10 21:39:12,2012-01-10 21:59:12,Turning & Milling Q.C.
+Case7,Turning & Milling,2012-01-11 03:25:12,2012-01-11 06:26:12,Turning & Milling
+Case7,Turning & Milling Q.C.,2012-01-11 06:33:12,2012-01-11 10:04:12,Turning & Milling Q.C.
+Case7,Turning & Milling,2012-01-11 10:24:12,2012-01-11 12:32:12,Turning & Milling
+Case7,Turning & Milling,2012-01-11 20:36:12,2012-01-11 23:11:12,Turning & Milling
+Case7,Turning & Milling,2012-01-11 23:11:12,2012-01-11 23:26:12,Turning & Milling
+Case7,Turning & Milling,2012-01-11 15:30:12,2012-01-11 22:48:12,Turning & Milling
+Case7,Turning & Milling Q.C.,2012-01-11 10:24:12,2012-01-11 10:25:12,Turning & Milling Q.C.
+Case7,Laser Marking,2012-01-11 10:54:12,2012-01-11 11:45:12,Laser Marking
+Case7,Turning & Milling,2012-01-12 01:58:12,2012-01-12 03:13:12,Turning & Milling
+Case7,Turning & Milling,2012-01-12 07:26:12,2012-01-12 17:37:12,Turning & Milling
+Case7,Turning & Milling,2012-01-12 20:40:12,2012-01-12 21:55:12,Turning & Milling
+Case7,Turning & Milling,2012-01-13 19:56:12,2012-01-14 01:35:12,Turning & Milling
+Case7,Turning & Milling Q.C.,2012-01-13 08:25:12,2012-01-13 09:08:12,Turning & Milling Q.C.
+Case7,Turning & Milling,2012-01-13 10:10:12,2012-01-13 16:10:12,Turning & Milling
+Case7,Turning & Milling,2012-01-14 07:30:12,2012-01-14 08:33:12,Turning & Milling
+Case7,Turning & Milling,2012-01-14 12:10:12,2012-01-14 14:10:12,Turning & Milling
+Case7,Turning & Milling,2012-01-14 14:36:12,2012-01-14 20:12:12,Turning & Milling
+Case7,Turning & Milling,2012-01-14 20:13:12,2012-01-15 02:41:12,Turning & Milling
+Case7,Turning & Milling Q.C.,2012-01-15 04:06:12,2012-01-15 05:08:12,Turning & Milling Q.C.
+Case7,Nitration Q.C.,2012-01-29 09:31:12,2012-01-29 09:32:12,Nitration Q.C.
+Case7,Lapping,2012-01-29 21:18:12,2012-01-29 22:33:12,Lapping
+Case7,Grinding Rework,2012-01-30 09:07:12,2012-01-30 12:56:12,Grinding Rework
+Case7,Lapping,2012-01-29 22:36:12,2012-01-29 23:31:12,Lapping
+Case7,Lapping,2012-01-30 22:40:12,2012-01-30 23:55:12,Lapping
+Case7,Lapping,2012-01-31 12:03:12,2012-01-31 15:12:12,Lapping
+Case7,Round Grinding,2012-02-05 04:31:12,2012-02-05 05:11:12,Round Grinding
+Case7,Round Grinding,2012-02-05 05:13:12,2012-02-05 05:14:12,Round Grinding
+Case7,Round Grinding,2012-02-05 18:33:12,2012-02-05 22:32:12,Round Grinding
+Case7,Round Grinding,2012-02-06 05:55:12,2012-02-06 07:39:12,Round Grinding
+Case7,Round Grinding,2012-02-06 07:41:12,2012-02-06 15:30:12,Round Grinding
+Case7,Round Grinding,2012-02-06 15:30:12,2012-02-06 15:31:12,Round Grinding
+Case7,Round Grinding,2012-02-06 15:31:12,2012-02-06 16:52:12,Round Grinding
+Case7,Round Grinding,2012-02-07 07:54:12,2012-02-07 15:03:12,Round Grinding
+Case7,Flat Grinding,2012-02-09 20:48:12,2012-02-09 23:16:12,Flat Grinding
+Case7,Lapping,2012-02-12 03:23:12,2012-02-12 04:45:12,Lapping
+Case7,Lapping,2012-02-13 00:04:12,2012-02-13 05:26:12,Lapping
+Case7,Round Grinding,2012-02-08 07:55:12,2012-02-08 09:16:12,Round Grinding
+Case7,Round Grinding,2012-02-13 07:57:12,2012-02-13 18:24:12,Round Grinding
+Case7,Lapping,2012-02-16 06:20:12,2012-02-16 07:35:12,Lapping
+Case7,Lapping,2012-03-17 06:29:12,2012-03-17 07:44:12,Lapping
+Case7,Lapping,2012-02-13 19:45:12,2012-02-13 21:00:12,Lapping
+Case7,Round Grinding,2012-02-14 05:34:12,2012-02-14 07:16:12,Round Grinding
+Case7,Round Grinding,2012-02-14 22:18:12,2012-02-15 05:11:12,Round Grinding
+Case7,Final Inspection Q.C.,2012-03-20 22:54:12,2012-03-21 00:54:12,Final Inspection Q.C.
+Case7,Packing,2012-03-22 15:10:12,2012-03-22 16:10:12,Packing
+Case7,Final Inspection Q.C.,2012-03-22 22:10:12,2012-03-22 23:50:12,Final Inspection Q.C.
+Case7,Packing,2012-03-23 08:23:12,2012-03-23 09:23:12,Packing
+Case7,Packing,2012-03-24 08:23:12,2012-03-24 09:23:12,Packing
+Case7,End,2012-03-24 09:23:12,2012-03-24 09:23:12,End
+Case8,Start,2012-01-02 15:27:32,2012-01-02 15:27:32,Turning Q.C.
+Case8,Turning Q.C.,2012-01-02 15:27:32,2012-01-02 15:42:32,Turning Q.C.
+Case8,Turning Q.C.,2012-01-03 14:15:32,2012-01-03 14:30:32,Turning Q.C.
+Case8,Turning Q.C.,2012-01-08 20:15:32,2012-01-08 22:15:32,Turning Q.C.
+Case8,Turning & Milling,2012-01-16 18:24:32,2012-01-17 02:07:32,Turning & Milling
+Case8,Turning & Milling,2012-01-17 02:07:32,2012-01-17 08:01:32,Turning & Milling
+Case8,Turning & Milling,2012-01-17 12:14:32,2012-01-17 21:31:32,Turning & Milling
+Case8,Turning & Milling Q.C.,2012-01-17 10:53:32,2012-01-17 11:36:32,Turning & Milling Q.C.
+Case8,Turning & Milling,2012-01-17 22:06:32,2012-01-18 16:06:32,Turning & Milling
+Case8,Turning & Milling,2012-01-18 16:08:32,2012-01-19 01:38:32,Turning & Milling
+Case8,Turning & Milling,2012-01-19 07:23:32,2012-01-19 16:25:32,Turning & Milling
+Case8,Turning & Milling,2012-01-19 16:57:32,2012-01-19 23:31:32,Turning & Milling
+Case8,Turning & Milling Q.C.,2012-01-19 05:24:32,2012-01-19 08:55:32,Turning & Milling Q.C.
+Case8,Turning & Milling,2012-01-19 23:58:32,2012-01-20 01:34:32,Turning & Milling
+Case8,Turning & Milling,2012-01-20 03:53:32,2012-01-20 05:08:32,Turning & Milling
+Case8,Turning & Milling,2012-01-20 07:29:32,2012-01-20 08:10:32,Turning & Milling
+Case8,Turning & Milling,2012-01-20 08:14:32,2012-01-20 08:15:32,Turning & Milling
+Case8,Turning & Milling Q.C.,2012-01-21 16:59:32,2012-01-21 18:50:32,Turning & Milling Q.C.
+Case8,Turning & Milling,2012-01-21 19:07:32,2012-01-21 23:29:32,Turning & Milling
+Case8,Turning & Milling,2012-01-22 03:36:32,2012-01-22 09:06:32,Turning & Milling
+Case8,Turning & Milling Q.C.,2012-01-22 20:54:32,2012-01-22 21:33:32,Turning & Milling Q.C.
+Case8,Turning & Milling,2012-01-23 12:51:32,2012-01-23 22:51:32,Turning & Milling
+Case8,Turning & Milling,2012-01-24 01:37:32,2012-01-24 05:02:32,Turning & Milling
+Case8,Turning & Milling Q.C.,2012-01-24 04:05:32,2012-01-24 06:15:32,Turning & Milling Q.C.
+Case8,Turning & Milling,2012-01-24 08:26:32,2012-01-24 13:47:32,Turning & Milling
+Case8,Turning & Milling,2012-01-24 19:47:32,2012-01-25 03:33:32,Turning & Milling
+Case8,Turning & Milling,2012-01-25 16:03:32,2012-01-25 23:41:32,Turning & Milling
+Case8,Turning & Milling,2012-01-26 07:09:32,2012-01-26 11:39:32,Turning & Milling
+Case8,Turning & Milling Q.C.,2012-01-28 06:25:32,2012-01-28 07:43:31,Turning & Milling Q.C.
+Case8,Turning & Milling Q.C.,2012-01-28 08:10:31,2012-01-28 09:57:31,Turning & Milling Q.C.
+Case8,Turning & Milling Q.C.,2012-01-28 12:08:31,2012-01-28 15:58:31,Turning & Milling Q.C.
+Case8,Turning & Milling Q.C.,2012-01-29 08:57:31,2012-01-29 09:02:31,Turning & Milling Q.C.
+Case8,Packing,2012-01-29 15:01:31,2012-01-29 16:01:31,Packing
+Case8,Final Inspection Q.C.,2012-01-30 00:01:31,2012-01-30 06:01:31,Final Inspection Q.C.
+Case8,End,2012-01-30 06:01:31,2012-01-30 06:01:31,End
+Case9,Start,2012-01-02 16:52:50,2012-01-02 16:52:50,Turning & Milling Q.C.
+Case9,Turning & Milling Q.C.,2012-01-02 16:52:50,2012-01-02 18:52:50,Turning & Milling Q.C.
+Case9,Turning & Milling Q.C.,2012-01-06 09:34:50,2012-01-06 13:24:50,Turning & Milling Q.C.
+Case9,Lapping,2012-01-06 19:43:50,2012-01-06 19:43:50,Lapping
+Case9,Final Inspection Q.C.,2012-01-07 21:29:50,2012-01-08 01:10:50,Final Inspection Q.C.
+Case9,Lapping,2012-01-07 07:51:50,2012-01-07 12:11:50,Lapping
+Case9,Final Inspection Q.C.,2012-01-08 18:52:50,2012-01-08 23:14:50,Final Inspection Q.C.
+Case9,End,2012-01-08 23:14:50,2012-01-08 23:14:50,End
+Case10,Start,2012-01-02 17:18:09,2012-01-02 17:18:09,Turning & Milling Q.C.
+Case10,Turning & Milling Q.C.,2012-01-02 17:18:09,2012-01-02 19:01:09,Turning & Milling Q.C.
+Case10,Laser Marking,2012-01-02 23:10:09,2012-01-03 00:16:09,Laser Marking
+Case10,Lapping,2012-01-15 14:18:09,2012-01-15 14:58:09,Lapping
+Case10,Lapping,2012-01-24 14:42:09,2012-01-24 15:47:09,Lapping
+Case10,Final Inspection Q.C.,2012-01-25 17:33:09,2012-01-25 18:33:09,Final Inspection Q.C.
+Case10,Packing,2012-01-27 07:39:09,2012-01-27 08:39:09,Packing
+Case10,End,2012-01-27 08:39:09,2012-01-27 08:39:09,End
+Case11,Start,2012-01-02 18:09:14,2012-01-02 18:09:14,Round Grinding
+Case11,Round Grinding,2012-01-02 18:09:14,2012-01-02 18:39:14,Round Grinding
+Case11,Round Grinding,2012-01-02 18:40:14,2012-01-02 19:55:14,Round Grinding
+Case11,Round Grinding,2012-01-05 00:55:14,2012-01-05 03:11:14,Round Grinding
+Case11,Round Grinding,2012-01-02 20:12:14,2012-01-03 01:29:14,Round Grinding
+Case11,Final Inspection Q.C.,2012-01-03 01:43:14,2012-01-03 04:03:14,Final Inspection Q.C.
+Case11,Round Grinding,2012-01-05 05:34:14,2012-01-05 06:09:14,Round Grinding
+Case11,Round Grinding,2012-01-05 07:31:14,2012-01-05 11:19:14,Round Grinding
+Case11,Final Inspection Q.C.,2012-01-05 13:03:14,2012-01-05 14:04:14,Final Inspection Q.C.
+Case11,Packing,2012-01-06 07:03:14,2012-01-06 08:03:14,Packing
+Case11,End,2012-01-06 08:03:14,2012-01-06 08:03:14,End
+Case12,Start,2012-01-02 19:58:15,2012-01-02 19:58:15,Turning & Milling
+Case12,Turning & Milling,2012-01-02 19:58:15,2012-01-02 20:51:15,Turning & Milling
+Case12,Turning & Milling,2012-01-02 19:58:15,2012-01-02 21:13:15,Turning & Milling
+Case12,Turning & Milling,2012-01-02 23:48:15,2012-01-03 00:51:15,Turning & Milling
+Case12,Turning & Milling,2012-01-03 01:22:15,2012-01-03 03:03:15,Turning & Milling
+Case12,Turning & Milling Q.C.,2012-01-03 13:13:15,2012-01-03 14:13:15,Turning & Milling Q.C.
+Case12,Lapping,2012-01-06 17:30:15,2012-01-06 18:45:15,Lapping
+Case12,Lapping,2012-01-07 17:30:15,2012-01-07 18:55:15,Lapping
+Case12,Packing,2012-01-09 04:59:15,2012-01-09 05:59:15,Packing
+Case12,Final Inspection Q.C.,2012-01-09 15:35:15,2012-01-09 16:25:15,Final Inspection Q.C.
+Case12,Laser Marking,2012-01-09 18:00:15,2012-01-09 19:30:15,Laser Marking
+Case12,End,2012-01-09 19:30:15,2012-01-09 19:30:15,End
+Case13,Start,2012-01-02 20:18:29,2012-01-02 20:18:29,Turning
+Case13,Turning,2012-01-02 20:18:29,2012-01-02 22:05:29,Turning
+Case13,Turning,2012-01-02 22:05:29,2012-01-03 04:31:29,Turning
+Case13,Turning & Milling,2012-01-03 04:31:29,2012-01-03 05:13:29,Turning & Milling
+Case13,Turning & Milling,2012-01-03 12:21:29,2012-01-03 13:36:29,Turning & Milling
+Case13,Turning & Milling Q.C.,2012-01-03 14:34:29,2012-01-03 17:44:29,Turning & Milling Q.C.
+Case13,Turning & Milling,2012-01-04 00:00:29,2012-01-04 01:15:29,Turning & Milling
+Case13,Laser Marking,2012-01-04 07:38:29,2012-01-04 08:53:29,Laser Marking
+Case13,Lapping,2012-01-22 03:16:29,2012-01-22 04:31:29,Lapping
+Case13,Round Grinding,2012-01-22 06:18:29,2012-01-22 08:07:29,Round Grinding
+Case13,Round Grinding,2012-01-22 08:08:29,2012-01-22 09:48:29,Round Grinding
+Case13,Round Grinding,2012-01-22 14:27:29,2012-01-22 15:20:29,Round Grinding
+Case13,Lapping,2012-01-23 00:27:29,2012-01-23 01:42:29,Lapping
+Case13,Round Grinding,2012-01-23 01:43:29,2012-01-23 04:29:29,Round Grinding
+Case13,Round Grinding,2012-01-23 04:30:29,2012-01-23 05:26:29,Round Grinding
+Case13,Final Inspection Q.C.,2012-01-25 23:42:29,2012-01-26 00:15:29,Final Inspection Q.C.
+Case13,End,2012-01-26 00:15:29,2012-01-26 00:15:29,End
+Case14,Start,2012-01-02 23:51:15,2012-01-02 23:51:15,Laser Marking
+Case14,Laser Marking,2012-01-02 23:51:15,2012-01-03 01:36:15,Laser Marking
+Case14,Flat Grinding,2012-01-03 08:38:15,2012-01-03 08:39:15,Flat Grinding
+Case14,Flat Grinding,2012-01-03 16:47:15,2012-01-03 19:39:15,Flat Grinding
+Case14,Flat Grinding,2012-01-04 10:26:15,2012-01-04 11:52:15,Flat Grinding
+Case14,Final Inspection Q.C.,2012-01-06 07:22:15,2012-01-06 09:45:15,Final Inspection Q.C.
+Case14,Packing,2012-01-06 19:26:15,2012-01-06 20:26:15,Packing
+Case14,Final Inspection Q.C.,2012-01-07 04:00:15,2012-01-07 06:58:15,Final Inspection Q.C.
+Case14,End,2012-01-07 06:58:15,2012-01-07 06:58:15,End
+Case15,Start,2012-01-03 00:34:21,2012-01-03 00:34:21,Turning & Milling
+Case15,Turning & Milling,2012-01-03 00:34:21,2012-01-03 06:18:21,Turning & Milling
+Case15,Turning & Milling,2012-01-03 07:52:21,2012-01-03 14:37:21,Turning & Milling
+Case15,Turning & Milling Q.C.,2012-01-04 06:08:21,2012-01-04 08:58:21,Turning & Milling Q.C.
+Case15,Flat Grinding,2012-01-08 12:17:21,2012-01-08 13:32:21,Flat Grinding
+Case15,Flat Grinding,2012-01-08 22:10:21,2012-01-09 00:29:21,Flat Grinding
+Case15,Flat Grinding,2012-01-09 22:21:21,2012-01-10 05:13:21,Flat Grinding
+Case15,Laser Marking,2012-01-19 18:56:21,2012-01-19 19:59:21,Laser Marking
+Case15,Packing,2012-01-21 04:32:21,2012-01-21 05:32:21,Packing
+Case15,Final Inspection Q.C.,2012-01-21 14:56:21,2012-01-21 19:56:21,Final Inspection Q.C.
+Case15,End,2012-01-21 19:56:21,2012-01-21 19:56:21,End
+Case16,Start,2012-01-03 03:56:43,2012-01-03 03:56:43,Turning & Milling
+Case16,Turning & Milling,2012-01-03 03:56:43,2012-01-03 08:25:43,Turning & Milling
+Case16,Turning & Milling,2012-01-03 09:58:43,2012-01-03 11:45:43,Turning & Milling
+Case16,End,2012-01-03 11:45:43,2012-01-03 11:45:43,End
+Case17,Start,2012-01-03 05:49:05,2012-01-03 05:49:05,Turning & Milling
+Case17,Turning & Milling,2012-01-03 05:49:05,2012-01-03 12:39:05,Turning & Milling
+Case17,Turning & Milling,2012-01-03 12:57:05,2012-01-03 22:36:05,Turning & Milling
+Case17,Turning & Milling,2012-01-03 22:37:05,2012-01-04 05:27:05,Turning & Milling
+Case17,Turning & Milling,2012-01-05 00:03:05,2012-01-05 09:59:05,Turning & Milling
+Case17,Turning & Milling Q.C.,2012-01-05 09:59:05,2012-01-05 11:39:05,Turning & Milling Q.C.
+Case17,Laser Marking,2012-01-16 10:40:05,2012-01-16 11:08:05,Laser Marking
+Case17,Lapping,2012-01-16 20:42:05,2012-01-16 21:22:06,Lapping
+Case17,Final Inspection Q.C.,2012-01-17 00:25:06,2012-01-17 01:14:06,Final Inspection Q.C.
+Case17,Final Inspection Q.C.,2012-01-17 02:31:06,2012-01-17 04:11:06,Final Inspection Q.C.
+Case17,Packing,2012-01-17 17:56:06,2012-01-17 18:56:06,Packing
+Case17,End,2012-01-17 18:56:06,2012-01-17 18:56:06,End
+Case18,Start,2012-01-03 06:22:23,2012-01-03 06:22:23,Turning & Milling
+Case18,Turning & Milling,2012-01-03 06:22:23,2012-01-03 10:55:22,Turning & Milling
+Case18,Turning & Milling,2012-01-03 11:24:22,2012-01-03 14:56:22,Turning & Milling
+Case18,Turning & Milling,2012-01-03 14:56:22,2012-01-04 01:37:22,Turning & Milling
+Case18,Turning & Milling,2012-01-04 23:39:22,2012-01-04 23:59:22,Turning & Milling
+Case18,Turning & Milling,2012-01-05 01:32:22,2012-01-05 04:32:22,Turning & Milling
+Case18,Turning & Milling Q.C.,2012-01-05 04:44:22,2012-01-05 05:08:22,Turning & Milling Q.C.
+Case18,Final Inspection Q.C.,2012-01-05 06:30:22,2012-01-05 06:45:22,Final Inspection Q.C.
+Case18,Turning & Milling Q.C.,2012-01-05 06:46:22,2012-01-05 06:49:22,Turning & Milling Q.C.
+Case18,Laser Marking,2012-01-10 13:00:22,2012-01-10 13:30:22,Laser Marking
+Case18,Lapping,2012-01-10 19:01:22,2012-01-10 20:16:22,Lapping
+Case18,Final Inspection Q.C.,2012-01-13 01:39:22,2012-01-13 02:57:22,Final Inspection Q.C.
+Case18,Final Inspection Q.C.,2012-01-13 04:30:22,2012-01-13 07:30:22,Final Inspection Q.C.
+Case18,Turning & Milling,2012-01-13 07:31:22,2012-01-13 07:35:22,Turning & Milling
+Case18,Packing,2012-01-13 15:05:22,2012-01-13 16:05:22,Packing
+Case18,End,2012-01-13 16:05:22,2012-01-13 16:05:22,End
+Case19,Start,2012-01-03 07:38:55,2012-01-03 07:38:55,Turning
+Case19,Turning,2012-01-03 07:38:55,2012-01-03 09:25:55,Turning
+Case19,Turning,2012-01-03 09:25:55,2012-01-03 12:10:55,Turning
+Case19,Turning,2012-01-03 19:22:55,2012-01-04 02:01:55,Turning
+Case19,Packing,2012-01-04 06:38:55,2012-01-04 07:38:55,Packing
+Case19,Turning Q.C.,2012-01-04 16:21:55,2012-01-04 16:25:55,Turning Q.C.
+Case19,Laser Marking,2012-01-04 16:29:55,2012-01-04 17:09:55,Laser Marking
+Case19,Final Inspection Q.C.,2012-01-04 17:52:55,2012-01-04 19:07:55,Final Inspection Q.C.
+Case19,End,2012-01-04 19:07:55,2012-01-04 19:07:55,End
+Case20,Start,2012-01-03 08:37:24,2012-01-03 08:37:24,Turning Q.C.
+Case20,Turning Q.C.,2012-01-03 08:37:24,2012-01-03 09:26:24,Turning Q.C.
+Case20,Turning Q.C.,2012-01-08 15:11:24,2012-01-08 16:26:24,Turning Q.C.
+Case20,Turning Q.C.,2012-01-09 05:42:24,2012-01-09 07:43:24,Turning Q.C.
+Case20,Turning & Milling,2012-01-14 19:59:24,2012-01-15 03:42:24,Turning & Milling
+Case20,Turning & Milling,2012-01-15 03:44:24,2012-01-15 08:37:24,Turning & Milling
+Case20,Turning & Milling,2012-01-15 09:22:24,2012-01-15 19:46:24,Turning & Milling
+Case20,Turning & Milling,2012-01-15 09:22:24,2012-01-15 12:52:24,Turning & Milling
+Case20,Turning & Milling,2012-01-15 21:31:24,2012-01-15 23:40:24,Turning & Milling
+Case20,Turning & Milling,2012-01-15 23:56:24,2012-01-16 10:56:24,Turning & Milling
+Case20,Turning & Milling,2012-01-16 19:38:24,2012-01-16 21:08:24,Turning & Milling
+Case20,Turning & Milling,2012-01-16 21:09:24,2012-01-17 01:35:24,Turning & Milling
+Case20,Turning & Milling Q.C.,2012-01-16 18:08:24,2012-01-16 18:10:24,Turning & Milling Q.C.
+Case20,Turning & Milling,2012-01-17 20:35:24,2012-01-17 21:56:24,Turning & Milling
+Case20,Turning & Milling,2012-01-17 22:33:24,2012-01-17 23:00:24,Turning & Milling
+Case20,Turning & Milling,2012-01-17 23:00:24,2012-01-18 07:07:24,Turning & Milling
+Case20,Turning & Milling,2012-01-18 07:08:24,2012-01-18 12:43:24,Turning & Milling
+Case20,Turning & Milling Q.C.,2012-01-18 15:44:24,2012-01-18 17:16:24,Turning & Milling Q.C.
+Case20,Turning & Milling,2012-01-18 17:31:24,2012-01-18 19:10:24,Turning & Milling
+Case20,Turning & Milling,2012-01-18 19:16:24,2012-01-18 22:53:24,Turning & Milling
+Case20,Turning & Milling Q.C.,2012-01-19 16:31:24,2012-01-19 16:32:24,Turning & Milling Q.C.
+Case20,Turning & Milling,2012-01-19 21:31:24,2012-01-19 21:32:24,Turning & Milling
+Case20,Turning,2012-01-19 21:41:24,2012-01-20 03:13:24,Turning
+Case20,Turning,2012-01-20 03:16:24,2012-01-20 06:01:24,Turning
+Case20,Turning & Milling,2012-01-19 22:26:24,2012-01-20 00:51:24,Turning & Milling
+Case20,Turning & Milling,2012-01-20 06:02:24,2012-01-20 09:17:24,Turning & Milling
+Case20,Turning & Milling,2012-01-20 16:43:24,2012-01-20 20:13:24,Turning & Milling
+Case20,Turning & Milling,2012-01-22 07:12:24,2012-01-22 10:58:24,Turning & Milling
+Case20,Turning & Milling,2012-01-22 10:59:24,2012-01-22 19:24:24,Turning & Milling
+Case20,Turning & Milling Q.C.,2012-01-23 02:25:24,2012-01-23 03:40:24,Turning & Milling Q.C.
+Case20,Turning & Milling Q.C.,2012-01-31 15:00:24,2012-01-31 15:15:24,Turning & Milling Q.C.
+Case20,Turning & Milling Q.C.,2012-02-02 15:35:24,2012-02-02 15:47:24,Turning & Milling Q.C.
+Case20,Turning & Milling Q.C.,2012-02-03 15:04:24,2012-02-03 15:05:24,Turning & Milling Q.C.
+Case20,Packing,2012-02-03 21:04:24,2012-02-03 22:04:24,Packing
+Case20,Final Inspection Q.C.,2012-02-04 09:04:24,2012-02-04 09:05:24,Final Inspection Q.C.
+Case20,End,2012-02-04 09:05:24,2012-02-04 09:05:24,End
+Case21,Start,2012-01-03 09:00:55,2012-01-03 09:00:55,Milling
+Case21,Milling,2012-01-03 09:00:55,2012-01-03 17:30:55,Milling
+Case21,Turning & Milling Q.C.,2012-01-04 01:30:55,2012-01-04 02:45:55,Turning & Milling Q.C.
+Case21,Lapping,2012-01-04 05:13:55,2012-01-04 11:28:55,Lapping
+Case21,Round Grinding,2012-01-04 11:29:55,2012-01-04 14:32:55,Round Grinding
+Case21,Round Grinding,2012-01-04 14:33:55,2012-01-04 21:53:55,Round Grinding
+Case21,Round Grinding,2012-01-04 21:55:55,2012-01-05 01:25:55,Round Grinding
+Case21,Lapping,2012-01-05 01:29:55,2012-01-05 02:44:55,Lapping
+Case21,Round Grinding,2012-01-06 02:32:55,2012-01-06 05:02:55,Round Grinding
+Case21,Round Grinding,2012-01-06 05:03:55,2012-01-06 07:33:55,Round Grinding
+Case21,Packing,2012-01-06 13:40:55,2012-01-06 14:40:55,Packing
+Case21,Lapping,2012-01-21 13:40:55,2012-01-21 17:46:55,Lapping
+Case21,Round Grinding,2012-01-06 20:41:55,2012-01-06 22:44:55,Round Grinding
+Case21,Round Grinding,2012-01-07 06:09:55,2012-01-07 14:38:55,Round Grinding
+Case21,Round Grinding,2012-01-07 14:38:55,2012-01-07 17:14:55,Round Grinding
+Case21,End,2012-01-21 17:46:55,2012-01-21 17:46:55,End
+Case22,Start,2012-01-03 10:24:53,2012-01-03 10:24:53,Turning & Milling
+Case22,Turning & Milling,2012-01-03 10:24:53,2012-01-03 14:28:53,Turning & Milling
+Case22,Turning & Milling,2012-01-03 14:32:53,2012-01-03 20:53:53,Turning & Milling
+Case22,Turning & Milling,2012-01-03 21:23:53,2012-01-04 04:28:53,Turning & Milling
+Case22,Turning & Milling,2012-01-04 04:39:53,2012-01-04 12:26:53,Turning & Milling
+Case22,Turning & Milling Q.C.,2012-01-04 12:44:53,2012-01-04 14:10:53,Turning & Milling Q.C.
+Case22,Turning & Milling,2012-01-04 15:19:53,2012-01-04 15:25:53,Turning & Milling
+Case22,Turning & Milling Q.C.,2012-01-14 17:05:53,2012-01-14 17:49:53,Turning & Milling Q.C.
+Case22,Laser Marking,2012-01-20 16:50:53,2012-01-20 16:51:53,Laser Marking
+Case22,Final Inspection Q.C.,2012-01-22 14:44:53,2012-01-22 15:01:53,Final Inspection Q.C.
+Case22,Final Inspection Q.C.,2012-01-24 08:03:53,2012-01-24 09:43:53,Final Inspection Q.C.
+Case22,Packing,2012-01-24 18:33:53,2012-01-24 19:33:53,Packing
+Case22,End,2012-01-24 19:33:53,2012-01-24 19:33:53,End
+Case23,Start,2012-01-03 12:17:11,2012-01-03 12:17:11,Turning & Milling
+Case23,Turning & Milling,2012-01-03 12:17:11,2012-01-03 21:51:11,Turning & Milling
+Case23,Turning & Milling,2012-01-04 01:13:11,2012-01-04 05:11:11,Turning & Milling
+Case23,Turning & Milling,2012-01-04 05:11:11,2012-01-04 06:15:11,Turning & Milling
+Case23,Turning & Milling,2012-01-04 06:37:11,2012-01-04 07:19:11,Turning & Milling
+Case23,Turning & Milling,2012-01-04 10:51:11,2012-01-04 10:52:11,Turning & Milling
+Case23,Turning & Milling Q.C.,2012-01-04 11:21:11,2012-01-04 12:21:11,Turning & Milling Q.C.
+Case23,Turning & Milling Q.C.,2012-01-05 03:08:11,2012-01-05 05:33:11,Turning & Milling Q.C.
+Case23,Turning & Milling Q.C.,2012-01-05 07:44:11,2012-01-05 08:14:11,Turning & Milling Q.C.
+Case23,Laser Marking,2012-01-05 09:40:11,2012-01-05 10:22:11,Laser Marking
+Case23,End,2012-01-05 10:22:11,2012-01-05 10:22:11,End
+Case24,Start,2012-01-03 13:26:10,2012-01-03 13:26:10,Lapping
+Case24,Lapping,2012-01-03 13:26:10,2012-01-03 15:31:10,Lapping
+Case24,Lapping,2012-01-04 00:38:10,2012-01-04 03:09:10,Lapping
+Case24,Round Grinding,2012-01-04 08:36:10,2012-01-04 09:16:10,Round Grinding
+Case24,Round Grinding,2012-01-04 13:45:10,2012-01-04 14:30:10,Round Grinding
+Case24,Packing,2012-01-06 02:00:10,2012-01-06 03:00:10,Packing
+Case24,Round Grinding,2012-01-04 14:37:10,2012-01-04 15:50:10,Round Grinding
+Case24,Final Inspection Q.C.,2012-01-06 13:19:10,2012-01-06 16:44:10,Final Inspection Q.C.
+Case24,Final Inspection Q.C.,2012-01-07 10:12:10,2012-01-07 13:12:10,Final Inspection Q.C.
+Case24,Packing,2012-01-07 21:20:10,2012-01-07 22:20:10,Packing
+Case24,End,2012-01-07 22:20:10,2012-01-07 22:20:10,End
+Case25,Start,2012-01-03 14:23:00,2012-01-03 14:23:00,Turning & Milling
+Case25,Turning & Milling,2012-01-03 14:23:00,2012-01-03 19:31:00,Turning & Milling
+Case25,Turning & Milling,2012-01-03 23:53:00,2012-01-04 10:33:00,Turning & Milling
+Case25,Turning & Milling,2012-01-04 10:50:00,2012-01-04 10:54:00,Turning & Milling
+Case25,Turning & Milling,2012-01-04 16:04:00,2012-01-04 18:29:00,Turning & Milling
+Case25,Turning & Milling,2012-01-04 18:39:00,2012-01-05 00:15:01,Turning & Milling
+Case25,Turning & Milling Q.C.,2012-01-05 09:28:00,2012-01-05 11:08:00,Turning & Milling Q.C.
+Case25,Turning & Milling,2012-01-05 11:24:00,2012-01-05 16:45:00,Turning & Milling
+Case25,Turning & Milling,2012-01-05 18:37:00,2012-01-06 00:38:00,Turning & Milling
+Case25,Turning & Milling,2012-01-06 06:13:00,2012-01-06 06:30:00,Turning & Milling
+Case25,Turning & Milling,2012-01-06 07:15:00,2012-01-06 17:39:00,Turning & Milling
+Case25,Turning & Milling Q.C.,2012-01-06 17:46:00,2012-01-06 21:22:00,Turning & Milling Q.C.
+Case25,Turning & Milling Q.C.,2012-01-06 20:01:00,2012-01-06 21:01:00,Turning & Milling Q.C.
+Case25,Turning & Milling,2012-01-07 20:46:00,2012-01-08 02:16:00,Turning & Milling
+Case25,Turning & Milling Q.C.,2012-01-08 02:22:00,2012-01-08 03:37:00,Turning & Milling Q.C.
+Case25,Turning & Milling,2012-01-08 08:36:00,2012-01-08 09:51:00,Turning & Milling
+Case25,Turning & Milling,2012-01-08 09:22:00,2012-01-08 16:22:00,Turning & Milling
+Case25,Turning & Milling,2012-01-08 19:42:00,2012-01-08 21:03:00,Turning & Milling
+Case25,Turning & Milling,2012-01-08 21:05:00,2012-01-08 23:45:00,Turning & Milling
+Case25,Turning & Milling Q.C.,2012-01-10 18:46:00,2012-01-10 20:20:00,Turning & Milling Q.C.
+Case25,Turning & Milling,2012-01-12 13:59:01,2012-01-12 17:24:01,Turning & Milling
+Case25,Turning & Milling,2012-01-12 17:25:01,2012-01-12 17:34:01,Turning & Milling
+Case25,Turning & Milling Q.C.,2012-01-14 17:24:00,2012-01-14 18:37:00,Turning & Milling Q.C.
+Case25,Turning & Milling,2012-01-14 23:37:00,2012-01-15 00:11:00,Turning & Milling
+Case25,Turning & Milling,2012-01-15 00:12:00,2012-01-15 01:39:00,Turning & Milling
+Case25,Turning & Milling,2012-01-15 03:39:00,2012-01-15 09:37:00,Turning & Milling
+Case25,Turning & Milling,2012-01-15 00:13:00,2012-01-15 03:47:00,Turning & Milling
+Case25,Turning & Milling,2012-01-16 00:21:00,2012-01-16 07:35:00,Turning & Milling
+Case25,Turning & Milling,2012-01-16 15:39:00,2012-01-16 20:09:00,Turning & Milling
+Case25,Turning & Milling,2012-01-16 23:31:00,2012-01-17 00:45:00,Turning & Milling
+Case25,Turning & Milling,2012-01-17 06:05:00,2012-01-17 07:03:00,Turning & Milling
+Case25,Turning & Milling Q.C.,2012-01-17 22:34:00,2012-01-17 22:45:00,Turning & Milling Q.C.
+Case25,Laser Marking,2012-01-26 05:33:00,2012-01-26 06:00:00,Laser Marking
+Case25,Turning & Milling Q.C.,2012-01-26 19:17:00,2012-01-26 19:32:00,Turning & Milling Q.C.
+Case25,Turning & Milling Q.C.,2012-01-27 10:12:00,2012-01-27 10:24:00,Turning & Milling Q.C.
+Case25,Turning & Milling Q.C.,2012-01-26 19:33:00,2012-01-26 21:03:00,Turning & Milling Q.C.
+Case25,Laser Marking,2012-01-27 12:45:00,2012-01-27 12:53:00,Laser Marking
+Case25,Turning & Milling Q.C.,2012-01-30 22:19:00,2012-01-30 22:54:00,Turning & Milling Q.C.
+Case25,Turning & Milling Q.C.,2012-01-31 15:53:00,2012-01-31 16:20:00,Turning & Milling Q.C.
+Case25,Turning & Milling,2012-01-31 21:46:00,2012-01-31 21:50:00,Turning & Milling
+Case25,Turning & Milling Q.C.,2012-02-03 11:11:00,2012-02-03 11:29:00,Turning & Milling Q.C.
+Case25,Turning & Milling Q.C.,2012-02-04 03:50:00,2012-02-04 04:54:00,Turning & Milling Q.C.
+Case25,Lapping,2012-02-04 15:27:00,2012-02-04 15:47:00,Lapping
+Case25,Lapping,2012-02-04 16:44:00,2012-02-04 19:36:00,Lapping
+Case25,Laser Marking,2012-02-04 20:18:00,2012-02-04 21:33:00,Laser Marking
+Case25,Lapping,2012-02-05 04:31:00,2012-02-05 05:31:00,Lapping
+Case25,Lapping,2012-02-05 13:41:00,2012-02-05 17:20:00,Lapping
+Case25,Round Grinding,2012-02-13 21:15:00,2012-02-13 23:26:00,Round Grinding
+Case25,Round Grinding,2012-02-14 13:28:00,2012-02-14 16:36:00,Round Grinding
+Case25,Round Grinding,2012-02-14 19:04:00,2012-02-14 21:34:00,Round Grinding
+Case25,Turning & Milling Q.C.,2012-02-14 21:06:00,2012-02-14 21:10:00,Turning & Milling Q.C.
+Case25,Round Grinding,2012-02-15 01:05:00,2012-02-15 04:11:00,Round Grinding
+Case25,Round Grinding,2012-02-17 04:04:00,2012-02-17 09:10:00,Round Grinding
+Case25,Round Grinding,2012-02-17 09:11:00,2012-02-17 19:55:00,Round Grinding
+Case25,Final Inspection Q.C.,2012-02-21 10:34:00,2012-02-21 15:26:00,Final Inspection Q.C.
+Case25,Round Grinding,2012-02-18 12:29:00,2012-02-18 17:10:00,Round Grinding
+Case25,Round Grinding,2012-02-19 12:17:00,2012-02-19 12:55:00,Round Grinding
+Case25,Round Grinding,2012-02-21 19:38:00,2012-02-21 20:13:00,Round Grinding
+Case25,Round Grinding,2012-02-21 21:25:00,2012-02-22 03:48:00,Round Grinding
+Case25,Final Inspection Q.C.,2012-02-23 01:00:00,2012-02-23 01:02:00,Final Inspection Q.C.
+Case25,Lapping,2012-02-22 05:55:00,2012-02-22 09:15:00,Lapping
+Case25,Laser Marking,2012-02-22 22:23:00,2012-02-22 22:36:00,Laser Marking
+Case25,Laser Marking,2012-02-22 06:21:00,2012-02-22 07:06:00,Laser Marking
+Case25,Round Grinding,2012-02-22 17:07:00,2012-02-22 21:03:00,Round Grinding
+Case25,Packing,2012-02-24 02:07:20,2012-02-24 03:07:20,Packing
+Case25,Final Inspection Q.C.,2012-02-24 11:28:20,2012-02-24 14:29:20,Final Inspection Q.C.
+Case25,Final Inspection Q.C.,2012-02-26 13:13:20,2012-02-26 15:50:20,Final Inspection Q.C.
+Case25,Lapping,2012-02-26 19:27:20,2012-02-26 20:42:20,Lapping
+Case25,Final Inspection Q.C.,2012-02-26 21:29:20,2012-02-26 22:47:20,Final Inspection Q.C.
+Case25,Round Grinding,2012-02-26 19:10:20,2012-02-27 02:30:20,Round Grinding
+Case25,Round Grinding,2012-02-27 02:37:20,2012-02-27 04:22:20,Round Grinding
+Case25,Final Inspection Q.C.,2012-02-27 21:17:20,2012-02-28 00:17:20,Final Inspection Q.C.
+Case25,Lapping,2012-02-28 01:10:20,2012-02-28 01:11:20,Lapping
+Case25,Lapping,2012-02-28 16:21:20,2012-02-28 17:25:20,Lapping
+Case25,Round Grinding,2012-02-28 17:26:20,2012-02-28 19:53:20,Round Grinding
+Case25,Round Grinding,2012-02-28 03:15:20,2012-02-28 03:16:20,Round Grinding
+Case25,Round Grinding,2012-02-29 01:18:20,2012-02-29 03:42:20,Round Grinding
+Case25,Round Grinding,2012-02-29 03:49:20,2012-02-29 03:50:20,Round Grinding
+Case25,Round Grinding,2012-02-29 04:29:20,2012-02-29 06:58:20,Round Grinding
+Case25,Round Grinding,2012-02-29 04:29:20,2012-02-29 06:09:20,Round Grinding
+Case25,Lapping,2012-02-29 07:07:20,2012-02-29 08:07:20,Lapping
+Case25,Round Grinding,2012-02-29 18:44:20,2012-02-29 20:14:20,Round Grinding
+Case25,Final Inspection Q.C.,2012-03-02 13:00:20,2012-03-02 22:02:20,Final Inspection Q.C.
+Case25,Round Grinding,2012-03-03 01:00:20,2012-03-03 02:15:20,Round Grinding
+Case25,Lapping,2012-03-03 02:15:20,2012-03-03 03:30:20,Lapping
+Case25,Round Grinding,2012-03-03 01:22:20,2012-03-03 02:37:20,Round Grinding
+Case25,Lapping,2012-03-03 06:31:20,2012-03-03 07:00:20,Lapping
+Case25,Lapping,2012-03-04 03:12:20,2012-03-04 03:47:20,Lapping
+Case25,Round Grinding,2012-03-10 08:49:20,2012-03-10 14:51:20,Round Grinding
+Case25,Round Grinding,2012-03-10 14:51:20,2012-03-10 15:42:20,Round Grinding
+Case25,Round Grinding,2012-03-10 16:02:20,2012-03-10 17:16:20,Round Grinding
+Case25,Round Grinding,2012-03-10 17:17:20,2012-03-11 00:59:20,Round Grinding
+Case25,Round Grinding,2012-03-11 01:59:20,2012-03-11 03:08:20,Round Grinding
+Case25,Round Grinding,2012-03-11 03:53:20,2012-03-11 10:48:20,Round Grinding
+Case25,Round Grinding,2012-03-11 17:37:20,2012-03-11 18:37:20,Round Grinding
+Case25,Round Grinding,2012-03-11 20:53:20,2012-03-11 21:37:20,Round Grinding
+Case25,Round Grinding,2012-03-12 02:21:20,2012-03-12 05:12:20,Round Grinding
+Case25,Grinding Rework,2012-03-15 03:59:20,2012-03-15 05:27:20,Grinding Rework
+Case25,Final Inspection Q.C.,2012-03-15 22:56:20,2012-03-16 02:46:20,Final Inspection Q.C.
+Case25,Grinding Rework,2012-03-16 05:15:20,2012-03-16 08:35:20,Grinding Rework
+Case25,Final Inspection Q.C.,2012-03-16 23:19:20,2012-03-17 00:59:20,Final Inspection Q.C.
+Case25,Packing,2012-03-17 12:19:20,2012-03-17 13:19:20,Packing
+Case25,Final Inspection Q.C.,2012-03-17 19:19:20,2012-03-17 19:34:20,Final Inspection Q.C.
+Case25,Packing,2012-03-21 04:34:20,2012-03-21 05:34:20,Packing
+Case25,Final Inspection Q.C.,2012-03-21 13:34:20,2012-03-21 17:08:20,Final Inspection Q.C.
+Case25,Final Inspection Q.C.,2012-03-21 17:08:20,2012-03-21 22:55:20,Final Inspection Q.C.
+Case25,Final Inspection Q.C.,2012-03-21 23:28:20,2012-03-22 04:28:20,Final Inspection Q.C.
+Case25,Final Inspection Q.C.,2012-03-22 04:28:20,2012-03-22 05:43:20,Final Inspection Q.C.
+Case25,Final Inspection Q.C.,2012-03-22 19:44:20,2012-03-22 21:14:20,Final Inspection Q.C.
+Case25,Final Inspection Q.C.,2012-03-24 17:28:20,2012-03-24 18:43:20,Final Inspection Q.C.
+Case25,Final Inspection Q.C.,2012-03-24 18:44:20,2012-03-24 18:45:20,Final Inspection Q.C.
+Case25,Final Inspection Q.C.,2012-03-24 21:17:20,2012-03-24 21:47:20,Final Inspection Q.C.
+Case25,Grinding Rework,2012-03-31 06:45:20,2012-03-31 07:58:20,Grinding Rework
+Case25,Grinding Rework,2012-03-31 08:13:20,2012-03-31 15:01:20,Grinding Rework
+Case25,Grinding Rework,2012-03-31 16:31:20,2012-03-31 18:14:20,Grinding Rework
+Case25,Final Inspection Q.C.,2012-04-02 04:23:20,2012-04-02 05:23:20,Final Inspection Q.C.
+Case25,Grinding Rework,2012-04-02 08:33:20,2012-04-02 11:48:20,Grinding Rework
+Case25,Grinding Rework,2012-04-02 11:48:20,2012-04-02 20:36:20,Grinding Rework
+Case25,Packing,2012-04-05 08:51:20,2012-04-05 09:51:20,Packing
+Case25,Final Inspection Q.C.,2012-04-05 15:51:20,2012-04-05 16:41:20,Final Inspection Q.C.
+Case25,Packing,2012-04-07 05:47:20,2012-04-07 06:47:20,Packing
+Case25,Final Inspection Q.C.,2012-04-07 13:47:20,2012-04-07 14:47:20,Final Inspection Q.C.
+Case25,End,2012-04-07 14:47:20,2012-04-07 14:47:20,End
+Case26,Start,2012-01-03 16:26:06,2012-01-03 16:26:06,Round Grinding
+Case26,Round Grinding,2012-01-03 16:26:06,2012-01-03 16:53:06,Round Grinding
+Case26,Turning & Milling Q.C.,2012-01-03 16:26:06,2012-01-03 17:35:06,Turning & Milling Q.C.
+Case26,Turning,2012-01-05 02:30:06,2012-01-05 02:31:06,Turning
+Case26,Turning,2012-01-05 02:45:06,2012-01-05 06:29:06,Turning
+Case26,Turning,2012-01-05 13:41:06,2012-01-05 16:08:06,Turning
+Case26,Turning Q.C.,2012-01-05 19:02:06,2012-01-05 19:48:06,Turning Q.C.
+Case26,Stress Relief,2012-01-05 19:48:06,2012-01-05 21:48:06,Stress Relief
+Case26,Turning & Milling,2012-01-31 23:00:06,2012-02-01 04:28:06,Turning & Milling
+Case26,Turning & Milling,2012-02-01 04:45:06,2012-02-01 15:11:06,Turning & Milling
+Case26,Turning & Milling,2012-02-01 19:40:06,2012-02-02 05:51:06,Turning & Milling
+Case26,Turning & Milling,2012-02-02 06:30:06,2012-02-02 08:41:06,Turning & Milling
+Case26,Turning & Milling,2012-02-02 06:54:06,2012-02-02 12:46:06,Turning & Milling
+Case26,Turning & Milling Q.C.,2012-02-02 13:41:06,2012-02-02 14:56:06,Turning & Milling Q.C.
+Case26,Turning & Milling Q.C.,2012-02-02 15:20:06,2012-02-02 16:35:06,Turning & Milling Q.C.
+Case26,Turning & Milling,2012-02-02 17:23:06,2012-02-03 01:04:06,Turning & Milling
+Case26,Turning & Milling Q.C.,2012-02-03 04:23:06,2012-02-03 05:25:06,Turning & Milling Q.C.
+Case26,Turning & Milling,2012-02-03 05:33:06,2012-02-03 11:03:06,Turning & Milling
+Case26,Turning & Milling,2012-02-03 14:45:06,2012-02-03 20:54:06,Turning & Milling
+Case26,Turning & Milling,2012-02-03 20:58:06,2012-02-04 05:55:07,Turning & Milling
+Case26,Turning & Milling Q.C.,2012-02-03 11:04:06,2012-02-03 12:42:06,Turning & Milling Q.C.
+Case26,Turning & Milling Q.C.,2012-02-04 08:14:07,2012-02-04 09:43:07,Turning & Milling Q.C.
+Case26,Lapping,2012-02-07 13:00:07,2012-02-07 14:15:07,Lapping
+Case26,Round Grinding,2012-02-07 19:42:07,2012-02-07 20:44:07,Round Grinding
+Case26,Round Grinding,2012-02-10 01:44:07,2012-02-10 03:04:07,Round Grinding
+Case26,Round Grinding,2012-02-10 03:06:07,2012-02-10 07:38:07,Round Grinding
+Case26,Round Grinding,2012-02-10 07:54:07,2012-02-10 09:38:07,Round Grinding
+Case26,Round Grinding,2012-02-10 09:50:07,2012-02-10 12:02:07,Round Grinding
+Case26,Round Grinding,2012-02-10 12:02:07,2012-02-10 15:41:07,Round Grinding
+Case26,Round Grinding,2012-02-10 15:50:07,2012-02-10 20:40:07,Round Grinding
+Case26,Round Grinding,2012-02-10 20:41:06,2012-02-10 23:51:06,Round Grinding
+Case26,Lapping,2012-03-08 23:21:06,2012-03-08 23:44:06,Lapping
+Case26,Round Grinding,2012-03-09 23:32:06,2012-03-10 02:18:06,Round Grinding
+Case26,Round Grinding,2012-03-10 03:03:06,2012-03-10 08:33:06,Round Grinding
+Case26,Round Grinding,2012-03-10 08:34:06,2012-03-10 12:18:06,Round Grinding
+Case26,Round Grinding,2012-03-12 00:50:06,2012-03-12 02:58:06,Round Grinding
+Case26,Round Grinding,2012-04-08 01:29:06,2012-04-08 05:51:06,Round Grinding
+Case26,Round Grinding,2012-04-08 06:13:06,2012-04-08 09:13:06,Round Grinding
+Case26,Packing,2012-04-11 14:00:05,2012-04-11 15:00:05,Packing
+Case26,Final Inspection Q.C.,2012-04-11 21:00:05,2012-04-12 01:23:05,Final Inspection Q.C.
+Case26,Final Inspection Q.C.,2012-04-12 01:23:05,2012-04-12 07:19:05,Final Inspection Q.C.
+Case26,Laser Marking,2012-04-29 15:32:05,2012-04-29 16:47:05,Laser Marking
+Case26,Final Inspection Q.C.,2012-04-30 09:48:05,2012-04-30 10:00:05,Final Inspection Q.C.
+Case26,Packing,2012-05-01 00:30:05,2012-05-01 01:30:05,Packing
+Case26,Final Inspection Q.C.,2012-05-01 07:52:05,2012-05-01 10:27:05,Final Inspection Q.C.
+Case26,End,2012-05-01 10:27:05,2012-05-01 10:27:05,End
+Case27,Start,2012-01-03 19:05:41,2012-01-03 19:05:41,Lapping
+Case27,Lapping,2012-01-03 19:05:41,2012-01-03 22:07:41,Lapping
+Case27,Lapping,2012-01-04 11:24:41,2012-01-04 12:39:41,Lapping
+Case27,Round Grinding,2012-01-04 21:49:41,2012-01-05 00:35:41,Round Grinding
+Case27,Round Grinding,2012-01-05 00:48:41,2012-01-05 07:46:41,Round Grinding
+Case27,Round Grinding,2012-01-05 07:47:41,2012-01-05 09:27:41,Round Grinding
+Case27,Round Grinding,2012-01-05 11:36:41,2012-01-05 14:23:41,Round Grinding
+Case27,Round Grinding,2012-01-05 15:08:41,2012-01-05 16:04:41,Round Grinding
+Case27,Final Inspection Q.C.,2012-01-06 10:04:41,2012-01-06 11:09:41,Final Inspection Q.C.
+Case27,Final Inspection Q.C.,2012-01-06 11:54:41,2012-01-06 15:44:41,Final Inspection Q.C.
+Case27,Packing,2012-01-06 22:39:41,2012-01-06 23:39:41,Packing
+Case27,Packing,2012-01-07 22:39:41,2012-01-07 23:39:41,Packing
+Case27,End,2012-01-07 23:39:41,2012-01-07 23:39:41,End
+Case28,Start,2012-01-03 21:10:17,2012-01-03 21:10:17,Turning & Milling
+Case28,Turning & Milling,2012-01-03 21:10:17,2012-01-03 23:16:17,Turning & Milling
+Case28,Turning & Milling,2012-01-04 02:53:17,2012-01-04 02:56:17,Turning & Milling
+Case28,Turning Q.C.,2012-01-03 21:20:17,2012-01-03 22:57:17,Turning Q.C.
+Case28,Turning & Milling,2012-01-04 08:32:17,2012-01-04 15:23:17,Turning & Milling
+Case28,Turning & Milling,2012-01-04 15:44:17,2012-01-04 19:09:17,Turning & Milling
+Case28,Turning & Milling Q.C.,2012-01-05 13:24:17,2012-01-05 14:37:17,Turning & Milling Q.C.
+Case28,Laser Marking,2012-01-18 08:39:17,2012-01-18 09:54:17,Laser Marking
+Case28,Flat Grinding,2012-01-18 09:55:17,2012-01-18 11:10:17,Flat Grinding
+Case28,Flat Grinding,2012-01-19 11:23:17,2012-01-19 12:38:17,Flat Grinding
+Case28,Flat Grinding,2012-01-19 20:46:17,2012-01-19 23:33:17,Flat Grinding
+Case28,Lapping,2012-01-19 23:33:17,2012-01-20 00:39:17,Lapping
+Case28,Final Inspection Q.C.,2012-01-21 15:35:17,2012-01-21 19:25:17,Final Inspection Q.C.
+Case28,Flat Grinding,2012-01-22 04:25:17,2012-01-22 05:40:17,Flat Grinding
+Case28,Final Inspection Q.C.,2012-01-22 11:55:17,2012-01-22 13:04:16,Final Inspection Q.C.
+Case28,Packing,2012-01-22 19:04:16,2012-01-22 20:04:16,Packing
+Case28,Flat Grinding,2012-01-23 05:35:16,2012-01-23 06:20:16,Flat Grinding
+Case28,Lapping,2012-01-23 18:07:16,2012-01-23 20:14:16,Lapping
+Case28,Final Inspection Q.C.,2012-01-23 23:00:16,2012-01-24 00:15:16,Final Inspection Q.C.
+Case28,Final Inspection Q.C.,2012-01-25 19:03:16,2012-01-25 19:06:15,Final Inspection Q.C.
+Case28,Packing,2012-01-26 04:18:15,2012-01-26 05:18:15,Packing
+Case28,End,2012-01-26 05:18:15,2012-01-26 05:18:15,End
+Case29,Start,2012-01-03 22:05:35,2012-01-03 22:05:35,Turning & Milling Q.C.
+Case29,Turning & Milling Q.C.,2012-01-03 22:05:35,2012-01-03 22:08:35,Turning & Milling Q.C.
+Case29,Grinding Rework,2012-03-01 03:02:35,2012-03-01 04:42:35,Grinding Rework
+Case29,Final Inspection Q.C.,2012-03-01 05:48:35,2012-03-01 06:48:35,Final Inspection Q.C.
+Case29,Packing,2012-03-04 19:12:35,2012-03-04 20:12:35,Packing
+Case29,End,2012-03-04 20:12:35,2012-03-04 20:12:35,End
+Case30,Start,2012-01-03 23:48:58,2012-01-03 23:48:58,Turning & Milling
+Case30,Turning & Milling,2012-01-03 23:48:58,2012-01-04 04:50:58,Turning & Milling
+Case30,Turning & Milling,2012-01-04 08:33:58,2012-01-04 14:52:58,Turning & Milling
+Case30,Turning & Milling,2012-01-04 15:17:58,2012-01-04 19:24:58,Turning & Milling
+Case30,Turning & Milling Q.C.,2012-01-04 23:58:58,2012-01-05 01:38:58,Turning & Milling Q.C.
+Case30,Turning & Milling Q.C.,2012-01-05 01:39:58,2012-01-05 01:46:58,Turning & Milling Q.C.
+Case30,Laser Marking,2012-01-05 03:25:58,2012-01-05 04:14:58,Laser Marking
+Case30,Lapping,2012-01-05 04:19:58,2012-01-05 05:22:58,Lapping
+Case30,Lapping,2012-01-05 17:34:58,2012-01-05 17:35:58,Lapping
+Case30,Round Grinding,2012-01-05 08:24:58,2012-01-05 08:32:58,Round Grinding
+Case30,Round Grinding,2012-01-05 11:24:58,2012-01-05 14:49:58,Round Grinding
+Case30,Final Inspection Q.C.,2012-01-06 00:09:38,2012-01-06 01:33:18,Final Inspection Q.C.
+Case30,Packing,2012-01-06 10:03:18,2012-01-06 11:03:18,Packing
+Case30,Final Inspection Q.C.,2012-01-06 16:56:18,2012-01-06 17:27:18,Final Inspection Q.C.
+Case30,End,2012-01-06 17:27:18,2012-01-06 17:27:18,End
+Case31,Start,2012-01-04 01:07:16,2012-01-04 01:07:16,Turning & Milling
+Case31,Turning & Milling,2012-01-04 01:07:16,2012-01-04 09:37:16,Turning & Milling
+Case31,Turning & Milling,2012-01-04 10:30:16,2012-01-04 13:06:16,Turning & Milling
+Case31,Turning & Milling,2012-01-04 17:17:16,2012-01-04 18:21:16,Turning & Milling
+Case31,Turning & Milling,2012-01-04 13:07:16,2012-01-04 13:32:16,Turning & Milling
+Case31,Turning & Milling,2012-01-04 16:02:16,2012-01-04 21:47:16,Turning & Milling
+Case31,Turning & Milling Q.C.,2012-01-05 03:32:16,2012-01-05 04:10:16,Turning & Milling Q.C.
+Case31,Turning & Milling,2012-01-05 04:53:16,2012-01-05 12:37:16,Turning & Milling
+Case31,Turning & Milling,2012-01-05 18:12:16,2012-01-05 18:21:16,Turning & Milling
+Case31,Turning & Milling,2012-01-05 19:21:16,2012-01-05 20:16:16,Turning & Milling
+Case31,Turning & Milling Q.C.,2012-01-06 12:25:16,2012-01-06 14:45:16,Turning & Milling Q.C.
+Case31,Turning & Milling,2012-01-07 15:07:16,2012-01-07 16:17:16,Turning & Milling
+Case31,Turning & Milling,2012-01-07 19:12:16,2012-01-07 23:27:16,Turning & Milling
+Case31,Turning & Milling,2012-01-08 23:49:16,2012-01-09 10:49:16,Turning & Milling
+Case31,Turning & Milling,2012-01-09 10:57:16,2012-01-09 19:57:15,Turning & Milling
+Case31,Turning & Milling,2012-01-09 19:57:15,2012-01-10 02:34:15,Turning & Milling
+Case31,Turning & Milling Q.C.,2012-01-10 00:37:15,2012-01-10 01:34:15,Turning & Milling Q.C.
+Case31,Turning & Milling Q.C.,2012-01-11 18:17:15,2012-01-11 19:21:15,Turning & Milling Q.C.
+Case31,Turning & Milling Q.C.,2012-01-11 19:41:15,2012-01-11 19:48:15,Turning & Milling Q.C.
+Case31,Turning & Milling,2012-01-12 01:48:15,2012-01-12 07:48:15,Turning & Milling
+Case31,Turning & Milling,2012-01-12 07:49:15,2012-01-12 16:15:15,Turning & Milling
+Case31,Turning & Milling,2012-01-13 12:50:15,2012-01-13 15:27:15,Turning & Milling
+Case31,Turning & Milling Q.C.,2012-01-13 22:00:15,2012-01-13 22:52:15,Turning & Milling Q.C.
+Case31,Turning & Milling,2012-01-18 08:52:16,2012-01-18 10:34:16,Turning & Milling
+Case31,Turning & Milling Q.C.,2012-01-18 11:08:16,2012-01-18 11:09:16,Turning & Milling Q.C.
+Case31,Turning & Milling,2012-01-22 00:46:16,2012-01-22 06:46:16,Turning & Milling
+Case31,Turning & Milling,2012-01-18 13:18:16,2012-01-18 18:40:16,Turning & Milling
+Case31,Turning & Milling,2012-01-22 18:12:16,2012-01-22 20:05:16,Turning & Milling
+Case31,Turning & Milling,2012-01-22 20:06:16,2012-01-23 04:07:16,Turning & Milling
+Case31,Turning & Milling Q.C.,2012-01-23 03:15:16,2012-01-23 07:10:16,Turning & Milling Q.C.
+Case31,Turning & Milling,2012-01-24 06:30:16,2012-01-24 10:56:16,Turning & Milling
+Case31,Turning & Milling,2012-01-24 15:10:16,2012-01-24 18:23:16,Turning & Milling
+Case31,Turning & Milling,2012-01-24 18:23:16,2012-01-25 01:54:16,Turning & Milling
+Case31,Turning & Milling,2012-01-25 01:55:16,2012-01-25 03:57:16,Turning & Milling
+Case31,Turning & Milling Q.C.,2012-01-25 04:09:16,2012-01-25 05:49:16,Turning & Milling Q.C.
+Case31,Nitration Q.C.,2012-02-08 10:12:16,2012-02-08 10:13:16,Nitration Q.C.
+Case31,Lapping,2012-02-08 21:59:16,2012-02-08 23:14:16,Lapping
+Case31,Grinding Rework,2012-02-09 04:36:16,2012-02-09 07:07:16,Grinding Rework
+Case31,Lapping,2012-02-09 07:05:16,2012-02-09 07:20:16,Lapping
+Case31,Lapping,2012-02-09 17:04:16,2012-02-09 18:19:16,Lapping
+Case31,Lapping,2012-02-09 19:44:16,2012-02-09 19:44:16,Lapping
+Case31,Round Grinding,2012-02-12 01:45:16,2012-02-12 03:34:16,Round Grinding
+Case31,Round Grinding,2012-02-12 04:13:16,2012-02-12 04:37:16,Round Grinding
+Case31,Round Grinding,2012-02-12 04:39:16,2012-02-12 06:24:16,Round Grinding
+Case31,Round Grinding,2012-02-12 14:53:16,2012-02-12 19:12:16,Round Grinding
+Case31,Round Grinding,2012-02-12 19:13:16,2012-02-12 22:48:16,Round Grinding
+Case31,Round Grinding,2012-02-12 22:49:16,2012-02-13 00:44:16,Round Grinding
+Case31,Round Grinding,2012-02-13 00:45:16,2012-02-13 01:15:16,Round Grinding
+Case31,Round Grinding,2012-02-13 01:16:16,2012-02-13 07:48:16,Round Grinding
+Case31,Final Inspection Q.C.,2012-02-13 08:43:16,2012-02-13 14:32:16,Final Inspection Q.C.
+Case31,Round Grinding,2012-02-13 07:49:16,2012-02-13 10:34:16,Round Grinding
+Case31,Round Grinding,2012-02-13 14:19:16,2012-02-13 22:25:16,Round Grinding
+Case31,Round Grinding,2012-02-14 02:37:16,2012-02-14 09:23:16,Round Grinding
+Case31,Packing,2012-02-15 21:28:16,2012-02-15 22:28:16,Packing
+Case31,Round Grinding,2012-02-14 09:36:16,2012-02-14 10:00:16,Round Grinding
+Case31,Final Inspection Q.C.,2012-02-16 08:47:16,2012-02-16 12:12:16,Final Inspection Q.C.
+Case31,Packing,2012-02-16 20:56:16,2012-02-16 21:56:16,Packing
+Case31,Final Inspection Q.C.,2012-02-17 10:26:16,2012-02-17 14:00:16,Final Inspection Q.C.
+Case31,Packing,2012-02-17 20:09:16,2012-02-17 21:09:16,Packing
+Case31,Packing,2012-02-21 08:09:16,2012-02-21 09:09:16,Packing
+Case31,End,2012-02-21 09:09:16,2012-02-21 09:09:16,End
+Case32,Start,2012-01-04 02:00:38,2012-01-04 02:00:38,Turning & Milling
+Case32,Turning & Milling,2012-01-04 02:00:38,2012-01-04 03:40:38,Turning & Milling
+Case32,Turning & Milling,2012-01-04 03:40:38,2012-01-04 05:59:38,Turning & Milling
+Case32,Turning & Milling,2012-01-04 05:59:38,2012-01-04 13:20:38,Turning & Milling
+Case32,Turning & Milling,2012-01-04 13:21:38,2012-01-04 19:23:38,Turning & Milling
+Case32,End,2012-01-04 19:23:38,2012-01-04 19:23:38,End
+Case33,Start,2012-01-04 03:42:47,2012-01-04 03:42:47,Turning & Milling
+Case33,Turning & Milling,2012-01-04 03:42:47,2012-01-04 10:02:47,Turning & Milling
+Case33,Turning & Milling,2012-01-10 04:50:47,2012-01-10 05:50:47,Turning & Milling
+Case33,Turning & Milling Q.C.,2012-01-10 08:29:47,2012-01-10 09:04:47,Turning & Milling Q.C.
+Case33,Turning & Milling,2012-01-10 11:13:47,2012-01-10 15:20:47,Turning & Milling
+Case33,Turning & Milling Q.C.,2012-01-10 15:23:47,2012-01-10 16:53:47,Turning & Milling Q.C.
+Case33,Flat Grinding,2012-01-15 07:03:47,2012-01-15 07:41:47,Flat Grinding
+Case33,Laser Marking,2012-01-26 02:08:47,2012-01-26 02:16:47,Laser Marking
+Case33,Flat Grinding,2012-01-26 12:29:47,2012-01-26 13:06:47,Flat Grinding
+Case33,Packing,2012-01-31 23:08:47,2012-02-01 00:08:47,Packing
+Case33,Final Inspection Q.C.,2012-02-01 08:08:47,2012-02-01 11:26:47,Final Inspection Q.C.
+Case33,End,2012-02-01 11:26:47,2012-02-01 11:26:47,End
+Case34,Start,2012-01-04 04:52:09,2012-01-04 04:52:09,Turning
+Case34,Turning,2012-01-04 04:52:09,2012-01-04 08:46:09,Turning
+Case34,Turning & Milling,2012-01-04 08:46:09,2012-01-04 09:28:09,Turning & Milling
+Case34,Turning & Milling,2012-01-04 09:54:09,2012-01-04 13:28:09,Turning & Milling
+Case34,Turning & Milling,2012-01-04 13:29:09,2012-01-04 21:31:09,Turning & Milling
+Case34,Turning & Milling,2012-01-05 14:31:09,2012-01-05 16:03:09,Turning & Milling
+Case34,Turning & Milling Q.C.,2012-01-06 13:18:09,2012-01-06 14:02:09,Turning & Milling Q.C.
+Case34,Laser Marking,2012-01-08 12:01:09,2012-01-08 12:20:09,Laser Marking
+Case34,Laser Marking,2012-01-08 14:26:09,2012-01-08 17:27:09,Laser Marking
+Case34,Lapping,2012-01-21 07:29:08,2012-01-21 08:44:08,Lapping
+Case34,Final Inspection Q.C.,2012-01-22 11:29:08,2012-01-22 15:19:08,Final Inspection Q.C.
+Case34,Final Inspection Q.C.,2012-01-24 21:30:08,2012-01-24 22:25:08,Final Inspection Q.C.
+Case34,Packing,2012-01-25 08:41:08,2012-01-25 09:41:08,Packing
+Case34,End,2012-01-25 09:41:08,2012-01-25 09:41:08,End
+Case35,Start,2012-01-04 06:10:29,2012-01-04 06:10:29,Turning & Milling
+Case35,Turning & Milling,2012-01-04 06:10:29,2012-01-04 08:04:29,Turning & Milling
+Case35,Turning & Milling,2012-01-04 08:06:29,2012-01-04 18:06:29,Turning & Milling
+Case35,Turning & Milling,2012-01-04 18:11:29,2012-01-05 05:06:29,Turning & Milling
+Case35,Turning & Milling,2012-01-05 05:07:29,2012-01-05 09:16:29,Turning & Milling
+Case35,Turning & Milling Q.C.,2012-01-05 19:54:29,2012-01-05 20:55:29,Turning & Milling Q.C.
+Case35,Turning & Milling,2012-01-05 20:55:29,2012-01-06 16:55:29,Turning & Milling
+Case35,Turning & Milling,2012-01-06 22:59:29,2012-01-06 23:14:29,Turning & Milling
+Case35,Turning & Milling,2012-01-07 23:26:29,2012-01-08 07:04:29,Turning & Milling
+Case35,Turning & Milling,2012-01-08 07:28:29,2012-01-08 11:58:29,Turning & Milling
+Case35,Turning & Milling,2012-01-08 11:58:29,2012-01-08 21:44:29,Turning & Milling
+Case35,Turning & Milling,2012-01-09 01:56:29,2012-01-09 16:10:29,Turning & Milling
+Case35,Turning & Milling,2012-01-10 12:32:29,2012-01-10 18:54:29,Turning & Milling
+Case35,Turning & Milling Q.C.,2012-01-10 19:58:29,2012-01-10 20:28:29,Turning & Milling Q.C.
+Case35,Laser Marking,2012-01-13 23:43:29,2012-01-14 00:58:29,Laser Marking
+Case35,Lapping,2012-01-14 00:59:29,2012-01-14 02:00:29,Lapping
+Case35,Turning & Milling,2012-01-14 10:51:29,2012-01-14 13:09:29,Turning & Milling
+Case35,Turning & Milling,2012-01-14 13:14:29,2012-01-14 22:03:29,Turning & Milling
+Case35,Turning & Milling,2012-01-14 23:14:29,2012-01-15 00:50:29,Turning & Milling
+Case35,Turning & Milling,2012-01-15 00:51:29,2012-01-15 08:13:29,Turning & Milling
+Case35,Turning & Milling,2012-01-15 08:19:29,2012-01-15 15:24:29,Turning & Milling
+Case35,Turning & Milling,2012-01-16 16:29:29,2012-01-17 02:29:29,Turning & Milling
+Case35,Turning & Milling,2012-01-16 10:00:29,2012-01-16 12:03:29,Turning & Milling
+Case35,Turning & Milling Q.C.,2012-01-17 08:28:29,2012-01-17 09:12:29,Turning & Milling Q.C.
+Case35,Laser Marking,2012-01-25 16:00:29,2012-01-25 16:20:29,Laser Marking
+Case35,Turning & Milling,2012-01-25 19:19:29,2012-01-25 21:31:29,Turning & Milling
+Case35,Turning & Milling,2012-01-26 12:20:29,2012-01-26 15:24:29,Turning & Milling
+Case35,Grinding Rework,2012-01-26 17:34:29,2012-01-26 19:06:29,Grinding Rework
+Case35,Final Inspection Q.C.,2012-02-01 13:28:29,2012-02-01 15:28:29,Final Inspection Q.C.
+Case35,Grinding Rework,2012-01-27 17:25:29,2012-01-27 22:42:29,Grinding Rework
+Case35,Final Inspection Q.C.,2012-02-02 02:58:29,2012-02-02 04:38:29,Final Inspection Q.C.
+Case35,Packing,2012-02-02 13:31:29,2012-02-02 14:31:29,Packing
+Case35,Final Inspection Q.C.,2012-02-02 23:32:29,2012-02-03 01:32:29,Final Inspection Q.C.
+Case35,End,2012-02-03 01:32:29,2012-02-03 01:32:29,End
+Case36,Start,2012-01-04 07:39:31,2012-01-04 07:39:31,Turning & Milling
+Case36,Turning & Milling,2012-01-04 07:39:31,2012-01-04 12:28:31,Turning & Milling
+Case36,Turning & Milling,2012-01-04 12:41:31,2012-01-04 14:20:31,Turning & Milling
+Case36,Turning & Milling Q.C.,2012-01-04 13:15:31,2012-01-04 17:16:31,Turning & Milling Q.C.
+Case36,Turning & Milling,2012-01-08 06:14:31,2012-01-08 06:37:31,Turning & Milling
+Case36,Turning & Milling,2012-01-08 11:04:31,2012-01-08 17:04:31,Turning & Milling
+Case36,Grinding Rework,2012-01-10 03:00:31,2012-01-10 04:32:31,Grinding Rework
+Case36,Turning & Milling Q.C.,2012-01-10 05:16:31,2012-01-10 05:24:31,Turning & Milling Q.C.
+Case36,Laser Marking,2012-01-10 11:44:31,2012-01-10 12:04:31,Laser Marking
+Case36,Lapping,2012-01-11 22:27:31,2012-01-12 00:10:31,Lapping
+Case36,Round Grinding,2012-01-12 15:28:31,2012-01-12 16:28:31,Round Grinding
+Case36,Round Grinding,2012-01-12 19:02:31,2012-01-12 21:23:31,Round Grinding
+Case36,Packing,2012-01-13 02:58:31,2012-01-13 03:58:31,Packing
+Case36,Final Inspection Q.C.,2012-01-13 11:09:31,2012-01-13 21:56:31,Final Inspection Q.C.
+Case36,End,2012-01-13 21:56:31,2012-01-13 21:56:31,End
+Case37,Start,2012-01-04 08:30:54,2012-01-04 08:30:54,Turning & Milling
+Case37,Turning & Milling,2012-01-04 08:30:54,2012-01-04 11:57:54,Turning & Milling
+Case37,Turning & Milling,2012-01-04 12:35:54,2012-01-04 14:28:54,Turning & Milling
+Case37,Turning & Milling,2012-01-04 14:50:54,2012-01-05 06:02:54,Turning & Milling
+Case37,Turning & Milling,2012-01-05 06:02:54,2012-01-05 10:40:54,Turning & Milling
+Case37,Turning & Milling,2012-01-05 11:02:54,2012-01-05 14:15:54,Turning & Milling
+Case37,Turning & Milling Q.C.,2012-01-09 10:27:54,2012-01-09 11:07:54,Turning & Milling Q.C.
+Case37,Turning & Milling Q.C.,2012-01-09 13:28:54,2012-01-09 14:18:54,Turning & Milling Q.C.
+Case37,Lapping,2012-01-11 18:11:54,2012-01-11 20:23:54,Lapping
+Case37,Lapping,2012-01-12 08:31:54,2012-01-12 10:33:54,Lapping
+Case37,Laser Marking,2012-01-11 20:38:54,2012-01-11 21:53:54,Laser Marking
+Case37,Lapping,2012-01-12 10:33:54,2012-01-12 11:33:54,Lapping
+Case37,Lapping,2012-01-13 02:43:54,2012-01-13 03:15:54,Lapping
+Case37,Round Grinding,2012-01-13 06:57:54,2012-01-13 10:23:54,Round Grinding
+Case37,Round Grinding,2012-01-12 11:33:54,2012-01-12 12:44:54,Round Grinding
+Case37,Round Grinding,2012-01-12 12:45:54,2012-01-12 15:32:54,Round Grinding
+Case37,Final Inspection Q.C.,2012-01-13 13:26:54,2012-01-13 18:04:54,Final Inspection Q.C.
+Case37,Final Inspection Q.C.,2012-01-13 18:05:54,2012-01-13 19:35:54,Final Inspection Q.C.
+Case37,Packing,2012-01-14 08:35:54,2012-01-14 09:35:54,Packing
+Case37,Final Inspection Q.C.,2012-01-14 18:09:54,2012-01-14 21:27:54,Final Inspection Q.C.
+Case37,End,2012-01-14 21:27:54,2012-01-14 21:27:54,End
+Case38,Start,2012-01-04 09:19:57,2012-01-04 09:19:57,Grinding Rework
+Case38,Grinding Rework,2012-01-04 09:19:57,2012-01-04 13:11:57,Grinding Rework
+Case38,Final Inspection Q.C.,2012-01-05 06:40:57,2012-01-05 08:20:57,Final Inspection Q.C.
+Case38,Packing,2012-01-05 20:09:57,2012-01-05 21:09:57,Packing
+Case38,Grinding Rework,2012-01-06 06:14:57,2012-01-06 08:19:57,Grinding Rework
+Case38,Final Inspection Q.C.,2012-01-06 21:05:57,2012-01-06 22:05:57,Final Inspection Q.C.
+Case38,Packing,2012-01-09 12:30:57,2012-01-09 13:30:57,Packing
+Case38,Final Inspection Q.C.,2012-01-09 21:30:57,2012-01-09 22:20:57,Final Inspection Q.C.
+Case38,End,2012-01-09 22:20:57,2012-01-09 22:20:57,End
+Case39,Start,2012-01-04 11:47:16,2012-01-04 11:47:16,Packing
+Case39,Packing,2012-01-04 11:47:16,2012-01-04 12:47:16,Packing
+Case39,Final Inspection Q.C.,2012-01-04 18:39:16,2012-01-05 01:08:15,Final Inspection Q.C.
+Case39,End,2012-01-05 01:08:15,2012-01-05 01:08:15,End
+Case40,Start,2012-01-04 13:26:23,2012-01-04 13:26:23,Turn & Mill. & Screw Assem
+Case40,Turn & Mill. & Screw Assem,2012-01-04 13:26:23,2012-01-04 16:47:23,Turn & Mill. & Screw Assem
+Case40,Turn & Mill. & Screw Assem,2012-01-04 17:01:23,2012-01-05 00:09:23,Turn & Mill. & Screw Assem
+Case40,Turn & Mill. & Screw Assem,2012-01-05 00:26:23,2012-01-05 06:07:23,Turn & Mill. & Screw Assem
+Case40,Turn & Mill. & Screw Assem,2012-01-05 06:08:23,2012-01-05 13:09:23,Turn & Mill. & Screw Assem
+Case40,Turning & Milling Q.C.,2012-01-05 06:50:23,2012-01-05 06:59:23,Turning & Milling Q.C.
+Case40,Turn & Mill. & Screw Assem,2012-01-05 13:11:23,2012-01-05 23:31:23,Turn & Mill. & Screw Assem
+Case40,Turn & Mill. & Screw Assem,2012-01-09 06:16:24,2012-01-09 08:47:24,Turn & Mill. & Screw Assem
+Case40,Turn & Mill. & Screw Assem,2012-01-09 10:24:24,2012-01-09 11:01:24,Turn & Mill. & Screw Assem
+Case40,Turn & Mill. & Screw Assem,2012-01-09 11:29:24,2012-01-09 14:00:24,Turn & Mill. & Screw Assem
+Case40,Turning & Milling Q.C.,2012-01-10 05:35:24,2012-01-10 07:12:24,Turning & Milling Q.C.
+Case40,Laser Marking,2012-01-10 07:23:24,2012-01-10 08:38:24,Laser Marking
+Case40,Flat Grinding,2012-01-12 04:59:24,2012-01-12 06:14:24,Flat Grinding
+Case40,Flat Grinding,2012-01-13 03:04:24,2012-01-13 04:30:24,Flat Grinding
+Case40,Lapping,2012-01-13 04:30:24,2012-01-13 05:10:24,Lapping
+Case40,Lapping,2012-01-15 13:33:24,2012-01-15 14:48:24,Lapping
+Case40,Final Inspection Q.C.,2012-01-15 17:08:24,2012-01-15 17:28:24,Final Inspection Q.C.
+Case40,Packing,2012-01-16 01:23:24,2012-01-16 02:23:24,Packing
+Case40,Turn & Mill. & Screw Assem,2012-02-09 01:23:24,2012-02-09 02:38:24,Turn & Mill. & Screw Assem
+Case40,End,2012-02-09 02:38:24,2012-02-09 02:38:24,End
+Case41,Start,2012-01-04 14:31:38,2012-01-04 14:31:38,Turning & Milling
+Case41,Turning & Milling,2012-01-04 14:34:38,2012-01-04 19:34:38,Turning & Milling
+Case41,Turning & Milling,2012-01-04 19:36:38,2012-01-05 04:07:38,Turning & Milling
+Case41,Turning & Milling,2012-01-05 04:08:38,2012-01-05 13:09:38,Turning & Milling
+Case41,Turning & Milling,2012-01-05 13:10:38,2012-01-05 20:19:38,Turning & Milling
+Case41,Turning & Milling,2012-01-06 04:47:38,2012-01-06 05:48:38,Turning & Milling
+Case41,Turning & Milling,2012-01-06 13:07:38,2012-01-06 22:04:38,Turning & Milling
+Case41,Turning & Milling Q.C.,2012-01-09 03:01:38,2012-01-09 03:19:38,Turning & Milling Q.C.
+Case41,Laser Marking,2012-01-09 04:18:38,2012-01-09 04:46:38,Laser Marking
+Case41,Turning & Milling,2012-01-09 07:45:38,2012-01-09 14:46:38,Turning & Milling
+Case41,Turning & Milling,2012-01-09 04:59:38,2012-01-09 05:04:38,Turning & Milling
+Case41,Lapping,2012-01-10 11:11:38,2012-01-10 12:26:38,Lapping
+Case41,Round Grinding,2012-01-10 21:53:38,2012-01-10 23:52:38,Round Grinding
+Case41,Round Grinding,2012-01-11 03:44:38,2012-01-11 10:03:38,Round Grinding
+Case41,Round Grinding,2012-01-13 20:07:38,2012-01-13 20:09:38,Round Grinding
+Case41,Round Grinding,2012-01-13 20:09:38,2012-01-13 21:13:38,Round Grinding
+Case41,Round Grinding,2012-01-13 21:15:38,2012-01-13 23:00:38,Round Grinding
+Case41,Round Grinding,2012-01-13 23:01:38,2012-01-13 23:09:38,Round Grinding
+Case41,Round Grinding,2012-01-14 09:33:38,2012-01-14 11:53:38,Round Grinding
+Case41,Round Grinding,2012-01-14 16:03:38,2012-01-15 00:28:38,Round Grinding
+Case41,Round Grinding,2012-01-15 00:28:38,2012-01-15 03:15:38,Round Grinding
+Case41,Final Inspection Q.C.,2012-01-16 00:58:38,2012-01-16 03:58:38,Final Inspection Q.C.
+Case41,Packing,2012-01-16 12:28:38,2012-01-16 13:28:38,Packing
+Case41,Final Inspection Q.C.,2012-01-16 20:28:38,2012-01-16 22:08:38,Final Inspection Q.C.
+Case41,End,2012-01-16 22:08:38,2012-01-16 22:08:38,End
+Case42,Start,2012-01-04 15:51:31,2012-01-04 15:51:31,Turning & Milling
+Case42,Turning & Milling,2012-01-04 15:51:31,2012-01-04 19:14:31,Turning & Milling
+Case42,Turning & Milling,2012-01-05 14:26:31,2012-01-05 19:28:31,Turning & Milling
+Case42,Turning & Milling,2012-01-05 20:32:31,2012-01-05 20:57:31,Turning & Milling
+Case42,Turning & Milling Q.C.,2012-01-06 10:59:31,2012-01-06 12:00:31,Turning & Milling Q.C.
+Case42,Laser Marking,2012-01-08 11:20:31,2012-01-08 12:46:31,Laser Marking
+Case42,Flat Grinding,2012-01-24 00:09:31,2012-01-24 01:28:31,Flat Grinding
+Case42,Turning & Milling Q.C.,2012-01-11 22:12:31,2012-01-12 00:22:31,Turning & Milling Q.C.
+Case42,Lapping,2012-01-13 02:26:31,2012-01-13 03:54:31,Lapping
+Case42,Lapping,2012-01-25 05:20:11,2012-01-25 09:09:51,Lapping
+Case42,Laser Marking,2012-01-25 10:54:51,2012-01-25 10:55:51,Laser Marking
+Case42,Final Inspection Q.C.,2012-01-25 11:38:51,2012-01-25 11:55:51,Final Inspection Q.C.
+Case42,Packing,2012-01-26 01:55:51,2012-01-26 02:55:51,Packing
+Case42,End,2012-01-26 02:55:51,2012-01-26 02:55:51,End
+Case43,Start,2012-01-04 16:39:29,2012-01-04 16:39:29,Turning & Milling
+Case43,Turning & Milling,2012-01-04 16:39:29,2012-01-04 17:13:29,Turning & Milling
+Case43,Setup,2012-01-04 17:15:29,2012-01-04 19:08:29,Setup
+Case43,Turning & Milling,2012-01-05 05:31:29,2012-01-05 13:40:29,Turning & Milling
+Case43,Turning & Milling,2012-01-05 13:41:29,2012-01-05 19:58:29,Turning & Milling
+Case43,Turning & Milling,2012-01-05 19:59:29,2012-01-05 23:58:29,Turning & Milling
+Case43,Turning & Milling,2012-01-06 01:18:29,2012-01-06 10:31:29,Turning & Milling
+Case43,Turning & Milling Q.C.,2012-01-06 14:17:29,2012-01-06 16:18:29,Turning & Milling Q.C.
+Case43,Flat Grinding,2012-01-06 21:41:29,2012-01-06 22:42:29,Flat Grinding
+Case43,Laser Marking,2012-01-07 09:04:29,2012-01-07 09:28:29,Laser Marking
+Case43,Final Inspection Q.C.,2012-01-08 03:14:29,2012-01-08 04:34:29,Final Inspection Q.C.
+Case43,Packing,2012-01-08 13:02:29,2012-01-08 14:02:29,Packing
+Case43,End,2012-01-08 14:02:29,2012-01-08 14:02:29,End
+Case44,Start,2012-01-04 17:34:27,2012-01-04 17:34:27,Turning & Milling
+Case44,Turning & Milling,2012-01-04 17:34:27,2012-01-04 17:35:27,Turning & Milling
+Case44,Turning & Milling,2012-01-04 19:58:27,2012-01-05 04:49:27,Turning & Milling
+Case44,Turning & Milling,2012-01-05 04:50:27,2012-01-05 06:35:27,Turning & Milling
+Case44,Turning & Milling,2012-01-05 12:06:27,2012-01-05 23:06:27,Turning & Milling
+Case44,Turning & Milling,2012-01-05 23:19:27,2012-01-06 06:24:27,Turning & Milling
+Case44,Turning & Milling Q.C.,2012-01-06 09:49:27,2012-01-06 11:27:27,Turning & Milling Q.C.
+Case44,Turning & Milling Q.C.,2012-01-06 15:09:27,2012-01-06 16:29:27,Turning & Milling Q.C.
+Case44,Turning & Milling Q.C.,2012-01-10 10:38:27,2012-01-10 11:27:27,Turning & Milling Q.C.
+Case44,Laser Marking,2012-01-12 05:40:27,2012-01-12 06:01:27,Laser Marking
+Case44,End,2012-01-12 06:01:27,2012-01-12 06:01:27,End
+Case45,Start,2012-01-04 18:18:51,2012-01-04 18:18:51,Turning & Milling
+Case45,Turning & Milling,2012-01-04 18:18:51,2012-01-04 23:06:51,Turning & Milling
+Case45,Turning & Milling,2012-01-04 23:07:51,2012-01-05 00:07:51,Turning & Milling
+Case45,Turning & Milling,2012-01-05 00:42:51,2012-01-05 04:03:51,Turning & Milling
+Case45,Turning & Milling,2012-01-05 04:07:51,2012-01-05 08:43:51,Turning & Milling
+Case45,Turning & Milling Q.C.,2012-01-05 11:15:51,2012-01-05 12:07:51,Turning & Milling Q.C.
+Case45,Turning & Milling Q.C.,2012-01-05 12:48:51,2012-01-05 13:15:51,Turning & Milling Q.C.
+Case45,Flat Grinding,2012-01-07 14:13:51,2012-01-07 15:19:51,Flat Grinding
+Case45,Laser Marking,2012-01-08 00:25:51,2012-01-08 03:51:51,Laser Marking
+Case45,Turning & Milling Q.C.,2012-01-10 13:00:51,2012-01-10 13:01:51,Turning & Milling Q.C.
+Case45,Lapping,2012-01-11 12:45:51,2012-01-11 13:15:51,Lapping
+Case45,Round Grinding,2012-01-11 21:13:51,2012-01-12 00:47:51,Round Grinding
+Case45,Round Grinding,2012-01-12 07:58:51,2012-01-12 10:58:51,Round Grinding
+Case45,Round Grinding,2012-01-12 10:59:51,2012-01-12 13:44:51,Round Grinding
+Case45,Final Inspection Q.C.,2012-01-12 16:46:51,2012-01-12 21:48:51,Final Inspection Q.C.
+Case45,Packing,2012-01-13 06:28:51,2012-01-13 07:28:51,Packing
+Case45,Final Inspection Q.C.,2012-01-13 13:28:51,2012-01-13 15:08:51,Final Inspection Q.C.
+Case45,Final Inspection Q.C.,2012-01-13 16:08:51,2012-01-13 16:28:51,Final Inspection Q.C.
+Case45,End,2012-01-13 16:28:51,2012-01-13 16:28:51,End

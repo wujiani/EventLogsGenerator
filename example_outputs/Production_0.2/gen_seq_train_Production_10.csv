@@ -1,0 +1,857 @@
+,caseid,act,index,last,next,if_para,start_timestamp,end_timestamp,resource
+1,1,Start,1,None,2,0,,,Start
+2,1,Turning & Milling,2,1,3,0,,,Turning & Milling
+3,1,Turning & Milling,3,2,4,0,,,Turning & Milling
+4,1,Turning & Milling,4,3,5,0,,,Turning & Milling
+5,1,Turning & Milling,5,4,"(6, 7)",0,,,Turning & Milling
+6,1,Turning & Milling,6,5,8,1,,,Turning & Milling
+7,1,Turning & Milling Q.C.,7,5,8,1,,,Turning & Milling Q.C.
+8,1,Flat Grinding,8,"(6, 7)",9,0,,,Flat Grinding
+9,1,Flat Grinding,9,8,10,0,,,Flat Grinding
+10,1,Flat Grinding,10,9,11,0,,,Flat Grinding
+11,1,Turning & Milling Q.C.,11,10,12,0,,,Turning & Milling Q.C.
+12,1,Lapping,12,11,13,0,,,Lapping
+13,1,Round Grinding,13,12,14,0,,,Round Grinding
+14,1,Round Grinding,14,13,15,0,,,Round Grinding
+15,1,Round Grinding,15,14,"(16, 17)",0,,,Round Grinding
+16,1,Flat Grinding,16,15,18,1,,,Flat Grinding
+17,1,Round Grinding,17,15,18,1,,,Round Grinding
+18,1,Round Grinding,18,"(16, 17)",19,0,,,Round Grinding
+19,1,Round Grinding,19,18,20,0,,,Round Grinding
+20,1,Round Grinding,20,19,21,0,,,Round Grinding
+21,1,Laser Marking,21,20,22,0,,,Laser Marking
+22,1,Final Inspection Q.C.,22,21,23,0,,,Final Inspection Q.C.
+23,1,Packing,23,22,24,0,,,Packing
+24,1,End,24,23,None,0,,,End
+27,2,Start,27,None,28,0,,,Start
+28,2,Turning & Milling,28,27,"(29, 31)",0,,,Turning & Milling
+29,2,Turning & Milling,29,28,30,1,,,Turning & Milling
+30,2,Turning,30,29,32,1,,,Turning
+31,2,Turning & Milling Q.C.,31,28,32,1,,,Turning & Milling Q.C.
+32,2,Turning & Milling,32,"(30, 31)",33,0,,,Turning & Milling
+33,2,Turning & Milling,33,32,34,0,,,Turning & Milling
+34,2,Turning & Milling,34,33,35,0,,,Turning & Milling
+35,2,Turning & Milling,35,34,36,0,,,Turning & Milling
+36,2,Turning & Milling,36,35,37,0,,,Turning & Milling
+37,2,Turning & Milling,37,36,38,0,,,Turning & Milling
+38,2,Turning & Milling,38,37,39,0,,,Turning & Milling
+39,2,Turning & Milling,39,38,40,0,,,Turning & Milling
+40,2,Turning & Milling,40,39,41,0,,,Turning & Milling
+41,2,Turning & Milling,41,40,42,0,,,Turning & Milling
+42,2,Turning & Milling,42,41,"(43, 45)",0,,,Turning & Milling
+43,2,Turning & Milling,43,42,44,1,,,Turning & Milling
+44,2,Turning & Milling,44,43,46,1,,,Turning & Milling
+45,2,Turning & Milling Q.C.,45,42,46,1,,,Turning & Milling Q.C.
+46,2,Turning & Milling,46,"(44, 45)",47,0,,,Turning & Milling
+47,2,Turning & Milling,47,46,48,0,,,Turning & Milling
+48,2,Turning & Milling,48,47,"(49, 52)",0,,,Turning & Milling
+49,2,Turning & Milling,49,48,50,1,,,Turning & Milling
+50,2,Milling,50,49,51,1,,,Milling
+51,2,Final Inspection Q.C.,51,50,53,1,,,Final Inspection Q.C.
+52,2,Turning & Milling Q.C.,52,48,53,1,,,Turning & Milling Q.C.
+53,2,Turning & Milling,53,"(51, 52)",54,0,,,Turning & Milling
+54,2,Turning & Milling,54,53,55,0,,,Turning & Milling
+55,2,Turning & Milling,55,54,56,0,,,Turning & Milling
+56,2,Turning & Milling,56,55,57,0,,,Turning & Milling
+57,2,Turning & Milling,57,56,"(58, 61)",0,,,Turning & Milling
+58,2,Turning & Milling,58,57,59,1,,,Turning & Milling
+59,2,Milling,59,58,60,1,,,Milling
+60,2,Final Inspection Q.C.,60,59,62,1,,,Final Inspection Q.C.
+61,2,Turning & Milling Q.C.,61,57,62,1,,,Turning & Milling Q.C.
+62,2,Turning & Milling,62,"(60, 61)",63,0,,,Turning & Milling
+63,2,Turning & Milling,63,62,"(64, 65)",0,,,Turning & Milling
+64,2,Turning & Milling,64,63,67,1,,,Turning & Milling
+65,2,Turning & Milling Q.C.,65,63,66,1,,,Turning & Milling Q.C.
+66,2,Turning & Milling,66,65,67,1,,,Turning & Milling
+67,2,Turning & Milling,67,"(64, 66)",68,0,,,Turning & Milling
+68,2,Turning & Milling,68,67,"(69, 70)",0,,,Turning & Milling
+69,2,Turning & Milling,69,68,71,1,,,Turning & Milling
+70,2,Turning & Milling Q.C.,70,68,71,1,,,Turning & Milling Q.C.
+71,2,End,71,"(69, 70)",None,0,,,End
+74,3,Start,74,None,75,0,,,Start
+75,3,Turning & Milling Q.C.,75,74,76,0,,,Turning & Milling Q.C.
+76,3,Turning & Milling Q.C.,76,75,77,0,,,Turning & Milling Q.C.
+77,3,Lapping,77,76,"(78, 79)",0,,,Lapping
+78,3,Final Inspection Q.C.,78,77,80,1,,,Final Inspection Q.C.
+79,3,Lapping,79,77,80,1,,,Lapping
+80,3,Final Inspection Q.C.,80,"(78, 79)",81,0,,,Final Inspection Q.C.
+81,3,End,81,80,None,0,,,End
+84,4,Start,84,None,85,0,,,Start
+85,4,Turning,85,84,86,0,,,Turning
+86,4,Turning,86,85,87,0,,,Turning
+87,4,Turning,87,86,88,0,,,Turning
+88,4,Packing,88,87,89,0,,,Packing
+89,4,Turning Q.C.,89,88,90,0,,,Turning Q.C.
+90,4,Laser Marking,90,89,91,0,,,Laser Marking
+91,4,Final Inspection Q.C.,91,90,92,0,,,Final Inspection Q.C.
+92,4,End,92,91,None,0,,,End
+95,5,Start,95,None,96,0,,,Start
+96,5,Turning & Milling,96,95,97,0,,,Turning & Milling
+97,5,Turning & Milling,97,96,98,0,,,Turning & Milling
+98,5,Turning & Milling,98,97,99,0,,,Turning & Milling
+99,5,Turning & Milling,99,98,100,0,,,Turning & Milling
+100,5,Turning & Milling,100,99,101,0,,,Turning & Milling
+101,5,Turning & Milling,101,100,"(102, 104)",0,,,Turning & Milling
+102,5,Turning & Milling,102,101,103,1,,,Turning & Milling
+103,5,Turning & Milling,103,102,105,1,,,Turning & Milling
+104,5,Turning & Milling Q.C.,104,101,105,1,,,Turning & Milling Q.C.
+105,5,Turning & Milling,105,"(103, 104)",106,0,,,Turning & Milling
+106,5,Turning & Milling Q.C.,106,105,107,0,,,Turning & Milling Q.C.
+107,5,Turning & Milling Q.C.,107,106,108,0,,,Turning & Milling Q.C.
+108,5,Laser Marking,108,107,109,0,,,Laser Marking
+109,5,Flat Grinding,109,108,110,0,,,Flat Grinding
+110,5,Round Grinding,110,109,111,0,,,Round Grinding
+111,5,Round Grinding,111,110,112,0,,,Round Grinding
+112,5,Final Inspection Q.C.,112,111,113,0,,,Final Inspection Q.C.
+113,5,Final Inspection Q.C.,113,112,114,0,,,Final Inspection Q.C.
+114,5,Packing,114,113,115,0,,,Packing
+115,5,End,115,114,None,0,,,End
+118,6,Start,118,None,"(119, 120)",0,,,Start
+119,6,Turning,119,118,121,1,,,Turning
+120,6,Turning & Milling,120,118,121,1,,,Turning & Milling
+121,6,Turning & Milling,121,"(119, 120)",122,0,,,Turning & Milling
+122,6,Turning & Milling Q.C.,122,121,123,0,,,Turning & Milling Q.C.
+123,6,Laser Marking,123,122,124,0,,,Laser Marking
+124,6,Lapping,124,123,"(125, 126)",0,,,Lapping
+125,6,Lapping,125,124,127,1,,,Lapping
+126,6,Round Grinding,126,124,127,1,,,Round Grinding
+127,6,Round Grinding,127,"(125, 126)",128,0,,,Round Grinding
+128,6,Round Grinding,128,127,129,0,,,Round Grinding
+129,6,Round Grinding,129,128,130,0,,,Round Grinding
+130,6,Round Grinding,130,129,"(131, 132)",0,,,Round Grinding
+131,6,Final Inspection Q.C.,131,130,133,1,,,Final Inspection Q.C.
+132,6,Round Grinding,132,130,133,1,,,Round Grinding
+133,6,Packing,133,"(131, 132)",134,0,,,Packing
+134,6,End,134,133,None,0,,,End
+137,7,Start,137,None,138,0,,,Start
+138,7,Turning,138,137,139,0,,,Turning
+139,7,Lapping,139,138,140,0,,,Lapping
+140,7,Turning,140,139,"(141, 142)",0,,,Turning
+141,7,Turning,141,140,143,1,,,Turning
+142,7,Turning,142,140,143,1,,,Turning
+143,7,Turning,143,"(141, 142)",144,0,,,Turning
+144,7,Turning Q.C.,144,143,145,0,,,Turning Q.C.
+145,7,Turning Q.C.,145,144,146,0,,,Turning Q.C.
+146,7,Lapping,146,145,147,0,,,Lapping
+147,7,Laser Marking,147,146,148,0,,,Laser Marking
+148,7,Final Inspection Q.C.,148,147,149,0,,,Final Inspection Q.C.
+149,7,Final Inspection Q.C.,149,148,150,0,,,Final Inspection Q.C.
+150,7,Packing,150,149,151,0,,,Packing
+151,7,End,151,150,None,0,,,End
+154,8,Start,154,None,155,0,,,Start
+155,8,Turning & Milling,155,154,"(156, 157, 158)",0,,,Turning & Milling
+156,8,Turning & Milling,156,155,159,1,,,Turning & Milling
+157,8,Turning & Milling,157,155,159,1,,,Turning & Milling
+158,8,Turning & Milling Q.C.,158,155,159,1,,,Turning & Milling Q.C.
+159,8,Turning & Milling Q.C.,159,"(156, 157, 158)",160,0,,,Turning & Milling Q.C.
+160,8,Turning & Milling,160,159,161,0,,,Turning & Milling
+161,8,Turning & Milling Q.C.,161,160,162,0,,,Turning & Milling Q.C.
+162,8,Laser Marking,162,161,163,0,,,Laser Marking
+163,8,Lapping,163,162,164,0,,,Lapping
+164,8,Final Inspection Q.C.,164,163,165,0,,,Final Inspection Q.C.
+165,8,Final Inspection Q.C.,165,164,166,0,,,Final Inspection Q.C.
+166,8,Packing,166,165,167,0,,,Packing
+167,8,End,167,166,None,0,,,End
+170,9,Start,170,None,171,0,,,Start
+171,9,Turning & Milling,171,170,172,0,,,Turning & Milling
+172,9,Turning & Milling,172,171,173,0,,,Turning & Milling
+173,9,Turning & Milling,173,172,174,0,,,Turning & Milling
+174,9,Turning & Milling,174,173,175,0,,,Turning & Milling
+175,9,Turning & Milling,175,174,176,0,,,Turning & Milling
+176,9,Turning & Milling,176,175,177,0,,,Turning & Milling
+177,9,Turning & Milling Q.C.,177,176,178,0,,,Turning & Milling Q.C.
+178,9,Laser Marking,178,177,179,0,,,Laser Marking
+179,9,Lapping,179,178,"(180, 182, 183, 184)",0,,,Lapping
+180,9,Final Inspection Q.C.,180,179,181,1,,,Final Inspection Q.C.
+181,9,Lapping,181,180,186,1,,,Lapping
+182,9,Laser Marking,182,179,186,1,,,Laser Marking
+183,9,Round Grinding,183,179,186,1,,,Round Grinding
+184,9,Turning & Milling Q.C.,184,179,185,1,,,Turning & Milling Q.C.
+185,9,Lapping,185,184,186,1,,,Lapping
+186,9,Round Grinding,186,"(181, 182, 183, 185)",187,0,,,Round Grinding
+187,9,Round Grinding,187,186,188,0,,,Round Grinding
+188,9,Round Grinding,188,187,"(189, 190)",0,,,Round Grinding
+189,9,Final Inspection Q.C.,189,188,192,1,,,Final Inspection Q.C.
+190,9,Round Grinding,190,188,191,1,,,Round Grinding
+191,9,Round Grinding,191,190,192,1,,,Round Grinding
+192,9,Round Grinding,192,"(189, 191)",193,0,,,Round Grinding
+193,9,Round Grinding,193,192,194,0,,,Round Grinding
+194,9,Lapping,194,193,195,0,,,Lapping
+195,9,Round Grinding,195,194,196,0,,,Round Grinding
+196,9,Round Grinding,196,195,197,0,,,Round Grinding
+197,9,Final Inspection Q.C.,197,196,198,0,,,Final Inspection Q.C.
+198,9,End,198,197,None,0,,,End
+201,10,Start,201,None,202,0,,,Start
+202,10,Turning & Milling Q.C.,202,201,203,0,,,Turning & Milling Q.C.
+203,10,Laser Marking,203,202,204,0,,,Laser Marking
+204,10,Laser Marking,204,203,205,0,,,Laser Marking
+205,10,Lapping,205,204,206,0,,,Lapping
+206,10,Lapping,206,205,207,0,,,Lapping
+207,10,Final Inspection Q.C.,207,206,208,0,,,Final Inspection Q.C.
+208,10,Final Inspection Q.C.,208,207,209,0,,,Final Inspection Q.C.
+209,10,Packing,209,208,210,0,,,Packing
+210,10,End,210,209,None,0,,,End
+213,11,Start,213,None,"(214, 215)",0,,,Start
+214,11,Turn & Mill. & Screw Assem,214,213,216,1,,,Turn & Mill. & Screw Assem
+215,11,Turn & Mill. & Screw Assem,215,213,216,1,,,Turn & Mill. & Screw Assem
+216,11,Turn & Mill. & Screw Assem,216,"(214, 215)",217,0,,,Turn & Mill. & Screw Assem
+217,11,Turn & Mill. & Screw Assem,217,216,218,0,,,Turn & Mill. & Screw Assem
+218,11,Turning & Milling Q.C.,218,217,219,0,,,Turning & Milling Q.C.
+219,11,Laser Marking,219,218,220,0,,,Laser Marking
+220,11,Flat Grinding,220,219,221,0,,,Flat Grinding
+221,11,Turn & Mill. & Screw Assem,221,220,222,0,,,Turn & Mill. & Screw Assem
+222,11,Turn & Mill. & Screw Assem,222,221,223,0,,,Turn & Mill. & Screw Assem
+223,11,Turning & Milling Q.C.,223,222,224,0,,,Turning & Milling Q.C.
+224,11,Turn & Mill. & Screw Assem,224,223,225,0,,,Turn & Mill. & Screw Assem
+225,11,Turning & Milling Q.C.,225,224,"(226, 227)",0,,,Turning & Milling Q.C.
+226,11,Turning & Milling Q.C.,226,225,228,1,,,Turning & Milling Q.C.
+227,11,Turning Rework,227,225,228,1,,,Turning Rework
+228,11,Laser Marking,228,"(226, 227)",229,0,,,Laser Marking
+229,11,Flat Grinding,229,228,230,0,,,Flat Grinding
+230,11,Turning & Milling Q.C.,230,229,231,0,,,Turning & Milling Q.C.
+231,11,Lapping,231,230,232,0,,,Lapping
+232,11,Round Grinding,232,231,233,0,,,Round Grinding
+233,11,Round Grinding,233,232,234,0,,,Round Grinding
+234,11,Round Grinding,234,233,235,0,,,Round Grinding
+235,11,Round Grinding,235,234,236,0,,,Round Grinding
+236,11,Final Inspection Q.C.,236,235,237,0,,,Final Inspection Q.C.
+237,11,Final Inspection Q.C.,237,236,238,0,,,Final Inspection Q.C.
+238,11,Packing,238,237,239,0,,,Packing
+239,11,Final Inspection Q.C.,239,238,240,0,,,Final Inspection Q.C.
+240,11,End,240,239,None,0,,,End
+243,12,Start,243,None,244,0,,,Start
+244,12,Turning & Milling,244,243,"(245, 247)",0,,,Turning & Milling
+245,12,Turning & Milling,245,244,246,1,,,Turning & Milling
+246,12,Turning & Milling,246,245,248,1,,,Turning & Milling
+247,12,Turning & Milling,247,244,248,1,,,Turning & Milling
+248,12,Turning & Milling,248,"(246, 247)",249,0,,,Turning & Milling
+249,12,Turning & Milling,249,248,250,0,,,Turning & Milling
+250,12,Turning & Milling Q.C.,250,249,"(251, 252, 254)",0,,,Turning & Milling Q.C.
+251,12,Turning & Milling,251,250,255,1,,,Turning & Milling
+252,12,Turning & Milling,252,250,253,1,,,Turning & Milling
+253,12,Turning & Milling,253,252,255,1,,,Turning & Milling
+254,12,Turning & Milling Q.C.,254,250,255,1,,,Turning & Milling Q.C.
+255,12,Turning & Milling,255,"(251, 253, 254)",256,0,,,Turning & Milling
+256,12,Turning & Milling,256,255,257,0,,,Turning & Milling
+257,12,Turning & Milling Q.C.,257,256,258,0,,,Turning & Milling Q.C.
+258,12,Turning & Milling Q.C.,258,257,259,0,,,Turning & Milling Q.C.
+259,12,Turning & Milling Q.C.,259,258,260,0,,,Turning & Milling Q.C.
+260,12,Flat Grinding,260,259,261,0,,,Flat Grinding
+261,12,Lapping,261,260,262,0,,,Lapping
+262,12,Round Grinding,262,261,263,0,,,Round Grinding
+263,12,Round Grinding,263,262,264,0,,,Round Grinding
+264,12,Round Grinding,264,263,265,0,,,Round Grinding
+265,12,Laser Marking,265,264,266,0,,,Laser Marking
+266,12,Packing,266,265,267,0,,,Packing
+267,12,Final Inspection Q.C.,267,266,268,0,,,Final Inspection Q.C.
+268,12,End,268,267,None,0,,,End
+271,13,Start,271,None,"(272, 273)",0,,,Start
+272,13,Turning & Milling,272,271,274,1,,,Turning & Milling
+273,13,Turning & Milling Q.C.,273,271,274,1,,,Turning & Milling Q.C.
+274,13,Turning & Milling,274,"(272, 273)",275,0,,,Turning & Milling
+275,13,Turning & Milling,275,274,276,0,,,Turning & Milling
+276,13,Turning & Milling Q.C.,276,275,277,0,,,Turning & Milling Q.C.
+277,13,Flat Grinding,277,276,278,0,,,Flat Grinding
+278,13,Turning & Milling Q.C.,278,277,279,0,,,Turning & Milling Q.C.
+279,13,Laser Marking,279,278,280,0,,,Laser Marking
+280,13,Lapping,280,279,281,0,,,Lapping
+281,13,Packing,281,280,282,0,,,Packing
+282,13,Final Inspection Q.C.,282,281,283,0,,,Final Inspection Q.C.
+283,13,End,283,282,None,0,,,End
+286,14,Start,286,None,287,0,,,Start
+287,14,Turning & Milling,287,286,"(288, 290)",0,,,Turning & Milling
+288,14,Turning & Milling,288,287,289,1,,,Turning & Milling
+289,14,Turning & Milling,289,288,292,1,,,Turning & Milling
+290,14,Turning & Milling Q.C.,290,287,291,1,,,Turning & Milling Q.C.
+291,14,Turning & Milling,291,290,292,1,,,Turning & Milling
+292,14,Turning & Milling,292,"(289, 291)",293,0,,,Turning & Milling
+293,14,Turning & Milling Q.C.,293,292,294,0,,,Turning & Milling Q.C.
+294,14,Turning & Milling Q.C.,294,293,295,0,,,Turning & Milling Q.C.
+295,14,Turning & Milling Q.C.,295,294,296,0,,,Turning & Milling Q.C.
+296,14,End,296,295,None,0,,,End
+299,15,Start,299,None,300,0,,,Start
+300,15,Turning & Milling,300,299,301,0,,,Turning & Milling
+301,15,Turning & Milling,301,300,302,0,,,Turning & Milling
+302,15,Turning & Milling,302,301,303,0,,,Turning & Milling
+303,15,Turning & Milling,303,302,304,0,,,Turning & Milling
+304,15,Turning & Milling,304,303,305,0,,,Turning & Milling
+305,15,Turning & Milling,305,304,306,0,,,Turning & Milling
+306,15,Turning & Milling Q.C.,306,305,307,0,,,Turning & Milling Q.C.
+307,15,Turning & Milling Q.C.,307,306,"(308, 309)",0,,,Turning & Milling Q.C.
+308,15,Flat Grinding,308,307,310,1,,,Flat Grinding
+309,15,Laser Marking,309,307,310,1,,,Laser Marking
+310,15,Lapping,310,"(308, 309)",311,0,,,Lapping
+311,15,Round Grinding,311,310,312,0,,,Round Grinding
+312,15,Round Grinding,312,311,313,0,,,Round Grinding
+313,15,Grinding Rework,313,312,314,0,,,Grinding Rework
+314,15,Packing,314,313,315,0,,,Packing
+315,15,Final Inspection Q.C.,315,314,316,0,,,Final Inspection Q.C.
+316,15,End,316,315,None,0,,,End
+319,16,Start,319,None,320,0,,,Start
+320,16,Turning & Milling Q.C.,320,319,321,0,,,Turning & Milling Q.C.
+321,16,Turning & Milling,321,320,322,0,,,Turning & Milling
+322,16,Turning & Milling Q.C.,322,321,323,0,,,Turning & Milling Q.C.
+323,16,Turning & Milling Q.C.,323,322,"(324, 325)",0,,,Turning & Milling Q.C.
+324,16,Lapping,324,323,327,1,,,Lapping
+325,16,Round Grinding,325,323,326,1,,,Round Grinding
+326,16,Round Grinding,326,325,327,1,,,Round Grinding
+327,16,Round Grinding,327,"(324, 326)",328,0,,,Round Grinding
+328,16,Round Grinding,328,327,329,0,,,Round Grinding
+329,16,Round Grinding,329,328,330,0,,,Round Grinding
+330,16,Round Grinding,330,329,331,0,,,Round Grinding
+331,16,Round Grinding,331,330,332,0,,,Round Grinding
+332,16,Round Grinding,332,331,333,0,,,Round Grinding
+333,16,Round Grinding,333,332,334,0,,,Round Grinding
+334,16,Round Grinding,334,333,335,0,,,Round Grinding
+335,16,Round Grinding,335,334,336,0,,,Round Grinding
+336,16,Round Grinding,336,335,337,0,,,Round Grinding
+337,16,Round Grinding,337,336,338,0,,,Round Grinding
+338,16,Round Grinding,338,337,339,0,,,Round Grinding
+339,16,Round Grinding,339,338,340,0,,,Round Grinding
+340,16,Round Grinding,340,339,341,0,,,Round Grinding
+341,16,Round Grinding,341,340,342,0,,,Round Grinding
+342,16,Round Grinding,342,341,343,0,,,Round Grinding
+343,16,Round Grinding,343,342,344,0,,,Round Grinding
+344,16,Round Grinding,344,343,345,0,,,Round Grinding
+345,16,Round Grinding,345,344,346,0,,,Round Grinding
+346,16,Round Grinding,346,345,347,0,,,Round Grinding
+347,16,Final Inspection Q.C.,347,346,348,0,,,Final Inspection Q.C.
+348,16,Packing,348,347,349,0,,,Packing
+349,16,Final Inspection Q.C.,349,348,350,0,,,Final Inspection Q.C.
+350,16,Final Inspection Q.C.,350,349,351,0,,,Final Inspection Q.C.
+351,16,Round Grinding,351,350,352,0,,,Round Grinding
+352,16,Round Grinding,352,351,353,0,,,Round Grinding
+353,16,Round Grinding,353,352,354,0,,,Round Grinding
+354,16,Final Inspection Q.C.,354,353,355,0,,,Final Inspection Q.C.
+355,16,Final Inspection Q.C.,355,354,356,0,,,Final Inspection Q.C.
+356,16,Final Inspection Q.C.,356,355,357,0,,,Final Inspection Q.C.
+357,16,Packing,357,356,358,0,,,Packing
+358,16,Grinding Rework,358,357,359,0,,,Grinding Rework
+359,16,Grinding Rework,359,358,360,0,,,Grinding Rework
+360,16,End,360,359,None,0,,,End
+363,17,Start,363,None,364,0,,,Start
+364,17,Turning,364,363,365,0,,,Turning
+365,17,Turning,365,364,366,0,,,Turning
+366,17,Turning,366,365,"(367, 368)",0,,,Turning
+367,17,Packing,367,366,369,1,,,Packing
+368,17,Turning,368,366,369,1,,,Turning
+369,17,Turning Q.C.,369,"(367, 368)",370,0,,,Turning Q.C.
+370,17,Final Inspection Q.C.,370,369,371,0,,,Final Inspection Q.C.
+371,17,End,371,370,None,0,,,End
+374,18,Start,374,None,375,0,,,Start
+375,18,Turning & Milling Q.C.,375,374,376,0,,,Turning & Milling Q.C.
+376,18,Turning & Milling Q.C.,376,375,377,0,,,Turning & Milling Q.C.
+377,18,Lapping,377,376,"(378, 380)",0,,,Lapping
+378,18,Final Inspection Q.C.,378,377,379,1,,,Final Inspection Q.C.
+379,18,Final Inspection Q.C.,379,378,383,1,,,Final Inspection Q.C.
+380,18,Lapping,380,377,381,1,,,Lapping
+381,18,Lapping,381,380,382,1,,,Lapping
+382,18,Packing,382,381,383,1,,,Packing
+383,18,Final Inspection Q.C.,383,"(379, 382)",384,0,,,Final Inspection Q.C.
+384,18,End,384,383,None,0,,,End
+387,19,Start,387,None,388,0,,,Start
+388,19,Turning & Milling,388,387,389,0,,,Turning & Milling
+389,19,Turning & Milling,389,388,390,0,,,Turning & Milling
+390,19,Turning & Milling,390,389,391,0,,,Turning & Milling
+391,19,Turning & Milling,391,390,392,0,,,Turning & Milling
+392,19,Turning & Milling,392,391,393,0,,,Turning & Milling
+393,19,Turning & Milling,393,392,394,0,,,Turning & Milling
+394,19,Turning & Milling,394,393,395,0,,,Turning & Milling
+395,19,Turning & Milling Q.C.,395,394,396,0,,,Turning & Milling Q.C.
+396,19,Turning & Milling Q.C.,396,395,397,0,,,Turning & Milling Q.C.
+397,19,Laser Marking,397,396,"(398, 399)",0,,,Laser Marking
+398,19,Final Inspection Q.C.,398,397,400,1,,,Final Inspection Q.C.
+399,19,Final Inspection Q.C.,399,397,400,1,,,Final Inspection Q.C.
+400,19,Final Inspection Q.C.,400,"(398, 399)","(401, 402)",0,,,Final Inspection Q.C.
+401,19,Final Inspection Q.C.,401,400,403,1,,,Final Inspection Q.C.
+402,19,Final Inspection Q.C.,402,400,403,1,,,Final Inspection Q.C.
+403,19,Packing,403,"(401, 402)",404,0,,,Packing
+404,19,End,404,403,None,0,,,End
+407,20,Start,407,None,"(408, 410)",0,,,Start
+408,20,Turning & Milling,408,407,409,1,,,Turning & Milling
+409,20,Turning & Milling,409,408,411,1,,,Turning & Milling
+410,20,Turning & Milling Q.C.,410,407,411,1,,,Turning & Milling Q.C.
+411,20,Turning & Milling,411,"(409, 410)",412,0,,,Turning & Milling
+412,20,Turning & Milling Q.C.,412,411,413,0,,,Turning & Milling Q.C.
+413,20,Laser Marking,413,412,414,0,,,Laser Marking
+414,20,Lapping,414,413,"(415, 416)",0,,,Lapping
+415,20,Lapping,415,414,417,1,,,Lapping
+416,20,Round Grinding,416,414,417,1,,,Round Grinding
+417,20,Round Grinding,417,"(415, 416)",418,0,,,Round Grinding
+418,20,Round Grinding,418,417,419,0,,,Round Grinding
+419,20,Round Grinding,419,418,420,0,,,Round Grinding
+420,20,Round Grinding,420,419,"(421, 422)",0,,,Round Grinding
+421,20,Round Grinding,421,420,423,1,,,Round Grinding
+422,20,Round Grinding,422,420,423,1,,,Round Grinding
+423,20,Packing,423,"(421, 422)",424,0,,,Packing
+424,20,End,424,423,None,0,,,End
+427,21,Start,427,None,428,0,,,Start
+428,21,Round Grinding,428,427,429,0,,,Round Grinding
+429,21,Packing,429,428,430,0,,,Packing
+430,21,Final Inspection Q.C.,430,429,431,0,,,Final Inspection Q.C.
+431,21,End,431,430,None,0,,,End
+434,22,Start,434,None,435,0,,,Start
+435,22,Turning & Milling,435,434,436,0,,,Turning & Milling
+436,22,Turning & Milling,436,435,437,0,,,Turning & Milling
+437,22,Turning & Milling,437,436,438,0,,,Turning & Milling
+438,22,Turning & Milling,438,437,439,0,,,Turning & Milling
+439,22,Turning & Milling,439,438,440,0,,,Turning & Milling
+440,22,Turning & Milling,440,439,441,0,,,Turning & Milling
+441,22,Turning & Milling,441,440,442,0,,,Turning & Milling
+442,22,Turning & Milling,442,441,"(443, 444)",0,,,Turning & Milling
+443,22,Flat Grinding,443,442,446,1,,,Flat Grinding
+444,22,Turning & Milling Q.C.,444,442,445,1,,,Turning & Milling Q.C.
+445,22,Turning & Milling,445,444,446,1,,,Turning & Milling
+446,22,Laser Marking,446,"(443, 445)",447,0,,,Laser Marking
+447,22,Laser Marking,447,446,448,0,,,Laser Marking
+448,22,Final Inspection Q.C.,448,447,449,0,,,Final Inspection Q.C.
+449,22,Final Inspection Q.C.,449,448,450,0,,,Final Inspection Q.C.
+450,22,Packing,450,449,451,0,,,Packing
+451,22,Packing,451,450,452,0,,,Packing
+452,22,End,452,451,None,0,,,End
+455,23,Start,455,None,456,0,,,Start
+456,23,Packing,456,455,457,0,,,Packing
+457,23,Final Inspection Q.C.,457,456,458,0,,,Final Inspection Q.C.
+458,23,End,458,457,None,0,,,End
+461,24,Start,461,None,462,0,,,Start
+462,24,Turning & Milling,462,461,463,0,,,Turning & Milling
+463,24,Turning & Milling,463,462,464,0,,,Turning & Milling
+464,24,Turning & Milling,464,463,465,0,,,Turning & Milling
+465,24,Turning & Milling Q.C.,465,464,466,0,,,Turning & Milling Q.C.
+466,24,Turning & Milling Q.C.,466,465,467,0,,,Turning & Milling Q.C.
+467,24,Laser Marking,467,466,468,0,,,Laser Marking
+468,24,Lapping,468,467,"(469, 472)",0,,,Lapping
+469,24,Round Grinding,469,468,470,1,,,Round Grinding
+470,24,Round Grinding,470,469,471,1,,,Round Grinding
+471,24,Round Grinding,471,470,474,1,,,Round Grinding
+472,24,Turning & Milling,472,468,473,1,,,Turning & Milling
+473,24,Round Grinding,473,472,474,1,,,Round Grinding
+474,24,Final Inspection Q.C.,474,"(471, 473)",475,0,,,Final Inspection Q.C.
+475,24,Packing,475,474,476,0,,,Packing
+476,24,Final Inspection Q.C.,476,475,477,0,,,Final Inspection Q.C.
+477,24,End,477,476,None,0,,,End
+480,25,Start,480,None,481,0,,,Start
+481,25,Turning & Milling,481,480,482,0,,,Turning & Milling
+482,25,Turning & Milling,482,481,"(483, 485)",0,,,Turning & Milling
+483,25,Turning & Milling,483,482,484,1,,,Turning & Milling
+484,25,Turning & Milling,484,483,486,1,,,Turning & Milling
+485,25,Turning & Milling,485,482,486,1,,,Turning & Milling
+486,25,Turning Q.C.,486,"(484, 485)",487,0,,,Turning Q.C.
+487,25,Turning & Milling,487,486,488,0,,,Turning & Milling
+488,25,Turning & Milling,488,487,489,0,,,Turning & Milling
+489,25,Turning & Milling,489,488,490,0,,,Turning & Milling
+490,25,Turning & Milling,490,489,"(491, 492)",0,,,Turning & Milling
+491,25,Turning & Milling,491,490,493,1,,,Turning & Milling
+492,25,Turning & Milling,492,490,493,1,,,Turning & Milling
+493,25,Turning Q.C.,493,"(491, 492)",494,0,,,Turning Q.C.
+494,25,Laser Marking,494,493,"(495, 496)",0,,,Laser Marking
+495,25,Laser Marking,495,494,498,1,,,Laser Marking
+496,25,Turning & Milling Q.C.,496,494,497,1,,,Turning & Milling Q.C.
+497,25,Laser Marking,497,496,498,1,,,Laser Marking
+498,25,End,498,"(495, 497)",None,0,,,End
+501,26,Start,501,None,502,0,,,Start
+502,26,Turning & Milling,502,501,503,0,,,Turning & Milling
+503,26,Turning & Milling,503,502,504,0,,,Turning & Milling
+504,26,Turning & Milling,504,503,505,0,,,Turning & Milling
+505,26,Turning & Milling,505,504,506,0,,,Turning & Milling
+506,26,Turning & Milling,506,505,507,0,,,Turning & Milling
+507,26,Turning & Milling,507,506,"(508, 510)",0,,,Turning & Milling
+508,26,Turning & Milling,508,507,509,1,,,Turning & Milling
+509,26,Turning & Milling,509,508,511,1,,,Turning & Milling
+510,26,Turning & Milling Q.C.,510,507,511,1,,,Turning & Milling Q.C.
+511,26,Turning & Milling,511,"(509, 510)",512,0,,,Turning & Milling
+512,26,Turning & Milling Q.C.,512,511,513,0,,,Turning & Milling Q.C.
+513,26,Turning & Milling Q.C.,513,512,514,0,,,Turning & Milling Q.C.
+514,26,Turning & Milling,514,513,"(515, 516)",0,,,Turning & Milling
+515,26,Turning & Milling,515,514,518,1,,,Turning & Milling
+516,26,Turning & Milling Q.C.,516,514,517,1,,,Turning & Milling Q.C.
+517,26,Turning & Milling,517,516,518,1,,,Turning & Milling
+518,26,Turning & Milling Q.C.,518,"(515, 517)",519,0,,,Turning & Milling Q.C.
+519,26,Turning & Milling Q.C.,519,518,"(520, 522)",0,,,Turning & Milling Q.C.
+520,26,Turning & Milling,520,519,521,1,,,Turning & Milling
+521,26,Turning & Milling,521,520,525,1,,,Turning & Milling
+522,26,Turning & Milling Q.C.,522,519,523,1,,,Turning & Milling Q.C.
+523,26,Laser Marking,523,522,524,1,,,Laser Marking
+524,26,Turning & Milling,524,523,525,1,,,Turning & Milling
+525,26,Turning & Milling,525,"(521, 524)",526,0,,,Turning & Milling
+526,26,Turning & Milling,526,525,527,0,,,Turning & Milling
+527,26,Turning & Milling,527,526,528,0,,,Turning & Milling
+528,26,Turning & Milling,528,527,"(529, 531)",0,,,Turning & Milling
+529,26,Turning & Milling,529,528,530,1,,,Turning & Milling
+530,26,Turning & Milling,530,529,532,1,,,Turning & Milling
+531,26,Turning & Milling Q.C.,531,528,532,1,,,Turning & Milling Q.C.
+532,26,Turning & Milling,532,"(530, 531)",533,0,,,Turning & Milling
+533,26,Turning & Milling,533,532,"(534, 535)",0,,,Turning & Milling
+534,26,Turning & Milling,534,533,536,1,,,Turning & Milling
+535,26,Turning & Milling,535,533,536,1,,,Turning & Milling
+536,26,Turning & Milling Q.C.,536,"(534, 535)",537,0,,,Turning & Milling Q.C.
+537,26,Laser Marking,537,536,538,0,,,Laser Marking
+538,26,Turning & Milling Q.C.,538,537,539,0,,,Turning & Milling Q.C.
+539,26,Laser Marking,539,538,"(540, 542)",0,,,Laser Marking
+540,26,Flat Grinding,540,539,541,1,,,Flat Grinding
+541,26,Flat Grinding,541,540,543,1,,,Flat Grinding
+542,26,Lapping,542,539,543,1,,,Lapping
+543,26,Round Grinding,543,"(541, 542)","(544, 546, 547)",0,,,Round Grinding
+544,26,Flat Grinding,544,543,545,1,,,Flat Grinding
+545,26,Final Inspection Q.C.,545,544,548,1,,,Final Inspection Q.C.
+546,26,Lapping,546,543,548,1,,,Lapping
+547,26,Round Grinding,547,543,548,1,,,Round Grinding
+548,26,Round Grinding,548,"(545, 546, 547)",549,0,,,Round Grinding
+549,26,Round Grinding,549,548,"(550, 551)",0,,,Round Grinding
+550,26,Final Inspection Q.C.,550,549,552,1,,,Final Inspection Q.C.
+551,26,Final Inspection Q.C.,551,549,552,1,,,Final Inspection Q.C.
+552,26,Final Inspection Q.C.,552,"(550, 551)",553,0,,,Final Inspection Q.C.
+553,26,Packing,553,552,554,0,,,Packing
+554,26,Fix,554,553,555,0,,,Fix
+555,26,Fix,555,554,556,0,,,Fix
+556,26,Packing,556,555,557,0,,,Packing
+557,26,Turning & Milling Q.C.,557,556,558,0,,,Turning & Milling Q.C.
+558,26,Final Inspection Q.C.,558,557,559,0,,,Final Inspection Q.C.
+559,26,End,559,558,None,0,,,End
+562,27,Start,562,None,563,0,,,Start
+563,27,Turning & Milling,563,562,564,0,,,Turning & Milling
+564,27,Turning & Milling,564,563,565,0,,,Turning & Milling
+565,27,Turning & Milling,565,564,566,0,,,Turning & Milling
+566,27,Turning & Milling,566,565,567,0,,,Turning & Milling
+567,27,Turning & Milling,567,566,568,0,,,Turning & Milling
+568,27,Turning & Milling,568,567,"(569, 571)",0,,,Turning & Milling
+569,27,Turning & Milling,569,568,570,1,,,Turning & Milling
+570,27,Turning,570,569,572,1,,,Turning
+571,27,Turning & Milling Q.C.,571,568,572,1,,,Turning & Milling Q.C.
+572,27,Turning & Milling,572,"(570, 571)",573,0,,,Turning & Milling
+573,27,Turning & Milling Q.C.,573,572,574,0,,,Turning & Milling Q.C.
+574,27,Turning & Milling Q.C.,574,573,575,0,,,Turning & Milling Q.C.
+575,27,Laser Marking,575,574,576,0,,,Laser Marking
+576,27,Flat Grinding,576,575,577,0,,,Flat Grinding
+577,27,Round Grinding,577,576,578,0,,,Round Grinding
+578,27,Round Grinding,578,577,579,0,,,Round Grinding
+579,27,Final Inspection Q.C.,579,578,580,0,,,Final Inspection Q.C.
+580,27,Final Inspection Q.C.,580,579,581,0,,,Final Inspection Q.C.
+581,27,Packing,581,580,582,0,,,Packing
+582,27,End,582,581,None,0,,,End
+585,28,Start,585,None,"(586, 587)",0,,,Start
+586,28,Turning & Milling,586,585,588,1,,,Turning & Milling
+587,28,Turning Q.C.,587,585,588,1,,,Turning Q.C.
+588,28,Turning & Milling,588,"(586, 587)","(589, 590)",0,,,Turning & Milling
+589,28,Turning & Milling,589,588,591,1,,,Turning & Milling
+590,28,Turning & Milling Q.C.,590,588,591,1,,,Turning & Milling Q.C.
+591,28,Turning & Milling,591,"(589, 590)","(592, 593)",0,,,Turning & Milling
+592,28,Turning & Milling,592,591,595,1,,,Turning & Milling
+593,28,Turning & Milling,593,591,594,1,,,Turning & Milling
+594,28,Turning & Milling,594,593,595,1,,,Turning & Milling
+595,28,Turning & Milling,595,"(592, 594)",596,0,,,Turning & Milling
+596,28,Turning & Milling,596,595,597,0,,,Turning & Milling
+597,28,Turning & Milling Q.C.,597,596,598,0,,,Turning & Milling Q.C.
+598,28,Laser Marking,598,597,"(599, 600)",0,,,Laser Marking
+599,28,Flat Grinding,599,598,601,1,,,Flat Grinding
+600,28,Laser Marking,600,598,601,1,,,Laser Marking
+601,28,Flat Grinding,601,"(599, 600)",602,0,,,Flat Grinding
+602,28,Flat Grinding,602,601,603,0,,,Flat Grinding
+603,28,Round Grinding,603,602,604,0,,,Round Grinding
+604,28,Round Grinding,604,603,605,0,,,Round Grinding
+605,28,Round Grinding,605,604,606,0,,,Round Grinding
+606,28,Round Grinding,606,605,"(607, 608, 609)",0,,,Round Grinding
+607,28,Flat Grinding,607,606,610,1,,,Flat Grinding
+608,28,Lapping,608,606,610,1,,,Lapping
+609,28,Round Grinding,609,606,610,1,,,Round Grinding
+610,28,Round Grinding,610,"(607, 608, 609)",611,0,,,Round Grinding
+611,28,Round Grinding,611,610,612,0,,,Round Grinding
+612,28,Round Grinding,612,611,613,0,,,Round Grinding
+613,28,Round Grinding,613,612,"(614, 616)",0,,,Round Grinding
+614,28,Round Grinding,614,613,615,1,,,Round Grinding
+615,28,Round Grinding,615,614,618,1,,,Round Grinding
+616,28,Round Grinding,616,613,617,1,,,Round Grinding
+617,28,Round Grinding,617,616,618,1,,,Round Grinding
+618,28,Round Grinding,618,"(615, 617)",619,0,,,Round Grinding
+619,28,Round Grinding,619,618,620,0,,,Round Grinding
+620,28,Round Grinding,620,619,621,0,,,Round Grinding
+621,28,Round Grinding,621,620,622,0,,,Round Grinding
+622,28,Final Inspection Q.C.,622,621,623,0,,,Final Inspection Q.C.
+623,28,Final Inspection Q.C.,623,622,624,0,,,Final Inspection Q.C.
+624,28,Packing,624,623,625,0,,,Packing
+625,28,Fix,625,624,626,0,,,Fix
+626,28,Fix,626,625,627,0,,,Fix
+627,28,Final Inspection Q.C.,627,626,628,0,,,Final Inspection Q.C.
+628,28,Packing,628,627,629,0,,,Packing
+629,28,Final Inspection Q.C.,629,628,630,0,,,Final Inspection Q.C.
+630,28,End,630,629,None,0,,,End
+633,29,Start,633,None,634,0,,,Start
+634,29,Turning & Milling,634,633,635,0,,,Turning & Milling
+635,29,Turning & Milling,635,634,636,0,,,Turning & Milling
+636,29,Turning & Milling,636,635,637,0,,,Turning & Milling
+637,29,Turning & Milling,637,636,638,0,,,Turning & Milling
+638,29,Turning & Milling Q.C.,638,637,639,0,,,Turning & Milling Q.C.
+639,29,Laser Marking,639,638,640,0,,,Laser Marking
+640,29,Grinding Rework,640,639,641,0,,,Grinding Rework
+641,29,Lapping,641,640,642,0,,,Lapping
+642,29,Lapping,642,641,643,0,,,Lapping
+643,29,Round Grinding,643,642,644,0,,,Round Grinding
+644,29,Round Grinding,644,643,645,0,,,Round Grinding
+645,29,Round Grinding,645,644,646,0,,,Round Grinding
+646,29,End,646,645,None,0,,,End
+649,30,Start,649,None,650,0,,,Start
+650,30,Turning & Milling,650,649,651,0,,,Turning & Milling
+651,30,Turning & Milling,651,650,652,0,,,Turning & Milling
+652,30,Turning & Milling,652,651,653,0,,,Turning & Milling
+653,30,Turning & Milling,653,652,654,0,,,Turning & Milling
+654,30,Turning & Milling,654,653,655,0,,,Turning & Milling
+655,30,Turning & Milling,655,654,656,0,,,Turning & Milling
+656,30,Turning & Milling Q.C.,656,655,657,0,,,Turning & Milling Q.C.
+657,30,Turning & Milling Q.C.,657,656,"(658, 659)",0,,,Turning & Milling Q.C.
+658,30,Flat Grinding,658,657,660,1,,,Flat Grinding
+659,30,Laser Marking,659,657,660,1,,,Laser Marking
+660,30,Lapping,660,"(658, 659)",661,0,,,Lapping
+661,30,Round Grinding,661,660,662,0,,,Round Grinding
+662,30,Round Grinding,662,661,663,0,,,Round Grinding
+663,30,Grinding Rework,663,662,664,0,,,Grinding Rework
+664,30,Packing,664,663,665,0,,,Packing
+665,30,Final Inspection Q.C.,665,664,666,0,,,Final Inspection Q.C.
+666,30,End,666,665,None,0,,,End
+669,31,Start,669,None,670,0,,,Start
+670,31,Turning & Milling,670,669,671,0,,,Turning & Milling
+671,31,Turning & Milling,671,670,"(672, 673)",0,,,Turning & Milling
+672,31,Turning & Milling,672,671,674,1,,,Turning & Milling
+673,31,Turning & Milling,673,671,674,1,,,Turning & Milling
+674,31,Turning Q.C.,674,"(672, 673)",675,0,,,Turning Q.C.
+675,31,Turning & Milling,675,674,676,0,,,Turning & Milling
+676,31,Turning & Milling,676,675,677,0,,,Turning & Milling
+677,31,Turning & Milling,677,676,678,0,,,Turning & Milling
+678,31,Turning & Milling,678,677,"(679, 680)",0,,,Turning & Milling
+679,31,Turning & Milling,679,678,681,1,,,Turning & Milling
+680,31,Turning Q.C.,680,678,681,1,,,Turning Q.C.
+681,31,Turning Q.C.,681,"(679, 680)",682,0,,,Turning Q.C.
+682,31,Laser Marking,682,681,"(683, 684)",0,,,Laser Marking
+683,31,Laser Marking,683,682,685,1,,,Laser Marking
+684,31,Turning & Milling Q.C.,684,682,685,1,,,Turning & Milling Q.C.
+685,31,End,685,"(683, 684)",None,0,,,End
+688,32,Start,688,None,"(689, 690)",0,,,Start
+689,32,Turning,689,688,691,1,,,Turning
+690,32,Turning & Milling,690,688,691,1,,,Turning & Milling
+691,32,Turning & Milling,691,"(689, 690)","(692, 694)",0,,,Turning & Milling
+692,32,Turning & Milling,692,691,693,1,,,Turning & Milling
+693,32,Turning & Milling Q.C.,693,692,695,1,,,Turning & Milling Q.C.
+694,32,Turning & Milling Q.C.,694,691,695,1,,,Turning & Milling Q.C.
+695,32,Laser Marking,695,"(693, 694)",696,0,,,Laser Marking
+696,32,Lapping,696,695,697,0,,,Lapping
+697,32,Grinding Rework,697,696,698,0,,,Grinding Rework
+698,32,Lapping,698,697,699,0,,,Lapping
+699,32,Lapping,699,698,"(700, 701, 702)",0,,,Lapping
+700,32,Lapping,700,699,703,1,,,Lapping
+701,32,Lapping,701,699,703,1,,,Lapping
+702,32,Laser Marking,702,699,703,1,,,Laser Marking
+703,32,Lapping,703,"(700, 701, 702)",704,0,,,Lapping
+704,32,Lapping,704,703,"(705, 707, 709, 710)",0,,,Lapping
+705,32,Final Inspection Q.C.,705,704,706,1,,,Final Inspection Q.C.
+706,32,Lapping,706,705,712,1,,,Lapping
+707,32,Laser Marking,707,704,708,1,,,Laser Marking
+708,32,Lapping,708,707,712,1,,,Lapping
+709,32,Round Grinding,709,704,712,1,,,Round Grinding
+710,32,Turning & Milling Q.C.,710,704,711,1,,,Turning & Milling Q.C.
+711,32,Lapping,711,710,712,1,,,Lapping
+712,32,Round Grinding,712,"(706, 708, 709, 711)",713,0,,,Round Grinding
+713,32,Round Grinding,713,712,714,0,,,Round Grinding
+714,32,Round Grinding,714,713,715,0,,,Round Grinding
+715,32,Lapping,715,714,716,0,,,Lapping
+716,32,Lapping,716,715,717,0,,,Lapping
+717,32,Round Grinding,717,716,718,0,,,Round Grinding
+718,32,Round Grinding,718,717,719,0,,,Round Grinding
+719,32,Round Grinding,719,718,720,0,,,Round Grinding
+720,32,Round Grinding,720,719,721,0,,,Round Grinding
+721,32,Round Grinding,721,720,722,0,,,Round Grinding
+722,32,Round Grinding,722,721,723,0,,,Round Grinding
+723,32,Round Grinding,723,722,724,0,,,Round Grinding
+724,32,Round Grinding,724,723,725,0,,,Round Grinding
+725,32,Round Grinding,725,724,726,0,,,Round Grinding
+726,32,Round Grinding,726,725,727,0,,,Round Grinding
+727,32,Round Grinding,727,726,728,0,,,Round Grinding
+728,32,Round Grinding,728,727,"(729, 730, 732)",0,,,Round Grinding
+729,32,Lapping,729,728,733,1,,,Lapping
+730,32,Packing,730,728,731,1,,,Packing
+731,32,Final Inspection Q.C.,731,730,733,1,,,Final Inspection Q.C.
+732,32,Round Grinding,732,728,733,1,,,Round Grinding
+733,32,Round Grinding,733,"(729, 731, 732)",734,0,,,Round Grinding
+734,32,Final Inspection Q.C.,734,733,735,0,,,Final Inspection Q.C.
+735,32,Packing,735,734,736,0,,,Packing
+736,32,Final Inspection Q.C.,736,735,737,0,,,Final Inspection Q.C.
+737,32,Packing,737,736,738,0,,,Packing
+738,32,Final Inspection Q.C.,738,737,739,0,,,Final Inspection Q.C.
+739,32,Grinding Rework,739,738,740,0,,,Grinding Rework
+740,32,Grinding Rework,740,739,741,0,,,Grinding Rework
+741,32,Grinding Rework,741,740,742,0,,,Grinding Rework
+742,32,Final Inspection Q.C.,742,741,743,0,,,Final Inspection Q.C.
+743,32,Final Inspection Q.C.,743,742,744,0,,,Final Inspection Q.C.
+744,32,Packing,744,743,"(745, 746)",0,,,Packing
+745,32,Final Inspection Q.C.,745,744,747,1,,,Final Inspection Q.C.
+746,32,Packing,746,744,747,1,,,Packing
+747,32,Packing,747,"(745, 746)",748,0,,,Packing
+748,32,Packing,748,747,749,0,,,Packing
+749,32,End,749,748,None,0,,,End
+752,33,Start,752,None,753,0,,,Start
+753,33,Turning & Milling,753,752,754,0,,,Turning & Milling
+754,33,Turning & Milling,754,753,755,0,,,Turning & Milling
+755,33,Turning & Milling,755,754,756,0,,,Turning & Milling
+756,33,Turning & Milling,756,755,757,0,,,Turning & Milling
+757,33,Turning & Milling Q.C.,757,756,758,0,,,Turning & Milling Q.C.
+758,33,Laser Marking,758,757,759,0,,,Laser Marking
+759,33,Grinding Rework,759,758,760,0,,,Grinding Rework
+760,33,Lapping,760,759,761,0,,,Lapping
+761,33,Lapping,761,760,762,0,,,Lapping
+762,33,Round Grinding,762,761,763,0,,,Round Grinding
+763,33,Round Grinding,763,762,764,0,,,Round Grinding
+764,33,Round Grinding,764,763,765,0,,,Round Grinding
+765,33,End,765,764,None,0,,,End
+768,34,Start,768,None,"(769, 770)",0,,,Start
+769,34,Turning & Milling,769,768,771,1,,,Turning & Milling
+770,34,Turning & Milling Q.C.,770,768,771,1,,,Turning & Milling Q.C.
+771,34,Turning & Milling,771,"(769, 770)",772,0,,,Turning & Milling
+772,34,Turning & Milling,772,771,773,0,,,Turning & Milling
+773,34,Turning Q.C.,773,772,774,0,,,Turning Q.C.
+774,34,Laser Marking,774,773,"(775, 776)",0,,,Laser Marking
+775,34,Lapping,775,774,777,1,,,Lapping
+776,34,Turning & Milling Q.C.,776,774,777,1,,,Turning & Milling Q.C.
+777,34,Final Inspection Q.C.,777,"(775, 776)",778,0,,,Final Inspection Q.C.
+778,34,Final Inspection Q.C.,778,777,779,0,,,Final Inspection Q.C.
+779,34,Packing,779,778,780,0,,,Packing
+780,34,End,780,779,None,0,,,End
+783,35,Start,783,None,784,0,,,Start
+784,35,SETUP     Turning & Milling,784,783,785,0,,,SETUP     Turning & Milling
+785,35,Turning & Milling,785,784,786,0,,,Turning & Milling
+786,35,Turning & Milling Q.C.,786,785,787,0,,,Turning & Milling Q.C.
+787,35,Laser Marking,787,786,788,0,,,Laser Marking
+788,35,End,788,787,None,0,,,End
+791,36,Start,791,None,792,0,,,Start
+792,36,Turning & Milling,792,791,793,0,,,Turning & Milling
+793,36,Turning & Milling,793,792,794,0,,,Turning & Milling
+794,36,Turning & Milling,794,793,795,0,,,Turning & Milling
+795,36,Turning & Milling,795,794,796,0,,,Turning & Milling
+796,36,Turning & Milling,796,795,797,0,,,Turning & Milling
+797,36,Turning & Milling,797,796,798,0,,,Turning & Milling
+798,36,Turning & Milling Q.C.,798,797,799,0,,,Turning & Milling Q.C.
+799,36,Laser Marking,799,798,800,0,,,Laser Marking
+800,36,Lapping,800,799,801,0,,,Lapping
+801,36,Round Grinding,801,800,802,0,,,Round Grinding
+802,36,Round Grinding,802,801,803,0,,,Round Grinding
+803,36,Round Grinding,803,802,804,0,,,Round Grinding
+804,36,Packing,804,803,805,0,,,Packing
+805,36,Final Inspection Q.C.,805,804,806,0,,,Final Inspection Q.C.
+806,36,End,806,805,None,0,,,End
+809,37,Start,809,None,810,0,,,Start
+810,37,Turning & Milling,810,809,"(811, 812, 813)",0,,,Turning & Milling
+811,37,Turning & Milling,811,810,814,1,,,Turning & Milling
+812,37,Turning & Milling,812,810,814,1,,,Turning & Milling
+813,37,Turning & Milling Q.C.,813,810,814,1,,,Turning & Milling Q.C.
+814,37,Turning & Milling,814,"(811, 812, 813)",815,0,,,Turning & Milling
+815,37,Turning & Milling,815,814,816,0,,,Turning & Milling
+816,37,Turning & Milling Q.C.,816,815,817,0,,,Turning & Milling Q.C.
+817,37,Laser Marking,817,816,818,0,,,Laser Marking
+818,37,Lapping,818,817,819,0,,,Lapping
+819,37,Final Inspection Q.C.,819,818,820,0,,,Final Inspection Q.C.
+820,37,Packing,820,819,821,0,,,Packing
+821,37,End,821,820,None,0,,,End
+824,38,Start,824,None,825,0,,,Start
+825,38,Turning & Milling,825,824,826,0,,,Turning & Milling
+826,38,Turning & Milling,826,825,827,0,,,Turning & Milling
+827,38,Turning & Milling,827,826,828,0,,,Turning & Milling
+828,38,Turning & Milling,828,827,829,0,,,Turning & Milling
+829,38,Turning & Milling,829,828,830,0,,,Turning & Milling
+830,38,Turning & Milling,830,829,831,0,,,Turning & Milling
+831,38,Turning & Milling,831,830,832,0,,,Turning & Milling
+832,38,Turning & Milling,832,831,833,0,,,Turning & Milling
+833,38,End,833,832,None,0,,,End
+836,39,Start,836,None,837,0,,,Start
+837,39,Turning & Milling Q.C.,837,836,838,0,,,Turning & Milling Q.C.
+838,39,Turning & Milling Q.C.,838,837,839,0,,,Turning & Milling Q.C.
+839,39,Turning & Milling Q.C.,839,838,840,0,,,Turning & Milling Q.C.
+840,39,End,840,839,None,0,,,End
+843,40,Start,843,None,844,0,,,Start
+844,40,Turning,844,843,"(845, 846)",0,,,Turning
+845,40,Turning,845,844,847,1,,,Turning
+846,40,Turning Q.C.,846,844,847,1,,,Turning Q.C.
+847,40,Turning,847,"(845, 846)",848,0,,,Turning
+848,40,Turning Q.C.,848,847,849,0,,,Turning Q.C.
+849,40,Lapping,849,848,"(850, 851)",0,,,Lapping
+850,40,Final Inspection Q.C.,850,849,852,1,,,Final Inspection Q.C.
+851,40,Laser Marking,851,849,852,1,,,Laser Marking
+852,40,End,852,"(850, 851)",None,0,,,End
+855,41,Start,855,None,856,0,,,Start
+856,41,Lapping,856,855,857,0,,,Lapping
+857,41,Round Grinding,857,856,858,0,,,Round Grinding
+858,41,Round Grinding,858,857,859,0,,,Round Grinding
+859,41,Round Grinding,859,858,860,0,,,Round Grinding
+860,41,Round Grinding,860,859,861,0,,,Round Grinding
+861,41,Round Grinding,861,860,862,0,,,Round Grinding
+862,41,Round Grinding,862,861,863,0,,,Round Grinding
+863,41,Round Grinding,863,862,864,0,,,Round Grinding
+864,41,Round Grinding,864,863,865,0,,,Round Grinding
+865,41,Round Grinding,865,864,"(866, 867)",0,,,Round Grinding
+866,41,Round Grinding,866,865,868,1,,,Round Grinding
+867,41,Turning & Milling Q.C.,867,865,868,1,,,Turning & Milling Q.C.
+868,41,Round Grinding,868,"(866, 867)",869,0,,,Round Grinding
+869,41,Round Grinding,869,868,870,0,,,Round Grinding
+870,41,Final Inspection Q.C.,870,869,871,0,,,Final Inspection Q.C.
+871,41,Final Inspection Q.C.,871,870,872,0,,,Final Inspection Q.C.
+872,41,Final Inspection Q.C.,872,871,873,0,,,Final Inspection Q.C.
+873,41,Final Inspection Q.C.,873,872,874,0,,,Final Inspection Q.C.
+874,41,Packing,874,873,875,0,,,Packing
+875,41,Final Inspection Q.C.,875,874,876,0,,,Final Inspection Q.C.
+876,41,Final Inspection Q.C.,876,875,877,0,,,Final Inspection Q.C.
+877,41,Round Grinding,877,876,878,0,,,Round Grinding
+878,41,Final Inspection Q.C.,878,877,879,0,,,Final Inspection Q.C.
+879,41,Final Inspection Q.C.,879,878,"(880, 881)",0,,,Final Inspection Q.C.
+880,41,Final Inspection Q.C.,880,879,882,1,,,Final Inspection Q.C.
+881,41,Final Inspection Q.C.,881,879,882,1,,,Final Inspection Q.C.
+882,41,Final Inspection Q.C.,882,"(880, 881)",883,0,,,Final Inspection Q.C.
+883,41,Packing,883,882,884,0,,,Packing
+884,41,Packing,884,883,885,0,,,Packing
+885,41,Packing,885,884,886,0,,,Packing
+886,41,Final Inspection Q.C.,886,885,887,0,,,Final Inspection Q.C.
+887,41,Laser Marking,887,886,888,0,,,Laser Marking
+888,41,End,888,887,None,0,,,End
+891,42,Start,891,None,"(892, 893)",0,,,Start
+892,42,Turning & Milling,892,891,894,1,,,Turning & Milling
+893,42,Turning & Milling Q.C.,893,891,894,1,,,Turning & Milling Q.C.
+894,42,Turning & Milling,894,"(892, 893)",895,0,,,Turning & Milling
+895,42,Turning & Milling,895,894,"(896, 897)",0,,,Turning & Milling
+896,42,Turning & Milling,896,895,898,1,,,Turning & Milling
+897,42,Turning & Milling Q.C.,897,895,898,1,,,Turning & Milling Q.C.
+898,42,End,898,"(896, 897)",None,0,,,End
+901,43,Start,901,None,"(902, 904)",0,,,Start
+902,43,Turning & Milling,902,901,903,1,,,Turning & Milling
+903,43,Turning & Milling,903,902,905,1,,,Turning & Milling
+904,43,Turning & Milling,904,901,905,1,,,Turning & Milling
+905,43,Turning & Milling,905,"(903, 904)",906,0,,,Turning & Milling
+906,43,Turning & Milling,906,905,"(907, 908)",0,,,Turning & Milling
+907,43,Turning & Milling,907,906,909,1,,,Turning & Milling
+908,43,Turning & Milling Q.C.,908,906,909,1,,,Turning & Milling Q.C.
+909,43,End,909,"(907, 908)",None,0,,,End
+912,44,Start,912,None,913,0,,,Start
+913,44,Turning,913,912,914,0,,,Turning
+914,44,Turning & Milling,914,913,915,0,,,Turning & Milling
+915,44,Turning & Milling,915,914,"(916, 918)",0,,,Turning & Milling
+916,44,Turning & Milling,916,915,917,1,,,Turning & Milling
+917,44,Turning & Milling Q.C.,917,916,919,1,,,Turning & Milling Q.C.
+918,44,Turning & Milling Q.C.,918,915,919,1,,,Turning & Milling Q.C.
+919,44,Turning & Milling Q.C.,919,"(917, 918)",920,0,,,Turning & Milling Q.C.
+920,44,Laser Marking,920,919,921,0,,,Laser Marking
+921,44,Laser Marking,921,920,922,0,,,Laser Marking
+922,44,Lapping,922,921,923,0,,,Lapping
+923,44,Final Inspection Q.C.,923,922,924,0,,,Final Inspection Q.C.
+924,44,Final Inspection Q.C.,924,923,925,0,,,Final Inspection Q.C.
+925,44,Packing,925,924,926,0,,,Packing
+926,44,End,926,925,None,0,,,End
+929,45,Start,929,None,930,0,,,Start
+930,45,Turning & Milling,930,929,931,0,,,Turning & Milling
+931,45,Turning & Milling,931,930,932,0,,,Turning & Milling
+932,45,Turning & Milling,932,931,933,0,,,Turning & Milling
+933,45,Turning & Milling Q.C.,933,932,934,0,,,Turning & Milling Q.C.
+934,45,Laser Marking,934,933,935,0,,,Laser Marking
+935,45,Turning & Milling Q.C.,935,934,936,0,,,Turning & Milling Q.C.
+936,45,Lapping,936,935,937,0,,,Lapping
+937,45,Round Grinding,937,936,938,0,,,Round Grinding
+938,45,Final Inspection Q.C.,938,937,939,0,,,Final Inspection Q.C.
+939,45,Final Inspection Q.C.,939,938,940,0,,,Final Inspection Q.C.
+940,45,Round Grinding,940,939,941,0,,,Round Grinding
+941,45,Packing,941,940,942,0,,,Packing
+942,45,Final Inspection Q.C.,942,941,943,0,,,Final Inspection Q.C.
+943,45,Final Inspection Q.C.,943,942,944,0,,,Final Inspection Q.C.
+944,45,End,944,943,None,0,,,End

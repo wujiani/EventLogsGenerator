@@ -1,0 +1,219 @@
+{
+    "ac_index": {
+        "Amend Purchase Requisition": 21,
+        "Amend Request for Quotation": 20,
+        "Analyze Purchase Requisition": 19,
+        "Analyze Quotation Comparison Map": 6,
+        "Analyze Request for Quotation": 3,
+        "Approve Purchase Order for payment": 13,
+        "Authorize Supplier's Invoice payment": 16,
+        "Choose best option": 7,
+        "Confirm Purchase Order": 10,
+        "Create Purchase Order": 9,
+        "Create Purchase Requisition": 1,
+        "Create Quotation comparison Map": 5,
+        "Create Request for Quotation": 2,
+        "Deliver Goods Services": 11,
+        "End": 22,
+        "Pay Invoice": 17,
+        "Release Purchase Order": 12,
+        "Release Supplier's Invoice": 15,
+        "Send Invoice": 14,
+        "Send Request for Quotation to Supplier": 4,
+        "Settle Conditions With Supplier": 8,
+        "Settle Dispute With Supplier": 18,
+        "Start": 0
+    },
+    "dense_act": "linear",
+    "generated_at": "17/08/2023 12:54:56",
+    "inter_mean_states": {
+        "tasks": {
+            "Amend Purchase Requisition": 0.001236667181944659,
+            "Amend Request for Quotation": 0.04807543669809863,
+            "Analyze Purchase Requisition": 0.03539959808316587,
+            "Analyze Quotation Comparison Map": 0.04699335291389705,
+            "Analyze Request for Quotation": 0.1150100479208533,
+            "Approve Purchase Order for payment": 0.029370845571185654,
+            "Authorize Supplier's Invoice payment": 0.0,
+            "Choose best option": 0.0,
+            "Confirm Purchase Order": 0.04467460194775081,
+            "Create Purchase Order": 0.04111918379965992,
+            "Create Purchase Requisition": 0.062142525892719125,
+            "Create Quotation comparison Map": 0.23156592981913743,
+            "Create Request for Quotation": 0.030143762559901068,
+            "Deliver Goods Services": 1.470861029525429,
+            "End": 0.0,
+            "Pay Invoice": 0.04251043437934766,
+            "Release Purchase Order": 0.029216262173442573,
+            "Release Supplier's Invoice": 0.03725459885608286,
+            "Send Invoice": 0.0,
+            "Send Request for Quotation to Supplier": 0.05394960581233575,
+            "Settle Conditions With Supplier": 0.4935847889936621,
+            "Settle Dispute With Supplier": 0.011748338228474263,
+            "Start": 0.0
+        },
+        "wip": 22.606121502550625
+    },
+    "l_size": 100,
+    "log_size": 189,
+    "loss": 0.02011315617710352,
+    "lstm_act": "tanh",
+    "n_size": 5,
+    "optim": "Nadam",
+    "roles": {
+        "Role 1": [
+            "Esmana Liubiata",
+            "Elvira Lores",
+            "Fjodor Kowalski",
+            "Penn Osterwalder",
+            "Immanuel Karagianni",
+            "Miu Hanwan",
+            "Christian Francois",
+            "Tesca Lobes",
+            "Clement Duchot",
+            "Anne Olwada",
+            "Alberto Duport",
+            "Kim Passa",
+            "Anna Kaufmann",
+            "Nico Ojenbeer"
+        ],
+        "Role 2": [
+            "Kiu Kan",
+            "Sean Manney",
+            "Carmen Finacse",
+            "Karen Clarens",
+            "Esmeralda Clay"
+        ],
+        "Role 3": [
+            "Francis Odell",
+            "Heinz Gutschmidt",
+            "Maris Freeman"
+        ],
+        "Role 4": [
+            "Francois de Perrier",
+            "Karel de Groot",
+            "Magdalena Predutta"
+        ],
+        "Role 5": [
+            "Karalda Nimwada",
+            "Pedro Alvares"
+        ]
+    },
+    "roles_table": [
+        {
+            "role": "Role 1",
+            "task": "Amend Purchase Requisition"
+        },
+        {
+            "role": "Role 5",
+            "task": "Settle Dispute With Supplier"
+        },
+        {
+            "role": "Role 4",
+            "task": "Create Quotation comparison Map"
+        },
+        {
+            "role": "Role 4",
+            "task": "Send Request for Quotation to Supplier"
+        },
+        {
+            "role": "Role 2",
+            "task": "Send Invoice"
+        },
+        {
+            "role": "Role 5",
+            "task": "Release Supplier's Invoice"
+        },
+        {
+            "role": "Role 1",
+            "task": "Release Purchase Order"
+        },
+        {
+            "role": "Role 5",
+            "task": "Pay Invoice"
+        },
+        {
+            "role": "Role 2",
+            "task": "Deliver Goods Services"
+        },
+        {
+            "role": "Role 3",
+            "task": "Create Request for Quotation"
+        },
+        {
+            "role": "Role 4",
+            "task": "Create Purchase Order"
+        },
+        {
+            "role": "Role 4",
+            "task": "Settle Conditions With Supplier"
+        },
+        {
+            "role": "Role 2",
+            "task": "Confirm Purchase Order"
+        },
+        {
+            "role": "Role 1",
+            "task": "Choose best option"
+        },
+        {
+            "role": "Role 5",
+            "task": "Authorize Supplier's Invoice payment"
+        },
+        {
+            "role": "Role 4",
+            "task": "Approve Purchase Order for payment"
+        },
+        {
+            "role": "Role 1",
+            "task": "Analyze Quotation Comparison Map"
+        },
+        {
+            "role": "Role 1",
+            "task": "Create Purchase Requisition"
+        },
+        {
+            "role": "Role 3",
+            "task": "Analyze Purchase Requisition"
+        },
+        {
+            "role": "Role 1",
+            "task": "Amend Request for Quotation"
+        },
+        {
+            "role": "Role 4",
+            "task": "Analyze Request for Quotation"
+        }
+    ],
+    "usr_index": {
+        "Alberto Duport": 24,
+        "Anna Kaufmann": 13,
+        "Anne Olwada": 22,
+        "Carmen Finacse": 15,
+        "Christian Francois": 21,
+        "Clement Duchot": 17,
+        "Elvira Lores": 8,
+        "End": 28,
+        "Esmana Liubiata": 12,
+        "Esmeralda Clay": 25,
+        "Fjodor Kowalski": 19,
+        "Francis Odell": 27,
+        "Francois de Perrier": 6,
+        "Heinz Gutschmidt": 18,
+        "Immanuel Karagianni": 4,
+        "Karalda Nimwada": 10,
+        "Karel de Groot": 2,
+        "Karen Clarens": 16,
+        "Kim Passa": 1,
+        "Kiu Kan": 9,
+        "Magdalena Predutta": 3,
+        "Maris Freeman": 26,
+        "Miu Hanwan": 20,
+        "Nico Ojenbeer": 14,
+        "Pedro Alvares": 11,
+        "Penn Osterwalder": 23,
+        "Sean Manney": 7,
+        "Start": 0,
+        "Tesca Lobes": 5
+    }
+}

@@ -1,0 +1,173 @@
+{
+    "ac_index": {
+        "End": 21,
+        "Final Inspection Q.C.": 8,
+        "Fix": 16,
+        "Flat Grinding": 4,
+        "Grinding Rework": 7,
+        "Lapping": 5,
+        "Laser Marking": 3,
+        "Milling": 14,
+        "Nitration Q.C.": 19,
+        "Packing": 9,
+        "Rework Milling": 13,
+        "Round Grinding": 6,
+        "SETUP     Turning & Milling": 20,
+        "Setup": 10,
+        "Start": 0,
+        "Stress Relief": 15,
+        "Turn & Mill. & Screw Assem": 17,
+        "Turning": 11,
+        "Turning & Milling": 1,
+        "Turning & Milling Q.C.": 2,
+        "Turning Q.C.": 12,
+        "Turning Rework": 18
+    },
+    "dense_act": "linear",
+    "generated_at": "21/06/2023 17:31:13",
+    "inter_mean_states": {
+        "tasks": {
+            "End": 0.0,
+            "Final Inspection Q.C.": 0.09090909090909091,
+            "Flat Grinding": 0.00909090909090909,
+            "Grinding Rework": 0.02727272727272727,
+            "Lapping": 0.06363636363636363,
+            "Laser Marking": 0.02727272727272727,
+            "Packing": 0.09090909090909091,
+            "Round Grinding": 0.03636363636363636,
+            "Start": 0.0,
+            "Turning": 0.00909090909090909,
+            "Turning & Milling": 0.03636363636363636,
+            "Turning & Milling Q.C.": 0.07272727272727272,
+            "Turning Q.C.": 0.00909090909090909
+        },
+        "wip": 2.227272727272727
+    },
+    "l_size": 50,
+    "log_size": 12,
+    "loss": 0.05352622643113136,
+    "lstm_act": "selu",
+    "n_size": 5,
+    "optim": "Nadam",
+    "roles": {
+        "Role 1": [
+            "ID4493",
+            "ID4287",
+            "ID4163",
+            "ID4618"
+        ],
+        "Role 2": [
+            "ID0937",
+            "ID4529",
+            "ID4882"
+        ],
+        "Role 3": [
+            "ID4491",
+            "ID4820"
+        ],
+        "Role 4": [
+            "ID4528"
+        ],
+        "Role 5": [
+            "ID0998"
+        ],
+        "Role 6": [
+            "ID4872"
+        ],
+        "Role 7": [
+            "ID0997"
+        ]
+    },
+    "roles_table": [
+        {
+            "role": "Role 5",
+            "task": "Flat Grinding"
+        },
+        {
+            "role": "Role 6",
+            "task": "Round Grinding"
+        },
+        {
+            "role": "Role 7",
+            "task": "Turning"
+        },
+        {
+            "role": "Role 1",
+            "task": "Turning Q.C."
+        },
+        {
+            "role": "Role 4",
+            "task": "Grinding Rework"
+        },
+        {
+            "role": "Role 2",
+            "task": "Turning & Milling"
+        },
+        {
+            "role": "Role 5",
+            "task": "Laser Marking"
+        },
+        {
+            "role": "Role 2",
+            "task": "Lapping"
+        },
+        {
+            "role": "Role 1",
+            "task": "Turning & Milling Q.C."
+        },
+        {
+            "role": "Role 1",
+            "task": "Final Inspection Q.C."
+        },
+        {
+            "role": "Role 3",
+            "task": "Packing"
+        }
+    ],
+    "usr_index": {
+        "End": 43,
+        "ID0420": 29,
+        "ID0937": 22,
+        "ID0997": 10,
+        "ID0998": 4,
+        "ID3641": 30,
+        "ID3846": 17,
+        "ID3854": 37,
+        "ID3998": 41,
+        "ID4109": 36,
+        "ID4132": 18,
+        "ID4140": 33,
+        "ID4142": 39,
+        "ID4160": 34,
+        "ID4162": 31,
+        "ID4163": 21,
+        "ID4167": 12,
+        "ID4219": 1,
+        "ID4287": 19,
+        "ID4291": 28,
+        "ID4326": 38,
+        "ID4355": 23,
+        "ID4385": 24,
+        "ID4429": 14,
+        "ID4442": 35,
+        "ID4445": 6,
+        "ID4491": 25,
+        "ID4493": 15,
+        "ID4528": 11,
+        "ID4529": 2,
+        "ID4618": 3,
+        "ID4622": 27,
+        "ID4641": 16,
+        "ID4718": 20,
+        "ID4783": 40,
+        "ID4794": 9,
+        "ID4799": 26,
+        "ID4820": 8,
+        "ID4872": 7,
+        "ID4873": 32,
+        "ID4882": 5,
+        "ID4932": 13,
+        "ID4955": 42,
+        "Start": 0
+    }
+}

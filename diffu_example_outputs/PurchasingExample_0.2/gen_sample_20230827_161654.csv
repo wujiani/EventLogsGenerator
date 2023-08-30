@@ -1,0 +1,1850 @@
+Unnamed: 0,caseid,act,index,last,next,if_para,start_timestamp,end_timestamp,resource,activity,res,wait,process
+1,1,Start,1,None,2,0,,,Start,Start,Start,0,0
+2,1,10,2,1,3,0,,,Create Purchase Requisition,Create Purchase Requisition,Christian_Francois,0,2550
+3,1,2,3,2,4,0,,,Analyze Purchase Requisition,Analyze Purchase Requisition,Francis_Odell,49674,337
+4,1,12,4,3,5,0,,,Create Request for Quotation,Create Request for Quotation,Penn_Osterwalder,7752,673
+5,1,4,5,4,6,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Karel_de_Groot,18651,1179
+6,1,1,6,5,7,0,,,Amend Request for Quotation,Amend Request for Quotation,Christian_Francois,4116,884
+7,1,4,7,6,8,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Karel_de_Groot,48872,535
+8,1,1,8,7,9,0,,,Amend Request for Quotation,Amend Request for Quotation,Heinz_Gutschmidt,35741,960
+9,1,4,9,8,10,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Francois_de_Perrier,280932,1610
+10,1,1,10,9,11,0,,,Amend Request for Quotation,Amend Request for Quotation,Alberto_Duport,3965,754
+11,1,4,11,10,12,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Magdalena_Predutta,2328695,441
+12,1,1,12,11,13,0,,,Amend Request for Quotation,Amend Request for Quotation,Fjodor_Kowalski,2933,381
+13,1,4,13,12,14,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Magdalena_Predutta,2161516,1624
+14,1,18,14,13,15,0,,,Send Request for Quotation to Supplier,Send Request for Quotation to Supplier,Karel_de_Groot,35176,1123
+15,1,11,15,14,16,0,,,Create Quotation comparison Map,Create Quotation comparison Map,Magdalena_Predutta,9551,8224
+16,1,3,16,15,17,0,,,Analyze Quotation Comparison Map,Analyze Quotation Comparison Map,Penn_Osterwalder,32178,844
+17,1,7,17,16,18,0,,,Choose best option,Choose best option,Alberto_Duport,0,0
+18,1,19,18,17,19,0,,,Settle Conditions With Supplier,Settle Conditions With Supplier,Francois_de_Perrier,37655,23638
+19,1,9,19,18,20,0,,,Create Purchase Order,Create Purchase Order,Magdalena_Predutta,30570,418
+20,1,8,20,19,21,0,,,Confirm Purchase Order,Confirm Purchase Order,Kiu_Kan,19319,1253
+21,1,13,21,20,22,0,,,Deliver Goods Services,Deliver Goods Services,Esmeralda_Clay,59169,85753
+22,1,15,22,21,23,0,,,Release Purchase Order,Release Purchase Order,Esmana_Liubiata,25657,62
+23,1,5,23,22,24,0,,,Approve Purchase Order for payment,Approve Purchase Order for payment,Francois_de_Perrier,91444,59
+24,1,17,24,23,25,0,,,Send Invoice,Send Invoice,Karen_Clarens,1051886,0
+25,1,16,25,24,26,0,,,Release Supplier's Invoice,Release Supplier's Invoice,Pedro_Alvares,55199,329
+26,1,6,26,25,27,0,,,Authorize Supplier's Invoice payment,Authorize Supplier's Invoice payment,Karalda_Nimwada,239,0
+27,1,14,27,26,28,0,,,Pay Invoice,Pay Invoice,Pedro_Alvares,2614,422
+28,1,End,28,27,None,0,,,End,End,End,0,0
+31,2,Start,31,None,32,0,,,Start,Start,Start,0,0
+32,2,10,32,31,33,0,,,Create Purchase Requisition,Create Purchase Requisition,Nico_Ojenbeer,0,1577
+33,2,12,33,32,34,0,,,Create Request for Quotation,Create Request for Quotation,Fjodor_Kowalski,15608,572
+34,2,4,34,33,35,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Magdalena_Predutta,206223,1055
+35,2,1,35,34,36,0,,,Amend Request for Quotation,Amend Request for Quotation,Fjodor_Kowalski,2802,412
+36,2,4,36,35,37,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Francois_de_Perrier,2177657,1435
+37,2,1,37,36,38,0,,,Amend Request for Quotation,Amend Request for Quotation,Alberto_Duport,3619,511
+38,2,4,38,37,39,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Magdalena_Predutta,253548,872
+39,2,18,39,38,40,0,,,Send Request for Quotation to Supplier,Send Request for Quotation to Supplier,Magdalena_Predutta,49646,878
+40,2,11,40,39,41,0,,,Create Quotation comparison Map,Create Quotation comparison Map,Magdalena_Predutta,32824,10599
+41,2,3,41,40,42,0,,,Analyze Quotation Comparison Map,Analyze Quotation Comparison Map,Nico_Ojenbeer,24353,756
+42,2,7,42,41,43,0,,,Choose best option,Choose best option,Alberto_Duport,0,0
+43,2,19,43,42,44,0,,,Settle Conditions With Supplier,Settle Conditions With Supplier,Magdalena_Predutta,9984,20734
+44,2,9,44,43,45,0,,,Create Purchase Order,Create Purchase Order,Magdalena_Predutta,5507,537
+45,2,8,45,44,46,0,,,Confirm Purchase Order,Confirm Purchase Order,Kiu_Kan,104998,1092
+46,2,13,46,45,47,0,,,Deliver Goods Services,Deliver Goods Services,Esmeralda_Clay,75251,74580
+47,2,15,47,46,48,0,,,Release Purchase Order,Release Purchase Order,Tesca_Lobes,27389,60
+48,2,5,48,47,49,0,,,Approve Purchase Order for payment,Approve Purchase Order for payment,Francois_de_Perrier,25611,57
+49,2,17,49,48,50,0,,,Send Invoice,Send Invoice,Sean_Manney,96214,0
+50,2,16,50,49,51,0,,,Release Supplier's Invoice,Release Supplier's Invoice,Pedro_Alvares,52900,274
+51,2,6,51,50,52,0,,,Authorize Supplier's Invoice payment,Authorize Supplier's Invoice payment,Karalda_Nimwada,0,0
+52,2,14,52,51,53,0,,,Pay Invoice,Pay Invoice,Karalda_Nimwada,2021,457
+53,2,End,53,52,None,0,,,End,End,End,0,0
+56,3,Start,56,None,57,0,,,Start,Start,Start,0,0
+57,3,10,57,56,58,0,,,Create Purchase Requisition,Create Purchase Requisition,Elvira_Lores,0,1848
+58,3,12,58,57,59,0,,,Create Request for Quotation,Create Request for Quotation,Elvira_Lores,28426,589
+59,3,4,59,58,60,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Karel_de_Groot,2671064,1572
+60,3,1,60,59,61,0,,,Amend Request for Quotation,Amend Request for Quotation,Christian_Francois,3673,635
+61,3,4,61,60,62,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Francois_de_Perrier,117631,1158
+62,3,1,62,61,63,0,,,Amend Request for Quotation,Amend Request for Quotation,Elvira_Lores,4434,677
+63,3,4,63,62,64,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Magdalena_Predutta,444282,738
+64,3,End,64,63,None,0,,,End,End,End,0,0
+67,4,Start,67,None,68,0,,,Start,Start,Start,0,0
+68,4,10,68,67,69,0,,,Create Purchase Requisition,Create Purchase Requisition,Clement_Duchot,0,1020
+69,4,12,69,68,70,0,,,Create Request for Quotation,Create Request for Quotation,Heinz_Gutschmidt,259,184
+70,4,4,70,69,71,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Magdalena_Predutta,47470,1368
+71,4,18,71,70,72,0,,,Send Request for Quotation to Supplier,Send Request for Quotation to Supplier,Francois_de_Perrier,30794,1425
+72,4,11,72,71,73,0,,,Create Quotation comparison Map,Create Quotation comparison Map,Karel_de_Groot,6587,19643
+73,4,3,73,72,74,0,,,Analyze Quotation Comparison Map,Analyze Quotation Comparison Map,Alberto_Duport,27935,721
+74,4,7,74,73,75,0,,,Choose best option,Choose best option,Fjodor_Kowalski,0,0
+75,4,19,75,74,76,0,,,Settle Conditions With Supplier,Settle Conditions With Supplier,Francois_de_Perrier,35688,29676
+76,4,9,76,75,77,0,,,Create Purchase Order,Create Purchase Order,Karel_de_Groot,32133,456
+77,4,8,77,76,78,0,,,Confirm Purchase Order,Confirm Purchase Order,Esmeralda_Clay,190529,596
+78,4,13,78,77,79,0,,,Deliver Goods Services,Deliver Goods Services,Carmen_Finacse,171780,46102
+79,4,15,79,78,80,0,,,Release Purchase Order,Release Purchase Order,Alberto_Duport,26229,58
+80,4,5,80,79,81,0,,,Approve Purchase Order for payment,Approve Purchase Order for payment,Karel_de_Groot,16890,59
+81,4,17,81,80,82,0,,,Send Invoice,Send Invoice,Kiu_Kan,27417,0
+82,4,16,82,81,83,0,,,Release Supplier's Invoice,Release Supplier's Invoice,Pedro_Alvares,57761,442
+83,4,20,83,82,84,0,,,Settle Dispute With Supplier,Settle Dispute With Supplier,Francois_de_Perrier,10489,12632
+84,4,6,84,83,85,0,,,Authorize Supplier's Invoice payment,Authorize Supplier's Invoice payment,Karalda_Nimwada,0,0
+85,4,14,85,84,86,0,,,Pay Invoice,Pay Invoice,Karalda_Nimwada,1400,730
+86,4,End,86,85,None,0,,,End,End,End,0,0
+89,5,Start,89,None,90,0,,,Start,Start,Start,0,0
+90,5,10,90,89,91,0,,,Create Purchase Requisition,Create Purchase Requisition,Anne_Olwada,0,2520
+91,5,2,91,90,92,0,,,Analyze Purchase Requisition,Analyze Purchase Requisition,Maris_Freeman,76585,332
+92,5,0,92,91,93,0,,,Amend Purchase Requisition,Amend Purchase Requisition,Alberto_Duport,36537,1067
+93,5,2,93,92,94,0,,,Analyze Purchase Requisition,Analyze Purchase Requisition,Francis_Odell,70784,371
+94,5,12,94,93,95,0,,,Create Request for Quotation,Create Request for Quotation,Heinz_Gutschmidt,489,105
+95,5,4,95,94,96,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Magdalena_Predutta,16010,1116
+96,5,1,96,95,97,0,,,Amend Request for Quotation,Amend Request for Quotation,Maris_Freeman,59679,879
+97,5,4,97,96,98,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Francois_de_Perrier,312397,1551
+98,5,End,98,97,None,0,,,End,End,End,0,0
+101,6,Start,101,None,102,0,,,Start,Start,Start,0,0
+102,6,10,102,101,103,0,,,Create Purchase Requisition,Create Purchase Requisition,Elvira_Lores,0,1960
+103,6,12,103,102,104,0,,,Create Request for Quotation,Create Request for Quotation,Kim_Passa,8383,464
+104,6,4,104,103,105,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Magdalena_Predutta,95225,1638
+105,6,18,105,104,106,0,,,Send Request for Quotation to Supplier,Send Request for Quotation to Supplier,Francois_de_Perrier,40118,1500
+106,6,11,106,105,107,0,,,Create Quotation comparison Map,Create Quotation comparison Map,Karel_de_Groot,30432,5593
+107,6,3,107,106,108,0,,,Analyze Quotation Comparison Map,Analyze Quotation Comparison Map,Fjodor_Kowalski,25268,1330
+108,6,7,108,107,109,0,,,Choose best option,Choose best option,Anne_Olwada,0,0
+109,6,19,109,108,110,0,,,Settle Conditions With Supplier,Settle Conditions With Supplier,Francois_de_Perrier,67320,22809
+110,6,9,110,109,111,0,,,Create Purchase Order,Create Purchase Order,Francois_de_Perrier,52733,518
+111,6,8,111,110,112,0,,,Confirm Purchase Order,Confirm Purchase Order,Karen_Clarens,43298,1292
+112,6,13,112,111,113,0,,,Deliver Goods Services,Deliver Goods Services,Esmeralda_Clay,66381,69340
+113,6,15,113,112,114,0,,,Release Purchase Order,Release Purchase Order,Clement_Duchot,27251,63
+114,6,5,114,113,115,0,,,Approve Purchase Order for payment,Approve Purchase Order for payment,Karel_de_Groot,37777,64
+115,6,17,115,114,116,0,,,Send Invoice,Send Invoice,Kiu_Kan,57616,0
+116,6,16,116,115,117,0,,,Release Supplier's Invoice,Release Supplier's Invoice,Pedro_Alvares,57346,357
+117,6,6,117,116,118,0,,,Authorize Supplier's Invoice payment,Authorize Supplier's Invoice payment,Pedro_Alvares,0,0
+118,6,14,118,117,119,0,,,Pay Invoice,Pay Invoice,Karalda_Nimwada,3106,656
+119,6,End,119,118,None,0,,,End,End,End,0,0
+122,7,Start,122,None,123,0,,,Start,Start,Start,0,0
+123,7,10,123,122,124,0,,,Create Purchase Requisition,Create Purchase Requisition,Penn_Osterwalder,0,2033
+124,7,12,124,123,125,0,,,Create Request for Quotation,Create Request for Quotation,Francis_Odell,592,164
+125,7,4,125,124,126,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Francois_de_Perrier,96947,78
+126,7,1,126,125,127,0,,,Amend Request for Quotation,Amend Request for Quotation,Elvira_Lores,3591,649
+127,7,4,127,126,128,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Francois_de_Perrier,204841,1809
+128,7,18,128,127,129,0,,,Send Request for Quotation to Supplier,Send Request for Quotation to Supplier,Karel_de_Groot,53434,970
+129,7,11,129,128,130,0,,,Create Quotation comparison Map,Create Quotation comparison Map,Magdalena_Predutta,18818,5691
+130,7,3,130,129,131,0,,,Analyze Quotation Comparison Map,Analyze Quotation Comparison Map,Tesca_Lobes,25148,1480
+131,7,7,131,130,132,0,,,Choose best option,Choose best option,Fjodor_Kowalski,0,0
+132,7,19,132,131,133,0,,,Settle Conditions With Supplier,Settle Conditions With Supplier,Francois_de_Perrier,12290,23172
+133,7,9,133,132,134,0,,,Create Purchase Order,Create Purchase Order,Magdalena_Predutta,51983,760
+134,7,8,134,133,135,0,,,Confirm Purchase Order,Confirm Purchase Order,Karen_Clarens,123985,998
+135,7,13,135,134,136,0,,,Deliver Goods Services,Deliver Goods Services,Kiu_Kan,32312,89450
+136,7,15,136,135,137,0,,,Release Purchase Order,Release Purchase Order,Alberto_Duport,26156,62
+137,7,5,137,136,138,0,,,Approve Purchase Order for payment,Approve Purchase Order for payment,Francois_de_Perrier,27551,56
+138,7,17,138,137,139,0,,,Send Invoice,Send Invoice,Esmeralda_Clay,64457,0
+139,7,16,139,138,140,0,,,Release Supplier's Invoice,Release Supplier's Invoice,Karalda_Nimwada,51259,274
+140,7,6,140,139,141,0,,,Authorize Supplier's Invoice payment,Authorize Supplier's Invoice payment,Karalda_Nimwada,0,0
+141,7,14,141,140,142,0,,,Pay Invoice,Pay Invoice,Karalda_Nimwada,1153,666
+142,7,End,142,141,None,0,,,End,End,End,0,0
+145,8,Start,145,None,146,0,,,Start,Start,Start,0,0
+146,8,10,146,145,147,0,,,Create Purchase Requisition,Create Purchase Requisition,Immanuel_Karagianni,0,758
+147,8,2,147,146,148,0,,,Analyze Purchase Requisition,Analyze Purchase Requisition,Francis_Odell,62421,268
+148,8,12,148,147,149,0,,,Create Request for Quotation,Create Request for Quotation,Heinz_Gutschmidt,267,124
+149,8,4,149,148,150,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Francois_de_Perrier,11358,1237
+150,8,18,150,149,151,0,,,Send Request for Quotation to Supplier,Send Request for Quotation to Supplier,Karel_de_Groot,102885,1627
+151,8,11,151,150,152,0,,,Create Quotation comparison Map,Create Quotation comparison Map,Karel_de_Groot,247,15253
+152,8,3,152,151,153,0,,,Analyze Quotation Comparison Map,Analyze Quotation Comparison Map,Anne_Olwada,24894,581
+153,8,7,153,152,154,0,,,Choose best option,Choose best option,Esmana_Liubiata,0,0
+154,8,19,154,153,155,0,,,Settle Conditions With Supplier,Settle Conditions With Supplier,Karel_de_Groot,27631,24105
+155,8,9,155,154,156,0,,,Create Purchase Order,Create Purchase Order,Karel_de_Groot,58942,594
+156,8,8,156,155,157,0,,,Confirm Purchase Order,Confirm Purchase Order,Carmen_Finacse,115524,1543
+157,8,13,157,156,158,0,,,Deliver Goods Services,Deliver Goods Services,Kiu_Kan,263890,30512
+158,8,15,158,157,159,0,,,Release Purchase Order,Release Purchase Order,Esmana_Liubiata,25622,60
+159,8,5,159,158,160,0,,,Approve Purchase Order for payment,Approve Purchase Order for payment,Magdalena_Predutta,39257,59
+160,8,17,160,159,161,0,,,Send Invoice,Send Invoice,Esmeralda_Clay,39579,0
+161,8,16,161,160,162,0,,,Release Supplier's Invoice,Release Supplier's Invoice,Karalda_Nimwada,54816,358
+162,8,20,162,161,163,0,,,Settle Dispute With Supplier,Settle Dispute With Supplier,Karalda_Nimwada,750,1993
+163,8,6,163,162,164,0,,,Authorize Supplier's Invoice payment,Authorize Supplier's Invoice payment,Pedro_Alvares,0,0
+164,8,14,164,163,165,0,,,Pay Invoice,Pay Invoice,Karalda_Nimwada,1018,411
+165,8,End,165,164,None,0,,,End,End,End,0,0
+168,9,Start,168,None,169,0,,,Start,Start,Start,0,0
+169,9,10,169,168,170,0,,,Create Purchase Requisition,Create Purchase Requisition,Alberto_Duport,0,2518
+170,9,12,170,169,171,0,,,Create Request for Quotation,Create Request for Quotation,Maris_Freeman,303,146
+171,9,4,171,170,172,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Magdalena_Predutta,7581,892
+172,9,1,172,171,173,0,,,Amend Request for Quotation,Amend Request for Quotation,Anne_Olwada,5484,448
+173,9,4,173,172,174,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Karel_de_Groot,659692,884
+174,9,End,174,173,None,0,,,End,End,End,0,0
+177,10,Start,177,None,178,0,,,Start,Start,Start,0,0
+178,10,10,178,177,179,0,,,Create Purchase Requisition,Create Purchase Requisition,Alberto_Duport,0,3712
+179,10,12,179,178,180,0,,,Create Request for Quotation,Create Request for Quotation,Fjodor_Kowalski,5955,719
+180,10,4,180,179,181,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Francois_de_Perrier,13745,947
+181,10,18,181,180,182,0,,,Send Request for Quotation to Supplier,Send Request for Quotation to Supplier,Magdalena_Predutta,11585,1399
+182,10,11,182,181,183,0,,,Create Quotation comparison Map,Create Quotation comparison Map,Francois_de_Perrier,337,17807
+183,10,3,183,182,184,0,,,Analyze Quotation Comparison Map,Analyze Quotation Comparison Map,Elvira_Lores,26753,1588
+184,10,7,184,183,185,0,,,Choose best option,Choose best option,Tesca_Lobes,0,0
+185,10,19,185,184,186,0,,,Settle Conditions With Supplier,Settle Conditions With Supplier,Magdalena_Predutta,53994,17508
+186,10,9,186,185,187,0,,,Create Purchase Order,Create Purchase Order,Francois_de_Perrier,3069,470
+187,10,8,187,186,188,0,,,Confirm Purchase Order,Confirm Purchase Order,Kiu_Kan,107426,843
+188,10,13,188,187,189,0,,,Deliver Goods Services,Deliver Goods Services,Sean_Manney,217464,148670
+189,10,15,189,188,190,0,,,Release Purchase Order,Release Purchase Order,Penn_Osterwalder,32681,71
+190,10,5,190,189,191,0,,,Approve Purchase Order for payment,Approve Purchase Order for payment,Magdalena_Predutta,30086,56
+191,10,17,191,190,192,0,,,Send Invoice,Send Invoice,Sean_Manney,82507,0
+192,10,16,192,191,193,0,,,Release Supplier's Invoice,Release Supplier's Invoice,Karalda_Nimwada,58968,162
+193,10,6,193,192,194,0,,,Authorize Supplier's Invoice payment,Authorize Supplier's Invoice payment,Karalda_Nimwada,0,0
+194,10,14,194,193,195,0,,,Pay Invoice,Pay Invoice,Pedro_Alvares,2166,303
+195,10,End,195,194,None,0,,,End,End,End,0,0
+198,11,Start,198,None,199,0,,,Start,Start,Start,0,0
+199,11,10,199,198,200,0,,,Create Purchase Requisition,Create Purchase Requisition,Tesca_Lobes,0,1663
+200,11,12,200,199,201,0,,,Create Request for Quotation,Create Request for Quotation,Kim_Passa,18695,405
+201,11,4,201,200,202,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Magdalena_Predutta,468634,1061
+202,11,End,202,201,None,0,,,End,End,End,0,0
+205,12,Start,205,None,206,0,,,Start,Start,Start,0,0
+206,12,10,206,205,207,0,,,Create Purchase Requisition,Create Purchase Requisition,Kim_Passa,0,2713
+207,12,2,207,206,208,0,,,Analyze Purchase Requisition,Analyze Purchase Requisition,Maris_Freeman,107915,473
+208,12,End,208,207,None,0,,,End,End,End,0,0
+211,13,Start,211,None,212,0,,,Start,Start,Start,0,0
+212,13,10,212,211,213,0,,,Create Purchase Requisition,Create Purchase Requisition,Penn_Osterwalder,0,3788
+213,13,2,213,212,214,0,,,Analyze Purchase Requisition,Analyze Purchase Requisition,Heinz_Gutschmidt,69752,371
+214,13,12,214,213,215,0,,,Create Request for Quotation,Create Request for Quotation,Maris_Freeman,258,107
+215,13,4,215,214,216,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Francois_de_Perrier,12127,1977
+216,13,18,216,215,217,0,,,Send Request for Quotation to Supplier,Send Request for Quotation to Supplier,Magdalena_Predutta,22252,1616
+217,13,11,217,216,218,0,,,Create Quotation comparison Map,Create Quotation comparison Map,Francois_de_Perrier,3650,19618
+218,13,3,218,217,219,0,,,Analyze Quotation Comparison Map,Analyze Quotation Comparison Map,Alberto_Duport,25155,1655
+219,13,7,219,218,220,0,,,Choose best option,Choose best option,Fjodor_Kowalski,0,0
+220,13,19,220,219,221,0,,,Settle Conditions With Supplier,Settle Conditions With Supplier,Karel_de_Groot,30262,28714
+221,13,9,221,220,222,0,,,Create Purchase Order,Create Purchase Order,Karel_de_Groot,4173,610
+222,13,8,222,221,223,0,,,Confirm Purchase Order,Confirm Purchase Order,Kiu_Kan,100835,730
+223,13,13,223,222,224,0,,,Deliver Goods Services,Deliver Goods Services,Sean_Manney,291841,11664
+224,13,15,224,223,225,0,,,Release Purchase Order,Release Purchase Order,Christian_Francois,26102,62
+225,13,5,225,224,226,0,,,Approve Purchase Order for payment,Approve Purchase Order for payment,Francois_de_Perrier,41745,57
+226,13,17,226,225,227,0,,,Send Invoice,Send Invoice,Kiu_Kan,121749,0
+227,13,16,227,226,228,0,,,Release Supplier's Invoice,Release Supplier's Invoice,Pedro_Alvares,56646,236
+228,13,20,228,227,229,0,,,Settle Dispute With Supplier,Settle Dispute With Supplier,Pedro_Alvares,3625,2117
+229,13,6,229,228,230,0,,,Authorize Supplier's Invoice payment,Authorize Supplier's Invoice payment,Pedro_Alvares,0,0
+230,13,14,230,229,231,0,,,Pay Invoice,Pay Invoice,Karalda_Nimwada,2209,546
+231,13,End,231,230,None,0,,,End,End,End,0,0
+234,14,Start,234,None,235,0,,,Start,Start,Start,0,0
+235,14,10,235,234,236,0,,,Create Purchase Requisition,Create Purchase Requisition,Fjodor_Kowalski,0,1238
+236,14,2,236,235,237,0,,,Analyze Purchase Requisition,Analyze Purchase Requisition,Francis_Odell,56523,279
+237,14,12,237,236,238,0,,,Create Request for Quotation,Create Request for Quotation,Esmana_Liubiata,12154,624
+238,14,4,238,237,239,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Francois_de_Perrier,74584,593
+239,14,18,239,238,240,0,,,Send Request for Quotation to Supplier,Send Request for Quotation to Supplier,Francois_de_Perrier,27682,1318
+240,14,11,240,239,241,0,,,Create Quotation comparison Map,Create Quotation comparison Map,Karel_de_Groot,1013,17545
+241,14,3,241,240,242,0,,,Analyze Quotation Comparison Map,Analyze Quotation Comparison Map,Penn_Osterwalder,26995,1722
+242,14,7,242,241,243,0,,,Choose best option,Choose best option,Elvira_Lores,0,0
+243,14,19,243,242,244,0,,,Settle Conditions With Supplier,Settle Conditions With Supplier,Francois_de_Perrier,12438,23372
+244,14,9,244,243,245,0,,,Create Purchase Order,Create Purchase Order,Karel_de_Groot,17857,581
+245,14,8,245,244,246,0,,,Confirm Purchase Order,Confirm Purchase Order,Kiu_Kan,76045,330
+246,14,13,246,245,247,0,,,Deliver Goods Services,Deliver Goods Services,Kiu_Kan,66304,14946
+247,14,15,247,246,248,0,,,Release Purchase Order,Release Purchase Order,Elvira_Lores,27569,62
+248,14,5,248,247,249,0,,,Approve Purchase Order for payment,Approve Purchase Order for payment,Magdalena_Predutta,27802,59
+249,14,17,249,248,250,0,,,Send Invoice,Send Invoice,Kiu_Kan,42724,0
+250,14,16,250,249,251,0,,,Release Supplier's Invoice,Release Supplier's Invoice,Magdalena_Predutta,42703,319
+251,14,6,251,250,252,0,,,Authorize Supplier's Invoice payment,Authorize Supplier's Invoice payment,Karalda_Nimwada,0,0
+252,14,14,252,251,253,0,,,Pay Invoice,Pay Invoice,Pedro_Alvares,793,472
+253,14,End,253,252,None,0,,,End,End,End,0,0
+256,15,Start,256,None,257,0,,,Start,Start,Start,0,0
+257,15,10,257,256,258,0,,,Create Purchase Requisition,Create Purchase Requisition,Christian_Francois,0,1686
+258,15,2,258,257,259,0,,,Analyze Purchase Requisition,Analyze Purchase Requisition,Maris_Freeman,26458,366
+259,15,12,259,258,260,0,,,Create Request for Quotation,Create Request for Quotation,Heinz_Gutschmidt,560,90
+260,15,4,260,259,261,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Magdalena_Predutta,358584,1032
+261,15,1,261,260,262,0,,,Amend Request for Quotation,Amend Request for Quotation,Alberto_Duport,3427,625
+262,15,4,262,261,263,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Magdalena_Predutta,61941,1649
+263,15,1,263,262,264,0,,,Amend Request for Quotation,Amend Request for Quotation,Clement_Duchot,4463,534
+264,15,4,264,263,265,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Magdalena_Predutta,67587,1246
+265,15,1,265,264,266,0,,,Amend Request for Quotation,Amend Request for Quotation,Nico_Ojenbeer,3623,633
+266,15,4,266,265,267,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Karel_de_Groot,897499,1471
+267,15,1,267,266,268,0,,,Amend Request for Quotation,Amend Request for Quotation,Elvira_Lores,4153,480
+268,15,4,268,267,269,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Magdalena_Predutta,166577,1054
+269,15,1,269,268,270,0,,,Amend Request for Quotation,Amend Request for Quotation,Tesca_Lobes,4825,701
+270,15,4,270,269,271,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Karel_de_Groot,493329,660
+271,15,1,271,270,272,0,,,Amend Request for Quotation,Amend Request for Quotation,Alberto_Duport,3745,843
+272,15,4,272,271,273,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Magdalena_Predutta,173209,815
+273,15,End,273,272,None,0,,,End,End,End,0,0
+276,16,Start,276,None,277,0,,,Start,Start,Start,0,0
+277,16,10,277,276,278,0,,,Create Purchase Requisition,Create Purchase Requisition,Elvira_Lores,0,2011
+278,16,12,278,277,279,0,,,Create Request for Quotation,Create Request for Quotation,Tesca_Lobes,7373,313
+279,16,4,279,278,280,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Magdalena_Predutta,429253,1541
+280,16,1,280,279,281,0,,,Amend Request for Quotation,Amend Request for Quotation,Esmana_Liubiata,3548,417
+281,16,4,281,280,282,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Karel_de_Groot,592511,1724
+282,16,18,282,281,283,0,,,Send Request for Quotation to Supplier,Send Request for Quotation to Supplier,Karel_de_Groot,139880,1495
+283,16,11,283,282,284,0,,,Create Quotation comparison Map,Create Quotation comparison Map,Karel_de_Groot,8507,13256
+284,16,3,284,283,285,0,,,Analyze Quotation Comparison Map,Analyze Quotation Comparison Map,Anne_Olwada,60066,1502
+285,16,7,285,284,286,0,,,Choose best option,Choose best option,Miu_Hanwan,0,0
+286,16,19,286,285,287,0,,,Settle Conditions With Supplier,Settle Conditions With Supplier,Magdalena_Predutta,96514,11380
+287,16,9,287,286,288,0,,,Create Purchase Order,Create Purchase Order,Francois_de_Perrier,18388,523
+288,16,8,288,287,289,0,,,Confirm Purchase Order,Confirm Purchase Order,Carmen_Finacse,57926,729
+289,16,13,289,288,290,0,,,Deliver Goods Services,Deliver Goods Services,Karen_Clarens,530595,11625
+290,16,15,290,289,291,0,,,Release Purchase Order,Release Purchase Order,Alberto_Duport,25258,60
+291,16,5,291,290,292,0,,,Approve Purchase Order for payment,Approve Purchase Order for payment,Karel_de_Groot,63661,59
+292,16,17,292,291,293,0,,,Send Invoice,Send Invoice,Esmeralda_Clay,219556,0
+293,16,16,293,292,294,0,,,Release Supplier's Invoice,Release Supplier's Invoice,Pedro_Alvares,56270,322
+294,16,6,294,293,295,0,,,Authorize Supplier's Invoice payment,Authorize Supplier's Invoice payment,Karalda_Nimwada,0,0
+295,16,14,295,294,296,0,,,Pay Invoice,Pay Invoice,Pedro_Alvares,1259,690
+296,16,End,296,295,None,0,,,End,End,End,0,0
+299,17,Start,299,None,300,0,,,Start,Start,Start,0,0
+300,17,10,300,299,301,0,,,Create Purchase Requisition,Create Purchase Requisition,Miu_Hanwan,0,3203
+301,17,12,301,300,302,0,,,Create Request for Quotation,Create Request for Quotation,Elvira_Lores,25627,423
+302,17,4,302,301,303,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Francois_de_Perrier,1126311,519
+303,17,18,303,302,304,0,,,Send Request for Quotation to Supplier,Send Request for Quotation to Supplier,Francois_de_Perrier,75178,166
+304,17,11,304,303,305,0,,,Create Quotation comparison Map,Create Quotation comparison Map,Magdalena_Predutta,59968,3735
+305,17,3,305,304,306,0,,,Analyze Quotation Comparison Map,Analyze Quotation Comparison Map,Tesca_Lobes,25667,1733
+306,17,7,306,305,307,0,,,Choose best option,Choose best option,Kim_Passa,0,0
+307,17,19,307,306,308,0,,,Settle Conditions With Supplier,Settle Conditions With Supplier,Karel_de_Groot,7837,23625
+308,17,9,308,307,309,0,,,Create Purchase Order,Create Purchase Order,Francois_de_Perrier,43133,551
+309,17,8,309,308,310,0,,,Confirm Purchase Order,Confirm Purchase Order,Sean_Manney,114272,1350
+310,17,13,310,309,311,0,,,Deliver Goods Services,Deliver Goods Services,Carmen_Finacse,55700,71198
+311,17,15,311,310,312,0,,,Release Purchase Order,Release Purchase Order,Kim_Passa,25493,61
+312,17,5,312,311,313,0,,,Approve Purchase Order for payment,Approve Purchase Order for payment,Karel_de_Groot,26291,58
+313,17,17,313,312,314,0,,,Send Invoice,Send Invoice,Sean_Manney,222750,0
+314,17,16,314,313,315,0,,,Release Supplier's Invoice,Release Supplier's Invoice,Karalda_Nimwada,56583,326
+315,17,6,315,314,316,0,,,Authorize Supplier's Invoice payment,Authorize Supplier's Invoice payment,Pedro_Alvares,0,0
+316,17,14,316,315,317,0,,,Pay Invoice,Pay Invoice,Karalda_Nimwada,127,594
+317,17,End,317,316,None,0,,,End,End,End,0,0
+320,18,Start,320,None,321,0,,,Start,Start,Start,0,0
+321,18,10,321,320,322,0,,,Create Purchase Requisition,Create Purchase Requisition,Nico_Ojenbeer,0,1618
+322,18,2,322,321,323,0,,,Analyze Purchase Requisition,Analyze Purchase Requisition,Francis_Odell,59249,419
+323,18,End,323,322,None,0,,,End,End,End,0,0
+326,19,Start,326,None,327,0,,,Start,Start,Start,0,0
+327,19,10,327,326,328,0,,,Create Purchase Requisition,Create Purchase Requisition,Elvira_Lores,0,2599
+328,19,2,328,327,329,0,,,Analyze Purchase Requisition,Analyze Purchase Requisition,Francis_Odell,74229,288
+329,19,12,329,328,330,0,,,Create Request for Quotation,Create Request for Quotation,Miu_Hanwan,2727,340
+330,19,4,330,329,331,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Karel_de_Groot,271467,1771
+331,19,1,331,330,332,0,,,Amend Request for Quotation,Amend Request for Quotation,Miu_Hanwan,3434,625
+332,19,4,332,331,333,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Magdalena_Predutta,123509,1256
+333,19,18,333,332,334,0,,,Send Request for Quotation to Supplier,Send Request for Quotation to Supplier,Karel_de_Groot,9403,1311
+334,19,11,334,333,335,0,,,Create Quotation comparison Map,Create Quotation comparison Map,Karel_de_Groot,1094,15711
+335,19,3,335,334,336,0,,,Analyze Quotation Comparison Map,Analyze Quotation Comparison Map,Kim_Passa,26849,688
+336,19,7,336,335,337,0,,,Choose best option,Choose best option,Anna_Kaufmann,0,0
+337,19,19,337,336,338,0,,,Settle Conditions With Supplier,Settle Conditions With Supplier,Magdalena_Predutta,45941,19577
+338,19,9,338,337,339,0,,,Create Purchase Order,Create Purchase Order,Karel_de_Groot,33827,574
+339,19,8,339,338,340,0,,,Confirm Purchase Order,Confirm Purchase Order,Carmen_Finacse,70925,1004
+340,19,13,340,339,341,0,,,Deliver Goods Services,Deliver Goods Services,Esmeralda_Clay,41286,36976
+341,19,15,341,340,342,0,,,Release Purchase Order,Release Purchase Order,Anne_Olwada,26476,64
+342,19,5,342,341,343,0,,,Approve Purchase Order for payment,Approve Purchase Order for payment,Karel_de_Groot,21736,57
+343,19,17,343,342,344,0,,,Send Invoice,Send Invoice,Carmen_Finacse,34118,0
+344,19,16,344,343,345,0,,,Release Supplier's Invoice,Release Supplier's Invoice,Pedro_Alvares,60029,176
+345,19,6,345,344,346,0,,,Authorize Supplier's Invoice payment,Authorize Supplier's Invoice payment,Pedro_Alvares,0,0
+346,19,14,346,345,347,0,,,Pay Invoice,Pay Invoice,Karalda_Nimwada,1630,759
+347,19,End,347,346,None,0,,,End,End,End,0,0
+350,20,Start,350,None,351,0,,,Start,Start,Start,0,0
+351,20,10,351,350,352,0,,,Create Purchase Requisition,Create Purchase Requisition,Nico_Ojenbeer,0,1150
+352,20,2,352,351,353,0,,,Analyze Purchase Requisition,Analyze Purchase Requisition,Francis_Odell,45651,359
+353,20,12,353,352,354,0,,,Create Request for Quotation,Create Request for Quotation,Heinz_Gutschmidt,272,77
+354,20,4,354,353,355,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Karel_de_Groot,13983,1633
+355,20,18,355,354,356,0,,,Send Request for Quotation to Supplier,Send Request for Quotation to Supplier,Francois_de_Perrier,34261,1207
+356,20,11,356,355,357,0,,,Create Quotation comparison Map,Create Quotation comparison Map,Magdalena_Predutta,21675,4705
+357,20,3,357,356,358,0,,,Analyze Quotation Comparison Map,Analyze Quotation Comparison Map,Fjodor_Kowalski,26500,1232
+358,20,7,358,357,359,0,,,Choose best option,Choose best option,Christian_Francois,0,0
+359,20,19,359,358,360,0,,,Settle Conditions With Supplier,Settle Conditions With Supplier,Magdalena_Predutta,26249,22032
+360,20,9,360,359,361,0,,,Create Purchase Order,Create Purchase Order,Francois_de_Perrier,22854,218
+361,20,8,361,360,362,0,,,Confirm Purchase Order,Confirm Purchase Order,Carmen_Finacse,146405,1221
+362,20,13,362,361,363,0,,,Deliver Goods Services,Deliver Goods Services,Sean_Manney,256453,90940
+363,20,15,363,362,364,0,,,Release Purchase Order,Release Purchase Order,Fjodor_Kowalski,25790,59
+364,20,5,364,363,365,0,,,Approve Purchase Order for payment,Approve Purchase Order for payment,Francois_de_Perrier,83986,58
+365,20,17,365,364,366,0,,,Send Invoice,Send Invoice,Karen_Clarens,56167,0
+366,20,16,366,365,367,0,,,Release Supplier's Invoice,Release Supplier's Invoice,Karalda_Nimwada,53311,184
+367,20,20,367,366,368,0,,,Settle Dispute With Supplier,Settle Dispute With Supplier,Karel_de_Groot,3065,69921
+368,20,6,368,367,369,0,,,Authorize Supplier's Invoice payment,Authorize Supplier's Invoice payment,Pedro_Alvares,0,0
+369,20,14,369,368,370,0,,,Pay Invoice,Pay Invoice,Pedro_Alvares,2387,742
+370,20,End,370,369,None,0,,,End,End,End,0,0
+373,21,Start,373,None,374,0,,,Start,Start,Start,0,0
+374,21,10,374,373,375,0,,,Create Purchase Requisition,Create Purchase Requisition,Alberto_Duport,0,3111
+375,21,2,375,374,376,0,,,Analyze Purchase Requisition,Analyze Purchase Requisition,Maris_Freeman,91575,308
+376,21,12,376,375,377,0,,,Create Request for Quotation,Create Request for Quotation,Kim_Passa,28582,648
+377,21,4,377,376,378,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Karel_de_Groot,123853,1297
+378,21,1,378,377,379,0,,,Amend Request for Quotation,Amend Request for Quotation,Kim_Passa,3907,758
+379,21,4,379,378,380,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Karel_de_Groot,128378,1519
+380,21,1,380,379,381,0,,,Amend Request for Quotation,Amend Request for Quotation,Miu_Hanwan,2461,842
+381,21,4,381,380,382,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Magdalena_Predutta,591977,1548
+382,21,18,382,381,383,0,,,Send Request for Quotation to Supplier,Send Request for Quotation to Supplier,Magdalena_Predutta,30162,1512
+383,21,11,383,382,384,0,,,Create Quotation comparison Map,Create Quotation comparison Map,Francois_de_Perrier,44121,2648
+384,21,3,384,383,385,0,,,Analyze Quotation Comparison Map,Analyze Quotation Comparison Map,Kim_Passa,26522,941
+385,21,7,385,384,386,0,,,Choose best option,Choose best option,Elvira_Lores,0,0
+386,21,19,386,385,387,0,,,Settle Conditions With Supplier,Settle Conditions With Supplier,Karel_de_Groot,7950,44311
+387,21,9,387,386,388,0,,,Create Purchase Order,Create Purchase Order,Karel_de_Groot,2996,766
+388,21,8,388,387,389,0,,,Confirm Purchase Order,Confirm Purchase Order,Carmen_Finacse,167495,1680
+389,21,13,389,388,390,0,,,Deliver Goods Services,Deliver Goods Services,Kiu_Kan,100561,13427
+390,21,15,390,389,391,0,,,Release Purchase Order,Release Purchase Order,Kim_Passa,26071,61
+391,21,5,391,390,392,0,,,Approve Purchase Order for payment,Approve Purchase Order for payment,Francois_de_Perrier,85300,58
+392,21,17,392,391,393,0,,,Send Invoice,Send Invoice,Esmeralda_Clay,96204,0
+393,21,16,393,392,394,0,,,Release Supplier's Invoice,Release Supplier's Invoice,Pedro_Alvares,50410,298
+394,21,6,394,393,395,0,,,Authorize Supplier's Invoice payment,Authorize Supplier's Invoice payment,Karalda_Nimwada,0,0
+395,21,14,395,394,396,0,,,Pay Invoice,Pay Invoice,Pedro_Alvares,1770,484
+396,21,End,396,395,None,0,,,End,End,End,0,0
+399,22,Start,399,None,400,0,,,Start,Start,Start,0,0
+400,22,10,400,399,401,0,,,Create Purchase Requisition,Create Purchase Requisition,Fjodor_Kowalski,0,2951
+401,22,2,401,400,402,0,,,Analyze Purchase Requisition,Analyze Purchase Requisition,Heinz_Gutschmidt,78166,355
+402,22,12,402,401,403,0,,,Create Request for Quotation,Create Request for Quotation,Tesca_Lobes,13753,603
+403,22,4,403,402,404,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Karel_de_Groot,75350,938
+404,22,1,404,403,405,0,,,Amend Request for Quotation,Amend Request for Quotation,Alberto_Duport,4551,751
+405,22,4,405,404,406,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Francois_de_Perrier,1426114,1237
+406,22,1,406,405,407,0,,,Amend Request for Quotation,Amend Request for Quotation,Fjodor_Kowalski,5493,825
+407,22,4,407,406,408,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Francois_de_Perrier,570719,1221
+408,22,18,408,407,409,0,,,Send Request for Quotation to Supplier,Send Request for Quotation to Supplier,Francois_de_Perrier,12154,884
+409,22,11,409,408,410,0,,,Create Quotation comparison Map,Create Quotation comparison Map,Magdalena_Predutta,908,17181
+410,22,3,410,409,411,0,,,Analyze Quotation Comparison Map,Analyze Quotation Comparison Map,Miu_Hanwan,24373,1361
+411,22,7,411,410,412,0,,,Choose best option,Choose best option,Anna_Kaufmann,0,0
+412,22,19,412,411,413,0,,,Settle Conditions With Supplier,Settle Conditions With Supplier,Magdalena_Predutta,34319,27329
+413,22,9,413,412,414,0,,,Create Purchase Order,Create Purchase Order,Francois_de_Perrier,20670,338
+414,22,8,414,413,415,0,,,Confirm Purchase Order,Confirm Purchase Order,Carmen_Finacse,20680,944
+415,22,13,415,414,416,0,,,Deliver Goods Services,Deliver Goods Services,Carmen_Finacse,57763,22954
+416,22,15,416,415,417,0,,,Release Purchase Order,Release Purchase Order,Alberto_Duport,27187,65
+417,22,20,417,416,418,0,,,Settle Dispute With Supplier,Settle Dispute With Supplier,Pedro_Alvares,2494,916
+418,22,15,418,417,419,0,,,Release Purchase Order,Release Purchase Order,Nico_Ojenbeer,26089,60
+419,22,5,419,418,420,0,,,Approve Purchase Order for payment,Approve Purchase Order for payment,Magdalena_Predutta,36829,56
+420,22,17,420,419,421,0,,,Send Invoice,Send Invoice,Kiu_Kan,182939,0
+421,22,16,421,420,422,0,,,Release Supplier's Invoice,Release Supplier's Invoice,Pedro_Alvares,51444,263
+422,22,6,422,421,423,0,,,Authorize Supplier's Invoice payment,Authorize Supplier's Invoice payment,Karalda_Nimwada,0,0
+423,22,14,423,422,424,0,,,Pay Invoice,Pay Invoice,Pedro_Alvares,3508,639
+424,22,End,424,423,None,0,,,End,End,End,0,0
+427,23,Start,427,None,428,0,,,Start,Start,Start,0,0
+428,23,10,428,427,429,0,,,Create Purchase Requisition,Create Purchase Requisition,Tesca_Lobes,0,3332
+429,23,12,429,428,430,0,,,Create Request for Quotation,Create Request for Quotation,Francis_Odell,296,118
+430,23,4,430,429,431,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Magdalena_Predutta,289771,1554
+431,23,18,431,430,432,0,,,Send Request for Quotation to Supplier,Send Request for Quotation to Supplier,Magdalena_Predutta,53299,1287
+432,23,11,432,431,433,0,,,Create Quotation comparison Map,Create Quotation comparison Map,Magdalena_Predutta,1589,14204
+433,23,3,433,432,434,0,,,Analyze Quotation Comparison Map,Analyze Quotation Comparison Map,Penn_Osterwalder,24894,473
+434,23,7,434,433,435,0,,,Choose best option,Choose best option,Fjodor_Kowalski,0,0
+435,23,19,435,434,436,0,,,Settle Conditions With Supplier,Settle Conditions With Supplier,Karel_de_Groot,66053,33225
+436,23,9,436,435,437,0,,,Create Purchase Order,Create Purchase Order,Francois_de_Perrier,15042,405
+437,23,8,437,436,438,0,,,Confirm Purchase Order,Confirm Purchase Order,Kiu_Kan,29774,1377
+438,23,13,438,437,439,0,,,Deliver Goods Services,Deliver Goods Services,Sean_Manney,41443,45149
+439,23,15,439,438,440,0,,,Release Purchase Order,Release Purchase Order,Alberto_Duport,25515,61
+440,23,5,440,439,441,0,,,Approve Purchase Order for payment,Approve Purchase Order for payment,Karel_de_Groot,129872,56
+441,23,17,441,440,442,0,,,Send Invoice,Send Invoice,Sean_Manney,111860,0
+442,23,16,442,441,443,0,,,Release Supplier's Invoice,Release Supplier's Invoice,Karalda_Nimwada,73141,393
+443,23,20,443,442,444,0,,,Settle Dispute With Supplier,Settle Dispute With Supplier,Pedro_Alvares,2349,1404
+444,23,6,444,443,445,0,,,Authorize Supplier's Invoice payment,Authorize Supplier's Invoice payment,Pedro_Alvares,0,0
+445,23,14,445,444,446,0,,,Pay Invoice,Pay Invoice,Pedro_Alvares,1688,321
+446,23,End,446,445,None,0,,,End,End,End,0,0
+449,24,Start,449,None,450,0,,,Start,Start,Start,0,0
+450,24,10,450,449,451,0,,,Create Purchase Requisition,Create Purchase Requisition,Miu_Hanwan,0,3566
+451,24,2,451,450,452,0,,,Analyze Purchase Requisition,Analyze Purchase Requisition,Maris_Freeman,57342,343
+452,24,End,452,451,None,0,,,End,End,End,0,0
+455,25,Start,455,None,456,0,,,Start,Start,Start,0,0
+456,25,10,456,455,457,0,,,Create Purchase Requisition,Create Purchase Requisition,Penn_Osterwalder,0,1791
+457,25,12,457,456,458,0,,,Create Request for Quotation,Create Request for Quotation,Maris_Freeman,234,92
+458,25,4,458,457,459,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Magdalena_Predutta,9205,972
+459,25,End,459,458,None,0,,,End,End,End,0,0
+462,26,Start,462,None,463,0,,,Start,Start,Start,0,0
+463,26,10,463,462,464,0,,,Create Purchase Requisition,Create Purchase Requisition,Penn_Osterwalder,0,1425
+464,26,2,464,463,465,0,,,Analyze Purchase Requisition,Analyze Purchase Requisition,Francis_Odell,58088,292
+465,26,12,465,464,466,0,,,Create Request for Quotation,Create Request for Quotation,Esmana_Liubiata,9618,1236
+466,26,4,466,465,467,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Karel_de_Groot,144709,607
+467,26,End,467,466,None,0,,,End,End,End,0,0
+470,27,Start,470,None,471,0,,,Start,Start,Start,0,0
+471,27,10,471,470,472,0,,,Create Purchase Requisition,Create Purchase Requisition,Anna_Kaufmann,0,3032
+472,27,2,472,471,473,0,,,Analyze Purchase Requisition,Analyze Purchase Requisition,Maris_Freeman,94348,452
+473,27,12,473,472,474,0,,,Create Request for Quotation,Create Request for Quotation,Maris_Freeman,355,126
+474,27,4,474,473,475,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Francois_de_Perrier,68586,402
+475,27,1,475,474,476,0,,,Amend Request for Quotation,Amend Request for Quotation,Nico_Ojenbeer,3198,912
+476,27,4,476,475,477,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Karel_de_Groot,2511502,587
+477,27,18,477,476,478,0,,,Send Request for Quotation to Supplier,Send Request for Quotation to Supplier,Francois_de_Perrier,96740,870
+478,27,11,478,477,479,0,,,Create Quotation comparison Map,Create Quotation comparison Map,Magdalena_Predutta,3498,16585
+479,27,3,479,478,480,0,,,Analyze Quotation Comparison Map,Analyze Quotation Comparison Map,Miu_Hanwan,28674,1086
+480,27,7,480,479,481,0,,,Choose best option,Choose best option,Esmana_Liubiata,0,0
+481,27,19,481,480,482,0,,,Settle Conditions With Supplier,Settle Conditions With Supplier,Karel_de_Groot,45563,39619
+482,27,9,482,481,483,0,,,Create Purchase Order,Create Purchase Order,Francois_de_Perrier,24717,377
+483,27,8,483,482,484,0,,,Confirm Purchase Order,Confirm Purchase Order,Carmen_Finacse,365490,391
+484,27,13,484,483,485,0,,,Deliver Goods Services,Deliver Goods Services,Esmeralda_Clay,103448,17646
+485,27,15,485,484,486,0,,,Release Purchase Order,Release Purchase Order,Nico_Ojenbeer,27190,63
+486,27,5,486,485,487,0,,,Approve Purchase Order for payment,Approve Purchase Order for payment,Karel_de_Groot,34150,58
+487,27,17,487,486,488,0,,,Send Invoice,Send Invoice,Esmeralda_Clay,47068,0
+488,27,16,488,487,489,0,,,Release Supplier's Invoice,Release Supplier's Invoice,Pedro_Alvares,54152,171
+489,27,6,489,488,490,0,,,Authorize Supplier's Invoice payment,Authorize Supplier's Invoice payment,Pedro_Alvares,0,0
+490,27,14,490,489,491,0,,,Pay Invoice,Pay Invoice,Pedro_Alvares,2978,658
+491,27,End,491,490,None,0,,,End,End,End,0,0
+494,28,Start,494,None,495,0,,,Start,Start,Start,0,0
+495,28,10,495,494,496,0,,,Create Purchase Requisition,Create Purchase Requisition,Esmana_Liubiata,0,981
+496,28,12,496,495,497,0,,,Create Request for Quotation,Create Request for Quotation,Heinz_Gutschmidt,448,77
+497,28,4,497,496,498,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Magdalena_Predutta,55027,1320
+498,28,End,498,497,None,0,,,End,End,End,0,0
+501,29,Start,501,None,502,0,,,Start,Start,Start,0,0
+502,29,10,502,501,503,0,,,Create Purchase Requisition,Create Purchase Requisition,Nico_Ojenbeer,0,387
+503,29,12,503,502,504,0,,,Create Request for Quotation,Create Request for Quotation,Heinz_Gutschmidt,341,90
+504,29,4,504,503,505,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Karel_de_Groot,39082,1431
+505,29,18,505,504,506,0,,,Send Request for Quotation to Supplier,Send Request for Quotation to Supplier,Magdalena_Predutta,51320,1649
+506,29,11,506,505,507,0,,,Create Quotation comparison Map,Create Quotation comparison Map,Karel_de_Groot,27838,6690
+507,29,3,507,506,508,0,,,Analyze Quotation Comparison Map,Analyze Quotation Comparison Map,Clement_Duchot,27991,1143
+508,29,7,508,507,509,0,,,Choose best option,Choose best option,Miu_Hanwan,3691,0
+509,29,19,509,508,510,0,,,Settle Conditions With Supplier,Settle Conditions With Supplier,Francois_de_Perrier,23206,18011
+510,29,9,510,509,511,0,,,Create Purchase Order,Create Purchase Order,Karel_de_Groot,80726,646
+511,29,8,511,510,512,0,,,Confirm Purchase Order,Confirm Purchase Order,Kiu_Kan,46107,1285
+512,29,13,512,511,513,0,,,Deliver Goods Services,Deliver Goods Services,Sean_Manney,124768,54969
+513,29,15,513,512,514,0,,,Release Purchase Order,Release Purchase Order,Tesca_Lobes,26513,60
+514,29,5,514,513,515,0,,,Approve Purchase Order for payment,Approve Purchase Order for payment,Francois_de_Perrier,119065,57
+515,29,17,515,514,516,0,,,Send Invoice,Send Invoice,Kiu_Kan,26382,0
+516,29,16,516,515,517,0,,,Release Supplier's Invoice,Release Supplier's Invoice,Karalda_Nimwada,57549,213
+517,29,6,517,516,518,0,,,Authorize Supplier's Invoice payment,Authorize Supplier's Invoice payment,Karalda_Nimwada,0,0
+518,29,14,518,517,519,0,,,Pay Invoice,Pay Invoice,Karalda_Nimwada,567,432
+519,29,End,519,518,None,0,,,End,End,End,0,0
+522,30,Start,522,None,523,0,,,Start,Start,Start,0,0
+523,30,10,523,522,524,0,,,Create Purchase Requisition,Create Purchase Requisition,Esmana_Liubiata,0,1261
+524,30,2,524,523,525,0,,,Analyze Purchase Requisition,Analyze Purchase Requisition,Maris_Freeman,69545,529
+525,30,12,525,524,526,0,,,Create Request for Quotation,Create Request for Quotation,Christian_Francois,7711,725
+526,30,4,526,525,527,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Karel_de_Groot,987422,1128
+527,30,1,527,526,528,0,,,Amend Request for Quotation,Amend Request for Quotation,Immanuel_Karagianni,3678,702
+528,30,4,528,527,529,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Francois_de_Perrier,308897,1789
+529,30,1,529,528,530,0,,,Amend Request for Quotation,Amend Request for Quotation,Immanuel_Karagianni,3816,504
+530,30,4,530,529,531,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Francois_de_Perrier,19883,1290
+531,30,1,531,530,532,0,,,Amend Request for Quotation,Amend Request for Quotation,Nico_Ojenbeer,2961,787
+532,30,4,532,531,533,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Karel_de_Groot,545627,1560
+533,30,1,533,532,534,0,,,Amend Request for Quotation,Amend Request for Quotation,Maris_Freeman,71487,801
+534,30,4,534,533,535,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Magdalena_Predutta,7787,382
+535,30,18,535,534,536,0,,,Send Request for Quotation to Supplier,Send Request for Quotation to Supplier,Magdalena_Predutta,80068,908
+536,30,11,536,535,537,0,,,Create Quotation comparison Map,Create Quotation comparison Map,Magdalena_Predutta,26752,16478
+537,30,3,537,536,538,0,,,Analyze Quotation Comparison Map,Analyze Quotation Comparison Map,Miu_Hanwan,25198,748
+538,30,7,538,537,539,0,,,Choose best option,Choose best option,Elvira_Lores,0,0
+539,30,19,539,538,540,0,,,Settle Conditions With Supplier,Settle Conditions With Supplier,Karel_de_Groot,13847,45633
+540,30,9,540,539,541,0,,,Create Purchase Order,Create Purchase Order,Francois_de_Perrier,23055,506
+541,30,8,541,540,542,0,,,Confirm Purchase Order,Confirm Purchase Order,Sean_Manney,511335,629
+542,30,13,542,541,543,0,,,Deliver Goods Services,Deliver Goods Services,Esmeralda_Clay,202635,43729
+543,30,15,543,542,544,0,,,Release Purchase Order,Release Purchase Order,Clement_Duchot,26180,61
+544,30,5,544,543,545,0,,,Approve Purchase Order for payment,Approve Purchase Order for payment,Francois_de_Perrier,36849,59
+545,30,17,545,544,546,0,,,Send Invoice,Send Invoice,Kiu_Kan,21350,0
+546,30,16,546,545,547,0,,,Release Supplier's Invoice,Release Supplier's Invoice,Karalda_Nimwada,52469,330
+547,30,6,547,546,548,0,,,Authorize Supplier's Invoice payment,Authorize Supplier's Invoice payment,Karalda_Nimwada,0,0
+548,30,14,548,547,549,0,,,Pay Invoice,Pay Invoice,Karalda_Nimwada,1446,659
+549,30,End,549,548,None,0,,,End,End,End,0,0
+552,31,Start,552,None,553,0,,,Start,Start,Start,0,0
+553,31,10,553,552,554,0,,,Create Purchase Requisition,Create Purchase Requisition,Anna_Kaufmann,0,2367
+554,31,12,554,553,555,0,,,Create Request for Quotation,Create Request for Quotation,Esmana_Liubiata,650,254
+555,31,4,555,554,556,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Karel_de_Groot,44781,884
+556,31,18,556,555,557,0,,,Send Request for Quotation to Supplier,Send Request for Quotation to Supplier,Francois_de_Perrier,24772,841
+557,31,11,557,556,558,0,,,Create Quotation comparison Map,Create Quotation comparison Map,Magdalena_Predutta,49835,8876
+558,31,3,558,557,559,0,,,Analyze Quotation Comparison Map,Analyze Quotation Comparison Map,Miu_Hanwan,27501,969
+559,31,7,559,558,560,0,,,Choose best option,Choose best option,Clement_Duchot,0,0
+560,31,19,560,559,561,0,,,Settle Conditions With Supplier,Settle Conditions With Supplier,Francois_de_Perrier,78277,11368
+561,31,9,561,560,562,0,,,Create Purchase Order,Create Purchase Order,Karel_de_Groot,18779,785
+562,31,8,562,561,563,0,,,Confirm Purchase Order,Confirm Purchase Order,Esmeralda_Clay,20467,611
+563,31,13,563,562,564,0,,,Deliver Goods Services,Deliver Goods Services,Kiu_Kan,348631,72436
+564,31,15,564,563,565,0,,,Release Purchase Order,Release Purchase Order,Immanuel_Karagianni,28097,65
+565,31,5,565,564,566,0,,,Approve Purchase Order for payment,Approve Purchase Order for payment,Magdalena_Predutta,54460,59
+566,31,17,566,565,567,0,,,Send Invoice,Send Invoice,Karen_Clarens,470184,0
+567,31,16,567,566,568,0,,,Release Supplier's Invoice,Release Supplier's Invoice,Karalda_Nimwada,52593,385
+568,31,6,568,567,569,0,,,Authorize Supplier's Invoice payment,Authorize Supplier's Invoice payment,Pedro_Alvares,0,0
+569,31,14,569,568,570,0,,,Pay Invoice,Pay Invoice,Karalda_Nimwada,1649,519
+570,31,End,570,569,None,0,,,End,End,End,0,0
+573,32,Start,573,None,574,0,,,Start,Start,Start,0,0
+574,32,10,574,573,575,0,,,Create Purchase Requisition,Create Purchase Requisition,Esmana_Liubiata,0,1963
+575,32,12,575,574,576,0,,,Create Request for Quotation,Create Request for Quotation,Elvira_Lores,7318,679
+576,32,4,576,575,577,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Francois_de_Perrier,4328,355
+577,32,1,577,576,578,0,,,Amend Request for Quotation,Amend Request for Quotation,Kim_Passa,3430,543
+578,32,4,578,577,579,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Magdalena_Predutta,60729,987
+579,32,18,579,578,580,0,,,Send Request for Quotation to Supplier,Send Request for Quotation to Supplier,Magdalena_Predutta,41451,1552
+580,32,11,580,579,581,0,,,Create Quotation comparison Map,Create Quotation comparison Map,Magdalena_Predutta,51360,4985
+581,32,3,581,580,582,0,,,Analyze Quotation Comparison Map,Analyze Quotation Comparison Map,Anna_Kaufmann,25202,1577
+582,32,7,582,581,583,0,,,Choose best option,Choose best option,Penn_Osterwalder,0,0
+583,32,19,583,582,584,0,,,Settle Conditions With Supplier,Settle Conditions With Supplier,Karel_de_Groot,36348,44210
+584,32,9,584,583,585,0,,,Create Purchase Order,Create Purchase Order,Magdalena_Predutta,26161,631
+585,32,8,585,584,586,0,,,Confirm Purchase Order,Confirm Purchase Order,Karen_Clarens,56756,1547
+586,32,13,586,585,587,0,,,Deliver Goods Services,Deliver Goods Services,Esmeralda_Clay,91218,15799
+587,32,15,587,586,588,0,,,Release Purchase Order,Release Purchase Order,Clement_Duchot,26332,65
+588,32,5,588,587,589,0,,,Approve Purchase Order for payment,Approve Purchase Order for payment,Magdalena_Predutta,42714,60
+589,32,17,589,588,590,0,,,Send Invoice,Send Invoice,Karen_Clarens,82660,0
+590,32,16,590,589,591,0,,,Release Supplier's Invoice,Release Supplier's Invoice,Pedro_Alvares,57902,221
+591,32,6,591,590,592,0,,,Authorize Supplier's Invoice payment,Authorize Supplier's Invoice payment,Pedro_Alvares,0,0
+592,32,14,592,591,593,0,,,Pay Invoice,Pay Invoice,Karalda_Nimwada,2750,367
+593,32,End,593,592,None,0,,,End,End,End,0,0
+596,33,Start,596,None,597,0,,,Start,Start,Start,0,0
+597,33,10,597,596,598,0,,,Create Purchase Requisition,Create Purchase Requisition,Elvira_Lores,0,2518
+598,33,2,598,597,599,0,,,Analyze Purchase Requisition,Analyze Purchase Requisition,Francis_Odell,46912,419
+599,33,End,599,598,None,0,,,End,End,End,0,0
+602,34,Start,602,None,603,0,,,Start,Start,Start,0,0
+603,34,10,603,602,604,0,,,Create Purchase Requisition,Create Purchase Requisition,Anne_Olwada,0,1291
+604,34,2,604,603,605,0,,,Analyze Purchase Requisition,Analyze Purchase Requisition,Francis_Odell,70531,500
+605,34,12,605,604,606,0,,,Create Request for Quotation,Create Request for Quotation,Christian_Francois,7870,486
+606,34,4,606,605,607,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Francois_de_Perrier,141591,1392
+607,34,18,607,606,608,0,,,Send Request for Quotation to Supplier,Send Request for Quotation to Supplier,Francois_de_Perrier,19301,996
+608,34,11,608,607,609,0,,,Create Quotation comparison Map,Create Quotation comparison Map,Karel_de_Groot,38626,4893
+609,34,3,609,608,610,0,,,Analyze Quotation Comparison Map,Analyze Quotation Comparison Map,Tesca_Lobes,23072,713
+610,34,7,610,609,611,0,,,Choose best option,Choose best option,Penn_Osterwalder,0,0
+611,34,19,611,610,612,0,,,Settle Conditions With Supplier,Settle Conditions With Supplier,Francois_de_Perrier,20635,31587
+612,34,9,612,611,613,0,,,Create Purchase Order,Create Purchase Order,Magdalena_Predutta,18227,747
+613,34,8,613,612,614,0,,,Confirm Purchase Order,Confirm Purchase Order,Kiu_Kan,57462,887
+614,34,13,614,613,615,0,,,Deliver Goods Services,Deliver Goods Services,Kiu_Kan,93767,165703
+615,34,15,615,614,616,0,,,Release Purchase Order,Release Purchase Order,Fjodor_Kowalski,26761,63
+616,34,5,616,615,617,0,,,Approve Purchase Order for payment,Approve Purchase Order for payment,Magdalena_Predutta,22127,59
+617,34,17,617,616,618,0,,,Send Invoice,Send Invoice,Esmeralda_Clay,507035,0
+618,34,16,618,617,619,0,,,Release Supplier's Invoice,Release Supplier's Invoice,Karalda_Nimwada,56173,223
+619,34,6,619,618,620,0,,,Authorize Supplier's Invoice payment,Authorize Supplier's Invoice payment,Karalda_Nimwada,0,0
+620,34,14,620,619,621,0,,,Pay Invoice,Pay Invoice,Karalda_Nimwada,976,570
+621,34,End,621,620,None,0,,,End,End,End,0,0
+624,35,Start,624,None,625,0,,,Start,Start,Start,0,0
+625,35,10,625,624,626,0,,,Create Purchase Requisition,Create Purchase Requisition,Immanuel_Karagianni,0,2678
+626,35,2,626,625,627,0,,,Analyze Purchase Requisition,Analyze Purchase Requisition,Francis_Odell,65620,405
+627,35,End,627,626,None,0,,,End,End,End,0,0
+630,36,Start,630,None,631,0,,,Start,Start,Start,0,0
+631,36,10,631,630,632,0,,,Create Purchase Requisition,Create Purchase Requisition,Christian_Francois,0,1684
+632,36,2,632,631,633,0,,,Analyze Purchase Requisition,Analyze Purchase Requisition,Francis_Odell,54493,288
+633,36,12,633,632,634,0,,,Create Request for Quotation,Create Request for Quotation,Maris_Freeman,411,118
+634,36,4,634,633,635,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Francois_de_Perrier,35605,1296
+635,36,1,635,634,636,0,,,Amend Request for Quotation,Amend Request for Quotation,Christian_Francois,3309,425
+636,36,4,636,635,637,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Magdalena_Predutta,23596,1703
+637,36,1,637,636,638,0,,,Amend Request for Quotation,Amend Request for Quotation,Anne_Olwada,4600,759
+638,36,4,638,637,639,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Francois_de_Perrier,129716,1224
+639,36,End,639,638,None,0,,,End,End,End,0,0
+642,37,Start,642,None,643,0,,,Start,Start,Start,0,0
+643,37,10,643,642,644,0,,,Create Purchase Requisition,Create Purchase Requisition,Christian_Francois,0,2693
+644,37,12,644,643,645,0,,,Create Request for Quotation,Create Request for Quotation,Alberto_Duport,5502,627
+645,37,4,645,644,646,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Francois_de_Perrier,353533,1405
+646,37,1,646,645,647,0,,,Amend Request for Quotation,Amend Request for Quotation,Anne_Olwada,3708,409
+647,37,4,647,646,648,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Karel_de_Groot,221096,1248
+648,37,18,648,647,649,0,,,Send Request for Quotation to Supplier,Send Request for Quotation to Supplier,Magdalena_Predutta,19474,1729
+649,37,11,649,648,650,0,,,Create Quotation comparison Map,Create Quotation comparison Map,Karel_de_Groot,81895,16709
+650,37,3,650,649,651,0,,,Analyze Quotation Comparison Map,Analyze Quotation Comparison Map,Elvira_Lores,27370,1530
+651,37,7,651,650,652,0,,,Choose best option,Choose best option,Elvira_Lores,0,0
+652,37,19,652,651,653,0,,,Settle Conditions With Supplier,Settle Conditions With Supplier,Francois_de_Perrier,45983,16721
+653,37,9,653,652,654,0,,,Create Purchase Order,Create Purchase Order,Magdalena_Predutta,25370,777
+654,37,8,654,653,655,0,,,Confirm Purchase Order,Confirm Purchase Order,Carmen_Finacse,118757,1564
+655,37,13,655,654,656,0,,,Deliver Goods Services,Deliver Goods Services,Karen_Clarens,233066,97739
+656,37,15,656,655,657,0,,,Release Purchase Order,Release Purchase Order,Anne_Olwada,28332,59
+657,37,5,657,656,658,0,,,Approve Purchase Order for payment,Approve Purchase Order for payment,Francois_de_Perrier,39190,59
+658,37,17,658,657,659,0,,,Send Invoice,Send Invoice,Karen_Clarens,46892,0
+659,37,16,659,658,660,0,,,Release Supplier's Invoice,Release Supplier's Invoice,Pedro_Alvares,67166,259
+660,37,6,660,659,661,0,,,Authorize Supplier's Invoice payment,Authorize Supplier's Invoice payment,Pedro_Alvares,0,0
+661,37,14,661,660,662,0,,,Pay Invoice,Pay Invoice,Pedro_Alvares,607,531
+662,37,End,662,661,None,0,,,End,End,End,0,0
+665,38,Start,665,None,666,0,,,Start,Start,Start,0,0
+666,38,10,666,665,667,0,,,Create Purchase Requisition,Create Purchase Requisition,Anna_Kaufmann,0,2230
+667,38,2,667,666,668,0,,,Analyze Purchase Requisition,Analyze Purchase Requisition,Maris_Freeman,83509,267
+668,38,12,668,667,669,0,,,Create Request for Quotation,Create Request for Quotation,Francis_Odell,312,138
+669,38,4,669,668,670,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Karel_de_Groot,19414,577
+670,38,18,670,669,671,0,,,Send Request for Quotation to Supplier,Send Request for Quotation to Supplier,Magdalena_Predutta,16600,1262
+671,38,11,671,670,672,0,,,Create Quotation comparison Map,Create Quotation comparison Map,Magdalena_Predutta,1246,16595
+672,38,3,672,671,673,0,,,Analyze Quotation Comparison Map,Analyze Quotation Comparison Map,Anne_Olwada,28563,1053
+673,38,7,673,672,674,0,,,Choose best option,Choose best option,Anna_Kaufmann,0,0
+674,38,19,674,673,675,0,,,Settle Conditions With Supplier,Settle Conditions With Supplier,Magdalena_Predutta,35951,21871
+675,38,9,675,674,676,0,,,Create Purchase Order,Create Purchase Order,Karel_de_Groot,50174,771
+676,38,8,676,675,677,0,,,Confirm Purchase Order,Confirm Purchase Order,Sean_Manney,92671,1316
+677,38,13,677,676,678,0,,,Deliver Goods Services,Deliver Goods Services,Esmeralda_Clay,173310,155498
+678,38,15,678,677,679,0,,,Release Purchase Order,Release Purchase Order,Penn_Osterwalder,25536,61
+679,38,5,679,678,680,0,,,Approve Purchase Order for payment,Approve Purchase Order for payment,Magdalena_Predutta,28025,59
+680,38,17,680,679,681,0,,,Send Invoice,Send Invoice,Esmeralda_Clay,381830,0
+681,38,16,681,680,682,0,,,Release Supplier's Invoice,Release Supplier's Invoice,Karalda_Nimwada,55252,398
+682,38,20,682,681,683,0,,,Settle Dispute With Supplier,Settle Dispute With Supplier,Karel_de_Groot,11151,10196
+683,38,6,683,682,684,0,,,Authorize Supplier's Invoice payment,Authorize Supplier's Invoice payment,Pedro_Alvares,0,0
+684,38,14,684,683,685,0,,,Pay Invoice,Pay Invoice,Pedro_Alvares,1341,645
+685,38,End,685,684,None,0,,,End,End,End,0,0
+688,39,Start,688,None,689,0,,,Start,Start,Start,0,0
+689,39,10,689,688,690,0,,,Create Purchase Requisition,Create Purchase Requisition,Miu_Hanwan,0,1640
+690,39,2,690,689,691,0,,,Analyze Purchase Requisition,Analyze Purchase Requisition,Maris_Freeman,53177,282
+691,39,12,691,690,692,0,,,Create Request for Quotation,Create Request for Quotation,Heinz_Gutschmidt,352,50
+692,39,4,692,691,693,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Magdalena_Predutta,6630,1404
+693,39,1,693,692,694,0,,,Amend Request for Quotation,Amend Request for Quotation,Miu_Hanwan,3993,602
+694,39,4,694,693,695,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Francois_de_Perrier,258427,937
+695,39,1,695,694,696,0,,,Amend Request for Quotation,Amend Request for Quotation,Nico_Ojenbeer,3725,451
+696,39,4,696,695,697,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Magdalena_Predutta,619341,1266
+697,39,1,697,696,698,0,,,Amend Request for Quotation,Amend Request for Quotation,Anne_Olwada,3370,608
+698,39,4,698,697,699,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Magdalena_Predutta,451632,1535
+699,39,18,699,698,700,0,,,Send Request for Quotation to Supplier,Send Request for Quotation to Supplier,Karel_de_Groot,31758,1487
+700,39,11,700,699,701,0,,,Create Quotation comparison Map,Create Quotation comparison Map,Francois_de_Perrier,62831,14503
+701,39,3,701,700,702,0,,,Analyze Quotation Comparison Map,Analyze Quotation Comparison Map,Tesca_Lobes,25897,1981
+702,39,7,702,701,703,0,,,Choose best option,Choose best option,Clement_Duchot,0,0
+703,39,19,703,702,704,0,,,Settle Conditions With Supplier,Settle Conditions With Supplier,Francois_de_Perrier,19842,31201
+704,39,9,704,703,705,0,,,Create Purchase Order,Create Purchase Order,Karel_de_Groot,7404,553
+705,39,8,705,704,706,0,,,Confirm Purchase Order,Confirm Purchase Order,Karen_Clarens,179361,693
+706,39,13,706,705,707,0,,,Deliver Goods Services,Deliver Goods Services,Carmen_Finacse,80465,51632
+707,39,15,707,706,708,0,,,Release Purchase Order,Release Purchase Order,Immanuel_Karagianni,26673,63
+708,39,5,708,707,709,0,,,Approve Purchase Order for payment,Approve Purchase Order for payment,Magdalena_Predutta,42041,55
+709,39,17,709,708,710,0,,,Send Invoice,Send Invoice,Kiu_Kan,205973,0
+710,39,16,710,709,711,0,,,Release Supplier's Invoice,Release Supplier's Invoice,Karalda_Nimwada,52709,294
+711,39,20,711,710,712,0,,,Settle Dispute With Supplier,Settle Dispute With Supplier,Karalda_Nimwada,2081,2530
+712,39,6,712,711,713,0,,,Authorize Supplier's Invoice payment,Authorize Supplier's Invoice payment,Karalda_Nimwada,4631,0
+713,39,14,713,712,714,0,,,Pay Invoice,Pay Invoice,Karalda_Nimwada,1867,324
+714,39,End,714,713,None,0,,,End,End,End,0,0
+717,40,Start,717,None,718,0,,,Start,Start,Start,0,0
+718,40,10,718,717,719,0,,,Create Purchase Requisition,Create Purchase Requisition,Fjodor_Kowalski,0,459
+719,40,12,719,718,720,0,,,Create Request for Quotation,Create Request for Quotation,Maris_Freeman,263,85
+720,40,4,720,719,721,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Magdalena_Predutta,75317,660
+721,40,18,721,720,722,0,,,Send Request for Quotation to Supplier,Send Request for Quotation to Supplier,Francois_de_Perrier,23834,1056
+722,40,11,722,721,723,0,,,Create Quotation comparison Map,Create Quotation comparison Map,Francois_de_Perrier,957,5066
+723,40,3,723,722,724,0,,,Analyze Quotation Comparison Map,Analyze Quotation Comparison Map,Esmana_Liubiata,25745,1378
+724,40,7,724,723,725,0,,,Choose best option,Choose best option,Tesca_Lobes,0,0
+725,40,19,725,724,726,0,,,Settle Conditions With Supplier,Settle Conditions With Supplier,Francois_de_Perrier,44449,31591
+726,40,9,726,725,727,0,,,Create Purchase Order,Create Purchase Order,Karel_de_Groot,29027,506
+727,40,8,727,726,728,0,,,Confirm Purchase Order,Confirm Purchase Order,Karen_Clarens,24135,1321
+728,40,13,728,727,729,0,,,Deliver Goods Services,Deliver Goods Services,Esmeralda_Clay,201027,76911
+729,40,15,729,728,730,0,,,Release Purchase Order,Release Purchase Order,Fjodor_Kowalski,27256,60
+730,40,5,730,729,731,0,,,Approve Purchase Order for payment,Approve Purchase Order for payment,Karel_de_Groot,50794,54
+731,40,17,731,730,732,0,,,Send Invoice,Send Invoice,Karen_Clarens,274363,0
+732,40,16,732,731,733,0,,,Release Supplier's Invoice,Release Supplier's Invoice,Karalda_Nimwada,50432,351
+733,40,6,733,732,734,0,,,Authorize Supplier's Invoice payment,Authorize Supplier's Invoice payment,Pedro_Alvares,0,0
+734,40,14,734,733,735,0,,,Pay Invoice,Pay Invoice,Karalda_Nimwada,1957,421
+735,40,End,735,734,None,0,,,End,End,End,0,0
+738,41,Start,738,None,739,0,,,Start,Start,Start,0,0
+739,41,10,739,738,740,0,,,Create Purchase Requisition,Create Purchase Requisition,Clement_Duchot,0,815
+740,41,2,740,739,741,0,,,Analyze Purchase Requisition,Analyze Purchase Requisition,Francis_Odell,50710,343
+741,41,12,741,740,742,0,,,Create Request for Quotation,Create Request for Quotation,Maris_Freeman,272,144
+742,41,4,742,741,743,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Karel_de_Groot,419261,718
+743,41,End,743,742,None,0,,,End,End,End,0,0
+746,42,Start,746,None,747,0,,,Start,Start,Start,0,0
+747,42,10,747,746,748,0,,,Create Purchase Requisition,Create Purchase Requisition,Nico_Ojenbeer,0,2564
+748,42,2,748,747,749,0,,,Analyze Purchase Requisition,Analyze Purchase Requisition,Francis_Odell,65619,341
+749,42,12,749,748,750,0,,,Create Request for Quotation,Create Request for Quotation,Francis_Odell,394,154
+750,42,4,750,749,751,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Magdalena_Predutta,346800,1088
+751,42,18,751,750,752,0,,,Send Request for Quotation to Supplier,Send Request for Quotation to Supplier,Magdalena_Predutta,50560,1011
+752,42,11,752,751,753,0,,,Create Quotation comparison Map,Create Quotation comparison Map,Francois_de_Perrier,66007,11552
+753,42,3,753,752,754,0,,,Analyze Quotation Comparison Map,Analyze Quotation Comparison Map,Clement_Duchot,28299,592
+754,42,7,754,753,755,0,,,Choose best option,Choose best option,Anne_Olwada,0,0
+755,42,19,755,754,756,0,,,Settle Conditions With Supplier,Settle Conditions With Supplier,Karel_de_Groot,10558,36138
+756,42,9,756,755,757,0,,,Create Purchase Order,Create Purchase Order,Magdalena_Predutta,29098,602
+757,42,8,757,756,758,0,,,Confirm Purchase Order,Confirm Purchase Order,Esmeralda_Clay,173645,1951
+758,42,13,758,757,759,0,,,Deliver Goods Services,Deliver Goods Services,Esmeralda_Clay,549363,25160
+759,42,15,759,758,760,0,,,Release Purchase Order,Release Purchase Order,Anna_Kaufmann,27893,60
+760,42,5,760,759,761,0,,,Approve Purchase Order for payment,Approve Purchase Order for payment,Francois_de_Perrier,27135,54
+761,42,17,761,760,762,0,,,Send Invoice,Send Invoice,Kiu_Kan,62136,0
+762,42,16,762,761,763,0,,,Release Supplier's Invoice,Release Supplier's Invoice,Karalda_Nimwada,56693,227
+763,42,6,763,762,764,0,,,Authorize Supplier's Invoice payment,Authorize Supplier's Invoice payment,Karalda_Nimwada,0,0
+764,42,14,764,763,765,0,,,Pay Invoice,Pay Invoice,Pedro_Alvares,1521,465
+765,42,End,765,764,None,0,,,End,End,End,0,0
+768,43,Start,768,None,769,0,,,Start,Start,Start,0,0
+769,43,10,769,768,770,0,,,Create Purchase Requisition,Create Purchase Requisition,Elvira_Lores,0,2117
+770,43,2,770,769,771,0,,,Analyze Purchase Requisition,Analyze Purchase Requisition,Maris_Freeman,74540,552
+771,43,12,771,770,772,0,,,Create Request for Quotation,Create Request for Quotation,Christian_Francois,9178,439
+772,43,4,772,771,773,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Karel_de_Groot,2363630,759
+773,43,End,773,772,None,0,,,End,End,End,0,0
+776,44,Start,776,None,777,0,,,Start,Start,Start,0,0
+777,44,10,777,776,778,0,,,Create Purchase Requisition,Create Purchase Requisition,Anne_Olwada,0,2911
+778,44,12,778,777,779,0,,,Create Request for Quotation,Create Request for Quotation,Esmana_Liubiata,20378,433
+779,44,4,779,778,780,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Francois_de_Perrier,135700,1564
+780,44,End,780,779,None,0,,,End,End,End,0,0
+783,45,Start,783,None,784,0,,,Start,Start,Start,0,0
+784,45,10,784,783,785,0,,,Create Purchase Requisition,Create Purchase Requisition,Christian_Francois,0,1824
+785,45,12,785,784,786,0,,,Create Request for Quotation,Create Request for Quotation,Maris_Freeman,490,124
+786,45,4,786,785,787,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Francois_de_Perrier,25238,1813
+787,45,1,787,786,788,0,,,Amend Request for Quotation,Amend Request for Quotation,Fjodor_Kowalski,3676,768
+788,45,4,788,787,789,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Francois_de_Perrier,14215,422
+789,45,18,789,788,790,0,,,Send Request for Quotation to Supplier,Send Request for Quotation to Supplier,Francois_de_Perrier,18268,1235
+790,45,11,790,789,791,0,,,Create Quotation comparison Map,Create Quotation comparison Map,Francois_de_Perrier,4648,1898
+791,45,3,791,790,792,0,,,Analyze Quotation Comparison Map,Analyze Quotation Comparison Map,Anna_Kaufmann,24852,1501
+792,45,7,792,791,793,0,,,Choose best option,Choose best option,Immanuel_Karagianni,0,0
+793,45,19,793,792,794,0,,,Settle Conditions With Supplier,Settle Conditions With Supplier,Karel_de_Groot,59250,16605
+794,45,9,794,793,795,0,,,Create Purchase Order,Create Purchase Order,Karel_de_Groot,63030,778
+795,45,8,795,794,796,0,,,Confirm Purchase Order,Confirm Purchase Order,Karen_Clarens,99545,1982
+796,45,13,796,795,797,0,,,Deliver Goods Services,Deliver Goods Services,Sean_Manney,174880,36319
+797,45,15,797,796,798,0,,,Release Purchase Order,Release Purchase Order,Elvira_Lores,27465,66
+798,45,5,798,797,799,0,,,Approve Purchase Order for payment,Approve Purchase Order for payment,Karel_de_Groot,71685,55
+799,45,17,799,798,800,0,,,Send Invoice,Send Invoice,Sean_Manney,38818,0
+800,45,16,800,799,801,0,,,Release Supplier's Invoice,Release Supplier's Invoice,Karalda_Nimwada,53554,360
+801,45,6,801,800,802,0,,,Authorize Supplier's Invoice payment,Authorize Supplier's Invoice payment,Karalda_Nimwada,1361,0
+802,45,14,802,801,803,0,,,Pay Invoice,Pay Invoice,Karalda_Nimwada,1720,687
+803,45,End,803,802,None,0,,,End,End,End,0,0
+806,46,Start,806,None,807,0,,,Start,Start,Start,0,0
+807,46,10,807,806,808,0,,,Create Purchase Requisition,Create Purchase Requisition,Fjodor_Kowalski,0,1557
+808,46,2,808,807,809,0,,,Analyze Purchase Requisition,Analyze Purchase Requisition,Heinz_Gutschmidt,78243,506
+809,46,End,809,808,None,0,,,End,End,End,0,0
+812,47,Start,812,None,813,0,,,Start,Start,Start,0,0
+813,47,10,813,812,814,0,,,Create Purchase Requisition,Create Purchase Requisition,Elvira_Lores,0,349
+814,47,12,814,813,815,0,,,Create Request for Quotation,Create Request for Quotation,Penn_Osterwalder,2715,297
+815,47,4,815,814,816,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Francois_de_Perrier,642844,1109
+816,47,18,816,815,817,0,,,Send Request for Quotation to Supplier,Send Request for Quotation to Supplier,Francois_de_Perrier,48016,1434
+817,47,11,817,816,818,0,,,Create Quotation comparison Map,Create Quotation comparison Map,Magdalena_Predutta,12360,14967
+818,47,3,818,817,819,0,,,Analyze Quotation Comparison Map,Analyze Quotation Comparison Map,Immanuel_Karagianni,25705,878
+819,47,7,819,818,820,0,,,Choose best option,Choose best option,Alberto_Duport,0,0
+820,47,19,820,819,821,0,,,Settle Conditions With Supplier,Settle Conditions With Supplier,Magdalena_Predutta,17614,36780
+821,47,9,821,820,822,0,,,Create Purchase Order,Create Purchase Order,Francois_de_Perrier,34922,471
+822,47,8,822,821,823,0,,,Confirm Purchase Order,Confirm Purchase Order,Esmeralda_Clay,202526,713
+823,47,13,823,822,824,0,,,Deliver Goods Services,Deliver Goods Services,Carmen_Finacse,41963,138407
+824,47,15,824,823,825,0,,,Release Purchase Order,Release Purchase Order,Alberto_Duport,24434,66
+825,47,5,825,824,826,0,,,Approve Purchase Order for payment,Approve Purchase Order for payment,Magdalena_Predutta,41387,58
+826,47,17,826,825,827,0,,,Send Invoice,Send Invoice,Karen_Clarens,40695,0
+827,47,16,827,826,828,0,,,Release Supplier's Invoice,Release Supplier's Invoice,Magdalena_Predutta,38107,222
+828,47,6,828,827,829,0,,,Authorize Supplier's Invoice payment,Authorize Supplier's Invoice payment,Pedro_Alvares,0,0
+829,47,14,829,828,830,0,,,Pay Invoice,Pay Invoice,Karalda_Nimwada,2416,859
+830,47,End,830,829,None,0,,,End,End,End,0,0
+833,48,Start,833,None,834,0,,,Start,Start,Start,0,0
+834,48,10,834,833,835,0,,,Create Purchase Requisition,Create Purchase Requisition,Anne_Olwada,0,3034
+835,48,2,835,834,836,0,,,Analyze Purchase Requisition,Analyze Purchase Requisition,Heinz_Gutschmidt,58241,349
+836,48,End,836,835,None,0,,,End,End,End,0,0
+839,49,Start,839,None,840,0,,,Start,Start,Start,0,0
+840,49,10,840,839,841,0,,,Create Purchase Requisition,Create Purchase Requisition,Miu_Hanwan,0,2996
+841,49,12,841,840,842,0,,,Create Request for Quotation,Create Request for Quotation,Christian_Francois,14609,863
+842,49,4,842,841,843,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Karel_de_Groot,224897,2011
+843,49,18,843,842,844,0,,,Send Request for Quotation to Supplier,Send Request for Quotation to Supplier,Karel_de_Groot,39905,1023
+844,49,11,844,843,845,0,,,Create Quotation comparison Map,Create Quotation comparison Map,Magdalena_Predutta,2009,20455
+845,49,3,845,844,846,0,,,Analyze Quotation Comparison Map,Analyze Quotation Comparison Map,Alberto_Duport,25469,1248
+846,49,7,846,845,847,0,,,Choose best option,Choose best option,Elvira_Lores,0,0
+847,49,19,847,846,848,0,,,Settle Conditions With Supplier,Settle Conditions With Supplier,Magdalena_Predutta,7745,20427
+848,49,9,848,847,849,0,,,Create Purchase Order,Create Purchase Order,Karel_de_Groot,11078,475
+849,49,8,849,848,850,0,,,Confirm Purchase Order,Confirm Purchase Order,Sean_Manney,159542,694
+850,49,13,850,849,851,0,,,Deliver Goods Services,Deliver Goods Services,Karen_Clarens,35528,23065
+851,49,15,851,850,852,0,,,Release Purchase Order,Release Purchase Order,Esmana_Liubiata,24492,62
+852,49,5,852,851,853,0,,,Approve Purchase Order for payment,Approve Purchase Order for payment,Karel_de_Groot,27205,57
+853,49,17,853,852,854,0,,,Send Invoice,Send Invoice,Sean_Manney,322616,0
+854,49,16,854,853,855,0,,,Release Supplier's Invoice,Release Supplier's Invoice,Pedro_Alvares,52502,187
+855,49,6,855,854,856,0,,,Authorize Supplier's Invoice payment,Authorize Supplier's Invoice payment,Pedro_Alvares,0,0
+856,49,14,856,855,857,0,,,Pay Invoice,Pay Invoice,Pedro_Alvares,1189,447
+857,49,End,857,856,None,0,,,End,End,End,0,0
+860,50,Start,860,None,861,0,,,Start,Start,Start,0,0
+861,50,10,861,860,862,0,,,Create Purchase Requisition,Create Purchase Requisition,Anna_Kaufmann,0,3062
+862,50,2,862,861,863,0,,,Analyze Purchase Requisition,Analyze Purchase Requisition,Maris_Freeman,58650,317
+863,50,12,863,862,864,0,,,Create Request for Quotation,Create Request for Quotation,Francis_Odell,388,131
+864,50,4,864,863,865,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Magdalena_Predutta,71802,1244
+865,50,18,865,864,866,0,,,Send Request for Quotation to Supplier,Send Request for Quotation to Supplier,Karel_de_Groot,43714,1568
+866,50,11,866,865,867,0,,,Create Quotation comparison Map,Create Quotation comparison Map,Karel_de_Groot,34579,12353
+867,50,3,867,866,868,0,,,Analyze Quotation Comparison Map,Analyze Quotation Comparison Map,Christian_Francois,25593,969
+868,50,7,868,867,869,0,,,Choose best option,Choose best option,Miu_Hanwan,0,0
+869,50,19,869,868,870,0,,,Settle Conditions With Supplier,Settle Conditions With Supplier,Magdalena_Predutta,60564,24283
+870,50,9,870,869,871,0,,,Create Purchase Order,Create Purchase Order,Karel_de_Groot,13062,585
+871,50,8,871,870,872,0,,,Confirm Purchase Order,Confirm Purchase Order,Sean_Manney,40256,1479
+872,50,13,872,871,873,0,,,Deliver Goods Services,Deliver Goods Services,Karen_Clarens,52067,85318
+873,50,15,873,872,874,0,,,Release Purchase Order,Release Purchase Order,Anna_Kaufmann,26880,61
+874,50,5,874,873,875,0,,,Approve Purchase Order for payment,Approve Purchase Order for payment,Magdalena_Predutta,73010,60
+875,50,17,875,874,876,0,,,Send Invoice,Send Invoice,Esmeralda_Clay,29797,0
+876,50,16,876,875,877,0,,,Release Supplier's Invoice,Release Supplier's Invoice,Pedro_Alvares,56827,336
+877,50,6,877,876,878,0,,,Authorize Supplier's Invoice payment,Authorize Supplier's Invoice payment,Karalda_Nimwada,226,0
+878,50,14,878,877,879,0,,,Pay Invoice,Pay Invoice,Pedro_Alvares,1287,634
+879,50,End,879,878,None,0,,,End,End,End,0,0
+882,51,Start,882,None,883,0,,,Start,Start,Start,0,0
+883,51,10,883,882,884,0,,,Create Purchase Requisition,Create Purchase Requisition,Tesca_Lobes,0,1236
+884,51,2,884,883,885,0,,,Analyze Purchase Requisition,Analyze Purchase Requisition,Francis_Odell,66202,281
+885,51,End,885,884,None,0,,,End,End,End,0,0
+888,52,Start,888,None,889,0,,,Start,Start,Start,0,0
+889,52,10,889,888,890,0,,,Create Purchase Requisition,Create Purchase Requisition,Nico_Ojenbeer,0,1852
+890,52,2,890,889,891,0,,,Analyze Purchase Requisition,Analyze Purchase Requisition,Maris_Freeman,54990,325
+891,52,12,891,890,892,0,,,Create Request for Quotation,Create Request for Quotation,Maris_Freeman,481,56
+892,52,4,892,891,893,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Magdalena_Predutta,5978,763
+893,52,18,893,892,894,0,,,Send Request for Quotation to Supplier,Send Request for Quotation to Supplier,Francois_de_Perrier,34801,1494
+894,52,11,894,893,895,0,,,Create Quotation comparison Map,Create Quotation comparison Map,Francois_de_Perrier,108486,7106
+895,52,3,895,894,896,0,,,Analyze Quotation Comparison Map,Analyze Quotation Comparison Map,Penn_Osterwalder,27245,1480
+896,52,7,896,895,897,0,,,Choose best option,Choose best option,Elvira_Lores,0,0
+897,52,19,897,896,898,0,,,Settle Conditions With Supplier,Settle Conditions With Supplier,Francois_de_Perrier,24733,17960
+898,52,9,898,897,899,0,,,Create Purchase Order,Create Purchase Order,Francois_de_Perrier,27991,403
+899,52,8,899,898,900,0,,,Confirm Purchase Order,Confirm Purchase Order,Karen_Clarens,64473,1080
+900,52,13,900,899,901,0,,,Deliver Goods Services,Deliver Goods Services,Carmen_Finacse,50621,13557
+901,52,15,901,900,902,0,,,Release Purchase Order,Release Purchase Order,Elvira_Lores,25830,59
+902,52,5,902,901,903,0,,,Approve Purchase Order for payment,Approve Purchase Order for payment,Francois_de_Perrier,97758,58
+903,52,17,903,902,904,0,,,Send Invoice,Send Invoice,Kiu_Kan,228348,0
+904,52,16,904,903,905,0,,,Release Supplier's Invoice,Release Supplier's Invoice,Pedro_Alvares,52891,209
+905,52,6,905,904,906,0,,,Authorize Supplier's Invoice payment,Authorize Supplier's Invoice payment,Pedro_Alvares,0,0
+906,52,14,906,905,907,0,,,Pay Invoice,Pay Invoice,Karalda_Nimwada,1173,518
+907,52,End,907,906,None,0,,,End,End,End,0,0
+910,53,Start,910,None,911,0,,,Start,Start,Start,0,0
+911,53,10,911,910,912,0,,,Create Purchase Requisition,Create Purchase Requisition,Penn_Osterwalder,0,1464
+912,53,2,912,911,913,0,,,Analyze Purchase Requisition,Analyze Purchase Requisition,Heinz_Gutschmidt,75542,368
+913,53,12,913,912,914,0,,,Create Request for Quotation,Create Request for Quotation,Elvira_Lores,20598,472
+914,53,4,914,913,915,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Karel_de_Groot,40199,891
+915,53,End,915,914,None,0,,,End,End,End,0,0
+918,54,Start,918,None,919,0,,,Start,Start,Start,0,0
+919,54,10,919,918,920,0,,,Create Purchase Requisition,Create Purchase Requisition,Kim_Passa,0,3517
+920,54,12,920,919,921,0,,,Create Request for Quotation,Create Request for Quotation,Maris_Freeman,453,172
+921,54,4,921,920,922,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Karel_de_Groot,172550,1601
+922,54,1,922,921,923,0,,,Amend Request for Quotation,Amend Request for Quotation,Anne_Olwada,3573,746
+923,54,4,923,922,924,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Francois_de_Perrier,51846,1484
+924,54,18,924,923,925,0,,,Send Request for Quotation to Supplier,Send Request for Quotation to Supplier,Karel_de_Groot,14962,1490
+925,54,11,925,924,926,0,,,Create Quotation comparison Map,Create Quotation comparison Map,Francois_de_Perrier,2519,7157
+926,54,3,926,925,927,0,,,Analyze Quotation Comparison Map,Analyze Quotation Comparison Map,Fjodor_Kowalski,25480,852
+927,54,7,927,926,928,0,,,Choose best option,Choose best option,Alberto_Duport,0,0
+928,54,19,928,927,929,0,,,Settle Conditions With Supplier,Settle Conditions With Supplier,Francois_de_Perrier,52788,21164
+929,54,9,929,928,930,0,,,Create Purchase Order,Create Purchase Order,Karel_de_Groot,11774,448
+930,54,8,930,929,931,0,,,Confirm Purchase Order,Confirm Purchase Order,Sean_Manney,214996,440
+931,54,13,931,930,932,0,,,Deliver Goods Services,Deliver Goods Services,Karen_Clarens,201774,38732
+932,54,15,932,931,933,0,,,Release Purchase Order,Release Purchase Order,Anne_Olwada,25393,61
+933,54,5,933,932,934,0,,,Approve Purchase Order for payment,Approve Purchase Order for payment,Magdalena_Predutta,44912,57
+934,54,17,934,933,935,0,,,Send Invoice,Send Invoice,Carmen_Finacse,772398,0
+935,54,16,935,934,936,0,,,Release Supplier's Invoice,Release Supplier's Invoice,Karalda_Nimwada,53391,410
+936,54,6,936,935,937,0,,,Authorize Supplier's Invoice payment,Authorize Supplier's Invoice payment,Pedro_Alvares,0,0
+937,54,14,937,936,938,0,,,Pay Invoice,Pay Invoice,Karalda_Nimwada,3956,661
+938,54,End,938,937,None,0,,,End,End,End,0,0
+941,55,Start,941,None,942,0,,,Start,Start,Start,0,0
+942,55,10,942,941,943,0,,,Create Purchase Requisition,Create Purchase Requisition,Anna_Kaufmann,0,3271
+943,55,12,943,942,944,0,,,Create Request for Quotation,Create Request for Quotation,Nico_Ojenbeer,22353,716
+944,55,4,944,943,945,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Francois_de_Perrier,5331,578
+945,55,18,945,944,946,0,,,Send Request for Quotation to Supplier,Send Request for Quotation to Supplier,Francois_de_Perrier,23916,1264
+946,55,11,946,945,947,0,,,Create Quotation comparison Map,Create Quotation comparison Map,Francois_de_Perrier,7756,4373
+947,55,3,947,946,948,0,,,Analyze Quotation Comparison Map,Analyze Quotation Comparison Map,Anne_Olwada,27081,848
+948,55,7,948,947,949,0,,,Choose best option,Choose best option,Alberto_Duport,0,0
+949,55,19,949,948,950,0,,,Settle Conditions With Supplier,Settle Conditions With Supplier,Francois_de_Perrier,16436,44859
+950,55,9,950,949,951,0,,,Create Purchase Order,Create Purchase Order,Karel_de_Groot,5711,762
+951,55,8,951,950,952,0,,,Confirm Purchase Order,Confirm Purchase Order,Kiu_Kan,266764,987
+952,55,13,952,951,953,0,,,Deliver Goods Services,Deliver Goods Services,Sean_Manney,243201,84564
+953,55,15,953,952,954,0,,,Release Purchase Order,Release Purchase Order,Christian_Francois,26315,57
+954,55,5,954,953,955,0,,,Approve Purchase Order for payment,Approve Purchase Order for payment,Francois_de_Perrier,34370,57
+955,55,17,955,954,956,0,,,Send Invoice,Send Invoice,Karen_Clarens,34857,0
+956,55,16,956,955,957,0,,,Release Supplier's Invoice,Release Supplier's Invoice,Pedro_Alvares,53002,343
+957,55,6,957,956,958,0,,,Authorize Supplier's Invoice payment,Authorize Supplier's Invoice payment,Karalda_Nimwada,77,0
+958,55,14,958,957,959,0,,,Pay Invoice,Pay Invoice,Pedro_Alvares,2126,533
+959,55,End,959,958,None,0,,,End,End,End,0,0
+962,56,Start,962,None,963,0,,,Start,Start,Start,0,0
+963,56,10,963,962,964,0,,,Create Purchase Requisition,Create Purchase Requisition,Anne_Olwada,0,4261
+964,56,2,964,963,965,0,,,Analyze Purchase Requisition,Analyze Purchase Requisition,Maris_Freeman,54908,343
+965,56,12,965,964,966,0,,,Create Request for Quotation,Create Request for Quotation,Penn_Osterwalder,5017,478
+966,56,4,966,965,967,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Karel_de_Groot,6890,229
+967,56,1,967,966,968,0,,,Amend Request for Quotation,Amend Request for Quotation,Miu_Hanwan,5089,516
+968,56,4,968,967,969,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Karel_de_Groot,504874,1594
+969,56,18,969,968,970,0,,,Send Request for Quotation to Supplier,Send Request for Quotation to Supplier,Magdalena_Predutta,19734,1656
+970,56,11,970,969,971,0,,,Create Quotation comparison Map,Create Quotation comparison Map,Magdalena_Predutta,12246,9956
+971,56,3,971,970,972,0,,,Analyze Quotation Comparison Map,Analyze Quotation Comparison Map,Immanuel_Karagianni,30201,932
+972,56,7,972,971,973,0,,,Choose best option,Choose best option,Anna_Kaufmann,0,0
+973,56,19,973,972,974,0,,,Settle Conditions With Supplier,Settle Conditions With Supplier,Magdalena_Predutta,18010,29815
+974,56,9,974,973,975,0,,,Create Purchase Order,Create Purchase Order,Karel_de_Groot,43692,617
+975,56,8,975,974,976,0,,,Confirm Purchase Order,Confirm Purchase Order,Carmen_Finacse,36198,721
+976,56,13,976,975,977,0,,,Deliver Goods Services,Deliver Goods Services,Kiu_Kan,342359,140653
+977,56,15,977,976,978,0,,,Release Purchase Order,Release Purchase Order,Christian_Francois,26072,57
+978,56,5,978,977,979,0,,,Approve Purchase Order for payment,Approve Purchase Order for payment,Karel_de_Groot,54039,64
+979,56,17,979,978,980,0,,,Send Invoice,Send Invoice,Sean_Manney,111321,0
+980,56,16,980,979,981,0,,,Release Supplier's Invoice,Release Supplier's Invoice,Pedro_Alvares,52945,246
+981,56,6,981,980,982,0,,,Authorize Supplier's Invoice payment,Authorize Supplier's Invoice payment,Pedro_Alvares,0,0
+982,56,14,982,981,983,0,,,Pay Invoice,Pay Invoice,Magdalena_Predutta,887,367
+983,56,End,983,982,None,0,,,End,End,End,0,0
+986,57,Start,986,None,987,0,,,Start,Start,Start,0,0
+987,57,10,987,986,988,0,,,Create Purchase Requisition,Create Purchase Requisition,Immanuel_Karagianni,0,2705
+988,57,12,988,987,989,0,,,Create Request for Quotation,Create Request for Quotation,Francis_Odell,377,168
+989,57,4,989,988,990,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Magdalena_Predutta,507516,1753
+990,57,1,990,989,991,0,,,Amend Request for Quotation,Amend Request for Quotation,Tesca_Lobes,3157,627
+991,57,4,991,990,992,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Magdalena_Predutta,188428,999
+992,57,1,992,991,993,0,,,Amend Request for Quotation,Amend Request for Quotation,Clement_Duchot,3393,595
+993,57,4,993,992,994,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Karel_de_Groot,901075,1551
+994,57,18,994,993,995,0,,,Send Request for Quotation to Supplier,Send Request for Quotation to Supplier,Karel_de_Groot,28268,865
+995,57,11,995,994,996,0,,,Create Quotation comparison Map,Create Quotation comparison Map,Francois_de_Perrier,1398,3500
+996,57,3,996,995,997,0,,,Analyze Quotation Comparison Map,Analyze Quotation Comparison Map,Tesca_Lobes,24783,1362
+997,57,7,997,996,998,0,,,Choose best option,Choose best option,Anne_Olwada,0,0
+998,57,19,998,997,999,0,,,Settle Conditions With Supplier,Settle Conditions With Supplier,Francois_de_Perrier,10711,25709
+999,57,9,999,998,1000,0,,,Create Purchase Order,Create Purchase Order,Magdalena_Predutta,54033,647
+1000,57,8,1000,999,1001,0,,,Confirm Purchase Order,Confirm Purchase Order,Esmeralda_Clay,151951,934
+1001,57,13,1001,1000,1002,0,,,Deliver Goods Services,Deliver Goods Services,Sean_Manney,141486,91038
+1002,57,15,1002,1001,1003,0,,,Release Purchase Order,Release Purchase Order,Christian_Francois,26709,65
+1003,57,5,1003,1002,1004,0,,,Approve Purchase Order for payment,Approve Purchase Order for payment,Magdalena_Predutta,57047,60
+1004,57,17,1004,1003,1005,0,,,Send Invoice,Send Invoice,Kiu_Kan,40184,0
+1005,57,16,1005,1004,1006,0,,,Release Supplier's Invoice,Release Supplier's Invoice,Pedro_Alvares,61714,179
+1006,57,6,1006,1005,1007,0,,,Authorize Supplier's Invoice payment,Authorize Supplier's Invoice payment,Karalda_Nimwada,0,0
+1007,57,14,1007,1006,1008,0,,,Pay Invoice,Pay Invoice,Pedro_Alvares,587,735
+1008,57,End,1008,1007,None,0,,,End,End,End,0,0
+1011,58,Start,1011,None,1012,0,,,Start,Start,Start,0,0
+1012,58,10,1012,1011,1013,0,,,Create Purchase Requisition,Create Purchase Requisition,Alberto_Duport,0,2726
+1013,58,2,1013,1012,1014,0,,,Analyze Purchase Requisition,Analyze Purchase Requisition,Francis_Odell,53082,496
+1014,58,12,1014,1013,1015,0,,,Create Request for Quotation,Create Request for Quotation,Penn_Osterwalder,2734,251
+1015,58,4,1015,1014,1016,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Francois_de_Perrier,152870,1651
+1016,58,1,1016,1015,1017,0,,,Amend Request for Quotation,Amend Request for Quotation,Clement_Duchot,4771,771
+1017,58,4,1017,1016,1018,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Magdalena_Predutta,43965,436
+1018,58,1,1018,1017,1019,0,,,Amend Request for Quotation,Amend Request for Quotation,Elvira_Lores,4021,413
+1019,58,4,1019,1018,1020,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Magdalena_Predutta,301555,1378
+1020,58,End,1020,1019,None,0,,,End,End,End,0,0
+1023,59,Start,1023,None,1024,0,,,Start,Start,Start,0,0
+1024,59,10,1024,1023,1025,0,,,Create Purchase Requisition,Create Purchase Requisition,Tesca_Lobes,0,1036
+1025,59,2,1025,1024,1026,0,,,Analyze Purchase Requisition,Analyze Purchase Requisition,Maris_Freeman,59165,369
+1026,59,12,1026,1025,1027,0,,,Create Request for Quotation,Create Request for Quotation,Christian_Francois,10434,684
+1027,59,4,1027,1026,1028,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Karel_de_Groot,210327,1420
+1028,59,1,1028,1027,1029,0,,,Amend Request for Quotation,Amend Request for Quotation,Kim_Passa,3501,550
+1029,59,4,1029,1028,1030,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Magdalena_Predutta,150980,1158
+1030,59,18,1030,1029,1031,0,,,Send Request for Quotation to Supplier,Send Request for Quotation to Supplier,Magdalena_Predutta,16725,870
+1031,59,11,1031,1030,1032,0,,,Create Quotation comparison Map,Create Quotation comparison Map,Francois_de_Perrier,7907,18829
+1032,59,3,1032,1031,1033,0,,,Analyze Quotation Comparison Map,Analyze Quotation Comparison Map,Fjodor_Kowalski,26296,726
+1033,59,7,1033,1032,1034,0,,,Choose best option,Choose best option,Christian_Francois,0,0
+1034,59,19,1034,1033,1035,0,,,Settle Conditions With Supplier,Settle Conditions With Supplier,Karel_de_Groot,72998,48299
+1035,59,9,1035,1034,1036,0,,,Create Purchase Order,Create Purchase Order,Magdalena_Predutta,37380,630
+1036,59,8,1036,1035,1037,0,,,Confirm Purchase Order,Confirm Purchase Order,Sean_Manney,302174,1465
+1037,59,13,1037,1036,1038,0,,,Deliver Goods Services,Deliver Goods Services,Sean_Manney,55065,69742
+1038,59,15,1038,1037,1039,0,,,Release Purchase Order,Release Purchase Order,Christian_Francois,24649,64
+1039,59,5,1039,1038,1040,0,,,Approve Purchase Order for payment,Approve Purchase Order for payment,Karel_de_Groot,44080,55
+1040,59,17,1040,1039,1041,0,,,Send Invoice,Send Invoice,Sean_Manney,35568,0
+1041,59,16,1041,1040,1042,0,,,Release Supplier's Invoice,Release Supplier's Invoice,Pedro_Alvares,52373,229
+1042,59,20,1042,1041,1043,0,,,Settle Dispute With Supplier,Settle Dispute With Supplier,Pedro_Alvares,3640,1285
+1043,59,6,1043,1042,1044,0,,,Authorize Supplier's Invoice payment,Authorize Supplier's Invoice payment,Pedro_Alvares,0,0
+1044,59,14,1044,1043,1045,0,,,Pay Invoice,Pay Invoice,Pedro_Alvares,2248,354
+1045,59,End,1045,1044,None,0,,,End,End,End,0,0
+1048,60,Start,1048,None,1049,0,,,Start,Start,Start,0,0
+1049,60,10,1049,1048,1050,0,,,Create Purchase Requisition,Create Purchase Requisition,Christian_Francois,0,2490
+1050,60,12,1050,1049,1051,0,,,Create Request for Quotation,Create Request for Quotation,Alberto_Duport,23021,726
+1051,60,4,1051,1050,1052,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Magdalena_Predutta,427739,714
+1052,60,18,1052,1051,1053,0,,,Send Request for Quotation to Supplier,Send Request for Quotation to Supplier,Magdalena_Predutta,65210,1088
+1053,60,11,1053,1052,1054,0,,,Create Quotation comparison Map,Create Quotation comparison Map,Karel_de_Groot,72660,10164
+1054,60,3,1054,1053,1055,0,,,Analyze Quotation Comparison Map,Analyze Quotation Comparison Map,Fjodor_Kowalski,24578,1455
+1055,60,7,1055,1054,1056,0,,,Choose best option,Choose best option,Nico_Ojenbeer,0,0
+1056,60,19,1056,1055,1057,0,,,Settle Conditions With Supplier,Settle Conditions With Supplier,Magdalena_Predutta,52242,19420
+1057,60,9,1057,1056,1058,0,,,Create Purchase Order,Create Purchase Order,Magdalena_Predutta,26219,523
+1058,60,8,1058,1057,1059,0,,,Confirm Purchase Order,Confirm Purchase Order,Kiu_Kan,189165,1530
+1059,60,13,1059,1058,1060,0,,,Deliver Goods Services,Deliver Goods Services,Karen_Clarens,866723,47056
+1060,60,15,1060,1059,1061,0,,,Release Purchase Order,Release Purchase Order,Esmana_Liubiata,27124,59
+1061,60,5,1061,1060,1062,0,,,Approve Purchase Order for payment,Approve Purchase Order for payment,Magdalena_Predutta,34020,62
+1062,60,17,1062,1061,1063,0,,,Send Invoice,Send Invoice,Karen_Clarens,23410,0
+1063,60,16,1063,1062,1064,0,,,Release Supplier's Invoice,Release Supplier's Invoice,Pedro_Alvares,54982,372
+1064,60,6,1064,1063,1065,0,,,Authorize Supplier's Invoice payment,Authorize Supplier's Invoice payment,Karalda_Nimwada,0,0
+1065,60,14,1065,1064,1066,0,,,Pay Invoice,Pay Invoice,Karalda_Nimwada,1056,508
+1066,60,End,1066,1065,None,0,,,End,End,End,0,0
+1069,61,Start,1069,None,1070,0,,,Start,Start,Start,0,0
+1070,61,10,1070,1069,1071,0,,,Create Purchase Requisition,Create Purchase Requisition,Tesca_Lobes,0,385
+1071,61,12,1071,1070,1072,0,,,Create Request for Quotation,Create Request for Quotation,Fjodor_Kowalski,13641,741
+1072,61,4,1072,1071,1073,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Magdalena_Predutta,119725,961
+1073,61,1,1073,1072,1074,0,,,Amend Request for Quotation,Amend Request for Quotation,Christian_Francois,3540,672
+1074,61,4,1074,1073,1075,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Francois_de_Perrier,23957,1725
+1075,61,18,1075,1074,1076,0,,,Send Request for Quotation to Supplier,Send Request for Quotation to Supplier,Karel_de_Groot,17111,870
+1076,61,11,1076,1075,1077,0,,,Create Quotation comparison Map,Create Quotation comparison Map,Francois_de_Perrier,8986,6153
+1077,61,3,1077,1076,1078,0,,,Analyze Quotation Comparison Map,Analyze Quotation Comparison Map,Tesca_Lobes,27569,1264
+1078,61,7,1078,1077,1079,0,,,Choose best option,Choose best option,Christian_Francois,0,0
+1079,61,19,1079,1078,1080,0,,,Settle Conditions With Supplier,Settle Conditions With Supplier,Francois_de_Perrier,9049,17854
+1080,61,9,1080,1079,1081,0,,,Create Purchase Order,Create Purchase Order,Francois_de_Perrier,11534,644
+1081,61,8,1081,1080,1082,0,,,Confirm Purchase Order,Confirm Purchase Order,Carmen_Finacse,61269,1545
+1082,61,13,1082,1081,1083,0,,,Deliver Goods Services,Deliver Goods Services,Karen_Clarens,122044,108318
+1083,61,15,1083,1082,1084,0,,,Release Purchase Order,Release Purchase Order,Miu_Hanwan,26933,59
+1084,61,5,1084,1083,1085,0,,,Approve Purchase Order for payment,Approve Purchase Order for payment,Francois_de_Perrier,38231,60
+1085,61,17,1085,1084,1086,0,,,Send Invoice,Send Invoice,Sean_Manney,243564,0
+1086,61,16,1086,1085,1087,0,,,Release Supplier's Invoice,Release Supplier's Invoice,Karalda_Nimwada,50638,184
+1087,61,6,1087,1086,1088,0,,,Authorize Supplier's Invoice payment,Authorize Supplier's Invoice payment,Karalda_Nimwada,0,0
+1088,61,14,1088,1087,1089,0,,,Pay Invoice,Pay Invoice,Karalda_Nimwada,2594,360
+1089,61,End,1089,1088,None,0,,,End,End,End,0,0
+1092,62,Start,1092,None,1093,0,,,Start,Start,Start,0,0
+1093,62,10,1093,1092,1094,0,,,Create Purchase Requisition,Create Purchase Requisition,Christian_Francois,0,787
+1094,62,2,1094,1093,1095,0,,,Analyze Purchase Requisition,Analyze Purchase Requisition,Francis_Odell,80163,416
+1095,62,12,1095,1094,1096,0,,,Create Request for Quotation,Create Request for Quotation,Francis_Odell,218,173
+1096,62,4,1096,1095,1097,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Karel_de_Groot,37051,2232
+1097,62,18,1097,1096,1098,0,,,Send Request for Quotation to Supplier,Send Request for Quotation to Supplier,Magdalena_Predutta,30762,909
+1098,62,11,1098,1097,1099,0,,,Create Quotation comparison Map,Create Quotation comparison Map,Magdalena_Predutta,104860,4054
+1099,62,3,1099,1098,1100,0,,,Analyze Quotation Comparison Map,Analyze Quotation Comparison Map,Immanuel_Karagianni,22256,1617
+1100,62,7,1100,1099,1101,0,,,Choose best option,Choose best option,Tesca_Lobes,1637,0
+1101,62,19,1101,1100,1102,0,,,Settle Conditions With Supplier,Settle Conditions With Supplier,Karel_de_Groot,16855,23784
+1102,62,9,1102,1101,1103,0,,,Create Purchase Order,Create Purchase Order,Francois_de_Perrier,21263,868
+1103,62,8,1103,1102,1104,0,,,Confirm Purchase Order,Confirm Purchase Order,Carmen_Finacse,225535,1359
+1104,62,13,1104,1103,1105,0,,,Deliver Goods Services,Deliver Goods Services,Esmeralda_Clay,284243,19703
+1105,62,15,1105,1104,1106,0,,,Release Purchase Order,Release Purchase Order,Esmana_Liubiata,24729,56
+1106,62,5,1106,1105,1107,0,,,Approve Purchase Order for payment,Approve Purchase Order for payment,Francois_de_Perrier,17361,55
+1107,62,17,1107,1106,1108,0,,,Send Invoice,Send Invoice,Kiu_Kan,34591,0
+1108,62,16,1108,1107,1109,0,,,Release Supplier's Invoice,Release Supplier's Invoice,Pedro_Alvares,55843,348
+1109,62,20,1109,1108,1110,0,,,Settle Dispute With Supplier,Settle Dispute With Supplier,Karel_de_Groot,13502,5132
+1110,62,6,1110,1109,1111,0,,,Authorize Supplier's Invoice payment,Authorize Supplier's Invoice payment,Karalda_Nimwada,0,0
+1111,62,14,1111,1110,1112,0,,,Pay Invoice,Pay Invoice,Karalda_Nimwada,2054,411
+1112,62,End,1112,1111,None,0,,,End,End,End,0,0
+1115,63,Start,1115,None,1116,0,,,Start,Start,Start,0,0
+1116,63,10,1116,1115,1117,0,,,Create Purchase Requisition,Create Purchase Requisition,Kim_Passa,0,1731
+1117,63,2,1117,1116,1118,0,,,Analyze Purchase Requisition,Analyze Purchase Requisition,Francis_Odell,42600,346
+1118,63,End,1118,1117,None,0,,,End,End,End,0,0
+1121,64,Start,1121,None,1122,0,,,Start,Start,Start,0,0
+1122,64,10,1122,1121,1123,0,,,Create Purchase Requisition,Create Purchase Requisition,Nico_Ojenbeer,0,450
+1123,64,2,1123,1122,1124,0,,,Analyze Purchase Requisition,Analyze Purchase Requisition,Heinz_Gutschmidt,51699,441
+1124,64,12,1124,1123,1125,0,,,Create Request for Quotation,Create Request for Quotation,Elvira_Lores,14991,728
+1125,64,4,1125,1124,1126,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Magdalena_Predutta,665836,1556
+1126,64,1,1126,1125,1127,0,,,Amend Request for Quotation,Amend Request for Quotation,Anne_Olwada,3636,743
+1127,64,4,1127,1126,1128,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Karel_de_Groot,9761,1175
+1128,64,18,1128,1127,1129,0,,,Send Request for Quotation to Supplier,Send Request for Quotation to Supplier,Karel_de_Groot,25430,708
+1129,64,11,1129,1128,1130,0,,,Create Quotation comparison Map,Create Quotation comparison Map,Magdalena_Predutta,11234,5191
+1130,64,3,1130,1129,1131,0,,,Analyze Quotation Comparison Map,Analyze Quotation Comparison Map,Tesca_Lobes,26702,1229
+1131,64,7,1131,1130,1132,0,,,Choose best option,Choose best option,Immanuel_Karagianni,0,0
+1132,64,19,1132,1131,1133,0,,,Settle Conditions With Supplier,Settle Conditions With Supplier,Karel_de_Groot,161381,23528
+1133,64,9,1133,1132,1134,0,,,Create Purchase Order,Create Purchase Order,Karel_de_Groot,16247,761
+1134,64,8,1134,1133,1135,0,,,Confirm Purchase Order,Confirm Purchase Order,Karen_Clarens,69286,1053
+1135,64,13,1135,1134,1136,0,,,Deliver Goods Services,Deliver Goods Services,Karen_Clarens,493101,7549
+1136,64,15,1136,1135,1137,0,,,Release Purchase Order,Release Purchase Order,Anne_Olwada,27419,53
+1137,64,5,1137,1136,1138,0,,,Approve Purchase Order for payment,Approve Purchase Order for payment,Francois_de_Perrier,43122,62
+1138,64,17,1138,1137,1139,0,,,Send Invoice,Send Invoice,Kiu_Kan,120141,0
+1139,64,16,1139,1138,1140,0,,,Release Supplier's Invoice,Release Supplier's Invoice,Pedro_Alvares,60432,157
+1140,64,6,1140,1139,1141,0,,,Authorize Supplier's Invoice payment,Authorize Supplier's Invoice payment,Karalda_Nimwada,0,0
+1141,64,14,1141,1140,1142,0,,,Pay Invoice,Pay Invoice,Pedro_Alvares,5650,752
+1142,64,End,1142,1141,None,0,,,End,End,End,0,0
+1145,65,Start,1145,None,1146,0,,,Start,Start,Start,0,0
+1146,65,10,1146,1145,1147,0,,,Create Purchase Requisition,Create Purchase Requisition,Fjodor_Kowalski,0,2450
+1147,65,12,1147,1146,1148,0,,,Create Request for Quotation,Create Request for Quotation,Tesca_Lobes,11828,363
+1148,65,4,1148,1147,1149,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Francois_de_Perrier,40625,609
+1149,65,18,1149,1148,1150,0,,,Send Request for Quotation to Supplier,Send Request for Quotation to Supplier,Francois_de_Perrier,9075,1163
+1150,65,11,1150,1149,1151,0,,,Create Quotation comparison Map,Create Quotation comparison Map,Francois_de_Perrier,27776,12695
+1151,65,3,1151,1150,1152,0,,,Analyze Quotation Comparison Map,Analyze Quotation Comparison Map,Elvira_Lores,27044,677
+1152,65,7,1152,1151,1153,0,,,Choose best option,Choose best option,Anne_Olwada,0,0
+1153,65,19,1153,1152,1154,0,,,Settle Conditions With Supplier,Settle Conditions With Supplier,Magdalena_Predutta,10251,29135
+1154,65,9,1154,1153,1155,0,,,Create Purchase Order,Create Purchase Order,Magdalena_Predutta,9569,381
+1155,65,8,1155,1154,1156,0,,,Confirm Purchase Order,Confirm Purchase Order,Sean_Manney,47735,1060
+1156,65,13,1156,1155,1157,0,,,Deliver Goods Services,Deliver Goods Services,Karen_Clarens,69903,73229
+1157,65,15,1157,1156,1158,0,,,Release Purchase Order,Release Purchase Order,Fjodor_Kowalski,27168,62
+1158,65,5,1158,1157,1159,0,,,Approve Purchase Order for payment,Approve Purchase Order for payment,Karel_de_Groot,41471,64
+1159,65,17,1159,1158,1160,0,,,Send Invoice,Send Invoice,Karen_Clarens,104184,0
+1160,65,16,1160,1159,1161,0,,,Release Supplier's Invoice,Release Supplier's Invoice,Karalda_Nimwada,55845,262
+1161,65,6,1161,1160,1162,0,,,Authorize Supplier's Invoice payment,Authorize Supplier's Invoice payment,Pedro_Alvares,0,0
+1162,65,14,1162,1161,1163,0,,,Pay Invoice,Pay Invoice,Karalda_Nimwada,3340,817
+1163,65,End,1163,1162,None,0,,,End,End,End,0,0
+1166,66,Start,1166,None,1167,0,,,Start,Start,Start,0,0
+1167,66,10,1167,1166,1168,0,,,Create Purchase Requisition,Create Purchase Requisition,Elvira_Lores,0,1802
+1168,66,12,1168,1167,1169,0,,,Create Request for Quotation,Create Request for Quotation,Francis_Odell,305,58
+1169,66,4,1169,1168,1170,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Magdalena_Predutta,15943,1338
+1170,66,18,1170,1169,1171,0,,,Send Request for Quotation to Supplier,Send Request for Quotation to Supplier,Magdalena_Predutta,32925,1735
+1171,66,11,1171,1170,1172,0,,,Create Quotation comparison Map,Create Quotation comparison Map,Karel_de_Groot,1612,15639
+1172,66,3,1172,1171,1173,0,,,Analyze Quotation Comparison Map,Analyze Quotation Comparison Map,Anne_Olwada,24840,891
+1173,66,7,1173,1172,1174,0,,,Choose best option,Choose best option,Elvira_Lores,0,0
+1174,66,19,1174,1173,1175,0,,,Settle Conditions With Supplier,Settle Conditions With Supplier,Francois_de_Perrier,13093,35883
+1175,66,9,1175,1174,1176,0,,,Create Purchase Order,Create Purchase Order,Karel_de_Groot,10787,414
+1176,66,8,1176,1175,1177,0,,,Confirm Purchase Order,Confirm Purchase Order,Sean_Manney,145974,1413
+1177,66,13,1177,1176,1178,0,,,Deliver Goods Services,Deliver Goods Services,Kiu_Kan,192243,31232
+1178,66,15,1178,1177,1179,0,,,Release Purchase Order,Release Purchase Order,Esmana_Liubiata,27236,65
+1179,66,5,1179,1178,1180,0,,,Approve Purchase Order for payment,Approve Purchase Order for payment,Karel_de_Groot,78603,61
+1180,66,17,1180,1179,1181,0,,,Send Invoice,Send Invoice,Carmen_Finacse,23773,0
+1181,66,16,1181,1180,1182,0,,,Release Supplier's Invoice,Release Supplier's Invoice,Pedro_Alvares,58626,285
+1182,66,6,1182,1181,1183,0,,,Authorize Supplier's Invoice payment,Authorize Supplier's Invoice payment,Pedro_Alvares,0,0
+1183,66,14,1183,1182,1184,0,,,Pay Invoice,Pay Invoice,Karalda_Nimwada,1536,383
+1184,66,End,1184,1183,None,0,,,End,End,End,0,0
+1187,67,Start,1187,None,1188,0,,,Start,Start,Start,0,0
+1188,67,10,1188,1187,1189,0,,,Create Purchase Requisition,Create Purchase Requisition,Fjodor_Kowalski,0,388
+1189,67,12,1189,1188,1190,0,,,Create Request for Quotation,Create Request for Quotation,Francis_Odell,369,53
+1190,67,4,1190,1189,1191,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Magdalena_Predutta,1090436,100
+1191,67,1,1191,1190,1192,0,,,Amend Request for Quotation,Amend Request for Quotation,Elvira_Lores,3380,874
+1192,67,4,1192,1191,1193,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Francois_de_Perrier,300584,1154
+1193,67,18,1193,1192,1194,0,,,Send Request for Quotation to Supplier,Send Request for Quotation to Supplier,Francois_de_Perrier,44518,1460
+1194,67,11,1194,1193,1195,0,,,Create Quotation comparison Map,Create Quotation comparison Map,Magdalena_Predutta,3616,17364
+1195,67,3,1195,1194,1196,0,,,Analyze Quotation Comparison Map,Analyze Quotation Comparison Map,Tesca_Lobes,25312,1007
+1196,67,7,1196,1195,1197,0,,,Choose best option,Choose best option,Elvira_Lores,0,0
+1197,67,19,1197,1196,1198,0,,,Settle Conditions With Supplier,Settle Conditions With Supplier,Francois_de_Perrier,62055,16003
+1198,67,9,1198,1197,1199,0,,,Create Purchase Order,Create Purchase Order,Karel_de_Groot,5284,647
+1199,67,8,1199,1198,1200,0,,,Confirm Purchase Order,Confirm Purchase Order,Kiu_Kan,113986,552
+1200,67,13,1200,1199,1201,0,,,Deliver Goods Services,Deliver Goods Services,Carmen_Finacse,70938,20890
+1201,67,15,1201,1200,1202,0,,,Release Purchase Order,Release Purchase Order,Miu_Hanwan,29116,66
+1202,67,5,1202,1201,1203,0,,,Approve Purchase Order for payment,Approve Purchase Order for payment,Magdalena_Predutta,26755,57
+1203,67,17,1203,1202,1204,0,,,Send Invoice,Send Invoice,Karen_Clarens,111394,0
+1204,67,16,1204,1203,1205,0,,,Release Supplier's Invoice,Release Supplier's Invoice,Pedro_Alvares,56812,215
+1205,67,20,1205,1204,1206,0,,,Settle Dispute With Supplier,Settle Dispute With Supplier,Karel_de_Groot,17463,7688
+1206,67,6,1206,1205,1207,0,,,Authorize Supplier's Invoice payment,Authorize Supplier's Invoice payment,Pedro_Alvares,821,0
+1207,67,14,1207,1206,1208,0,,,Pay Invoice,Pay Invoice,Pedro_Alvares,1150,390
+1208,67,End,1208,1207,None,0,,,End,End,End,0,0
+1211,68,Start,1211,None,1212,0,,,Start,Start,Start,0,0
+1212,68,10,1212,1211,1213,0,,,Create Purchase Requisition,Create Purchase Requisition,Christian_Francois,0,305
+1213,68,2,1213,1212,1214,0,,,Analyze Purchase Requisition,Analyze Purchase Requisition,Francis_Odell,63724,299
+1214,68,End,1214,1213,None,0,,,End,End,End,0,0
+1217,69,Start,1217,None,1218,0,,,Start,Start,Start,0,0
+1218,69,10,1218,1217,1219,0,,,Create Purchase Requisition,Create Purchase Requisition,Penn_Osterwalder,0,2855
+1219,69,2,1219,1218,1220,0,,,Analyze Purchase Requisition,Analyze Purchase Requisition,Heinz_Gutschmidt,53899,247
+1220,69,12,1220,1219,1221,0,,,Create Request for Quotation,Create Request for Quotation,Francis_Odell,344,59
+1221,69,4,1221,1220,1222,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Karel_de_Groot,42920,1860
+1222,69,1,1222,1221,1223,0,,,Amend Request for Quotation,Amend Request for Quotation,Kim_Passa,3231,778
+1223,69,4,1223,1222,1224,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Magdalena_Predutta,685732,1112
+1224,69,1,1224,1223,1225,0,,,Amend Request for Quotation,Amend Request for Quotation,Nico_Ojenbeer,3758,463
+1225,69,4,1225,1224,1226,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Magdalena_Predutta,375929,1286
+1226,69,1,1226,1225,1227,0,,,Amend Request for Quotation,Amend Request for Quotation,Maris_Freeman,37649,1240
+1227,69,4,1227,1226,1228,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Francois_de_Perrier,3086303,1074
+1228,69,1,1228,1227,1229,0,,,Amend Request for Quotation,Amend Request for Quotation,Immanuel_Karagianni,3417,373
+1229,69,4,1229,1228,1230,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Francois_de_Perrier,24844,1096
+1230,69,1,1230,1229,1231,0,,,Amend Request for Quotation,Amend Request for Quotation,Alberto_Duport,3568,508
+1231,69,4,1231,1230,1232,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Karel_de_Groot,12934,1077
+1232,69,18,1232,1231,1233,0,,,Send Request for Quotation to Supplier,Send Request for Quotation to Supplier,Magdalena_Predutta,16274,1004
+1233,69,11,1233,1232,1234,0,,,Create Quotation comparison Map,Create Quotation comparison Map,Karel_de_Groot,28570,9603
+1234,69,3,1234,1233,1235,0,,,Analyze Quotation Comparison Map,Analyze Quotation Comparison Map,Alberto_Duport,27499,833
+1235,69,7,1235,1234,1236,0,,,Choose best option,Choose best option,Anna_Kaufmann,0,0
+1236,69,19,1236,1235,1237,0,,,Settle Conditions With Supplier,Settle Conditions With Supplier,Karel_de_Groot,7391,19979
+1237,69,9,1237,1236,1238,0,,,Create Purchase Order,Create Purchase Order,Magdalena_Predutta,17386,666
+1238,69,8,1238,1237,1239,0,,,Confirm Purchase Order,Confirm Purchase Order,Esmeralda_Clay,60105,1860
+1239,69,13,1239,1238,1240,0,,,Deliver Goods Services,Deliver Goods Services,Carmen_Finacse,581520,61458
+1240,69,15,1240,1239,1241,0,,,Release Purchase Order,Release Purchase Order,Miu_Hanwan,24827,65
+1241,69,5,1241,1240,1242,0,,,Approve Purchase Order for payment,Approve Purchase Order for payment,Francois_de_Perrier,40073,54
+1242,69,17,1242,1241,1243,0,,,Send Invoice,Send Invoice,Kiu_Kan,56041,0
+1243,69,16,1243,1242,1244,0,,,Release Supplier's Invoice,Release Supplier's Invoice,Karalda_Nimwada,99055,309
+1244,69,20,1244,1243,1245,0,,,Settle Dispute With Supplier,Settle Dispute With Supplier,Karalda_Nimwada,2065,2488
+1245,69,6,1245,1244,1246,0,,,Authorize Supplier's Invoice payment,Authorize Supplier's Invoice payment,Pedro_Alvares,0,0
+1246,69,14,1246,1245,1247,0,,,Pay Invoice,Pay Invoice,Pedro_Alvares,2527,596
+1247,69,End,1247,1246,None,0,,,End,End,End,0,0
+1250,70,Start,1250,None,1251,0,,,Start,Start,Start,0,0
+1251,70,10,1251,1250,1252,0,,,Create Purchase Requisition,Create Purchase Requisition,Immanuel_Karagianni,0,2560
+1252,70,2,1252,1251,1253,0,,,Analyze Purchase Requisition,Analyze Purchase Requisition,Francis_Odell,82243,541
+1253,70,12,1253,1252,1254,0,,,Create Request for Quotation,Create Request for Quotation,Elvira_Lores,13527,325
+1254,70,4,1254,1253,1255,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Francois_de_Perrier,29413,443
+1255,70,1,1255,1254,1256,0,,,Amend Request for Quotation,Amend Request for Quotation,Kim_Passa,3398,465
+1256,70,4,1256,1255,1257,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Magdalena_Predutta,186599,1037
+1257,70,18,1257,1256,1258,0,,,Send Request for Quotation to Supplier,Send Request for Quotation to Supplier,Francois_de_Perrier,34380,1362
+1258,70,11,1258,1257,1259,0,,,Create Quotation comparison Map,Create Quotation comparison Map,Karel_de_Groot,1604,3303
+1259,70,3,1259,1258,1260,0,,,Analyze Quotation Comparison Map,Analyze Quotation Comparison Map,Immanuel_Karagianni,23173,1659
+1260,70,7,1260,1259,1261,0,,,Choose best option,Choose best option,Tesca_Lobes,0,0
+1261,70,19,1261,1260,1262,0,,,Settle Conditions With Supplier,Settle Conditions With Supplier,Francois_de_Perrier,45546,15995
+1262,70,9,1262,1261,1263,0,,,Create Purchase Order,Create Purchase Order,Francois_de_Perrier,11127,630
+1263,70,8,1263,1262,1264,0,,,Confirm Purchase Order,Confirm Purchase Order,Carmen_Finacse,27907,1316
+1264,70,13,1264,1263,1265,0,,,Deliver Goods Services,Deliver Goods Services,Karen_Clarens,256306,126957
+1265,70,15,1265,1264,1266,0,,,Release Purchase Order,Release Purchase Order,Kim_Passa,28198,61
+1266,70,5,1266,1265,1267,0,,,Approve Purchase Order for payment,Approve Purchase Order for payment,Magdalena_Predutta,25391,58
+1267,70,17,1267,1266,1268,0,,,Send Invoice,Send Invoice,Esmeralda_Clay,37514,0
+1268,70,16,1268,1267,1269,0,,,Release Supplier's Invoice,Release Supplier's Invoice,Pedro_Alvares,55185,296
+1269,70,20,1269,1268,1270,0,,,Settle Dispute With Supplier,Settle Dispute With Supplier,Karalda_Nimwada,1328,742
+1270,70,6,1270,1269,1271,0,,,Authorize Supplier's Invoice payment,Authorize Supplier's Invoice payment,Karalda_Nimwada,0,0
+1271,70,14,1271,1270,1272,0,,,Pay Invoice,Pay Invoice,Karalda_Nimwada,770,572
+1272,70,End,1272,1271,None,0,,,End,End,End,0,0
+1275,71,Start,1275,None,1276,0,,,Start,Start,Start,0,0
+1276,71,10,1276,1275,1277,0,,,Create Purchase Requisition,Create Purchase Requisition,Immanuel_Karagianni,0,1355
+1277,71,12,1277,1276,1278,0,,,Create Request for Quotation,Create Request for Quotation,Fjodor_Kowalski,3229,349
+1278,71,4,1278,1277,1279,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Karel_de_Groot,3936,1262
+1279,71,1,1279,1278,1280,0,,,Amend Request for Quotation,Amend Request for Quotation,Tesca_Lobes,3823,669
+1280,71,4,1280,1279,1281,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Francois_de_Perrier,444448,732
+1281,71,1,1281,1280,1282,0,,,Amend Request for Quotation,Amend Request for Quotation,Francis_Odell,99141,878
+1282,71,4,1282,1281,1283,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Karel_de_Groot,346713,343
+1283,71,1,1283,1282,1284,0,,,Amend Request for Quotation,Amend Request for Quotation,Maris_Freeman,40948,1115
+1284,71,4,1284,1283,1285,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Magdalena_Predutta,872557,48
+1285,71,1,1285,1284,1286,0,,,Amend Request for Quotation,Amend Request for Quotation,Fjodor_Kowalski,3673,602
+1286,71,4,1286,1285,1287,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Francois_de_Perrier,212629,1311
+1287,71,18,1287,1286,1288,0,,,Send Request for Quotation to Supplier,Send Request for Quotation to Supplier,Magdalena_Predutta,47242,793
+1288,71,11,1288,1287,1289,0,,,Create Quotation comparison Map,Create Quotation comparison Map,Francois_de_Perrier,3572,5647
+1289,71,3,1289,1288,1290,0,,,Analyze Quotation Comparison Map,Analyze Quotation Comparison Map,Miu_Hanwan,28299,847
+1290,71,7,1290,1289,1291,0,,,Choose best option,Choose best option,Tesca_Lobes,44,0
+1291,71,19,1291,1290,1292,0,,,Settle Conditions With Supplier,Settle Conditions With Supplier,Francois_de_Perrier,18625,47390
+1292,71,9,1292,1291,1293,0,,,Create Purchase Order,Create Purchase Order,Karel_de_Groot,34107,629
+1293,71,8,1293,1292,1294,0,,,Confirm Purchase Order,Confirm Purchase Order,Kiu_Kan,160763,648
+1294,71,13,1294,1293,1295,0,,,Deliver Goods Services,Deliver Goods Services,Kiu_Kan,228748,36267
+1295,71,15,1295,1294,1296,0,,,Release Purchase Order,Release Purchase Order,Clement_Duchot,26338,62
+1296,71,5,1296,1295,1297,0,,,Approve Purchase Order for payment,Approve Purchase Order for payment,Karel_de_Groot,51468,60
+1297,71,17,1297,1296,1298,0,,,Send Invoice,Send Invoice,Karen_Clarens,112429,0
+1298,71,16,1298,1297,1299,0,,,Release Supplier's Invoice,Release Supplier's Invoice,Pedro_Alvares,59700,407
+1299,71,6,1299,1298,1300,0,,,Authorize Supplier's Invoice payment,Authorize Supplier's Invoice payment,Karalda_Nimwada,0,0
+1300,71,14,1300,1299,1301,0,,,Pay Invoice,Pay Invoice,Pedro_Alvares,2384,778
+1301,71,End,1301,1300,None,0,,,End,End,End,0,0
+1304,72,Start,1304,None,1305,0,,,Start,Start,Start,0,0
+1305,72,10,1305,1304,1306,0,,,Create Purchase Requisition,Create Purchase Requisition,Alberto_Duport,0,552
+1306,72,2,1306,1305,1307,0,,,Analyze Purchase Requisition,Analyze Purchase Requisition,Francis_Odell,57029,377
+1307,72,12,1307,1306,1308,0,,,Create Request for Quotation,Create Request for Quotation,Fjodor_Kowalski,1083,730
+1308,72,4,1308,1307,1309,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Francois_de_Perrier,7791,990
+1309,72,End,1309,1308,None,0,,,End,End,End,0,0
+1312,73,Start,1312,None,1313,0,,,Start,Start,Start,0,0
+1313,73,10,1313,1312,1314,0,,,Create Purchase Requisition,Create Purchase Requisition,Immanuel_Karagianni,0,1411
+1314,73,12,1314,1313,1315,0,,,Create Request for Quotation,Create Request for Quotation,Esmana_Liubiata,4775,415
+1315,73,4,1315,1314,1316,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Francois_de_Perrier,9020,936
+1316,73,1,1316,1315,1317,0,,,Amend Request for Quotation,Amend Request for Quotation,Clement_Duchot,4710,359
+1317,73,4,1317,1316,1318,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Francois_de_Perrier,21262,1207
+1318,73,1,1318,1317,1319,0,,,Amend Request for Quotation,Amend Request for Quotation,Nico_Ojenbeer,3387,578
+1319,73,4,1319,1318,1320,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Karel_de_Groot,29204,1152
+1320,73,18,1320,1319,1321,0,,,Send Request for Quotation to Supplier,Send Request for Quotation to Supplier,Francois_de_Perrier,27018,1322
+1321,73,11,1321,1320,1322,0,,,Create Quotation comparison Map,Create Quotation comparison Map,Magdalena_Predutta,72690,2479
+1322,73,3,1322,1321,1323,0,,,Analyze Quotation Comparison Map,Analyze Quotation Comparison Map,Anna_Kaufmann,30067,1646
+1323,73,7,1323,1322,1324,0,,,Choose best option,Choose best option,Elvira_Lores,0,0
+1324,73,19,1324,1323,1325,0,,,Settle Conditions With Supplier,Settle Conditions With Supplier,Karel_de_Groot,46879,35777
+1325,73,9,1325,1324,1326,0,,,Create Purchase Order,Create Purchase Order,Francois_de_Perrier,102936,718
+1326,73,8,1326,1325,1327,0,,,Confirm Purchase Order,Confirm Purchase Order,Carmen_Finacse,93353,1475
+1327,73,13,1327,1326,1328,0,,,Deliver Goods Services,Deliver Goods Services,Sean_Manney,223728,42095
+1328,73,15,1328,1327,1329,0,,,Release Purchase Order,Release Purchase Order,Esmana_Liubiata,27433,61
+1329,73,5,1329,1328,1330,0,,,Approve Purchase Order for payment,Approve Purchase Order for payment,Magdalena_Predutta,57576,60
+1330,73,17,1330,1329,1331,0,,,Send Invoice,Send Invoice,Kiu_Kan,163345,0
+1331,73,16,1331,1330,1332,0,,,Release Supplier's Invoice,Release Supplier's Invoice,Pedro_Alvares,52105,230
+1332,73,20,1332,1331,1333,0,,,Settle Dispute With Supplier,Settle Dispute With Supplier,Karalda_Nimwada,1972,2324
+1333,73,6,1333,1332,1334,0,,,Authorize Supplier's Invoice payment,Authorize Supplier's Invoice payment,Karalda_Nimwada,0,0
+1334,73,14,1334,1333,1335,0,,,Pay Invoice,Pay Invoice,Pedro_Alvares,878,363
+1335,73,End,1335,1334,None,0,,,End,End,End,0,0
+1338,74,Start,1338,None,1339,0,,,Start,Start,Start,0,0
+1339,74,10,1339,1338,1340,0,,,Create Purchase Requisition,Create Purchase Requisition,Elvira_Lores,0,1718
+1340,74,2,1340,1339,1341,0,,,Analyze Purchase Requisition,Analyze Purchase Requisition,Francis_Odell,62681,436
+1341,74,End,1341,1340,None,0,,,End,End,End,0,0
+1344,75,Start,1344,None,1345,0,,,Start,Start,Start,0,0
+1345,75,10,1345,1344,1346,0,,,Create Purchase Requisition,Create Purchase Requisition,Anne_Olwada,0,868
+1346,75,12,1346,1345,1347,0,,,Create Request for Quotation,Create Request for Quotation,Nico_Ojenbeer,2473,564
+1347,75,4,1347,1346,1348,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Magdalena_Predutta,252971,1527
+1348,75,1,1348,1347,1349,0,,,Amend Request for Quotation,Amend Request for Quotation,Immanuel_Karagianni,3837,432
+1349,75,4,1349,1348,1350,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Magdalena_Predutta,17412,854
+1350,75,18,1350,1349,1351,0,,,Send Request for Quotation to Supplier,Send Request for Quotation to Supplier,Francois_de_Perrier,80313,1597
+1351,75,11,1351,1350,1352,0,,,Create Quotation comparison Map,Create Quotation comparison Map,Francois_de_Perrier,11322,17511
+1352,75,3,1352,1351,1353,0,,,Analyze Quotation Comparison Map,Analyze Quotation Comparison Map,Elvira_Lores,30432,500
+1353,75,7,1353,1352,1354,0,,,Choose best option,Choose best option,Immanuel_Karagianni,1082,0
+1354,75,19,1354,1353,1355,0,,,Settle Conditions With Supplier,Settle Conditions With Supplier,Karel_de_Groot,56434,44144
+1355,75,9,1355,1354,1356,0,,,Create Purchase Order,Create Purchase Order,Magdalena_Predutta,15136,357
+1356,75,8,1356,1355,1357,0,,,Confirm Purchase Order,Confirm Purchase Order,Sean_Manney,10749,1449
+1357,75,13,1357,1356,1358,0,,,Deliver Goods Services,Deliver Goods Services,Sean_Manney,60827,42347
+1358,75,15,1358,1357,1359,0,,,Release Purchase Order,Release Purchase Order,Immanuel_Karagianni,27996,61
+1359,75,5,1359,1358,1360,0,,,Approve Purchase Order for payment,Approve Purchase Order for payment,Magdalena_Predutta,23566,62
+1360,75,17,1360,1359,1361,0,,,Send Invoice,Send Invoice,Kiu_Kan,132847,0
+1361,75,16,1361,1360,1362,0,,,Release Supplier's Invoice,Release Supplier's Invoice,Karalda_Nimwada,59314,297
+1362,75,6,1362,1361,1363,0,,,Authorize Supplier's Invoice payment,Authorize Supplier's Invoice payment,Pedro_Alvares,0,0
+1363,75,14,1363,1362,1364,0,,,Pay Invoice,Pay Invoice,Karalda_Nimwada,2020,374
+1364,75,End,1364,1363,None,0,,,End,End,End,0,0
+1367,76,Start,1367,None,1368,0,,,Start,Start,Start,0,0
+1368,76,10,1368,1367,1369,0,,,Create Purchase Requisition,Create Purchase Requisition,Anna_Kaufmann,0,250
+1369,76,2,1369,1368,1370,0,,,Analyze Purchase Requisition,Analyze Purchase Requisition,Francis_Odell,79722,423
+1370,76,End,1370,1369,None,0,,,End,End,End,0,0
+1373,77,Start,1373,None,1374,0,,,Start,Start,Start,0,0
+1374,77,10,1374,1373,1375,0,,,Create Purchase Requisition,Create Purchase Requisition,Anne_Olwada,0,1227
+1375,77,2,1375,1374,1376,0,,,Analyze Purchase Requisition,Analyze Purchase Requisition,Francis_Odell,61786,489
+1376,77,12,1376,1375,1377,0,,,Create Request for Quotation,Create Request for Quotation,Fjodor_Kowalski,3076,577
+1377,77,4,1377,1376,1378,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Francois_de_Perrier,30876,992
+1378,77,18,1378,1377,1379,0,,,Send Request for Quotation to Supplier,Send Request for Quotation to Supplier,Karel_de_Groot,38496,938
+1379,77,11,1379,1378,1380,0,,,Create Quotation comparison Map,Create Quotation comparison Map,Karel_de_Groot,4186,2854
+1380,77,3,1380,1379,1381,0,,,Analyze Quotation Comparison Map,Analyze Quotation Comparison Map,Clement_Duchot,27079,718
+1381,77,7,1381,1380,1382,0,,,Choose best option,Choose best option,Esmana_Liubiata,0,0
+1382,77,19,1382,1381,1383,0,,,Settle Conditions With Supplier,Settle Conditions With Supplier,Francois_de_Perrier,29337,29523
+1383,77,9,1383,1382,1384,0,,,Create Purchase Order,Create Purchase Order,Magdalena_Predutta,19517,365
+1384,77,8,1384,1383,1385,0,,,Confirm Purchase Order,Confirm Purchase Order,Karen_Clarens,227804,1202
+1385,77,13,1385,1384,1386,0,,,Deliver Goods Services,Deliver Goods Services,Karen_Clarens,172559,83281
+1386,77,15,1386,1385,1387,0,,,Release Purchase Order,Release Purchase Order,Anna_Kaufmann,27337,61
+1387,77,5,1387,1386,1388,0,,,Approve Purchase Order for payment,Approve Purchase Order for payment,Magdalena_Predutta,42103,58
+1388,77,17,1388,1387,1389,0,,,Send Invoice,Send Invoice,Esmeralda_Clay,30630,0
+1389,77,16,1389,1388,1390,0,,,Release Supplier's Invoice,Release Supplier's Invoice,Pedro_Alvares,50779,317
+1390,77,20,1390,1389,1391,0,,,Settle Dispute With Supplier,Settle Dispute With Supplier,Karalda_Nimwada,1420,1668
+1391,77,6,1391,1390,1392,0,,,Authorize Supplier's Invoice payment,Authorize Supplier's Invoice payment,Karalda_Nimwada,0,0
+1392,77,14,1392,1391,1393,0,,,Pay Invoice,Pay Invoice,Karalda_Nimwada,1340,637
+1393,77,End,1393,1392,None,0,,,End,End,End,0,0
+1396,78,Start,1396,None,1397,0,,,Start,Start,Start,0,0
+1397,78,10,1397,1396,1398,0,,,Create Purchase Requisition,Create Purchase Requisition,Immanuel_Karagianni,0,2477
+1398,78,2,1398,1397,1399,0,,,Analyze Purchase Requisition,Analyze Purchase Requisition,Francis_Odell,68598,348
+1399,78,12,1399,1398,1400,0,,,Create Request for Quotation,Create Request for Quotation,Francis_Odell,290,113
+1400,78,4,1400,1399,1401,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Magdalena_Predutta,205146,1018
+1401,78,18,1401,1400,1402,0,,,Send Request for Quotation to Supplier,Send Request for Quotation to Supplier,Magdalena_Predutta,35913,1263
+1402,78,11,1402,1401,1403,0,,,Create Quotation comparison Map,Create Quotation comparison Map,Francois_de_Perrier,2293,5235
+1403,78,3,1403,1402,1404,0,,,Analyze Quotation Comparison Map,Analyze Quotation Comparison Map,Immanuel_Karagianni,25509,962
+1404,78,7,1404,1403,1405,0,,,Choose best option,Choose best option,Anne_Olwada,0,0
+1405,78,19,1405,1404,1406,0,,,Settle Conditions With Supplier,Settle Conditions With Supplier,Karel_de_Groot,50117,35235
+1406,78,9,1406,1405,1407,0,,,Create Purchase Order,Create Purchase Order,Francois_de_Perrier,31401,496
+1407,78,8,1407,1406,1408,0,,,Confirm Purchase Order,Confirm Purchase Order,Esmeralda_Clay,26198,876
+1408,78,13,1408,1407,1409,0,,,Deliver Goods Services,Deliver Goods Services,Kiu_Kan,58932,139858
+1409,78,15,1409,1408,1410,0,,,Release Purchase Order,Release Purchase Order,Immanuel_Karagianni,25753,63
+1410,78,5,1410,1409,1411,0,,,Approve Purchase Order for payment,Approve Purchase Order for payment,Magdalena_Predutta,46613,54
+1411,78,17,1411,1410,1412,0,,,Send Invoice,Send Invoice,Esmeralda_Clay,83061,0
+1412,78,16,1412,1411,1413,0,,,Release Supplier's Invoice,Release Supplier's Invoice,Karalda_Nimwada,58812,153
+1413,78,6,1413,1412,1414,0,,,Authorize Supplier's Invoice payment,Authorize Supplier's Invoice payment,Pedro_Alvares,0,0
+1414,78,14,1414,1413,1415,0,,,Pay Invoice,Pay Invoice,Karalda_Nimwada,2037,556
+1415,78,End,1415,1414,None,0,,,End,End,End,0,0
+1418,79,Start,1418,None,1419,0,,,Start,Start,Start,0,0
+1419,79,10,1419,1418,1420,0,,,Create Purchase Requisition,Create Purchase Requisition,Esmana_Liubiata,0,1772
+1420,79,2,1420,1419,1421,0,,,Analyze Purchase Requisition,Analyze Purchase Requisition,Francis_Odell,80484,283
+1421,79,12,1421,1420,1422,0,,,Create Request for Quotation,Create Request for Quotation,Tesca_Lobes,7141,828
+1422,79,4,1422,1421,1423,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Magdalena_Predutta,514189,200
+1423,79,End,1423,1422,None,0,,,End,End,End,0,0
+1426,80,Start,1426,None,1427,0,,,Start,Start,Start,0,0
+1427,80,10,1427,1426,1428,0,,,Create Purchase Requisition,Create Purchase Requisition,Clement_Duchot,0,1620
+1428,80,2,1428,1427,1429,0,,,Analyze Purchase Requisition,Analyze Purchase Requisition,Francis_Odell,70799,280
+1429,80,12,1429,1428,1430,0,,,Create Request for Quotation,Create Request for Quotation,Maris_Freeman,348,116
+1430,80,4,1430,1429,1431,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Karel_de_Groot,62994,1338
+1431,80,1,1431,1430,1432,0,,,Amend Request for Quotation,Amend Request for Quotation,Christian_Francois,3328,647
+1432,80,4,1432,1431,1433,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Magdalena_Predutta,74898,341
+1433,80,18,1433,1432,1434,0,,,Send Request for Quotation to Supplier,Send Request for Quotation to Supplier,Karel_de_Groot,33671,1389
+1434,80,11,1434,1433,1435,0,,,Create Quotation comparison Map,Create Quotation comparison Map,Magdalena_Predutta,32753,17938
+1435,80,3,1435,1434,1436,0,,,Analyze Quotation Comparison Map,Analyze Quotation Comparison Map,Kim_Passa,29929,1100
+1436,80,7,1436,1435,1437,0,,,Choose best option,Choose best option,Christian_Francois,0,0
+1437,80,19,1437,1436,1438,0,,,Settle Conditions With Supplier,Settle Conditions With Supplier,Karel_de_Groot,60469,15113
+1438,80,9,1438,1437,1439,0,,,Create Purchase Order,Create Purchase Order,Magdalena_Predutta,51933,479
+1439,80,8,1439,1438,1440,0,,,Confirm Purchase Order,Confirm Purchase Order,Kiu_Kan,74895,934
+1440,80,13,1440,1439,1441,0,,,Deliver Goods Services,Deliver Goods Services,Carmen_Finacse,74391,81661
+1441,80,15,1441,1440,1442,0,,,Release Purchase Order,Release Purchase Order,Nico_Ojenbeer,27351,63
+1442,80,5,1442,1441,1443,0,,,Approve Purchase Order for payment,Approve Purchase Order for payment,Magdalena_Predutta,14594,58
+1443,80,17,1443,1442,1444,0,,,Send Invoice,Send Invoice,Carmen_Finacse,106677,0
+1444,80,16,1444,1443,1445,0,,,Release Supplier's Invoice,Release Supplier's Invoice,Pedro_Alvares,54576,359
+1445,80,6,1445,1444,1446,0,,,Authorize Supplier's Invoice payment,Authorize Supplier's Invoice payment,Pedro_Alvares,71,0
+1446,80,14,1446,1445,1447,0,,,Pay Invoice,Pay Invoice,Karalda_Nimwada,3617,674
+1447,80,End,1447,1446,None,0,,,End,End,End,0,0
+1450,81,Start,1450,None,1451,0,,,Start,Start,Start,0,0
+1451,81,10,1451,1450,1452,0,,,Create Purchase Requisition,Create Purchase Requisition,Nico_Ojenbeer,0,3254
+1452,81,2,1452,1451,1453,0,,,Analyze Purchase Requisition,Analyze Purchase Requisition,Maris_Freeman,65527,244
+1453,81,12,1453,1452,1454,0,,,Create Request for Quotation,Create Request for Quotation,Heinz_Gutschmidt,477,138
+1454,81,4,1454,1453,1455,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Karel_de_Groot,3082656,877
+1455,81,18,1455,1454,1456,0,,,Send Request for Quotation to Supplier,Send Request for Quotation to Supplier,Francois_de_Perrier,33735,1688
+1456,81,11,1456,1455,1457,0,,,Create Quotation comparison Map,Create Quotation comparison Map,Francois_de_Perrier,1945,7527
+1457,81,3,1457,1456,1458,0,,,Analyze Quotation Comparison Map,Analyze Quotation Comparison Map,Elvira_Lores,28448,1470
+1458,81,7,1458,1457,1459,0,,,Choose best option,Choose best option,Clement_Duchot,0,0
+1459,81,19,1459,1458,1460,0,,,Settle Conditions With Supplier,Settle Conditions With Supplier,Karel_de_Groot,14089,30200
+1460,81,9,1460,1459,1461,0,,,Create Purchase Order,Create Purchase Order,Magdalena_Predutta,34133,501
+1461,81,8,1461,1460,1462,0,,,Confirm Purchase Order,Confirm Purchase Order,Esmeralda_Clay,388106,1788
+1462,81,13,1462,1461,1463,0,,,Deliver Goods Services,Deliver Goods Services,Kiu_Kan,66722,129394
+1463,81,15,1463,1462,1464,0,,,Release Purchase Order,Release Purchase Order,Clement_Duchot,26216,64
+1464,81,5,1464,1463,1465,0,,,Approve Purchase Order for payment,Approve Purchase Order for payment,Karel_de_Groot,39725,56
+1465,81,17,1465,1464,1466,0,,,Send Invoice,Send Invoice,Esmeralda_Clay,36260,0
+1466,81,16,1466,1465,1467,0,,,Release Supplier's Invoice,Release Supplier's Invoice,Karalda_Nimwada,68159,269
+1467,81,6,1467,1466,1468,0,,,Authorize Supplier's Invoice payment,Authorize Supplier's Invoice payment,Karalda_Nimwada,0,0
+1468,81,14,1468,1467,1469,0,,,Pay Invoice,Pay Invoice,Karalda_Nimwada,2466,306
+1469,81,End,1469,1468,None,0,,,End,End,End,0,0
+1472,82,Start,1472,None,1473,0,,,Start,Start,Start,0,0
+1473,82,10,1473,1472,1474,0,,,Create Purchase Requisition,Create Purchase Requisition,Anne_Olwada,0,778
+1474,82,12,1474,1473,1475,0,,,Create Request for Quotation,Create Request for Quotation,Esmana_Liubiata,17441,745
+1475,82,4,1475,1474,1476,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Francois_de_Perrier,763992,1358
+1476,82,End,1476,1475,None,0,,,End,End,End,0,0
+1479,83,Start,1479,None,1480,0,,,Start,Start,Start,0,0
+1480,83,10,1480,1479,1481,0,,,Create Purchase Requisition,Create Purchase Requisition,Anne_Olwada,0,686
+1481,83,2,1481,1480,1482,0,,,Analyze Purchase Requisition,Analyze Purchase Requisition,Heinz_Gutschmidt,51311,264
+1482,83,End,1482,1481,None,0,,,End,End,End,0,0
+1485,84,Start,1485,None,1486,0,,,Start,Start,Start,0,0
+1486,84,10,1486,1485,1487,0,,,Create Purchase Requisition,Create Purchase Requisition,Immanuel_Karagianni,0,2193
+1487,84,12,1487,1486,1488,0,,,Create Request for Quotation,Create Request for Quotation,Clement_Duchot,12010,639
+1488,84,4,1488,1487,1489,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Karel_de_Groot,1131192,1111
+1489,84,1,1489,1488,1490,0,,,Amend Request for Quotation,Amend Request for Quotation,Penn_Osterwalder,3722,697
+1490,84,4,1490,1489,1491,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Karel_de_Groot,554233,939
+1491,84,18,1491,1490,1492,0,,,Send Request for Quotation to Supplier,Send Request for Quotation to Supplier,Magdalena_Predutta,41880,736
+1492,84,11,1492,1491,1493,0,,,Create Quotation comparison Map,Create Quotation comparison Map,Magdalena_Predutta,6062,15960
+1493,84,3,1493,1492,1494,0,,,Analyze Quotation Comparison Map,Analyze Quotation Comparison Map,Elvira_Lores,26755,2120
+1494,84,7,1494,1493,1495,0,,,Choose best option,Choose best option,Esmana_Liubiata,0,0
+1495,84,19,1495,1494,1496,0,,,Settle Conditions With Supplier,Settle Conditions With Supplier,Karel_de_Groot,30977,23492
+1496,84,9,1496,1495,1497,0,,,Create Purchase Order,Create Purchase Order,Magdalena_Predutta,46300,689
+1497,84,8,1497,1496,1498,0,,,Confirm Purchase Order,Confirm Purchase Order,Sean_Manney,67647,1572
+1498,84,13,1498,1497,1499,0,,,Deliver Goods Services,Deliver Goods Services,Esmeralda_Clay,135738,115396
+1499,84,15,1499,1498,1500,0,,,Release Purchase Order,Release Purchase Order,Fjodor_Kowalski,29337,64
+1500,84,5,1500,1499,1501,0,,,Approve Purchase Order for payment,Approve Purchase Order for payment,Karel_de_Groot,31731,57
+1501,84,17,1501,1500,1502,0,,,Send Invoice,Send Invoice,Karen_Clarens,73582,0
+1502,84,16,1502,1501,1503,0,,,Release Supplier's Invoice,Release Supplier's Invoice,Karalda_Nimwada,53067,370
+1503,84,6,1503,1502,1504,0,,,Authorize Supplier's Invoice payment,Authorize Supplier's Invoice payment,Karalda_Nimwada,0,0
+1504,84,14,1504,1503,1505,0,,,Pay Invoice,Pay Invoice,Pedro_Alvares,643,688
+1505,84,End,1505,1504,None,0,,,End,End,End,0,0
+1508,85,Start,1508,None,1509,0,,,Start,Start,Start,0,0
+1509,85,10,1509,1508,1510,0,,,Create Purchase Requisition,Create Purchase Requisition,Penn_Osterwalder,0,3287
+1510,85,2,1510,1509,1511,0,,,Analyze Purchase Requisition,Analyze Purchase Requisition,Francis_Odell,75052,406
+1511,85,12,1511,1510,1512,0,,,Create Request for Quotation,Create Request for Quotation,Francis_Odell,370,93
+1512,85,4,1512,1511,1513,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Magdalena_Predutta,473819,1058
+1513,85,18,1513,1512,1514,0,,,Send Request for Quotation to Supplier,Send Request for Quotation to Supplier,Magdalena_Predutta,58898,520
+1514,85,11,1514,1513,1515,0,,,Create Quotation comparison Map,Create Quotation comparison Map,Magdalena_Predutta,5517,6870
+1515,85,3,1515,1514,1516,0,,,Analyze Quotation Comparison Map,Analyze Quotation Comparison Map,Kim_Passa,25115,784
+1516,85,7,1516,1515,1517,0,,,Choose best option,Choose best option,Fjodor_Kowalski,0,0
+1517,85,19,1517,1516,1518,0,,,Settle Conditions With Supplier,Settle Conditions With Supplier,Karel_de_Groot,22509,30702
+1518,85,9,1518,1517,1519,0,,,Create Purchase Order,Create Purchase Order,Magdalena_Predutta,7016,786
+1519,85,8,1519,1518,1520,0,,,Confirm Purchase Order,Confirm Purchase Order,Carmen_Finacse,355264,2056
+1520,85,13,1520,1519,1521,0,,,Deliver Goods Services,Deliver Goods Services,Karen_Clarens,290372,121574
+1521,85,15,1521,1520,1522,0,,,Release Purchase Order,Release Purchase Order,Anne_Olwada,23981,62
+1522,85,5,1522,1521,1523,0,,,Approve Purchase Order for payment,Approve Purchase Order for payment,Francois_de_Perrier,42976,58
+1523,85,17,1523,1522,1524,0,,,Send Invoice,Send Invoice,Esmeralda_Clay,37863,0
+1524,85,16,1524,1523,1525,0,,,Release Supplier's Invoice,Release Supplier's Invoice,Pedro_Alvares,52178,301
+1525,85,6,1525,1524,1526,0,,,Authorize Supplier's Invoice payment,Authorize Supplier's Invoice payment,Pedro_Alvares,0,0
+1526,85,14,1526,1525,1527,0,,,Pay Invoice,Pay Invoice,Pedro_Alvares,3760,741
+1527,85,End,1527,1526,None,0,,,End,End,End,0,0
+1530,86,Start,1530,None,1531,0,,,Start,Start,Start,0,0
+1531,86,10,1531,1530,1532,0,,,Create Purchase Requisition,Create Purchase Requisition,Tesca_Lobes,0,730
+1532,86,12,1532,1531,1533,0,,,Create Request for Quotation,Create Request for Quotation,Esmana_Liubiata,3594,449
+1533,86,4,1533,1532,1534,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Francois_de_Perrier,1234992,766
+1534,86,18,1534,1533,1535,0,,,Send Request for Quotation to Supplier,Send Request for Quotation to Supplier,Magdalena_Predutta,57776,665
+1535,86,11,1535,1534,1536,0,,,Create Quotation comparison Map,Create Quotation comparison Map,Magdalena_Predutta,5752,19027
+1536,86,3,1536,1535,1537,0,,,Analyze Quotation Comparison Map,Analyze Quotation Comparison Map,Esmana_Liubiata,24437,972
+1537,86,7,1537,1536,1538,0,,,Choose best option,Choose best option,Fjodor_Kowalski,0,0
+1538,86,19,1538,1537,1539,0,,,Settle Conditions With Supplier,Settle Conditions With Supplier,Magdalena_Predutta,7372,23516
+1539,86,9,1539,1538,1540,0,,,Create Purchase Order,Create Purchase Order,Francois_de_Perrier,3666,602
+1540,86,8,1540,1539,1541,0,,,Confirm Purchase Order,Confirm Purchase Order,Carmen_Finacse,71341,1123
+1541,86,13,1541,1540,1542,0,,,Deliver Goods Services,Deliver Goods Services,Esmeralda_Clay,117771,40068
+1542,86,15,1542,1541,1543,0,,,Release Purchase Order,Release Purchase Order,Esmana_Liubiata,27585,63
+1543,86,5,1543,1542,1544,0,,,Approve Purchase Order for payment,Approve Purchase Order for payment,Magdalena_Predutta,53431,57
+1544,86,17,1544,1543,1545,0,,,Send Invoice,Send Invoice,Esmeralda_Clay,180570,0
+1545,86,16,1545,1544,1546,0,,,Release Supplier's Invoice,Release Supplier's Invoice,Pedro_Alvares,50112,199
+1546,86,6,1546,1545,1547,0,,,Authorize Supplier's Invoice payment,Authorize Supplier's Invoice payment,Karalda_Nimwada,0,0
+1547,86,14,1547,1546,1548,0,,,Pay Invoice,Pay Invoice,Pedro_Alvares,2344,493
+1548,86,End,1548,1547,None,0,,,End,End,End,0,0
+1551,87,Start,1551,None,1552,0,,,Start,Start,Start,0,0
+1552,87,10,1552,1551,1553,0,,,Create Purchase Requisition,Create Purchase Requisition,Elvira_Lores,0,2868
+1553,87,2,1553,1552,1554,0,,,Analyze Purchase Requisition,Analyze Purchase Requisition,Maris_Freeman,67617,505
+1554,87,12,1554,1553,1555,0,,,Create Request for Quotation,Create Request for Quotation,Francis_Odell,317,189
+1555,87,4,1555,1554,1556,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Magdalena_Predutta,111755,1468
+1556,87,End,1556,1555,None,0,,,End,End,End,0,0
+1559,88,Start,1559,None,1560,0,,,Start,Start,Start,0,0
+1560,88,10,1560,1559,1561,0,,,Create Purchase Requisition,Create Purchase Requisition,Anne_Olwada,0,429
+1561,88,2,1561,1560,1562,0,,,Analyze Purchase Requisition,Analyze Purchase Requisition,Francis_Odell,68445,505
+1562,88,12,1562,1561,1563,0,,,Create Request for Quotation,Create Request for Quotation,Francis_Odell,292,79
+1563,88,4,1563,1562,1564,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Karel_de_Groot,542269,819
+1564,88,1,1564,1563,1565,0,,,Amend Request for Quotation,Amend Request for Quotation,Anne_Olwada,3964,840
+1565,88,4,1565,1564,1566,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Magdalena_Predutta,16188,1757
+1566,88,1,1566,1565,1567,0,,,Amend Request for Quotation,Amend Request for Quotation,Heinz_Gutschmidt,40048,993
+1567,88,4,1567,1566,1568,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Karel_de_Groot,48304,1435
+1568,88,18,1568,1567,1569,0,,,Send Request for Quotation to Supplier,Send Request for Quotation to Supplier,Karel_de_Groot,45471,2097
+1569,88,11,1569,1568,1570,0,,,Create Quotation comparison Map,Create Quotation comparison Map,Magdalena_Predutta,14878,15213
+1570,88,3,1570,1569,1571,0,,,Analyze Quotation Comparison Map,Analyze Quotation Comparison Map,Nico_Ojenbeer,29714,763
+1571,88,7,1571,1570,1572,0,,,Choose best option,Choose best option,Fjodor_Kowalski,0,0
+1572,88,19,1572,1571,1573,0,,,Settle Conditions With Supplier,Settle Conditions With Supplier,Magdalena_Predutta,26320,15536
+1573,88,9,1573,1572,1574,0,,,Create Purchase Order,Create Purchase Order,Karel_de_Groot,14237,743
+1574,88,8,1574,1573,1575,0,,,Confirm Purchase Order,Confirm Purchase Order,Esmeralda_Clay,55291,1578
+1575,88,13,1575,1574,1576,0,,,Deliver Goods Services,Deliver Goods Services,Kiu_Kan,88706,86081
+1576,88,15,1576,1575,1577,0,,,Release Purchase Order,Release Purchase Order,Tesca_Lobes,29155,63
+1577,88,5,1577,1576,1578,0,,,Approve Purchase Order for payment,Approve Purchase Order for payment,Magdalena_Predutta,60564,56
+1578,88,17,1578,1577,1579,0,,,Send Invoice,Send Invoice,Kiu_Kan,187537,0
+1579,88,16,1579,1578,1580,0,,,Release Supplier's Invoice,Release Supplier's Invoice,Karalda_Nimwada,55812,345
+1580,88,6,1580,1579,1581,0,,,Authorize Supplier's Invoice payment,Authorize Supplier's Invoice payment,Karalda_Nimwada,0,0
+1581,88,14,1581,1580,1582,0,,,Pay Invoice,Pay Invoice,Karalda_Nimwada,1411,658
+1582,88,End,1582,1581,None,0,,,End,End,End,0,0
+1585,89,Start,1585,None,1586,0,,,Start,Start,Start,0,0
+1586,89,10,1586,1585,1587,0,,,Create Purchase Requisition,Create Purchase Requisition,Penn_Osterwalder,0,3582
+1587,89,12,1587,1586,1588,0,,,Create Request for Quotation,Create Request for Quotation,Heinz_Gutschmidt,386,178
+1588,89,4,1588,1587,1589,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Francois_de_Perrier,372628,1485
+1589,89,1,1589,1588,1590,0,,,Amend Request for Quotation,Amend Request for Quotation,Francis_Odell,57366,1308
+1590,89,4,1590,1589,1591,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Francois_de_Perrier,217952,1975
+1591,89,1,1591,1590,1592,0,,,Amend Request for Quotation,Amend Request for Quotation,Anne_Olwada,3728,339
+1592,89,4,1592,1591,1593,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Francois_de_Perrier,74034,531
+1593,89,1,1593,1592,1594,0,,,Amend Request for Quotation,Amend Request for Quotation,Fjodor_Kowalski,3720,721
+1594,89,4,1594,1593,1595,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Magdalena_Predutta,369598,2168
+1595,89,18,1595,1594,1596,0,,,Send Request for Quotation to Supplier,Send Request for Quotation to Supplier,Francois_de_Perrier,47735,2355
+1596,89,11,1596,1595,1597,0,,,Create Quotation comparison Map,Create Quotation comparison Map,Francois_de_Perrier,39847,18870
+1597,89,3,1597,1596,1598,0,,,Analyze Quotation Comparison Map,Analyze Quotation Comparison Map,Alberto_Duport,26469,1000
+1598,89,7,1598,1597,1599,0,,,Choose best option,Choose best option,Nico_Ojenbeer,0,0
+1599,89,19,1599,1598,1600,0,,,Settle Conditions With Supplier,Settle Conditions With Supplier,Karel_de_Groot,19657,30928
+1600,89,9,1600,1599,1601,0,,,Create Purchase Order,Create Purchase Order,Magdalena_Predutta,36383,573
+1601,89,8,1601,1600,1602,0,,,Confirm Purchase Order,Confirm Purchase Order,Carmen_Finacse,16341,1584
+1602,89,13,1602,1601,1603,0,,,Deliver Goods Services,Deliver Goods Services,Esmeralda_Clay,86795,120972
+1603,89,15,1603,1602,1604,0,,,Release Purchase Order,Release Purchase Order,Tesca_Lobes,27318,57
+1604,89,5,1604,1603,1605,0,,,Approve Purchase Order for payment,Approve Purchase Order for payment,Magdalena_Predutta,50880,55
+1605,89,17,1605,1604,1606,0,,,Send Invoice,Send Invoice,Esmeralda_Clay,335967,0
+1606,89,16,1606,1605,1607,0,,,Release Supplier's Invoice,Release Supplier's Invoice,Pedro_Alvares,57545,435
+1607,89,6,1607,1606,1608,0,,,Authorize Supplier's Invoice payment,Authorize Supplier's Invoice payment,Pedro_Alvares,0,0
+1608,89,14,1608,1607,1609,0,,,Pay Invoice,Pay Invoice,Karalda_Nimwada,2869,777
+1609,89,End,1609,1608,None,0,,,End,End,End,0,0
+1612,90,Start,1612,None,1613,0,,,Start,Start,Start,0,0
+1613,90,10,1613,1612,1614,0,,,Create Purchase Requisition,Create Purchase Requisition,Anne_Olwada,0,479
+1614,90,2,1614,1613,1615,0,,,Analyze Purchase Requisition,Analyze Purchase Requisition,Maris_Freeman,47609,482
+1615,90,12,1615,1614,1616,0,,,Create Request for Quotation,Create Request for Quotation,Francis_Odell,232,51
+1616,90,4,1616,1615,1617,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Karel_de_Groot,3891665,1598
+1617,90,End,1617,1616,None,0,,,End,End,End,0,0
+1620,91,Start,1620,None,1621,0,,,Start,Start,Start,0,0
+1621,91,10,1621,1620,1622,0,,,Create Purchase Requisition,Create Purchase Requisition,Kim_Passa,0,2606
+1622,91,12,1622,1621,1623,0,,,Create Request for Quotation,Create Request for Quotation,Heinz_Gutschmidt,323,86
+1623,91,4,1623,1622,1624,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Karel_de_Groot,38190,1194
+1624,91,1,1624,1623,1625,0,,,Amend Request for Quotation,Amend Request for Quotation,Anne_Olwada,4489,374
+1625,91,4,1625,1624,1626,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Karel_de_Groot,227832,1788
+1626,91,18,1626,1625,1627,0,,,Send Request for Quotation to Supplier,Send Request for Quotation to Supplier,Magdalena_Predutta,20167,1453
+1627,91,11,1627,1626,1628,0,,,Create Quotation comparison Map,Create Quotation comparison Map,Karel_de_Groot,55757,5482
+1628,91,3,1628,1627,1629,0,,,Analyze Quotation Comparison Map,Analyze Quotation Comparison Map,Alberto_Duport,27310,1076
+1629,91,7,1629,1628,1630,0,,,Choose best option,Choose best option,Penn_Osterwalder,6905,0
+1630,91,19,1630,1629,1631,0,,,Settle Conditions With Supplier,Settle Conditions With Supplier,Karel_de_Groot,36162,19090
+1631,91,9,1631,1630,1632,0,,,Create Purchase Order,Create Purchase Order,Francois_de_Perrier,5478,565
+1632,91,8,1632,1631,1633,0,,,Confirm Purchase Order,Confirm Purchase Order,Kiu_Kan,76561,1434
+1633,91,13,1633,1632,1634,0,,,Deliver Goods Services,Deliver Goods Services,Kiu_Kan,49764,30624
+1634,91,15,1634,1633,1635,0,,,Release Purchase Order,Release Purchase Order,Christian_Francois,26854,62
+1635,91,5,1635,1634,1636,0,,,Approve Purchase Order for payment,Approve Purchase Order for payment,Magdalena_Predutta,68228,59
+1636,91,17,1636,1635,1637,0,,,Send Invoice,Send Invoice,Carmen_Finacse,273513,0
+1637,91,16,1637,1636,1638,0,,,Release Supplier's Invoice,Release Supplier's Invoice,Pedro_Alvares,53952,240
+1638,91,6,1638,1637,1639,0,,,Authorize Supplier's Invoice payment,Authorize Supplier's Invoice payment,Karalda_Nimwada,0,0
+1639,91,14,1639,1638,1640,0,,,Pay Invoice,Pay Invoice,Karalda_Nimwada,3322,425
+1640,91,End,1640,1639,None,0,,,End,End,End,0,0
+1643,92,Start,1643,None,1644,0,,,Start,Start,Start,0,0
+1644,92,10,1644,1643,1645,0,,,Create Purchase Requisition,Create Purchase Requisition,Christian_Francois,0,802
+1645,92,2,1645,1644,1646,0,,,Analyze Purchase Requisition,Analyze Purchase Requisition,Maris_Freeman,71263,202
+1646,92,12,1646,1645,1647,0,,,Create Request for Quotation,Create Request for Quotation,Penn_Osterwalder,12766,653
+1647,92,4,1647,1646,1648,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Karel_de_Groot,481288,2013
+1648,92,1,1648,1647,1649,0,,,Amend Request for Quotation,Amend Request for Quotation,Penn_Osterwalder,3576,548
+1649,92,4,1649,1648,1650,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Magdalena_Predutta,41852,405
+1650,92,1,1650,1649,1651,0,,,Amend Request for Quotation,Amend Request for Quotation,Immanuel_Karagianni,5144,681
+1651,92,4,1651,1650,1652,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Francois_de_Perrier,294946,259
+1652,92,End,1652,1651,None,0,,,End,End,End,0,0
+1655,93,Start,1655,None,1656,0,,,Start,Start,Start,0,0
+1656,93,10,1656,1655,1657,0,,,Create Purchase Requisition,Create Purchase Requisition,Miu_Hanwan,0,3044
+1657,93,12,1657,1656,1658,0,,,Create Request for Quotation,Create Request for Quotation,Maris_Freeman,367,56
+1658,93,4,1658,1657,1659,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Francois_de_Perrier,117436,1370
+1659,93,18,1659,1658,1660,0,,,Send Request for Quotation to Supplier,Send Request for Quotation to Supplier,Magdalena_Predutta,49570,1068
+1660,93,11,1660,1659,1661,0,,,Create Quotation comparison Map,Create Quotation comparison Map,Karel_de_Groot,12120,7786
+1661,93,3,1661,1660,1662,0,,,Analyze Quotation Comparison Map,Analyze Quotation Comparison Map,Tesca_Lobes,26452,1341
+1662,93,7,1662,1661,1663,0,,,Choose best option,Choose best option,Kim_Passa,0,0
+1663,93,19,1663,1662,1664,0,,,Settle Conditions With Supplier,Settle Conditions With Supplier,Karel_de_Groot,53589,20693
+1664,93,9,1664,1663,1665,0,,,Create Purchase Order,Create Purchase Order,Magdalena_Predutta,45631,550
+1665,93,8,1665,1664,1666,0,,,Confirm Purchase Order,Confirm Purchase Order,Carmen_Finacse,69462,1338
+1666,93,13,1666,1665,1667,0,,,Deliver Goods Services,Deliver Goods Services,Sean_Manney,381611,35086
+1667,93,15,1667,1666,1668,0,,,Release Purchase Order,Release Purchase Order,Kim_Passa,26960,62
+1668,93,5,1668,1667,1669,0,,,Approve Purchase Order for payment,Approve Purchase Order for payment,Francois_de_Perrier,54811,56
+1669,93,17,1669,1668,1670,0,,,Send Invoice,Send Invoice,Karen_Clarens,32419,0
+1670,93,16,1670,1669,1671,0,,,Release Supplier's Invoice,Release Supplier's Invoice,Pedro_Alvares,51557,260
+1671,93,6,1671,1670,1672,0,,,Authorize Supplier's Invoice payment,Authorize Supplier's Invoice payment,Pedro_Alvares,0,0
+1672,93,14,1672,1671,1673,0,,,Pay Invoice,Pay Invoice,Karalda_Nimwada,1055,781
+1673,93,End,1673,1672,None,0,,,End,End,End,0,0
+1676,94,Start,1676,None,1677,0,,,Start,Start,Start,0,0
+1677,94,10,1677,1676,1678,0,,,Create Purchase Requisition,Create Purchase Requisition,Tesca_Lobes,0,1961
+1678,94,2,1678,1677,1679,0,,,Analyze Purchase Requisition,Analyze Purchase Requisition,Maris_Freeman,46619,325
+1679,94,End,1679,1678,None,0,,,End,End,End,0,0
+1682,95,Start,1682,None,1683,0,,,Start,Start,Start,0,0
+1683,95,10,1683,1682,1684,0,,,Create Purchase Requisition,Create Purchase Requisition,Tesca_Lobes,0,1131
+1684,95,2,1684,1683,1685,0,,,Analyze Purchase Requisition,Analyze Purchase Requisition,Francis_Odell,87873,532
+1685,95,12,1685,1684,1686,0,,,Create Request for Quotation,Create Request for Quotation,Esmana_Liubiata,1989,250
+1686,95,4,1686,1685,1687,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Francois_de_Perrier,97946,1128
+1687,95,End,1687,1686,None,0,,,End,End,End,0,0
+1690,96,Start,1690,None,1691,0,,,Start,Start,Start,0,0
+1691,96,10,1691,1690,1692,0,,,Create Purchase Requisition,Create Purchase Requisition,Penn_Osterwalder,0,1162
+1692,96,12,1692,1691,1693,0,,,Create Request for Quotation,Create Request for Quotation,Maris_Freeman,423,217
+1693,96,4,1693,1692,1694,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Magdalena_Predutta,1191097,1397
+1694,96,1,1694,1693,1695,0,,,Amend Request for Quotation,Amend Request for Quotation,Immanuel_Karagianni,3791,681
+1695,96,4,1695,1694,1696,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Karel_de_Groot,43518,1005
+1696,96,1,1696,1695,1697,0,,,Amend Request for Quotation,Amend Request for Quotation,Anne_Olwada,3310,505
+1697,96,4,1697,1696,1698,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Francois_de_Perrier,64719,1657
+1698,96,18,1698,1697,1699,0,,,Send Request for Quotation to Supplier,Send Request for Quotation to Supplier,Magdalena_Predutta,47624,970
+1699,96,11,1699,1698,1700,0,,,Create Quotation comparison Map,Create Quotation comparison Map,Karel_de_Groot,1048,6796
+1700,96,3,1700,1699,1701,0,,,Analyze Quotation Comparison Map,Analyze Quotation Comparison Map,Anna_Kaufmann,25439,1161
+1701,96,7,1701,1700,1702,0,,,Choose best option,Choose best option,Clement_Duchot,0,0
+1702,96,19,1702,1701,1703,0,,,Settle Conditions With Supplier,Settle Conditions With Supplier,Magdalena_Predutta,49801,40167
+1703,96,9,1703,1702,1704,0,,,Create Purchase Order,Create Purchase Order,Karel_de_Groot,5953,588
+1704,96,8,1704,1703,1705,0,,,Confirm Purchase Order,Confirm Purchase Order,Karen_Clarens,32488,909
+1705,96,13,1705,1704,1706,0,,,Deliver Goods Services,Deliver Goods Services,Karen_Clarens,134998,118324
+1706,96,15,1706,1705,1707,0,,,Release Purchase Order,Release Purchase Order,Clement_Duchot,25296,63
+1707,96,5,1707,1706,1708,0,,,Approve Purchase Order for payment,Approve Purchase Order for payment,Francois_de_Perrier,17540,58
+1708,96,17,1708,1707,1709,0,,,Send Invoice,Send Invoice,Carmen_Finacse,79708,0
+1709,96,16,1709,1708,1710,0,,,Release Supplier's Invoice,Release Supplier's Invoice,Pedro_Alvares,51824,325
+1710,96,6,1710,1709,1711,0,,,Authorize Supplier's Invoice payment,Authorize Supplier's Invoice payment,Karalda_Nimwada,580,0
+1711,96,14,1711,1710,1712,0,,,Pay Invoice,Pay Invoice,Karalda_Nimwada,1657,552
+1712,96,End,1712,1711,None,0,,,End,End,End,0,0
+1715,97,Start,1715,None,1716,0,,,Start,Start,Start,0,0
+1716,97,10,1716,1715,1717,0,,,Create Purchase Requisition,Create Purchase Requisition,Anna_Kaufmann,0,844
+1717,97,2,1717,1716,1718,0,,,Analyze Purchase Requisition,Analyze Purchase Requisition,Heinz_Gutschmidt,39624,237
+1718,97,12,1718,1717,1719,0,,,Create Request for Quotation,Create Request for Quotation,Heinz_Gutschmidt,379,123
+1719,97,4,1719,1718,1720,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Karel_de_Groot,5109651,1163
+1720,97,End,1720,1719,None,0,,,End,End,End,0,0
+1723,98,Start,1723,None,1724,0,,,Start,Start,Start,0,0
+1724,98,10,1724,1723,1725,0,,,Create Purchase Requisition,Create Purchase Requisition,Tesca_Lobes,0,1180
+1725,98,12,1725,1724,1726,0,,,Create Request for Quotation,Create Request for Quotation,Maris_Freeman,267,150
+1726,98,4,1726,1725,1727,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Karel_de_Groot,97822,652
+1727,98,End,1727,1726,None,0,,,End,End,End,0,0
+1730,99,Start,1730,None,1731,0,,,Start,Start,Start,0,0
+1731,99,10,1731,1730,1732,0,,,Create Purchase Requisition,Create Purchase Requisition,Tesca_Lobes,0,3039
+1732,99,2,1732,1731,1733,0,,,Analyze Purchase Requisition,Analyze Purchase Requisition,Francis_Odell,51689,341
+1733,99,End,1733,1732,None,0,,,End,End,End,0,0
+1736,100,Start,1736,None,1737,0,,,Start,Start,Start,0,0
+1737,100,10,1737,1736,1738,0,,,Create Purchase Requisition,Create Purchase Requisition,Alberto_Duport,0,1265
+1738,100,12,1738,1737,1739,0,,,Create Request for Quotation,Create Request for Quotation,Clement_Duchot,19220,786
+1739,100,4,1739,1738,1740,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Francois_de_Perrier,16031,1577
+1740,100,18,1740,1739,1741,0,,,Send Request for Quotation to Supplier,Send Request for Quotation to Supplier,Magdalena_Predutta,111848,1614
+1741,100,11,1741,1740,1742,0,,,Create Quotation comparison Map,Create Quotation comparison Map,Francois_de_Perrier,46436,4859
+1742,100,3,1742,1741,1743,0,,,Analyze Quotation Comparison Map,Analyze Quotation Comparison Map,Penn_Osterwalder,24934,1243
+1743,100,7,1743,1742,1744,0,,,Choose best option,Choose best option,Esmana_Liubiata,0,0
+1744,100,19,1744,1743,1745,0,,,Settle Conditions With Supplier,Settle Conditions With Supplier,Magdalena_Predutta,8584,28897
+1745,100,9,1745,1744,1746,0,,,Create Purchase Order,Create Purchase Order,Karel_de_Groot,36778,664
+1746,100,8,1746,1745,1747,0,,,Confirm Purchase Order,Confirm Purchase Order,Esmeralda_Clay,123128,1175
+1747,100,13,1747,1746,1748,0,,,Deliver Goods Services,Deliver Goods Services,Kiu_Kan,422479,66750
+1748,100,15,1748,1747,1749,0,,,Release Purchase Order,Release Purchase Order,Anne_Olwada,26687,60
+1749,100,5,1749,1748,1750,0,,,Approve Purchase Order for payment,Approve Purchase Order for payment,Karel_de_Groot,47212,59
+1750,100,17,1750,1749,1751,0,,,Send Invoice,Send Invoice,Karen_Clarens,43052,0
+1751,100,16,1751,1750,1752,0,,,Release Supplier's Invoice,Release Supplier's Invoice,Pedro_Alvares,54857,287
+1752,100,6,1752,1751,1753,0,,,Authorize Supplier's Invoice payment,Authorize Supplier's Invoice payment,Pedro_Alvares,1226,0
+1753,100,14,1753,1752,1754,0,,,Pay Invoice,Pay Invoice,Pedro_Alvares,2616,470
+1754,100,End,1754,1753,None,0,,,End,End,End,0,0
+1757,101,Start,1757,None,1758,0,,,Start,Start,Start,0,0
+1758,101,10,1758,1757,1759,0,,,Create Purchase Requisition,Create Purchase Requisition,Clement_Duchot,0,1478
+1759,101,12,1759,1758,1760,0,,,Create Request for Quotation,Create Request for Quotation,Clement_Duchot,21818,507
+1760,101,4,1760,1759,1761,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Francois_de_Perrier,500676,606
+1761,101,1,1761,1760,1762,0,,,Amend Request for Quotation,Amend Request for Quotation,Penn_Osterwalder,4265,694
+1762,101,4,1762,1761,1763,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Francois_de_Perrier,356286,1568
+1763,101,End,1763,1762,None,0,,,End,End,End,0,0
+1766,102,Start,1766,None,1767,0,,,Start,Start,Start,0,0
+1767,102,10,1767,1766,1768,0,,,Create Purchase Requisition,Create Purchase Requisition,Nico_Ojenbeer,0,1808
+1768,102,2,1768,1767,1769,0,,,Analyze Purchase Requisition,Analyze Purchase Requisition,Heinz_Gutschmidt,59073,216
+1769,102,12,1769,1768,1770,0,,,Create Request for Quotation,Create Request for Quotation,Immanuel_Karagianni,9184,781
+1770,102,4,1770,1769,1771,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Magdalena_Predutta,348193,879
+1771,102,18,1771,1770,1772,0,,,Send Request for Quotation to Supplier,Send Request for Quotation to Supplier,Magdalena_Predutta,17103,1071
+1772,102,11,1772,1771,1773,0,,,Create Quotation comparison Map,Create Quotation comparison Map,Magdalena_Predutta,312,7870
+1773,102,3,1773,1772,1774,0,,,Analyze Quotation Comparison Map,Analyze Quotation Comparison Map,Christian_Francois,26913,1472
+1774,102,7,1774,1773,1775,0,,,Choose best option,Choose best option,Esmana_Liubiata,0,0
+1775,102,19,1775,1774,1776,0,,,Settle Conditions With Supplier,Settle Conditions With Supplier,Magdalena_Predutta,11252,17667
+1776,102,9,1776,1775,1777,0,,,Create Purchase Order,Create Purchase Order,Karel_de_Groot,41564,669
+1777,102,8,1777,1776,1778,0,,,Confirm Purchase Order,Confirm Purchase Order,Sean_Manney,9264,954
+1778,102,13,1778,1777,1779,0,,,Deliver Goods Services,Deliver Goods Services,Karen_Clarens,32937,132214
+1779,102,15,1779,1778,1780,0,,,Release Purchase Order,Release Purchase Order,Nico_Ojenbeer,26203,64
+1780,102,20,1780,1779,1781,0,,,Settle Dispute With Supplier,Settle Dispute With Supplier,Karalda_Nimwada,1051,1455
+1781,102,15,1781,1780,1782,0,,,Release Purchase Order,Release Purchase Order,Esmana_Liubiata,27084,62
+1782,102,5,1782,1781,1783,0,,,Approve Purchase Order for payment,Approve Purchase Order for payment,Karel_de_Groot,22016,59
+1783,102,17,1783,1782,1784,0,,,Send Invoice,Send Invoice,Sean_Manney,157283,0
+1784,102,16,1784,1783,1785,0,,,Release Supplier's Invoice,Release Supplier's Invoice,Karalda_Nimwada,51871,209
+1785,102,6,1785,1784,1786,0,,,Authorize Supplier's Invoice payment,Authorize Supplier's Invoice payment,Pedro_Alvares,0,0
+1786,102,14,1786,1785,1787,0,,,Pay Invoice,Pay Invoice,Pedro_Alvares,1658,440
+1787,102,End,1787,1786,None,0,,,End,End,End,0,0
+1790,103,Start,1790,None,1791,0,,,Start,Start,Start,0,0
+1791,103,10,1791,1790,1792,0,,,Create Purchase Requisition,Create Purchase Requisition,Anna_Kaufmann,0,2068
+1792,103,2,1792,1791,1793,0,,,Analyze Purchase Requisition,Analyze Purchase Requisition,Maris_Freeman,41437,377
+1793,103,12,1793,1792,1794,0,,,Create Request for Quotation,Create Request for Quotation,Esmana_Liubiata,4366,560
+1794,103,4,1794,1793,1795,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Francois_de_Perrier,16762,169
+1795,103,End,1795,1794,None,0,,,End,End,End,0,0
+1798,104,Start,1798,None,1799,0,,,Start,Start,Start,0,0
+1799,104,10,1799,1798,1800,0,,,Create Purchase Requisition,Create Purchase Requisition,Immanuel_Karagianni,0,1404
+1800,104,2,1800,1799,1801,0,,,Analyze Purchase Requisition,Analyze Purchase Requisition,Maris_Freeman,53195,250
+1801,104,12,1801,1800,1802,0,,,Create Request for Quotation,Create Request for Quotation,Francis_Odell,426,164
+1802,104,4,1802,1801,1803,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Francois_de_Perrier,818955,1423
+1803,104,End,1803,1802,None,0,,,End,End,End,0,0
+1806,105,Start,1806,None,1807,0,,,Start,Start,Start,0,0
+1807,105,10,1807,1806,1808,0,,,Create Purchase Requisition,Create Purchase Requisition,Nico_Ojenbeer,0,3294
+1808,105,12,1808,1807,1809,0,,,Create Request for Quotation,Create Request for Quotation,Maris_Freeman,287,115
+1809,105,4,1809,1808,1810,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Karel_de_Groot,120545,1412
+1810,105,1,1810,1809,1811,0,,,Amend Request for Quotation,Amend Request for Quotation,Miu_Hanwan,2967,789
+1811,105,4,1811,1810,1812,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Magdalena_Predutta,638849,1972
+1812,105,1,1812,1811,1813,0,,,Amend Request for Quotation,Amend Request for Quotation,Clement_Duchot,3518,592
+1813,105,4,1813,1812,1814,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Karel_de_Groot,2278285,1903
+1814,105,1,1814,1813,1815,0,,,Amend Request for Quotation,Amend Request for Quotation,Immanuel_Karagianni,4226,933
+1815,105,4,1815,1814,1816,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Francois_de_Perrier,239967,983
+1816,105,End,1816,1815,None,0,,,End,End,End,0,0
+1819,106,Start,1819,None,1820,0,,,Start,Start,Start,0,0
+1820,106,10,1820,1819,1821,0,,,Create Purchase Requisition,Create Purchase Requisition,Miu_Hanwan,0,834
+1821,106,2,1821,1820,1822,0,,,Analyze Purchase Requisition,Analyze Purchase Requisition,Maris_Freeman,74727,362
+1822,106,12,1822,1821,1823,0,,,Create Request for Quotation,Create Request for Quotation,Maris_Freeman,214,167
+1823,106,4,1823,1822,1824,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Magdalena_Predutta,53143,402
+1824,106,18,1824,1823,1825,0,,,Send Request for Quotation to Supplier,Send Request for Quotation to Supplier,Francois_de_Perrier,47467,1671
+1825,106,11,1825,1824,1826,0,,,Create Quotation comparison Map,Create Quotation comparison Map,Magdalena_Predutta,783,4424
+1826,106,3,1826,1825,1827,0,,,Analyze Quotation Comparison Map,Analyze Quotation Comparison Map,Elvira_Lores,24951,1348
+1827,106,7,1827,1826,1828,0,,,Choose best option,Choose best option,Miu_Hanwan,0,0
+1828,106,19,1828,1827,1829,0,,,Settle Conditions With Supplier,Settle Conditions With Supplier,Karel_de_Groot,37710,30878
+1829,106,9,1829,1828,1830,0,,,Create Purchase Order,Create Purchase Order,Karel_de_Groot,2174,455
+1830,106,8,1830,1829,1831,0,,,Confirm Purchase Order,Confirm Purchase Order,Esmeralda_Clay,42947,1255
+1831,106,13,1831,1830,1832,0,,,Deliver Goods Services,Deliver Goods Services,Carmen_Finacse,111841,34662
+1832,106,15,1832,1831,1833,0,,,Release Purchase Order,Release Purchase Order,Anne_Olwada,28019,61
+1833,106,5,1833,1832,1834,0,,,Approve Purchase Order for payment,Approve Purchase Order for payment,Magdalena_Predutta,28026,58
+1834,106,17,1834,1833,1835,0,,,Send Invoice,Send Invoice,Carmen_Finacse,31068,0
+1835,106,16,1835,1834,1836,0,,,Release Supplier's Invoice,Release Supplier's Invoice,Karalda_Nimwada,56033,165
+1836,106,20,1836,1835,1837,0,,,Settle Dispute With Supplier,Settle Dispute With Supplier,Pedro_Alvares,315,512
+1837,106,6,1837,1836,1838,0,,,Authorize Supplier's Invoice payment,Authorize Supplier's Invoice payment,Pedro_Alvares,0,0
+1838,106,14,1838,1837,1839,0,,,Pay Invoice,Pay Invoice,Karalda_Nimwada,1779,838
+1839,106,End,1839,1838,None,0,,,End,End,End,0,0
+1842,107,Start,1842,None,1843,0,,,Start,Start,Start,0,0
+1843,107,10,1843,1842,1844,0,,,Create Purchase Requisition,Create Purchase Requisition,Nico_Ojenbeer,0,2098
+1844,107,2,1844,1843,1845,0,,,Analyze Purchase Requisition,Analyze Purchase Requisition,Maris_Freeman,47528,295
+1845,107,12,1845,1844,1846,0,,,Create Request for Quotation,Create Request for Quotation,Anne_Olwada,6574,737
+1846,107,4,1846,1845,1847,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Magdalena_Predutta,6143,596
+1847,107,18,1847,1846,1848,0,,,Send Request for Quotation to Supplier,Send Request for Quotation to Supplier,Magdalena_Predutta,83583,1845
+1848,107,11,1848,1847,1849,0,,,Create Quotation comparison Map,Create Quotation comparison Map,Magdalena_Predutta,7626,4777
+1849,107,3,1849,1848,1850,0,,,Analyze Quotation Comparison Map,Analyze Quotation Comparison Map,Clement_Duchot,24904,1638
+1850,107,7,1850,1849,1851,0,,,Choose best option,Choose best option,Immanuel_Karagianni,0,0
+1851,107,19,1851,1850,1852,0,,,Settle Conditions With Supplier,Settle Conditions With Supplier,Karel_de_Groot,28772,28882
+1852,107,9,1852,1851,1853,0,,,Create Purchase Order,Create Purchase Order,Magdalena_Predutta,7926,819
+1853,107,8,1853,1852,1854,0,,,Confirm Purchase Order,Confirm Purchase Order,Kiu_Kan,67126,905
+1854,107,13,1854,1853,1855,0,,,Deliver Goods Services,Deliver Goods Services,Kiu_Kan,148204,9247
+1855,107,15,1855,1854,1856,0,,,Release Purchase Order,Release Purchase Order,Tesca_Lobes,27572,61
+1856,107,5,1856,1855,1857,0,,,Approve Purchase Order for payment,Approve Purchase Order for payment,Francois_de_Perrier,28809,58
+1857,107,17,1857,1856,1858,0,,,Send Invoice,Send Invoice,Karen_Clarens,102116,0
+1858,107,16,1858,1857,1859,0,,,Release Supplier's Invoice,Release Supplier's Invoice,Pedro_Alvares,52078,396
+1859,107,6,1859,1858,1860,0,,,Authorize Supplier's Invoice payment,Authorize Supplier's Invoice payment,Pedro_Alvares,0,0
+1860,107,14,1860,1859,1861,0,,,Pay Invoice,Pay Invoice,Pedro_Alvares,5270,491
+1861,107,End,1861,1860,None,0,,,End,End,End,0,0
+1864,108,Start,1864,None,1865,0,,,Start,Start,Start,0,0
+1865,108,10,1865,1864,1866,0,,,Create Purchase Requisition,Create Purchase Requisition,Fjodor_Kowalski,0,1227
+1866,108,12,1866,1865,1867,0,,,Create Request for Quotation,Create Request for Quotation,Kim_Passa,18219,829
+1867,108,4,1867,1866,1868,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Francois_de_Perrier,209681,901
+1868,108,1,1868,1867,1869,0,,,Amend Request for Quotation,Amend Request for Quotation,Nico_Ojenbeer,3842,690
+1869,108,4,1869,1868,1870,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Francois_de_Perrier,1124600,1121
+1870,108,1,1870,1869,1871,0,,,Amend Request for Quotation,Amend Request for Quotation,Fjodor_Kowalski,3424,407
+1871,108,4,1871,1870,1872,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Francois_de_Perrier,1426109,1330
+1872,108,1,1872,1871,1873,0,,,Amend Request for Quotation,Amend Request for Quotation,Clement_Duchot,3320,608
+1873,108,4,1873,1872,1874,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Magdalena_Predutta,202713,755
+1874,108,18,1874,1873,1875,0,,,Send Request for Quotation to Supplier,Send Request for Quotation to Supplier,Magdalena_Predutta,44855,1377
+1875,108,11,1875,1874,1876,0,,,Create Quotation comparison Map,Create Quotation comparison Map,Magdalena_Predutta,35723,9126
+1876,108,3,1876,1875,1877,0,,,Analyze Quotation Comparison Map,Analyze Quotation Comparison Map,Christian_Francois,23712,609
+1877,108,7,1877,1876,1878,0,,,Choose best option,Choose best option,Fjodor_Kowalski,0,0
+1878,108,19,1878,1877,1879,0,,,Settle Conditions With Supplier,Settle Conditions With Supplier,Magdalena_Predutta,26997,21561
+1879,108,9,1879,1878,1880,0,,,Create Purchase Order,Create Purchase Order,Francois_de_Perrier,19159,425
+1880,108,8,1880,1879,1881,0,,,Confirm Purchase Order,Confirm Purchase Order,Kiu_Kan,55438,1374
+1881,108,13,1881,1880,1882,0,,,Deliver Goods Services,Deliver Goods Services,Sean_Manney,121136,44807
+1882,108,15,1882,1881,1883,0,,,Release Purchase Order,Release Purchase Order,Anne_Olwada,28229,67
+1883,108,5,1883,1882,1884,0,,,Approve Purchase Order for payment,Approve Purchase Order for payment,Magdalena_Predutta,39059,52
+1884,108,17,1884,1883,1885,0,,,Send Invoice,Send Invoice,Sean_Manney,121673,0
+1885,108,16,1885,1884,1886,0,,,Release Supplier's Invoice,Release Supplier's Invoice,Karalda_Nimwada,58623,172
+1886,108,6,1886,1885,1887,0,,,Authorize Supplier's Invoice payment,Authorize Supplier's Invoice payment,Pedro_Alvares,0,0
+1887,108,14,1887,1886,1888,0,,,Pay Invoice,Pay Invoice,Pedro_Alvares,3757,584
+1888,108,End,1888,1887,None,0,,,End,End,End,0,0
+1891,109,Start,1891,None,1892,0,,,Start,Start,Start,0,0
+1892,109,10,1892,1891,1893,0,,,Create Purchase Requisition,Create Purchase Requisition,Nico_Ojenbeer,0,2226
+1893,109,2,1893,1892,1894,0,,,Analyze Purchase Requisition,Analyze Purchase Requisition,Maris_Freeman,66969,259
+1894,109,12,1894,1893,1895,0,,,Create Request for Quotation,Create Request for Quotation,Elvira_Lores,3056,424
+1895,109,4,1895,1894,1896,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Magdalena_Predutta,37931,1256
+1896,109,1,1896,1895,1897,0,,,Amend Request for Quotation,Amend Request for Quotation,Penn_Osterwalder,4143,400
+1897,109,4,1897,1896,1898,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Magdalena_Predutta,12587,1789
+1898,109,End,1898,1897,None,0,,,End,End,End,0,0
+1901,110,Start,1901,None,1902,0,,,Start,Start,Start,0,0
+1902,110,10,1902,1901,1903,0,,,Create Purchase Requisition,Create Purchase Requisition,Immanuel_Karagianni,0,1767
+1903,110,2,1903,1902,1904,0,,,Analyze Purchase Requisition,Analyze Purchase Requisition,Francis_Odell,58098,423
+1904,110,12,1904,1903,1905,0,,,Create Request for Quotation,Create Request for Quotation,Tesca_Lobes,2797,620
+1905,110,4,1905,1904,1906,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Karel_de_Groot,232807,1250
+1906,110,18,1906,1905,1907,0,,,Send Request for Quotation to Supplier,Send Request for Quotation to Supplier,Francois_de_Perrier,140314,1562
+1907,110,11,1907,1906,1908,0,,,Create Quotation comparison Map,Create Quotation comparison Map,Magdalena_Predutta,22732,4701
+1908,110,3,1908,1907,1909,0,,,Analyze Quotation Comparison Map,Analyze Quotation Comparison Map,Anna_Kaufmann,22687,1752
+1909,110,7,1909,1908,1910,0,,,Choose best option,Choose best option,Miu_Hanwan,0,0
+1910,110,19,1910,1909,1911,0,,,Settle Conditions With Supplier,Settle Conditions With Supplier,Francois_de_Perrier,10324,24916
+1911,110,9,1911,1910,1912,0,,,Create Purchase Order,Create Purchase Order,Francois_de_Perrier,9606,558
+1912,110,8,1912,1911,1913,0,,,Confirm Purchase Order,Confirm Purchase Order,Sean_Manney,51271,932
+1913,110,13,1913,1912,1914,0,,,Deliver Goods Services,Deliver Goods Services,Kiu_Kan,118601,21685
+1914,110,15,1914,1913,1915,0,,,Release Purchase Order,Release Purchase Order,Tesca_Lobes,26046,61
+1915,110,5,1915,1914,1916,0,,,Approve Purchase Order for payment,Approve Purchase Order for payment,Francois_de_Perrier,109684,60
+1916,110,17,1916,1915,1917,0,,,Send Invoice,Send Invoice,Carmen_Finacse,144566,0
+1917,110,16,1917,1916,1918,0,,,Release Supplier's Invoice,Release Supplier's Invoice,Karalda_Nimwada,45633,143
+1918,110,6,1918,1917,1919,0,,,Authorize Supplier's Invoice payment,Authorize Supplier's Invoice payment,Karalda_Nimwada,0,0
+1919,110,14,1919,1918,1920,0,,,Pay Invoice,Pay Invoice,Pedro_Alvares,3100,573
+1920,110,End,1920,1919,None,0,,,End,End,End,0,0
+1923,111,Start,1923,None,1924,0,,,Start,Start,Start,0,0
+1924,111,10,1924,1923,1925,0,,,Create Purchase Requisition,Create Purchase Requisition,Fjodor_Kowalski,0,2522
+1925,111,2,1925,1924,1926,0,,,Analyze Purchase Requisition,Analyze Purchase Requisition,Maris_Freeman,52512,540
+1926,111,12,1926,1925,1927,0,,,Create Request for Quotation,Create Request for Quotation,Maris_Freeman,258,112
+1927,111,4,1927,1926,1928,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Francois_de_Perrier,136010,493
+1928,111,18,1928,1927,1929,0,,,Send Request for Quotation to Supplier,Send Request for Quotation to Supplier,Magdalena_Predutta,31783,1507
+1929,111,11,1929,1928,1930,0,,,Create Quotation comparison Map,Create Quotation comparison Map,Karel_de_Groot,2721,12702
+1930,111,3,1930,1929,1931,0,,,Analyze Quotation Comparison Map,Analyze Quotation Comparison Map,Nico_Ojenbeer,28556,1063
+1931,111,7,1931,1930,1932,0,,,Choose best option,Choose best option,Fjodor_Kowalski,0,0
+1932,111,19,1932,1931,1933,0,,,Settle Conditions With Supplier,Settle Conditions With Supplier,Karel_de_Groot,92462,10790
+1933,111,9,1933,1932,1934,0,,,Create Purchase Order,Create Purchase Order,Magdalena_Predutta,5896,728
+1934,111,8,1934,1933,1935,0,,,Confirm Purchase Order,Confirm Purchase Order,Sean_Manney,64451,814
+1935,111,13,1935,1934,1936,0,,,Deliver Goods Services,Deliver Goods Services,Sean_Manney,140751,92690
+1936,111,15,1936,1935,1937,0,,,Release Purchase Order,Release Purchase Order,Esmana_Liubiata,26281,61
+1937,111,5,1937,1936,1938,0,,,Approve Purchase Order for payment,Approve Purchase Order for payment,Francois_de_Perrier,72266,58
+1938,111,17,1938,1937,1939,0,,,Send Invoice,Send Invoice,Sean_Manney,214319,0
+1939,111,16,1939,1938,1940,0,,,Release Supplier's Invoice,Release Supplier's Invoice,Pedro_Alvares,55388,274
+1940,111,6,1940,1939,1941,0,,,Authorize Supplier's Invoice payment,Authorize Supplier's Invoice payment,Karalda_Nimwada,0,0
+1941,111,14,1941,1940,1942,0,,,Pay Invoice,Pay Invoice,Pedro_Alvares,1218,709
+1942,111,End,1942,1941,None,0,,,End,End,End,0,0
+1945,112,Start,1945,None,1946,0,,,Start,Start,Start,0,0
+1946,112,10,1946,1945,1947,0,,,Create Purchase Requisition,Create Purchase Requisition,Miu_Hanwan,0,2602
+1947,112,2,1947,1946,1948,0,,,Analyze Purchase Requisition,Analyze Purchase Requisition,Heinz_Gutschmidt,53406,361
+1948,112,12,1948,1947,1949,0,,,Create Request for Quotation,Create Request for Quotation,Maris_Freeman,313,103
+1949,112,4,1949,1948,1950,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Francois_de_Perrier,124069,1620
+1950,112,End,1950,1949,None,0,,,End,End,End,0,0
+1953,113,Start,1953,None,1954,0,,,Start,Start,Start,0,0
+1954,113,10,1954,1953,1955,0,,,Create Purchase Requisition,Create Purchase Requisition,Fjodor_Kowalski,0,916
+1955,113,12,1955,1954,1956,0,,,Create Request for Quotation,Create Request for Quotation,Anne_Olwada,3381,451
+1956,113,4,1956,1955,1957,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Magdalena_Predutta,293536,977
+1957,113,18,1957,1956,1958,0,,,Send Request for Quotation to Supplier,Send Request for Quotation to Supplier,Francois_de_Perrier,54401,736
+1958,113,11,1958,1957,1959,0,,,Create Quotation comparison Map,Create Quotation comparison Map,Karel_de_Groot,11837,8294
+1959,113,3,1959,1958,1960,0,,,Analyze Quotation Comparison Map,Analyze Quotation Comparison Map,Tesca_Lobes,25166,485
+1960,113,7,1960,1959,1961,0,,,Choose best option,Choose best option,Tesca_Lobes,0,0
+1961,113,19,1961,1960,1962,0,,,Settle Conditions With Supplier,Settle Conditions With Supplier,Francois_de_Perrier,39128,31672
+1962,113,9,1962,1961,1963,0,,,Create Purchase Order,Create Purchase Order,Francois_de_Perrier,20445,810
+1963,113,8,1963,1962,1964,0,,,Confirm Purchase Order,Confirm Purchase Order,Kiu_Kan,86229,924
+1964,113,13,1964,1963,1965,0,,,Deliver Goods Services,Deliver Goods Services,Karen_Clarens,137176,147759
+1965,113,15,1965,1964,1966,0,,,Release Purchase Order,Release Purchase Order,Alberto_Duport,26303,60
+1966,113,20,1966,1965,1967,0,,,Settle Dispute With Supplier,Settle Dispute With Supplier,Pedro_Alvares,1405,2196
+1967,113,15,1967,1966,1968,0,,,Release Purchase Order,Release Purchase Order,Immanuel_Karagianni,24813,64
+1968,113,5,1968,1967,1969,0,,,Approve Purchase Order for payment,Approve Purchase Order for payment,Karel_de_Groot,30052,60
+1969,113,17,1969,1968,1970,0,,,Send Invoice,Send Invoice,Kiu_Kan,241123,0
+1970,113,16,1970,1969,1971,0,,,Release Supplier's Invoice,Release Supplier's Invoice,Karalda_Nimwada,56205,285
+1971,113,6,1971,1970,1972,0,,,Authorize Supplier's Invoice payment,Authorize Supplier's Invoice payment,Pedro_Alvares,0,0
+1972,113,14,1972,1971,1973,0,,,Pay Invoice,Pay Invoice,Karalda_Nimwada,1801,679
+1973,113,End,1973,1972,None,0,,,End,End,End,0,0
+1976,114,Start,1976,None,1977,0,,,Start,Start,Start,0,0
+1977,114,10,1977,1976,1978,0,,,Create Purchase Requisition,Create Purchase Requisition,Elvira_Lores,0,880
+1978,114,2,1978,1977,1979,0,,,Analyze Purchase Requisition,Analyze Purchase Requisition,Maris_Freeman,78819,318
+1979,114,12,1979,1978,1980,0,,,Create Request for Quotation,Create Request for Quotation,Maris_Freeman,311,183
+1980,114,4,1980,1979,1981,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Francois_de_Perrier,230636,1272
+1981,114,End,1981,1980,None,0,,,End,End,End,0,0
+1984,115,Start,1984,None,1985,0,,,Start,Start,Start,0,0
+1985,115,10,1985,1984,1986,0,,,Create Purchase Requisition,Create Purchase Requisition,Esmana_Liubiata,0,3116
+1986,115,2,1986,1985,1987,0,,,Analyze Purchase Requisition,Analyze Purchase Requisition,Francis_Odell,42874,391
+1987,115,12,1987,1986,1988,0,,,Create Request for Quotation,Create Request for Quotation,Esmana_Liubiata,2689,295
+1988,115,4,1988,1987,1989,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Francois_de_Perrier,407764,1262
+1989,115,18,1989,1988,1990,0,,,Send Request for Quotation to Supplier,Send Request for Quotation to Supplier,Karel_de_Groot,23572,1263
+1990,115,11,1990,1989,1991,0,,,Create Quotation comparison Map,Create Quotation comparison Map,Karel_de_Groot,5024,10207
+1991,115,3,1991,1990,1992,0,,,Analyze Quotation Comparison Map,Analyze Quotation Comparison Map,Anne_Olwada,26153,975
+1992,115,7,1992,1991,1993,0,,,Choose best option,Choose best option,Alberto_Duport,0,0
+1993,115,19,1993,1992,1994,0,,,Settle Conditions With Supplier,Settle Conditions With Supplier,Karel_de_Groot,47759,32973
+1994,115,9,1994,1993,1995,0,,,Create Purchase Order,Create Purchase Order,Karel_de_Groot,5008,673
+1995,115,8,1995,1994,1996,0,,,Confirm Purchase Order,Confirm Purchase Order,Sean_Manney,1009822,1830
+1996,115,13,1996,1995,1997,0,,,Deliver Goods Services,Deliver Goods Services,Karen_Clarens,708329,17268
+1997,115,15,1997,1996,1998,0,,,Release Purchase Order,Release Purchase Order,Immanuel_Karagianni,26458,64
+1998,115,5,1998,1997,1999,0,,,Approve Purchase Order for payment,Approve Purchase Order for payment,Francois_de_Perrier,61816,55
+1999,115,17,1999,1998,2000,0,,,Send Invoice,Send Invoice,Kiu_Kan,51213,0
+2000,115,16,2000,1999,2001,0,,,Release Supplier's Invoice,Release Supplier's Invoice,Pedro_Alvares,57208,295
+2001,115,6,2001,2000,2002,0,,,Authorize Supplier's Invoice payment,Authorize Supplier's Invoice payment,Pedro_Alvares,0,0
+2002,115,14,2002,2001,2003,0,,,Pay Invoice,Pay Invoice,Karalda_Nimwada,853,833
+2003,115,End,2003,2002,None,0,,,End,End,End,0,0
+2006,116,Start,2006,None,2007,0,,,Start,Start,Start,0,0
+2007,116,10,2007,2006,2008,0,,,Create Purchase Requisition,Create Purchase Requisition,Alberto_Duport,0,660
+2008,116,2,2008,2007,2009,0,,,Analyze Purchase Requisition,Analyze Purchase Requisition,Maris_Freeman,51790,283
+2009,116,12,2009,2008,2010,0,,,Create Request for Quotation,Create Request for Quotation,Penn_Osterwalder,1252,421
+2010,116,4,2010,2009,2011,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Francois_de_Perrier,24513,714
+2011,116,18,2011,2010,2012,0,,,Send Request for Quotation to Supplier,Send Request for Quotation to Supplier,Magdalena_Predutta,48011,900
+2012,116,11,2012,2011,2013,0,,,Create Quotation comparison Map,Create Quotation comparison Map,Francois_de_Perrier,1334,14626
+2013,116,3,2013,2012,2014,0,,,Analyze Quotation Comparison Map,Analyze Quotation Comparison Map,Tesca_Lobes,29574,1420
+2014,116,7,2014,2013,2015,0,,,Choose best option,Choose best option,Anne_Olwada,0,0
+2015,116,19,2015,2014,2016,0,,,Settle Conditions With Supplier,Settle Conditions With Supplier,Magdalena_Predutta,9695,15935
+2016,116,9,2016,2015,2017,0,,,Create Purchase Order,Create Purchase Order,Magdalena_Predutta,25590,538
+2017,116,8,2017,2016,2018,0,,,Confirm Purchase Order,Confirm Purchase Order,Sean_Manney,134906,179
+2018,116,13,2018,2017,2019,0,,,Deliver Goods Services,Deliver Goods Services,Kiu_Kan,70025,66232
+2019,116,15,2019,2018,2020,0,,,Release Purchase Order,Release Purchase Order,Tesca_Lobes,27466,59
+2020,116,5,2020,2019,2021,0,,,Approve Purchase Order for payment,Approve Purchase Order for payment,Francois_de_Perrier,80222,57
+2021,116,17,2021,2020,2022,0,,,Send Invoice,Send Invoice,Esmeralda_Clay,66341,0
+2022,116,16,2022,2021,2023,0,,,Release Supplier's Invoice,Release Supplier's Invoice,Karalda_Nimwada,53836,350
+2023,116,6,2023,2022,2024,0,,,Authorize Supplier's Invoice payment,Authorize Supplier's Invoice payment,Pedro_Alvares,0,0
+2024,116,14,2024,2023,2025,0,,,Pay Invoice,Pay Invoice,Karalda_Nimwada,1239,425
+2025,116,End,2025,2024,None,0,,,End,End,End,0,0
+2028,117,Start,2028,None,2029,0,,,Start,Start,Start,0,0
+2029,117,10,2029,2028,2030,0,,,Create Purchase Requisition,Create Purchase Requisition,Anna_Kaufmann,0,2318
+2030,117,12,2030,2029,2031,0,,,Create Request for Quotation,Create Request for Quotation,Fjodor_Kowalski,26139,604
+2031,117,4,2031,2030,2032,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Karel_de_Groot,117041,1496
+2032,117,1,2032,2031,2033,0,,,Amend Request for Quotation,Amend Request for Quotation,Alberto_Duport,3463,390
+2033,117,4,2033,2032,2034,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Magdalena_Predutta,386796,1497
+2034,117,End,2034,2033,None,0,,,End,End,End,0,0
+2037,118,Start,2037,None,2038,0,,,Start,Start,Start,0,0
+2038,118,10,2038,2037,2039,0,,,Create Purchase Requisition,Create Purchase Requisition,Anna_Kaufmann,0,1529
+2039,118,2,2039,2038,2040,0,,,Analyze Purchase Requisition,Analyze Purchase Requisition,Heinz_Gutschmidt,66432,334
+2040,118,12,2040,2039,2041,0,,,Create Request for Quotation,Create Request for Quotation,Maris_Freeman,278,154
+2041,118,4,2041,2040,2042,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Karel_de_Groot,35782,1681
+2042,118,1,2042,2041,2043,0,,,Amend Request for Quotation,Amend Request for Quotation,Anne_Olwada,1338,824
+2043,118,4,2043,2042,2044,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Karel_de_Groot,49016,1725
+2044,118,1,2044,2043,2045,0,,,Amend Request for Quotation,Amend Request for Quotation,Kim_Passa,3562,561
+2045,118,4,2045,2044,2046,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Magdalena_Predutta,214799,1143
+2046,118,End,2046,2045,None,0,,,End,End,End,0,0
+2049,119,Start,2049,None,2050,0,,,Start,Start,Start,0,0
+2050,119,10,2050,2049,2051,0,,,Create Purchase Requisition,Create Purchase Requisition,Alberto_Duport,0,1493
+2051,119,12,2051,2050,2052,0,,,Create Request for Quotation,Create Request for Quotation,Christian_Francois,10101,680
+2052,119,4,2052,2051,2053,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Magdalena_Predutta,20405,1314
+2053,119,End,2053,2052,None,0,,,End,End,End,0,0
+2056,120,Start,2056,None,2057,0,,,Start,Start,Start,0,0
+2057,120,10,2057,2056,2058,0,,,Create Purchase Requisition,Create Purchase Requisition,Immanuel_Karagianni,0,1414
+2058,120,2,2058,2057,2059,0,,,Analyze Purchase Requisition,Analyze Purchase Requisition,Francis_Odell,68209,494
+2059,120,12,2059,2058,2060,0,,,Create Request for Quotation,Create Request for Quotation,Francis_Odell,292,177
+2060,120,4,2060,2059,2061,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Karel_de_Groot,120359,481
+2061,120,1,2061,2060,2062,0,,,Amend Request for Quotation,Amend Request for Quotation,Tesca_Lobes,3744,709
+2062,120,4,2062,2061,2063,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Magdalena_Predutta,1295590,1119
+2063,120,End,2063,2062,None,0,,,End,End,End,0,0
+2066,121,Start,2066,None,2067,0,,,Start,Start,Start,0,0
+2067,121,10,2067,2066,2068,0,,,Create Purchase Requisition,Create Purchase Requisition,Fjodor_Kowalski,0,1192
+2068,121,2,2068,2067,2069,0,,,Analyze Purchase Requisition,Analyze Purchase Requisition,Maris_Freeman,50232,494
+2069,121,End,2069,2068,None,0,,,End,End,End,0,0
+2072,122,Start,2072,None,2073,0,,,Start,Start,Start,0,0
+2073,122,10,2073,2072,2074,0,,,Create Purchase Requisition,Create Purchase Requisition,Elvira_Lores,0,2160
+2074,122,2,2074,2073,2075,0,,,Analyze Purchase Requisition,Analyze Purchase Requisition,Heinz_Gutschmidt,61780,360
+2075,122,12,2075,2074,2076,0,,,Create Request for Quotation,Create Request for Quotation,Maris_Freeman,296,107
+2076,122,4,2076,2075,2077,0,,,Analyze Request for Quotation,Analyze Request for Quotation,Magdalena_Predutta,354606,1686
+2077,122,18,2077,2076,2078,0,,,Send Request for Quotation to Supplier,Send Request for Quotation to Supplier,Magdalena_Predutta,33151,578
+2078,122,11,2078,2077,2079,0,,,Create Quotation comparison Map,Create Quotation comparison Map,Magdalena_Predutta,1775,6596
+2079,122,3,2079,2078,2080,0,,,Analyze Quotation Comparison Map,Analyze Quotation Comparison Map,Miu_Hanwan,23509,1587
+2080,122,7,2080,2079,2081,0,,,Choose best option,Choose best option,Anne_Olwada,0,0
+2081,122,19,2081,2080,2082,0,,,Settle Conditions With Supplier,Settle Conditions With Supplier,Karel_de_Groot,10472,32324
+2082,122,9,2082,2081,2083,0,,,Create Purchase Order,Create Purchase Order,Magdalena_Predutta,9052,442
+2083,122,8,2083,2082,2084,0,,,Confirm Purchase Order,Confirm Purchase Order,Esmeralda_Clay,16001,1008
+2084,122,13,2084,2083,2085,0,,,Deliver Goods Services,Deliver Goods Services,Karen_Clarens,414827,164790
+2085,122,15,2085,2084,2086,0,,,Release Purchase Order,Release Purchase Order,Alberto_Duport,26643,64
+2086,122,5,2086,2085,2087,0,,,Approve Purchase Order for payment,Approve Purchase Order for payment,Francois_de_Perrier,43745,57
+2087,122,17,2087,2086,2088,0,,,Send Invoice,Send Invoice,Esmeralda_Clay,33483,0
+2088,122,16,2088,2087,2089,0,,,Release Supplier's Invoice,Release Supplier's Invoice,Karalda_Nimwada,52522,179
+2089,122,6,2089,2088,2090,0,,,Authorize Supplier's Invoice payment,Authorize Supplier's Invoice payment,Pedro_Alvares,0,0
+2090,122,14,2090,2089,2091,0,,,Pay Invoice,Pay Invoice,Karalda_Nimwada,3015,414
+2091,122,End,2091,2090,None,0,,,End,End,End,0,0

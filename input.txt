@@ -1,0 +1,5 @@
+python scripts/log_gen_seq.py --if-csv False --import-file "C:\Users\19wuj\Desktop\test_0621\Production_0.5\train_Production.xes" --import-test-file "C:\Users\19wuj\Desktop\test_0621\Production_0.5\test_Production.xes" --id-column caseid --act-column "concept:name" --time-column "time:timestamp" --resource-column user --state-column "lifecycle:transition" --method prefix
+
+python scripts/log_gen_time.py --import-file "C:\Users\19wuj\Desktop\test_0621\Production_0.5\train_Production.xes" --simulator-output "C:\Users\19wuj\Desktop\test_0621\Production_0.5\gen_Production_1.csv" --embedding-matrix "C:\Users\19wuj\Desktop\test_0621\Production_0.5\embedded_matix\ac_DP_Production.emb" --id-column caseid --act-column "concept:name" --time-column "time:timestamp" --resource-column user --state-column "lifecycle:transition"
+
+python scripts/log_gen_res.py --import-file "C:\Users\19wuj\Desktop\test_0621\Production_0.5\train_Production.xes" --id-column caseid --act-column "concept:name" --time-column "time:timestamp" --resource-column user --state-column "lifecycle:transition"
