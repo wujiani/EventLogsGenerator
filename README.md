@@ -55,6 +55,7 @@ and puts into an output folder (`output_files/Production_{%Y%m%d}`) all intermed
 `
 C:\DeepSimulator> python .\pipeline.py --file Production.xes --update_times_gen --t_gen_epochs 20 --t_gen_max_eval 3
 `
+
 ---
 ## Running probabilistic algorithm:
 
@@ -115,7 +116,7 @@ execution example:
 ---
 # Diffusion model outputs evaluation
 
-In my thesis I showed a novel diffusion probabilistic model able to generate event logs, the implementation code is in this repo https://github.com/wujiani/CoDi.git,
+In my thesis I showed a novel diffusion probabilistic model able to generate event logs, the implementation code is in this repo https://github.com/wujiani/DiffusionEventLogsGenerator.git,
 here I created `scripts/diffusion_evaluate.py` in which I exploit the trained prophet model to generate start timestamp, then a data transformation is done to have a standard event log csv format. Finally, the same evaluation function of deep simulator above is performed to calculate evaluation metrics.
 
 Example execution:
